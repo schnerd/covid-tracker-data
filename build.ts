@@ -138,12 +138,12 @@ async function buildStateFiles() {
 
   // Remove existing files
   try {
-    fs.unlinkSync(path.resolve(__dirname, './data/nyt/state/90d.csv'));
+    fs.unlinkSync(path.resolve(__dirname, './data/state/90d.csv'));
   } catch (err) {
     // Ignore missing file
   }
   try {
-    fs.unlinkSync(path.resolve(__dirname, './data/nyt/state/all.csv'));
+    fs.unlinkSync(path.resolve(__dirname, './data/state/all.csv'));
   } catch (err) {
     // Ignore missing file
   }
@@ -175,21 +175,21 @@ async function buildStateFiles() {
   ];
 
   // Write "all" file
-  await writeCsvFile(nytData, columns, './data/nyt/state/all.csv');
+  await writeCsvFile(nytData, columns, './data/state/all.csv');
 
   // Write "90d" file
   const rows90days = nytData.filter((row: any) => {
     return createDate(row.date as string).getTime() >= (date90DaysAgo as Date).getTime();
   });
-  await writeCsvFile(rows90days, columns, './data/nyt/state/90d.csv');
+  await writeCsvFile(rows90days, columns, './data/state/90d.csv');
 }
 
 async function buildCountyFiles() {
   const groupedByStateFips = await parseNytCounties();
 
   // Clear output directories
-  await clearDir(path.resolve(__dirname, './data/nyt/county/90d'));
-  await clearDir(path.resolve(__dirname, './data/nyt/county/all'));
+  await clearDir(path.resolve(__dirname, './data/county/90d'));
+  await clearDir(path.resolve(__dirname, './data/county/all'));
 
   const columns = ['date', 'county', 'state', 'fips', 'cases', 'newCases', 'deaths', 'newDeaths'];
 
@@ -200,13 +200,13 @@ async function buildCountyFiles() {
     processData(rows, row => `${row.state}^${row.county}`);
 
     // Write "all" file
-    await writeCsvFile(rows, columns, `./data/nyt/county/all/${safeFips}.csv`);
+    await writeCsvFile(rows, columns, `./data/county/all/${safeFips}.csv`);
 
     // Write "90d" file
     const rows90days = rows.filter(row => {
       return createDate(row.date as string).getTime() >= (date90DaysAgo as Date).getTime();
     });
-    await writeCsvFile(rows90days, columns, `./data/nyt/county/90d/${safeFips}.csv`);
+    await writeCsvFile(rows90days, columns, `./data/county/90d/${safeFips}.csv`);
   }
 }
 
