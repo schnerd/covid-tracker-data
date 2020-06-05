@@ -6,7 +6,7 @@ import fs from 'fs';
 import path from 'path';
 import moment from 'moment';
 
-const startTime = _.now();
+const startTime = moment();
 
 let latestDate: Date | null = null;
 let date90DaysAgo: Date | null = null;
@@ -298,8 +298,14 @@ function createDate(d: string): Date {
 }
 
 async function run() {
-  await buildStateFiles();
-  await buildCountyFiles();
+  try {
+    await buildStateFiles();
+    await buildCountyFiles();
+    console.log(`Finished in ${moment().diff(startTime, 'seconds', true)}s`);
+  } catch (error) {
+    console.error(error);
+    process.exit(1);
+  }
 }
 
 run();
