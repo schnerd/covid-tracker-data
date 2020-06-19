@@ -1,29 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-03-12,Alameda,California,06001,29,4,0,0
-2020-03-12,Contra Costa,California,06013,9,0,0,0
-2020-03-12,Fresno,California,06019,1,0,0,0
-2020-03-12,Humboldt,California,06023,1,0,0,0
-2020-03-12,Los Angeles,California,06037,32,4,1,0
-2020-03-12,Madera,California,06039,1,0,0,0
-2020-03-12,Marin,California,06041,4,0,0,0
-2020-03-12,Napa,California,06055,1,0,0,0
-2020-03-12,Orange,California,06059,6,0,0,0
-2020-03-12,Placer,California,06061,7,0,1,0
-2020-03-12,Riverside,California,06065,6,2,0,0
-2020-03-12,Sacramento,California,06067,16,7,1,0
-2020-03-12,San Diego,California,06073,5,3,0,0
-2020-03-12,San Francisco,California,06075,21,4,0,0
-2020-03-12,San Joaquin,California,06077,3,2,0,0
-2020-03-12,San Mateo,California,06081,20,5,0,0
-2020-03-12,Santa Clara,California,06085,66,18,1,0
-2020-03-12,Santa Cruz,California,06087,2,0,0,0
-2020-03-12,Shasta,California,06089,1,0,0,0
-2020-03-12,Solano,California,06095,12,0,0,0
-2020-03-12,Sonoma,California,06097,3,0,0,0
-2020-03-12,Stanislaus,California,06099,2,0,0,0
-2020-03-12,Tulare,California,06107,1,1,0,0
-2020-03-12,Ventura,California,06111,2,0,0,0
-2020-03-12,Yolo,California,06113,1,0,0,0
 2020-03-13,Alameda,California,06001,29,0,0,0
 2020-03-13,Contra Costa,California,06013,25,16,0,0
 2020-03-13,Fresno,California,06019,1,0,0,0
@@ -5044,3 +5019,60 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-17,Ventura,California,06111,1706,50,41,0
 2020-06-17,Yolo,California,06113,291,26,24,0
 2020-06-17,Yuba,California,06115,39,2,4,3
+2020-06-18,Alameda,California,06001,4659,105,117,1
+2020-06-18,Alpine,California,06003,1,0,0,0
+2020-06-18,Amador,California,06005,11,0,0,0
+2020-06-18,Butte,California,06007,90,0,1,0
+2020-06-18,Calaveras,California,06009,26,0,0,0
+2020-06-18,Colusa,California,06011,7,0,0,0
+2020-06-18,Contra Costa,California,06013,2111,40,55,5
+2020-06-18,Del Norte,California,06015,48,0,0,0
+2020-06-18,El Dorado,California,06017,125,4,0,0
+2020-06-18,Fresno,California,06019,3058,158,62,1
+2020-06-18,Glenn,California,06021,42,4,0,0
+2020-06-18,Humboldt,California,06023,108,0,4,0
+2020-06-18,Imperial,California,06025,4659,181,59,6
+2020-06-18,Inyo,California,06027,25,1,1,0
+2020-06-18,Kern,California,06029,3600,78,60,2
+2020-06-18,Kings,California,06031,1976,36,10,0
+2020-06-18,Lake,California,06033,34,0,0,0
+2020-06-18,Lassen,California,06035,9,0,0,0
+2020-06-18,Los Angeles,California,06037,78227,1038,3027,36
+2020-06-18,Madera,California,06039,295,20,4,0
+2020-06-18,Marin,California,06041,814,18,18,0
+2020-06-18,Mariposa,California,06043,18,0,1,0
+2020-06-18,Mendocino,California,06045,54,7,0,0
+2020-06-18,Merced,California,06047,538,20,8,0
+2020-06-18,Mono,California,06051,37,0,1,0
+2020-06-18,Monterey,California,06053,1121,46,12,0
+2020-06-18,Napa,California,06055,207,4,4,0
+2020-06-18,Nevada,California,06057,71,4,1,0
+2020-06-18,Orange,California,06059,9292,95,250,7
+2020-06-18,Placer,California,06061,460,28,9,0
+2020-06-18,Plumas,California,06063,5,0,0,0
+2020-06-18,Riverside,California,06065,12467,516,408,9
+2020-06-18,Sacramento,California,06067,1939,48,67,0
+2020-06-18,San Benito,California,06069,153,13,2,0
+2020-06-18,San Bernardino,California,06071,8454,440,230,1
+2020-06-18,San Diego,California,06073,10155,238,331,4
+2020-06-18,San Francisco,California,06075,3023,38,47,0
+2020-06-18,San Joaquin,California,06077,1927,39,47,0
+2020-06-18,San Luis Obispo,California,06079,389,13,1,0
+2020-06-18,San Mateo,California,06081,2649,31,99,0
+2020-06-18,Santa Barbara,California,06083,2228,73,22,1
+2020-06-18,Santa Clara,California,06085,3363,75,153,0
+2020-06-18,Santa Cruz,California,06087,273,4,3,0
+2020-06-18,Shasta,California,06089,62,4,4,0
+2020-06-18,Sierra,California,06091,1,0,0,0
+2020-06-18,Siskiyou,California,06093,21,1,0,0
+2020-06-18,Solano,California,06095,816,19,23,0
+2020-06-18,Sonoma,California,06097,822,19,4,0
+2020-06-18,Stanislaus,California,06099,1387,109,36,1
+2020-06-18,Sutter,California,06101,97,5,3,0
+2020-06-18,Tehama,California,06103,24,0,1,0
+2020-06-18,Trinity,California,06105,3,0,0,0
+2020-06-18,Tulare,California,06107,3004,123,107,1
+2020-06-18,Tuolumne,California,06109,9,0,0,0
+2020-06-18,Ventura,California,06111,1753,47,42,1
+2020-06-18,Yolo,California,06113,302,11,24,0
+2020-06-18,Yuba,California,06115,39,0,4,0
