@@ -280,7 +280,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-24,St. Tammany,Louisiana,22103,52,5,1,1
 2020-03-24,Tangipahoa,Louisiana,22105,4,1,0,0
 2020-03-24,Terrebonne,Louisiana,22109,14,0,0,0
-2020-03-24,Unknown,Louisiana,,12,0,1,1
+2020-03-24,Unknown,Louisiana,,10,-2,1,1
 2020-03-24,Vernon,Louisiana,22115,2,2,0,0
 2020-03-24,Washington,Louisiana,22117,3,1,1,0
 2020-03-24,Webster,Louisiana,22119,3,0,1,0
@@ -328,7 +328,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-25,Tangipahoa,Louisiana,22105,5,1,0,0
 2020-03-25,Terrebonne,Louisiana,22109,15,1,0,0
 2020-03-25,Union,Louisiana,22111,2,2,0,0
-2020-03-25,Unknown,Louisiana,,12,0,1,0
+2020-03-25,Unknown,Louisiana,,9,-1,1,0
 2020-03-25,Vernon,Louisiana,22115,2,0,0,0
 2020-03-25,Washington,Louisiana,22117,4,1,1,0
 2020-03-25,Webster,Louisiana,22119,5,2,1,0
@@ -381,7 +381,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-26,Tangipahoa,Louisiana,22105,7,2,0,0
 2020-03-26,Terrebonne,Louisiana,22109,21,6,0,0
 2020-03-26,Union,Louisiana,22111,2,0,0,0
-2020-03-26,Unknown,Louisiana,,13,1,1,0
+2020-03-26,Unknown,Louisiana,,12,3,1,0
 2020-03-26,Vermilion,Louisiana,22113,1,1,0,0
 2020-03-26,Vernon,Louisiana,22115,2,0,0,0
 2020-03-26,Washington,Louisiana,22117,6,2,1,0
@@ -435,7 +435,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-27,Tangipahoa,Louisiana,22105,7,0,0,0
 2020-03-27,Terrebonne,Louisiana,22109,23,2,1,1
 2020-03-27,Union,Louisiana,22111,4,2,0,0
-2020-03-27,Unknown,Louisiana,,16,3,1,0
+2020-03-27,Unknown,Louisiana,,16,4,1,0
 2020-03-27,Vermilion,Louisiana,22113,2,1,0,0
 2020-03-27,Vernon,Louisiana,22115,2,0,0,0
 2020-03-27,Washington,Louisiana,22117,8,2,1,0
@@ -492,7 +492,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-28,Tangipahoa,Louisiana,22105,10,3,0,0
 2020-03-28,Terrebonne,Louisiana,22109,26,3,1,0
 2020-03-28,Union,Louisiana,22111,7,3,0,0
-2020-03-28,Unknown,Louisiana,,12,-4,2,1
+2020-03-28,Unknown,Louisiana,,9,-7,1,0
 2020-03-28,Vermilion,Louisiana,22113,3,1,1,1
 2020-03-28,Vernon,Louisiana,22115,2,0,0,0
 2020-03-28,Washington,Louisiana,22117,10,2,1,0
@@ -551,7 +551,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-29,Tangipahoa,Louisiana,22105,10,0,0,0
 2020-03-29,Terrebonne,Louisiana,22109,29,3,1,0
 2020-03-29,Union,Louisiana,22111,9,2,0,0
-2020-03-29,Unknown,Louisiana,,12,0,1,-1
+2020-03-29,Unknown,Louisiana,,8,-1,1,0
 2020-03-29,Vermilion,Louisiana,22113,2,-1,1,0
 2020-03-29,Vernon,Louisiana,22115,2,0,0,0
 2020-03-29,Washington,Louisiana,22117,12,2,1,0
@@ -610,7 +610,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-30,Tangipahoa,Louisiana,22105,18,8,0,0
 2020-03-30,Terrebonne,Louisiana,22109,34,5,1,0
 2020-03-30,Union,Louisiana,22111,9,0,0,0
-2020-03-30,Unknown,Louisiana,,14,2,1,0
+2020-03-30,Unknown,Louisiana,,14,6,0,-1
 2020-03-30,Vermilion,Louisiana,22113,3,1,1,0
 2020-03-30,Vernon,Louisiana,22115,3,1,0,0
 2020-03-30,Washington,Louisiana,22117,22,10,1,0
@@ -671,7 +671,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-31,Tangipahoa,Louisiana,22105,25,7,0,0
 2020-03-31,Terrebonne,Louisiana,22109,40,6,1,0
 2020-03-31,Union,Louisiana,22111,9,0,0,0
-2020-03-31,Unknown,Louisiana,,22,8,4,3
+2020-03-31,Unknown,Louisiana,,22,8,4,4
 2020-03-31,Vermilion,Louisiana,22113,8,5,1,0
 2020-03-31,Vernon,Louisiana,22115,3,0,0,0
 2020-03-31,Washington,Louisiana,22117,28,6,1,0
@@ -732,7 +732,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-01,Tangipahoa,Louisiana,22105,33,8,2,2
 2020-04-01,Terrebonne,Louisiana,22109,55,15,1,0
 2020-04-01,Union,Louisiana,22111,11,2,0,0
-2020-04-01,Unknown,Louisiana,,28,6,4,0
+2020-04-01,Unknown,Louisiana,,28,6,0,-4
 2020-04-01,Vermilion,Louisiana,22113,10,2,1,0
 2020-04-01,Vernon,Louisiana,22115,6,3,0,0
 2020-04-01,Washington,Louisiana,22117,39,11,2,1
@@ -794,7 +794,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-02,Tangipahoa,Louisiana,22105,42,9,1,-1
 2020-04-02,Terrebonne,Louisiana,22109,97,42,1,0
 2020-04-02,Union,Louisiana,22111,13,2,0,0
-2020-04-02,Unknown,Louisiana,,38,10,1,-3
+2020-04-02,Unknown,Louisiana,,40,12,1,1
 2020-04-02,Vermilion,Louisiana,22113,16,6,1,0
 2020-04-02,Vernon,Louisiana,22115,7,1,0,0
 2020-04-02,Washington,Louisiana,22117,50,11,2,0
@@ -856,7 +856,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-03,Tangipahoa,Louisiana,22105,55,13,1,0
 2020-04-03,Terrebonne,Louisiana,22109,102,5,2,1
 2020-04-03,Union,Louisiana,22111,17,4,0,0
-2020-04-03,Unknown,Louisiana,,40,2,4,3
+2020-04-03,Unknown,Louisiana,,42,2,4,3
 2020-04-03,Vermilion,Louisiana,22113,18,2,1,0
 2020-04-03,Vernon,Louisiana,22115,8,1,0,0
 2020-04-03,Washington,Louisiana,22117,57,7,2,0
@@ -918,7 +918,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-04,Tangipahoa,Louisiana,22105,131,76,2,1
 2020-04-04,Terrebonne,Louisiana,22109,143,41,8,6
 2020-04-04,Union,Louisiana,22111,19,2,0,0
-2020-04-04,Unknown,Louisiana,,31,-9,0,-4
+2020-04-04,Unknown,Louisiana,,35,-7,0,-4
 2020-04-04,Vermilion,Louisiana,22113,15,-3,1,0
 2020-04-04,Vernon,Louisiana,22115,11,3,0,0
 2020-04-04,Washington,Louisiana,22117,75,18,2,0
@@ -980,7 +980,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-05,Tangipahoa,Louisiana,22105,171,40,2,0
 2020-04-05,Terrebonne,Louisiana,22109,148,5,8,0
 2020-04-05,Union,Louisiana,22111,19,0,0,0
-2020-04-05,Unknown,Louisiana,,31,0,4,4
+2020-04-05,Unknown,Louisiana,,35,0,4,4
 2020-04-05,Vermilion,Louisiana,22113,16,1,1,0
 2020-04-05,Vernon,Louisiana,22115,10,-1,0,0
 2020-04-05,Washington,Louisiana,22117,81,6,2,0
@@ -1042,7 +1042,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-06,Tangipahoa,Louisiana,22105,186,15,2,0
 2020-04-06,Terrebonne,Louisiana,22109,182,34,7,-1
 2020-04-06,Union,Louisiana,22111,26,7,0,0
-2020-04-06,Unknown,Louisiana,,48,17,3,-1
+2020-04-06,Unknown,Louisiana,,48,13,3,-1
 2020-04-06,Vermilion,Louisiana,22113,17,1,1,0
 2020-04-06,Vernon,Louisiana,22115,10,0,0,0
 2020-04-06,Washington,Louisiana,22117,92,11,2,0
@@ -2078,7 +2078,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-22,Tensas,Louisiana,22107,1,0,0,0
 2020-04-22,Terrebonne,Louisiana,22109,350,4,24,-1
 2020-04-22,Union,Louisiana,22111,85,3,5,0
-2020-04-22,Unknown,Louisiana,,60,1,1,-1
+2020-04-22,Unknown,Louisiana,,119,60,60,58
 2020-04-22,Vermilion,Louisiana,22113,33,0,1,0
 2020-04-22,Vernon,Louisiana,22115,14,0,1,0
 2020-04-22,Washington,Louisiana,22117,214,8,13,0
@@ -2143,7 +2143,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-23,Tensas,Louisiana,22107,1,0,0,0
 2020-04-23,Terrebonne,Louisiana,22109,357,7,25,1
 2020-04-23,Union,Louisiana,22111,89,4,6,1
-2020-04-23,Unknown,Louisiana,,62,2,0,-1
+2020-04-23,Unknown,Louisiana,,121,2,59,-1
 2020-04-23,Vermilion,Louisiana,22113,33,0,1,0
 2020-04-23,Vernon,Louisiana,22115,14,0,1,0
 2020-04-23,Washington,Louisiana,22117,225,11,13,0
@@ -2208,7 +2208,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-24,Tensas,Louisiana,22107,1,0,0,0
 2020-04-24,Terrebonne,Louisiana,22109,363,6,25,0
 2020-04-24,Union,Louisiana,22111,95,6,6,0
-2020-04-24,Unknown,Louisiana,,63,1,0,0
+2020-04-24,Unknown,Louisiana,,122,1,59,0
 2020-04-24,Vermilion,Louisiana,22113,33,0,1,0
 2020-04-24,Vernon,Louisiana,22115,15,1,1,0
 2020-04-24,Washington,Louisiana,22117,232,7,14,1
@@ -2273,7 +2273,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-25,Tensas,Louisiana,22107,1,0,0,0
 2020-04-25,Terrebonne,Louisiana,22109,366,3,26,1
 2020-04-25,Union,Louisiana,22111,102,7,6,0
-2020-04-25,Unknown,Louisiana,,63,0,0,0
+2020-04-25,Unknown,Louisiana,,122,0,59,0
 2020-04-25,Vermilion,Louisiana,22113,34,1,1,0
 2020-04-25,Vernon,Louisiana,22115,16,1,2,1
 2020-04-25,Washington,Louisiana,22117,241,9,14,0
@@ -2338,7 +2338,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-26,Tensas,Louisiana,22107,1,0,0,0
 2020-04-26,Terrebonne,Louisiana,22109,371,5,26,0
 2020-04-26,Union,Louisiana,22111,102,0,6,0
-2020-04-26,Unknown,Louisiana,,64,1,0,0
+2020-04-26,Unknown,Louisiana,,123,1,59,0
 2020-04-26,Vermilion,Louisiana,22113,34,0,1,0
 2020-04-26,Vernon,Louisiana,22115,16,0,2,0
 2020-04-26,Washington,Louisiana,22117,245,4,14,0
@@ -2403,7 +2403,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-27,Tensas,Louisiana,22107,1,0,0,0
 2020-04-27,Terrebonne,Louisiana,22109,375,4,26,0
 2020-04-27,Union,Louisiana,22111,103,1,6,0
-2020-04-27,Unknown,Louisiana,,64,0,0,0
+2020-04-27,Unknown,Louisiana,,107,-16,43,-16
 2020-04-27,Vermilion,Louisiana,22113,35,1,1,0
 2020-04-27,Vernon,Louisiana,22115,16,0,2,0
 2020-04-27,Washington,Louisiana,22117,253,8,18,4
@@ -2468,7 +2468,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-28,Tensas,Louisiana,22107,1,0,0,0
 2020-04-28,Terrebonne,Louisiana,22109,382,7,31,5
 2020-04-28,Union,Louisiana,22111,108,5,6,0
-2020-04-28,Unknown,Louisiana,,61,-3,0,0
+2020-04-28,Unknown,Louisiana,,104,-3,43,0
 2020-04-28,Vermilion,Louisiana,22113,35,0,1,0
 2020-04-28,Vernon,Louisiana,22115,16,0,2,0
 2020-04-28,Washington,Louisiana,22117,256,3,18,0
@@ -2533,7 +2533,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-29,Tensas,Louisiana,22107,1,0,0,0
 2020-04-29,Terrebonne,Louisiana,22109,389,7,31,0
 2020-04-29,Union,Louisiana,22111,114,6,6,0
-2020-04-29,Unknown,Louisiana,,61,0,0,0
+2020-04-29,Unknown,Louisiana,,104,0,43,0
 2020-04-29,Vermilion,Louisiana,22113,35,0,1,0
 2020-04-29,Vernon,Louisiana,22115,16,0,2,0
 2020-04-29,Washington,Louisiana,22117,261,5,18,0
@@ -2598,7 +2598,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-30,Tensas,Louisiana,22107,1,0,0,0
 2020-04-30,Terrebonne,Louisiana,22109,437,48,32,1
 2020-04-30,Union,Louisiana,22111,117,3,6,0
-2020-04-30,Unknown,Louisiana,,61,0,0,0
+2020-04-30,Unknown,Louisiana,,104,0,43,0
 2020-04-30,Vermilion,Louisiana,22113,35,0,1,0
 2020-04-30,Vernon,Louisiana,22115,16,0,2,0
 2020-04-30,Washington,Louisiana,22117,262,1,18,0
@@ -2663,7 +2663,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-01,Tensas,Louisiana,22107,1,0,0,0
 2020-05-01,Terrebonne,Louisiana,22109,450,13,33,1
 2020-05-01,Union,Louisiana,22111,125,8,6,0
-2020-05-01,Unknown,Louisiana,,63,2,0,0
+2020-05-01,Unknown,Louisiana,,106,2,43,0
 2020-05-01,Vermilion,Louisiana,22113,37,2,1,0
 2020-05-01,Vernon,Louisiana,22115,16,0,2,0
 2020-05-01,Washington,Louisiana,22117,273,11,21,3
@@ -2728,7 +2728,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-02,Tensas,Louisiana,22107,2,1,0,0
 2020-05-02,Terrebonne,Louisiana,22109,456,6,33,0
 2020-05-02,Union,Louisiana,22111,131,6,7,1
-2020-05-02,Unknown,Louisiana,,63,0,0,0
+2020-05-02,Unknown,Louisiana,,106,0,43,0
 2020-05-02,Vermilion,Louisiana,22113,38,1,1,0
 2020-05-02,Vernon,Louisiana,22115,16,0,2,0
 2020-05-02,Washington,Louisiana,22117,282,9,21,0
@@ -2793,7 +2793,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-03,Tensas,Louisiana,22107,2,0,0,0
 2020-05-03,Terrebonne,Louisiana,22109,459,3,33,0
 2020-05-03,Union,Louisiana,22111,135,4,7,0
-2020-05-03,Unknown,Louisiana,,63,0,0,0
+2020-05-03,Unknown,Louisiana,,106,0,43,0
 2020-05-03,Vermilion,Louisiana,22113,38,0,1,0
 2020-05-03,Vernon,Louisiana,22115,16,0,2,0
 2020-05-03,Washington,Louisiana,22117,285,3,21,0
@@ -2858,7 +2858,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-04,Tensas,Louisiana,22107,2,0,0,0
 2020-05-04,Terrebonne,Louisiana,22109,466,7,33,0
 2020-05-04,Union,Louisiana,22111,143,8,7,0
-2020-05-04,Unknown,Louisiana,,63,0,0,0
+2020-05-04,Unknown,Louisiana,,136,30,73,30
 2020-05-04,Vermilion,Louisiana,22113,38,0,1,0
 2020-05-04,Vernon,Louisiana,22115,16,0,2,0
 2020-05-04,Washington,Louisiana,22117,291,6,21,0
@@ -2923,7 +2923,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-05,Tensas,Louisiana,22107,2,0,0,0
 2020-05-05,Terrebonne,Louisiana,22109,469,3,32,-1
 2020-05-05,Union,Louisiana,22111,144,1,7,0
-2020-05-05,Unknown,Louisiana,,63,0,0,0
+2020-05-05,Unknown,Louisiana,,136,0,73,0
 2020-05-05,Vermilion,Louisiana,22113,40,2,1,0
 2020-05-05,Vernon,Louisiana,22115,17,1,2,0
 2020-05-05,Washington,Louisiana,22117,292,1,23,2
@@ -2988,7 +2988,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-06,Tensas,Louisiana,22107,2,0,0,0
 2020-05-06,Terrebonne,Louisiana,22109,476,7,33,1
 2020-05-06,Union,Louisiana,22111,148,4,7,0
-2020-05-06,Unknown,Louisiana,,63,0,1,1
+2020-05-06,Unknown,Louisiana,,136,0,74,1
 2020-05-06,Vermilion,Louisiana,22113,40,0,2,1
 2020-05-06,Vernon,Louisiana,22115,17,0,2,0
 2020-05-06,Washington,Louisiana,22117,298,6,24,1
@@ -3053,7 +3053,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-07,Tensas,Louisiana,22107,3,1,0,0
 2020-05-07,Terrebonne,Louisiana,22109,499,23,35,2
 2020-05-07,Union,Louisiana,22111,151,3,8,1
-2020-05-07,Unknown,Louisiana,,63,0,1,0
+2020-05-07,Unknown,Louisiana,,136,0,74,0
 2020-05-07,Vermilion,Louisiana,22113,40,0,2,0
 2020-05-07,Vernon,Louisiana,22115,17,0,2,0
 2020-05-07,Washington,Louisiana,22117,308,10,24,0
@@ -3118,7 +3118,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-08,Tensas,Louisiana,22107,3,0,0,0
 2020-05-08,Terrebonne,Louisiana,22109,501,2,36,1
 2020-05-08,Union,Louisiana,22111,153,2,8,0
-2020-05-08,Unknown,Louisiana,,63,0,1,0
+2020-05-08,Unknown,Louisiana,,136,0,74,0
 2020-05-08,Vermilion,Louisiana,22113,40,0,2,0
 2020-05-08,Vernon,Louisiana,22115,17,0,2,0
 2020-05-08,Washington,Louisiana,22117,312,4,24,0
@@ -3183,7 +3183,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-09,Tensas,Louisiana,22107,6,3,0,0
 2020-05-09,Terrebonne,Louisiana,22109,523,22,37,1
 2020-05-09,Union,Louisiana,22111,162,9,8,0
-2020-05-09,Unknown,Louisiana,,64,1,1,0
+2020-05-09,Unknown,Louisiana,,137,1,74,0
 2020-05-09,Vermilion,Louisiana,22113,41,1,2,0
 2020-05-09,Vernon,Louisiana,22115,18,1,2,0
 2020-05-09,Washington,Louisiana,22117,335,23,26,2
@@ -3248,7 +3248,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-10,Tensas,Louisiana,22107,6,0,0,0
 2020-05-10,Terrebonne,Louisiana,22109,523,0,38,1
 2020-05-10,Union,Louisiana,22111,165,3,9,1
-2020-05-10,Unknown,Louisiana,,64,0,1,0
+2020-05-10,Unknown,Louisiana,,137,0,74,0
 2020-05-10,Vermilion,Louisiana,22113,41,0,2,0
 2020-05-10,Vernon,Louisiana,22115,18,0,2,0
 2020-05-10,Washington,Louisiana,22117,337,2,26,0
@@ -3313,7 +3313,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-11,Tensas,Louisiana,22107,6,0,0,0
 2020-05-11,Terrebonne,Louisiana,22109,528,5,39,1
 2020-05-11,Union,Louisiana,22111,169,4,10,1
-2020-05-11,Unknown,Louisiana,,64,0,2,1
+2020-05-11,Unknown,Louisiana,,130,-7,68,-6
 2020-05-11,Vermilion,Louisiana,22113,41,0,2,0
 2020-05-11,Vernon,Louisiana,22115,18,0,2,0
 2020-05-11,Washington,Louisiana,22117,342,5,26,0
@@ -3378,7 +3378,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-12,Tensas,Louisiana,22107,6,0,0,0
 2020-05-12,Terrebonne,Louisiana,22109,533,5,39,0
 2020-05-12,Union,Louisiana,22111,171,2,11,1
-2020-05-12,Unknown,Louisiana,,64,0,1,-1
+2020-05-12,Unknown,Louisiana,,130,0,67,-1
 2020-05-12,Vermilion,Louisiana,22113,41,0,2,0
 2020-05-12,Vernon,Louisiana,22115,18,0,2,0
 2020-05-12,Washington,Louisiana,22117,347,5,26,0
@@ -3443,7 +3443,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-13,Tensas,Louisiana,22107,6,0,0,0
 2020-05-13,Terrebonne,Louisiana,22109,542,9,39,0
 2020-05-13,Union,Louisiana,22111,227,56,11,0
-2020-05-13,Unknown,Louisiana,,64,0,0,-1
+2020-05-13,Unknown,Louisiana,,130,0,66,-1
 2020-05-13,Vermilion,Louisiana,22113,42,1,2,0
 2020-05-13,Vernon,Louisiana,22115,19,1,2,0
 2020-05-13,Washington,Louisiana,22117,350,3,29,3
@@ -3508,7 +3508,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-14,Tensas,Louisiana,22107,6,0,0,0
 2020-05-14,Terrebonne,Louisiana,22109,550,8,41,2
 2020-05-14,Union,Louisiana,22111,231,4,11,0
-2020-05-14,Unknown,Louisiana,,65,1,0,0
+2020-05-14,Unknown,Louisiana,,131,1,66,0
 2020-05-14,Vermilion,Louisiana,22113,42,0,2,0
 2020-05-14,Vernon,Louisiana,22115,19,0,2,0
 2020-05-14,Washington,Louisiana,22117,356,6,29,0
@@ -3573,7 +3573,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-15,Tensas,Louisiana,22107,6,0,0,0
 2020-05-15,Terrebonne,Louisiana,22109,557,7,43,2
 2020-05-15,Union,Louisiana,22111,238,7,13,2
-2020-05-15,Unknown,Louisiana,,65,0,0,0
+2020-05-15,Unknown,Louisiana,,131,0,66,0
 2020-05-15,Vermilion,Louisiana,22113,43,1,3,1
 2020-05-15,Vernon,Louisiana,22115,19,0,2,0
 2020-05-15,Washington,Louisiana,22117,357,1,31,2
@@ -3638,7 +3638,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-16,Tensas,Louisiana,22107,5,-1,0,0
 2020-05-16,Terrebonne,Louisiana,22109,567,10,43,0
 2020-05-16,Union,Louisiana,22111,236,-2,14,1
-2020-05-16,Unknown,Louisiana,,72,7,0,0
+2020-05-16,Unknown,Louisiana,,138,7,66,0
 2020-05-16,Vermilion,Louisiana,22113,44,1,3,0
 2020-05-16,Vernon,Louisiana,22115,20,1,2,0
 2020-05-16,Washington,Louisiana,22117,363,6,32,1
@@ -3703,7 +3703,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-17,Tensas,Louisiana,22107,5,0,0,0
 2020-05-17,Terrebonne,Louisiana,22109,585,18,43,0
 2020-05-17,Union,Louisiana,22111,242,6,14,0
-2020-05-17,Unknown,Louisiana,,72,0,0,0
+2020-05-17,Unknown,Louisiana,,138,0,66,0
 2020-05-17,Vermilion,Louisiana,22113,44,0,3,0
 2020-05-17,Vernon,Louisiana,22115,20,0,2,0
 2020-05-17,Washington,Louisiana,22117,365,2,32,0
@@ -3768,7 +3768,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-18,Tensas,Louisiana,22107,5,0,0,0
 2020-05-18,Terrebonne,Louisiana,22109,590,5,43,0
 2020-05-18,Union,Louisiana,22111,243,1,14,0
-2020-05-18,Unknown,Louisiana,,72,0,0,0
+2020-05-18,Unknown,Louisiana,,195,57,123,57
 2020-05-18,Vermilion,Louisiana,22113,45,1,3,0
 2020-05-18,Vernon,Louisiana,22115,21,1,2,0
 2020-05-18,Washington,Louisiana,22117,370,5,32,0
@@ -3833,7 +3833,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-19,Tensas,Louisiana,22107,5,0,0,0
 2020-05-19,Terrebonne,Louisiana,22109,591,1,44,1
 2020-05-19,Union,Louisiana,22111,245,2,15,1
-2020-05-19,Unknown,Louisiana,,195,123,123,123
+2020-05-19,Unknown,Louisiana,,195,0,123,0
 2020-05-19,Vermilion,Louisiana,22113,45,0,3,0
 2020-05-19,Vernon,Louisiana,22115,21,0,2,0
 2020-05-19,Washington,Louisiana,22117,375,5,34,2
@@ -3898,7 +3898,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-20,Tensas,Louisiana,22107,5,0,0,0
 2020-05-20,Terrebonne,Louisiana,22109,594,3,44,0
 2020-05-20,Union,Louisiana,22111,245,0,14,-1
-2020-05-20,Unknown,Louisiana,,123,-72,123,0
+2020-05-20,Unknown,Louisiana,,195,0,123,0
 2020-05-20,Vermilion,Louisiana,22113,45,0,3,0
 2020-05-20,Vernon,Louisiana,22115,21,0,2,0
 2020-05-20,Washington,Louisiana,22117,376,1,36,2
@@ -3963,7 +3963,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-21,Tensas,Louisiana,22107,10,5,0,0
 2020-05-21,Terrebonne,Louisiana,22109,614,20,45,1
 2020-05-21,Union,Louisiana,22111,287,42,16,2
-2020-05-21,Unknown,Louisiana,,123,0,123,0
+2020-05-21,Unknown,Louisiana,,201,6,123,0
 2020-05-21,Vermilion,Louisiana,22113,50,5,3,0
 2020-05-21,Vernon,Louisiana,22115,22,1,2,0
 2020-05-21,Washington,Louisiana,22117,383,7,36,0
@@ -4028,7 +4028,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-22,Tensas,Louisiana,22107,10,0,0,0
 2020-05-22,Terrebonne,Louisiana,22109,623,9,48,3
 2020-05-22,Union,Louisiana,22111,287,0,16,0
-2020-05-22,Unknown,Louisiana,,78,-45,0,-123
+2020-05-22,Unknown,Louisiana,,201,0,123,0
 2020-05-22,Vermilion,Louisiana,22113,50,0,3,0
 2020-05-22,Vernon,Louisiana,22115,23,1,3,1
 2020-05-22,Washington,Louisiana,22117,389,6,37,1
@@ -4093,7 +4093,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-23,Tensas,Louisiana,22107,10,0,0,0
 2020-05-23,Terrebonne,Louisiana,22109,626,3,48,0
 2020-05-23,Union,Louisiana,22111,287,0,16,0
-2020-05-23,Unknown,Louisiana,,202,124,123,123
+2020-05-23,Unknown,Louisiana,,202,1,123,0
 2020-05-23,Vermilion,Louisiana,22113,50,0,3,0
 2020-05-23,Vernon,Louisiana,22115,23,0,3,0
 2020-05-23,Washington,Louisiana,22117,389,0,37,0
@@ -4158,7 +4158,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-24,Tensas,Louisiana,22107,10,0,0,0
 2020-05-24,Terrebonne,Louisiana,22109,628,2,48,0
 2020-05-24,Union,Louisiana,22111,287,0,16,0
-2020-05-24,Unknown,Louisiana,,123,-79,123,0
+2020-05-24,Unknown,Louisiana,,202,0,130,7
 2020-05-24,Vermilion,Louisiana,22113,50,0,3,0
 2020-05-24,Vernon,Louisiana,22115,23,0,3,0
 2020-05-24,Washington,Louisiana,22117,389,0,37,0
@@ -4223,7 +4223,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-25,Tensas,Louisiana,22107,10,0,0,0
 2020-05-25,Terrebonne,Louisiana,22109,639,11,48,0
 2020-05-25,Union,Louisiana,22111,291,4,16,0
-2020-05-25,Unknown,Louisiana,,184,61,105,-18
+2020-05-25,Unknown,Louisiana,,184,-18,130,0
 2020-05-25,Vermilion,Louisiana,22113,50,0,3,0
 2020-05-25,Vernon,Louisiana,22115,24,1,3,0
 2020-05-25,Washington,Louisiana,22117,398,9,37,0
@@ -4288,7 +4288,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-26,Tensas,Louisiana,22107,10,0,0,0
 2020-05-26,Terrebonne,Louisiana,22109,641,2,48,0
 2020-05-26,Union,Louisiana,22111,295,4,17,1
-2020-05-26,Unknown,Louisiana,,184,0,105,0
+2020-05-26,Unknown,Louisiana,,184,0,105,-25
 2020-05-26,Vermilion,Louisiana,22113,51,1,3,0
 2020-05-26,Vernon,Louisiana,22115,24,0,3,0
 2020-05-26,Washington,Louisiana,22117,400,2,37,0
@@ -4353,7 +4353,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-27,Tensas,Louisiana,22107,10,0,0,0
 2020-05-27,Terrebonne,Louisiana,22109,647,6,48,0
 2020-05-27,Union,Louisiana,22111,303,8,17,0
-2020-05-27,Unknown,Louisiana,,190,6,105,0
+2020-05-27,Unknown,Louisiana,,190,6,126,21
 2020-05-27,Vermilion,Louisiana,22113,53,2,3,0
 2020-05-27,Vernon,Louisiana,22115,24,0,3,0
 2020-05-27,Washington,Louisiana,22117,407,7,37,0
@@ -4418,7 +4418,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-28,Tensas,Louisiana,22107,10,0,0,0
 2020-05-28,Terrebonne,Louisiana,22109,653,6,48,0
 2020-05-28,Union,Louisiana,22111,306,3,17,0
-2020-05-28,Unknown,Louisiana,,189,-1,105,0
+2020-05-28,Unknown,Louisiana,,189,-1,106,-20
 2020-05-28,Vermilion,Louisiana,22113,53,0,3,0
 2020-05-28,Vernon,Louisiana,22115,25,1,3,0
 2020-05-28,Washington,Louisiana,22117,410,3,38,1
@@ -4483,7 +4483,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-29,Tensas,Louisiana,22107,10,0,0,0
 2020-05-29,Terrebonne,Louisiana,22109,653,0,49,1
 2020-05-29,Union,Louisiana,22111,306,0,17,0
-2020-05-29,Unknown,Louisiana,,189,0,105,0
+2020-05-29,Unknown,Louisiana,,189,0,105,-1
 2020-05-29,Vermilion,Louisiana,22113,53,0,3,0
 2020-05-29,Vernon,Louisiana,22115,25,0,3,0
 2020-05-29,Washington,Louisiana,22117,410,0,38,0
@@ -6182,3 +6182,68 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,West Carroll,Louisiana,22123,111,4,3,0
 2020-06-24,West Feliciana,Louisiana,22125,241,0,14,0
 2020-06-24,Winn,Louisiana,22127,230,0,5,0
+2020-06-25,Acadia,Louisiana,22001,745,19,35,0
+2020-06-25,Allen,Louisiana,22003,257,0,10,0
+2020-06-25,Ascension,Louisiana,22005,1094,24,58,0
+2020-06-25,Assumption,Louisiana,22007,334,0,14,0
+2020-06-25,Avoyelles,Louisiana,22009,277,23,11,0
+2020-06-25,Beauregard,Louisiana,22011,173,5,8,0
+2020-06-25,Bienville,Louisiana,22013,210,0,26,0
+2020-06-25,Bossier,Louisiana,22015,751,31,28,0
+2020-06-25,Caddo,Louisiana,22017,3096,101,230,2
+2020-06-25,Calcasieu,Louisiana,22019,1061,51,54,0
+2020-06-25,Caldwell,Louisiana,22021,102,0,1,0
+2020-06-25,Cameron,Louisiana,22023,36,0,0,0
+2020-06-25,Catahoula,Louisiana,22025,157,3,3,0
+2020-06-25,Claiborne,Louisiana,22027,110,1,11,0
+2020-06-25,Concordia,Louisiana,22029,105,0,5,0
+2020-06-25,De Soto,Louisiana,22031,327,3,18,0
+2020-06-25,East Baton Rouge,Louisiana,22033,4724,87,266,0
+2020-06-25,East Carroll,Louisiana,22035,385,4,1,1
+2020-06-25,East Feliciana,Louisiana,22037,285,9,33,0
+2020-06-25,Evangeline,Louisiana,22039,146,6,1,0
+2020-06-25,Franklin,Louisiana,22041,448,1,14,0
+2020-06-25,Grant,Louisiana,22043,81,0,1,0
+2020-06-25,Iberia,Louisiana,22045,570,35,43,1
+2020-06-25,Iberville,Louisiana,22047,689,12,43,0
+2020-06-25,Jackson,Louisiana,22049,203,1,16,0
+2020-06-25,Jefferson,Louisiana,22051,9074,71,480,1
+2020-06-25,Jefferson Davis,Louisiana,22053,283,33,7,0
+2020-06-25,LaSalle,Louisiana,22059,88,0,0,0
+2020-06-25,Lafayette,Louisiana,22055,1723,69,37,1
+2020-06-25,Lafourche,Louisiana,22057,1064,8,85,2
+2020-06-25,Lincoln,Louisiana,22061,294,4,18,0
+2020-06-25,Livingston,Louisiana,22063,794,26,36,0
+2020-06-25,Madison,Louisiana,22065,324,2,2,0
+2020-06-25,Morehouse,Louisiana,22067,218,2,7,0
+2020-06-25,Natchitoches,Louisiana,22069,213,16,14,0
+2020-06-25,Orleans,Louisiana,22071,7638,28,529,0
+2020-06-25,Ouachita,Louisiana,22073,2125,59,72,1
+2020-06-25,Plaquemines,Louisiana,22075,248,3,17,0
+2020-06-25,Pointe Coupee,Louisiana,22077,229,3,27,0
+2020-06-25,Rapides,Louisiana,22079,1423,15,56,1
+2020-06-25,Red River,Louisiana,22081,54,0,8,0
+2020-06-25,Richland,Louisiana,22083,160,5,4,0
+2020-06-25,Sabine,Louisiana,22085,67,1,1,0
+2020-06-25,St. Bernard,Louisiana,22087,602,1,23,0
+2020-06-25,St. Charles,Louisiana,22089,713,14,48,2
+2020-06-25,St. Helena,Louisiana,22091,88,0,1,0
+2020-06-25,St. James,Louisiana,22093,340,2,28,0
+2020-06-25,St. John the Baptist,Louisiana,22095,936,6,86,0
+2020-06-25,St. Landry,Louisiana,22097,540,10,57,0
+2020-06-25,St. Martin,Louisiana,22099,606,20,26,0
+2020-06-25,St. Mary,Louisiana,22101,415,5,37,0
+2020-06-25,St. Tammany,Louisiana,22103,2166,35,172,0
+2020-06-25,Tangipahoa,Louisiana,22105,1218,34,43,0
+2020-06-25,Tensas,Louisiana,22107,24,0,0,0
+2020-06-25,Terrebonne,Louisiana,22109,884,10,60,0
+2020-06-25,Union,Louisiana,22111,398,3,23,0
+2020-06-25,Unknown,Louisiana,,123,2,113,0
+2020-06-25,Vermilion,Louisiana,22113,185,10,5,0
+2020-06-25,Vernon,Louisiana,22115,96,5,6,0
+2020-06-25,Washington,Louisiana,22117,615,8,45,0
+2020-06-25,Webster,Louisiana,22119,368,7,9,0
+2020-06-25,West Baton Rouge,Louisiana,22121,243,4,30,0
+2020-06-25,West Carroll,Louisiana,22123,111,0,3,0
+2020-06-25,West Feliciana,Louisiana,22125,241,0,14,0
+2020-06-25,Winn,Louisiana,22127,231,1,5,0

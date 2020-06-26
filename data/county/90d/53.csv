@@ -1,29 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-03-19,Benton,Washington,53005,2,1,1,0
-2020-03-19,Chelan,Washington,53007,3,0,1,0
-2020-03-19,Clallam,Washington,53009,1,1,0,0
-2020-03-19,Clark,Washington,53011,4,0,3,0
-2020-03-19,Columbia,Washington,53013,1,0,0,0
-2020-03-19,Franklin,Washington,53021,1,0,0,0
-2020-03-19,Grant,Washington,53025,8,2,0,0
-2020-03-19,Grays Harbor,Washington,53027,1,0,0,0
-2020-03-19,Island,Washington,53029,17,1,1,1
-2020-03-19,Jefferson,Washington,53031,4,0,0,0
-2020-03-19,King,Washington,53033,693,130,61,4
-2020-03-19,Kitsap,Washington,53035,12,3,0,0
-2020-03-19,Kittitas,Washington,53037,4,0,0,0
-2020-03-19,Klickitat,Washington,53039,2,1,0,0
-2020-03-19,Lewis,Washington,53041,1,0,0,0
-2020-03-19,Lincoln,Washington,53043,1,0,0,0
-2020-03-19,Mason,Washington,53045,1,0,0,0
-2020-03-19,Pierce,Washington,53053,75,19,1,0
-2020-03-19,Skagit,Washington,53057,18,4,0,0
-2020-03-19,Snohomish,Washington,53061,347,38,6,1
-2020-03-19,Spokane,Washington,53063,9,2,0,0
-2020-03-19,Thurston,Washington,53067,6,0,0,0
-2020-03-19,Walla Walla,Washington,53071,1,0,0,0
-2020-03-19,Whatcom,Washington,53073,7,0,1,1
-2020-03-19,Yakima,Washington,53077,9,0,0,0
 2020-03-20,Benton,Washington,53005,3,1,1,0
 2020-03-20,Chelan,Washington,53007,3,0,1,0
 2020-03-20,Clallam,Washington,53009,1,0,0,0
@@ -167,6 +142,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-24,Spokane,Washington,53063,33,4,0,0
 2020-03-24,Stevens,Washington,53065,1,0,0,0
 2020-03-24,Thurston,Washington,53067,14,3,0,0
+2020-03-24,Unknown,Washington,,77,77,0,0
 2020-03-24,Walla Walla,Washington,53071,2,1,0,0
 2020-03-24,Whatcom,Washington,53073,64,16,2,0
 2020-03-24,Whitman,Washington,53075,2,0,0,0
@@ -233,6 +209,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-26,Spokane,Washington,53063,67,12,0,0
 2020-03-26,Stevens,Washington,53065,2,0,0,0
 2020-03-26,Thurston,Washington,53067,24,10,0,0
+2020-03-26,Unknown,Washington,,65,-12,0,0
 2020-03-26,Walla Walla,Washington,53071,3,0,0,0
 2020-03-26,Whatcom,Washington,53073,86,20,4,2
 2020-03-26,Whitman,Washington,53075,3,1,0,0
@@ -267,6 +244,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-27,Spokane,Washington,53063,86,19,1,1
 2020-03-27,Stevens,Washington,53065,3,1,0,0
 2020-03-27,Thurston,Washington,53067,27,3,0,0
+2020-03-27,Unknown,Washington,,43,-22,0,0
 2020-03-27,Walla Walla,Washington,53071,3,0,0,0
 2020-03-27,Whatcom,Washington,53073,92,6,4,0
 2020-03-27,Whitman,Washington,53075,5,2,0,0
@@ -301,6 +279,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-28,Spokane,Washington,53063,108,22,2,1
 2020-03-28,Stevens,Washington,53065,3,0,0,0
 2020-03-28,Thurston,Washington,53067,33,6,0,0
+2020-03-28,Unknown,Washington,,158,115,0,0
 2020-03-28,Walla Walla,Washington,53071,4,1,0,0
 2020-03-28,Whatcom,Washington,53073,102,10,4,0
 2020-03-28,Whitman,Washington,53075,6,1,0,0
@@ -335,6 +314,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-29,Spokane,Washington,53063,140,32,4,2
 2020-03-29,Stevens,Washington,53065,3,0,0,0
 2020-03-29,Thurston,Washington,53067,36,3,0,0
+2020-03-29,Unknown,Washington,,262,104,0,0
 2020-03-29,Walla Walla,Washington,53071,7,3,0,0
 2020-03-29,Whatcom,Washington,53073,116,14,7,3
 2020-03-29,Whitman,Washington,53075,6,0,0,0
@@ -369,6 +349,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-30,Spokane,Washington,53063,140,0,4,0
 2020-03-30,Stevens,Washington,53065,4,1,0,0
 2020-03-30,Thurston,Washington,53067,43,7,0,0
+2020-03-30,Unknown,Washington,,243,-19,0,0
 2020-03-30,Walla Walla,Washington,53071,7,0,0,0
 2020-03-30,Whatcom,Washington,53073,116,0,7,0
 2020-03-30,Whitman,Washington,53075,6,0,0,0
@@ -403,6 +384,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-31,Spokane,Washington,53063,140,0,4,0
 2020-03-31,Stevens,Washington,53065,4,0,0,0
 2020-03-31,Thurston,Washington,53067,48,5,0,0
+2020-03-31,Unknown,Washington,,231,-12,0,0
 2020-03-31,Walla Walla,Washington,53071,7,0,0,0
 2020-03-31,Whatcom,Washington,53073,116,0,7,0
 2020-03-31,Whitman,Washington,53075,6,0,0,0
@@ -472,6 +454,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-02,Spokane,Washington,53063,186,41,5,1
 2020-04-02,Stevens,Washington,53065,5,1,0,0
 2020-04-02,Thurston,Washington,53067,55,4,0,0
+2020-04-02,Unknown,Washington,,510,279,0,0
 2020-04-02,Walla Walla,Washington,53071,9,1,0,0
 2020-04-02,Whatcom,Washington,53073,175,31,9,1
 2020-04-02,Whitman,Washington,53075,11,1,0,0
@@ -508,6 +491,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-03,Spokane,Washington,53063,194,8,7,2
 2020-04-03,Stevens,Washington,53065,5,0,0,0
 2020-04-03,Thurston,Washington,53067,58,3,0,0
+2020-04-03,Unknown,Washington,,476,-34,0,0
 2020-04-03,Walla Walla,Washington,53071,9,0,0,0
 2020-04-03,Whatcom,Washington,53073,182,7,9,0
 2020-04-03,Whitman,Washington,53075,11,0,0,0
@@ -544,6 +528,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-04,Spokane,Washington,53063,209,15,10,3
 2020-04-04,Stevens,Washington,53065,5,0,0,0
 2020-04-04,Thurston,Washington,53067,64,6,1,1
+2020-04-04,Unknown,Washington,,710,234,0,0
 2020-04-04,Wahkiakum,Washington,53069,1,1,0,0
 2020-04-04,Walla Walla,Washington,53071,9,0,0,0
 2020-04-04,Whatcom,Washington,53073,199,17,9,0
@@ -581,6 +566,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-05,Spokane,Washington,53063,219,10,11,1
 2020-04-05,Stevens,Washington,53065,5,0,0,0
 2020-04-05,Thurston,Washington,53067,67,3,1,0
+2020-04-05,Unknown,Washington,,615,-95,0,0
 2020-04-05,Wahkiakum,Washington,53069,2,1,0,0
 2020-04-05,Walla Walla,Washington,53071,12,3,0,0
 2020-04-05,Whatcom,Washington,53073,224,25,15,6
@@ -618,7 +604,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-06,Spokane,Washington,53063,226,7,12,1
 2020-04-06,Stevens,Washington,53065,5,0,0,0
 2020-04-06,Thurston,Washington,53067,72,5,1,0
-2020-04-06,Unknown,Washington,,653,653,0,0
+2020-04-06,Unknown,Washington,,653,38,0,0
 2020-04-06,Wahkiakum,Washington,53069,2,0,0,0
 2020-04-06,Walla Walla,Washington,53071,14,2,0,0
 2020-04-06,Whatcom,Washington,53073,228,4,19,4
@@ -1122,7 +1108,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-19,Spokane,Washington,53063,311,5,17,0
 2020-04-19,Stevens,Washington,53065,8,0,1,0
 2020-04-19,Thurston,Washington,53067,94,1,1,0
-2020-04-19,Unknown,Washington,,1,-232,0,0
 2020-04-19,Wahkiakum,Washington,53069,2,0,0,0
 2020-04-19,Walla Walla,Washington,53071,28,0,0,0
 2020-04-19,Whatcom,Washington,53073,277,4,26,0
@@ -3636,3 +3621,41 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Whatcom,Washington,53073,554,33,40,0
 2020-06-24,Whitman,Washington,53075,34,1,0,0
 2020-06-24,Yakima,Washington,53077,6736,140,146,4
+2020-06-25,Adams,Washington,53001,110,1,0,0
+2020-06-25,Asotin,Washington,53003,20,0,2,0
+2020-06-25,Benton,Washington,53005,1725,33,76,0
+2020-06-25,Chelan,Washington,53007,299,2,7,0
+2020-06-25,Clallam,Washington,53009,33,0,0,0
+2020-06-25,Clark,Washington,53011,741,9,30,0
+2020-06-25,Columbia,Washington,53013,8,0,0,0
+2020-06-25,Cowlitz,Washington,53015,158,5,0,0
+2020-06-25,Douglas,Washington,53017,210,5,3,0
+2020-06-25,Ferry,Washington,53019,1,0,0,0
+2020-06-25,Franklin,Washington,53021,1587,47,32,1
+2020-06-25,Grant,Washington,53025,513,35,5,0
+2020-06-25,Grays Harbor,Washington,53027,24,0,0,0
+2020-06-25,Island,Washington,53029,191,3,12,0
+2020-06-25,Jefferson,Washington,53031,36,1,0,0
+2020-06-25,King,Washington,53033,9614,110,608,2
+2020-06-25,Kitsap,Washington,53035,200,2,2,0
+2020-06-25,Kittitas,Washington,53037,112,3,0,0
+2020-06-25,Klickitat,Washington,53039,55,0,3,0
+2020-06-25,Lewis,Washington,53041,53,1,3,0
+2020-06-25,Lincoln,Washington,53043,2,0,0,0
+2020-06-25,Mason,Washington,53045,46,3,1,0
+2020-06-25,Okanogan,Washington,53047,88,0,2,0
+2020-06-25,Pacific,Washington,53049,12,-1,1,0
+2020-06-25,Pend Oreille,Washington,53051,3,0,0,0
+2020-06-25,Pierce,Washington,53053,2709,37,97,1
+2020-06-25,San Juan,Washington,53055,19,-1,0,0
+2020-06-25,Skagit,Washington,53057,491,3,15,0
+2020-06-25,Skamania,Washington,53059,3,0,0,0
+2020-06-25,Snohomish,Washington,53061,3862,29,164,0
+2020-06-25,Spokane,Washington,53063,1126,41,38,0
+2020-06-25,Stevens,Washington,53065,16,0,1,0
+2020-06-25,Thurston,Washington,53067,229,3,7,0
+2020-06-25,Wahkiakum,Washington,53069,5,1,0,0
+2020-06-25,Walla Walla,Washington,53071,148,1,3,0
+2020-06-25,Whatcom,Washington,53073,574,20,40,0
+2020-06-25,Whitman,Washington,53075,35,1,0,0
+2020-06-25,Yakima,Washington,53077,6940,204,149,3

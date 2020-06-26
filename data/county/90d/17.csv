@@ -1,25 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-03-19,Clinton,Illinois,17027,3,0,0,0
-2020-03-19,Cook,Illinois,17031,279,100,2,1
-2020-03-19,Cumberland,Illinois,17035,1,0,0,0
-2020-03-19,DuPage,Illinois,17043,54,9,0,0
-2020-03-19,Jackson,Illinois,17077,1,0,0,0
-2020-03-19,Kane,Illinois,17089,6,2,0,0
-2020-03-19,Kankakee,Illinois,17091,1,0,0,0
-2020-03-19,Kendall,Illinois,17093,3,0,0,0
-2020-03-19,LaSalle,Illinois,17099,1,0,0,0
-2020-03-19,Lake,Illinois,17097,37,19,0,0
-2020-03-19,Madison,Illinois,17119,1,0,0,0
-2020-03-19,McHenry,Illinois,17111,6,2,0,0
-2020-03-19,Peoria,Illinois,17143,3,0,0,0
-2020-03-19,Sangamon,Illinois,17167,4,0,1,1
-2020-03-19,St. Clair,Illinois,17163,3,0,0,0
-2020-03-19,Washington,Illinois,17189,1,0,0,0
-2020-03-19,Whiteside,Illinois,17195,1,0,0,0
-2020-03-19,Will,Illinois,17197,11,2,1,1
-2020-03-19,Williamson,Illinois,17199,1,0,0,0
-2020-03-19,Winnebago,Illinois,17201,1,0,0,0
-2020-03-19,Woodford,Illinois,17203,2,0,0,0
 2020-03-20,Adams,Illinois,17001,1,1,0,0
 2020-03-20,Christian,Illinois,17021,1,1,0,0
 2020-03-20,Clinton,Illinois,17027,3,0,0,0
@@ -157,7 +136,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-24,Sangamon,Illinois,17167,5,1,1,0
 2020-03-24,St. Clair,Illinois,17163,7,3,0,0
 2020-03-24,Stephenson,Illinois,17177,1,0,0,0
-2020-03-24,Unknown,Illinois,,58,0,0,0
+2020-03-24,Unknown,Illinois,,2,-56,0,0
 2020-03-24,Washington,Illinois,17189,1,0,0,0
 2020-03-24,Whiteside,Illinois,17195,1,0,0,0
 2020-03-24,Will,Illinois,17197,24,0,1,0
@@ -193,7 +172,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-25,Sangamon,Illinois,17167,5,0,1,0
 2020-03-25,St. Clair,Illinois,17163,7,0,0,0
 2020-03-25,Stephenson,Illinois,17177,1,0,0,0
-2020-03-25,Unknown,Illinois,,58,0,0,0
+2020-03-25,Unknown,Illinois,,0,-2,2,2
 2020-03-25,Washington,Illinois,17189,1,0,0,0
 2020-03-25,Whiteside,Illinois,17195,1,0,0,0
 2020-03-25,Will,Illinois,17197,50,26,2,1
@@ -231,7 +210,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-26,St. Clair,Illinois,17163,13,6,0,0
 2020-03-26,Stephenson,Illinois,17177,2,1,0,0
 2020-03-26,Tazewell,Illinois,17179,2,2,0,0
-2020-03-26,Unknown,Illinois,,58,0,0,0
 2020-03-26,Washington,Illinois,17189,1,0,0,0
 2020-03-26,Whiteside,Illinois,17195,1,0,0,0
 2020-03-26,Will,Illinois,17197,67,17,3,1
@@ -272,7 +250,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-27,St. Clair,Illinois,17163,15,2,1,1
 2020-03-27,Stephenson,Illinois,17177,2,0,0,0
 2020-03-27,Tazewell,Illinois,17179,2,0,0,0
-2020-03-27,Unknown,Illinois,,58,0,0,0
 2020-03-27,Washington,Illinois,17189,1,0,0,0
 2020-03-27,Whiteside,Illinois,17195,2,1,0,0
 2020-03-27,Will,Illinois,17197,104,37,3,0
@@ -316,7 +293,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-28,St. Clair,Illinois,17163,18,3,1,0
 2020-03-28,Stephenson,Illinois,17177,2,0,0,0
 2020-03-28,Tazewell,Illinois,17179,3,1,0,0
-2020-03-28,Unknown,Illinois,,58,0,0,0
+2020-03-28,Unknown,Illinois,,3,3,0,-2
 2020-03-28,Washington,Illinois,17189,1,0,0,0
 2020-03-28,Whiteside,Illinois,17195,2,0,0,0
 2020-03-28,Will,Illinois,17197,156,52,4,1
@@ -364,7 +341,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-29,St. Clair,Illinois,17163,31,13,3,2
 2020-03-29,Stephenson,Illinois,17177,3,1,0,0
 2020-03-29,Tazewell,Illinois,17179,4,1,0,0
-2020-03-29,Unknown,Illinois,,58,0,0,0
 2020-03-29,Washington,Illinois,17189,1,0,0,0
 2020-03-29,Whiteside,Illinois,17195,3,1,0,0
 2020-03-29,Will,Illinois,17197,192,36,4,0
@@ -417,7 +393,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-30,St. Clair,Illinois,17163,36,5,3,0
 2020-03-30,Stephenson,Illinois,17177,3,0,0,0
 2020-03-30,Tazewell,Illinois,17179,4,0,0,0
-2020-03-30,Unknown,Illinois,,58,0,0,0
+2020-03-30,Unknown,Illinois,,3,0,0,0
 2020-03-30,Washington,Illinois,17189,1,0,0,0
 2020-03-30,Whiteside,Illinois,17195,4,1,0,0
 2020-03-30,Will,Illinois,17197,224,32,6,2
@@ -472,7 +448,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-31,St. Clair,Illinois,17163,43,7,2,-1
 2020-03-31,Stephenson,Illinois,17177,3,0,0,0
 2020-03-31,Tazewell,Illinois,17179,4,0,0,0
-2020-03-31,Unknown,Illinois,,58,0,0,0
+2020-03-31,Unknown,Illinois,,6,3,0,0
 2020-03-31,Washington,Illinois,17189,1,0,0,0
 2020-03-31,Whiteside,Illinois,17195,5,1,1,1
 2020-03-31,Will,Illinois,17197,228,4,8,2
@@ -528,7 +504,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-01,St. Clair,Illinois,17163,53,10,2,0
 2020-04-01,Stephenson,Illinois,17177,3,0,0,0
 2020-04-01,Tazewell,Illinois,17179,4,0,0,0
-2020-04-01,Unknown,Illinois,,58,0,0,0
+2020-04-01,Unknown,Illinois,,16,10,0,0
 2020-04-01,Vermilion,Illinois,17183,1,1,0,0
 2020-04-01,Washington,Illinois,17189,1,0,0,0
 2020-04-01,Whiteside,Illinois,17195,5,0,1,0
@@ -590,7 +566,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-02,St. Clair,Illinois,17163,55,2,3,1
 2020-04-02,Stephenson,Illinois,17177,3,0,0,0
 2020-04-02,Tazewell,Illinois,17179,5,1,0,0
-2020-04-02,Unknown,Illinois,,28,-30,0,0
+2020-04-02,Unknown,Illinois,,28,12,0,0
 2020-04-02,Vermilion,Illinois,17183,2,1,0,0
 2020-04-02,Washington,Illinois,17189,1,0,0,0
 2020-04-02,Whiteside,Illinois,17195,6,1,1,0
@@ -724,7 +700,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-04,St. Clair,Illinois,17163,80,23,3,0
 2020-04-04,Stephenson,Illinois,17177,3,0,0,0
 2020-04-04,Tazewell,Illinois,17179,10,3,0,0
-2020-04-04,Unknown,Illinois,,16,-24,0,0
+2020-04-04,Unknown,Illinois,,15,-25,0,0
 2020-04-04,Vermilion,Illinois,17183,5,3,0,0
 2020-04-04,Washington,Illinois,17189,1,0,0,0
 2020-04-04,Whiteside,Illinois,17195,15,6,1,0
@@ -796,7 +772,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-05,St. Clair,Illinois,17163,86,6,3,0
 2020-04-05,Stephenson,Illinois,17177,3,0,0,0
 2020-04-05,Tazewell,Illinois,17179,13,3,0,0
-2020-04-05,Unknown,Illinois,,48,32,0,0
+2020-04-05,Unknown,Illinois,,47,32,0,0
 2020-04-05,Vermilion,Illinois,17183,5,0,0,0
 2020-04-05,Washington,Illinois,17189,1,0,0,0
 2020-04-05,Whiteside,Illinois,17195,18,3,1,0
@@ -869,7 +845,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-06,St. Clair,Illinois,17163,92,6,3,0
 2020-04-06,Stephenson,Illinois,17177,5,2,0,0
 2020-04-06,Tazewell,Illinois,17179,14,1,1,1
-2020-04-06,Unknown,Illinois,,62,14,0,0
+2020-04-06,Unknown,Illinois,,62,15,0,0
 2020-04-06,Vermilion,Illinois,17183,5,0,0,0
 2020-04-06,Wabash,Illinois,17185,1,1,0,0
 2020-04-06,Washington,Illinois,17189,2,1,0,0
@@ -1109,7 +1085,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-09,Stark,Illinois,17175,1,0,0,0
 2020-04-09,Stephenson,Illinois,17177,7,1,0,0
 2020-04-09,Tazewell,Illinois,17179,17,0,2,0
-2020-04-09,Unknown,Illinois,,68,7,1,1
+2020-04-09,Unknown,Illinois,,58,-3,0,0
 2020-04-09,Vermilion,Illinois,17183,5,0,0,0
 2020-04-09,Wabash,Illinois,17185,2,1,0,0
 2020-04-09,Washington,Illinois,17189,2,0,0,0
@@ -1193,7 +1169,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-10,Stark,Illinois,17175,1,0,0,0
 2020-04-10,Stephenson,Illinois,17177,8,1,0,0
 2020-04-10,Tazewell,Illinois,17179,17,0,2,0
-2020-04-10,Unknown,Illinois,,81,13,1,0
+2020-04-10,Unknown,Illinois,,76,18,0,0
 2020-04-10,Vermilion,Illinois,17183,7,2,0,0
 2020-04-10,Wabash,Illinois,17185,2,0,0,0
 2020-04-10,Washington,Illinois,17189,2,0,0,0
@@ -1279,7 +1255,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-11,Stark,Illinois,17175,1,0,0,0
 2020-04-11,Stephenson,Illinois,17177,8,0,0,0
 2020-04-11,Tazewell,Illinois,17179,18,1,2,0
-2020-04-11,Unknown,Illinois,,85,4,0,-1
+2020-04-11,Unknown,Illinois,,82,6,0,0
 2020-04-11,Vermilion,Illinois,17183,7,0,0,0
 2020-04-11,Wabash,Illinois,17185,2,0,0,0
 2020-04-11,Warren,Illinois,17187,1,1,0,0
@@ -1366,7 +1342,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-12,Stark,Illinois,17175,1,0,0,0
 2020-04-12,Stephenson,Illinois,17177,8,0,0,0
 2020-04-12,Tazewell,Illinois,17179,19,1,2,0
-2020-04-12,Unknown,Illinois,,94,9,0,0
+2020-04-12,Unknown,Illinois,,91,9,0,0
 2020-04-12,Vermilion,Illinois,17183,8,1,0,0
 2020-04-12,Wabash,Illinois,17185,2,0,0,0
 2020-04-12,Warren,Illinois,17187,2,1,0,0
@@ -1454,7 +1430,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-13,Stark,Illinois,17175,1,0,0,0
 2020-04-13,Stephenson,Illinois,17177,8,0,0,0
 2020-04-13,Tazewell,Illinois,17179,19,0,2,0
-2020-04-13,Unknown,Illinois,,65,-29,0,0
+2020-04-13,Unknown,Illinois,,62,-29,0,0
 2020-04-13,Vermilion,Illinois,17183,8,0,0,0
 2020-04-13,Wabash,Illinois,17185,2,0,0,0
 2020-04-13,Warren,Illinois,17187,2,0,0,0
@@ -1543,7 +1519,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-14,Stark,Illinois,17175,1,0,0,0
 2020-04-14,Stephenson,Illinois,17177,9,1,0,0
 2020-04-14,Tazewell,Illinois,17179,21,2,3,1
-2020-04-14,Unknown,Illinois,,43,-22,0,0
+2020-04-14,Unknown,Illinois,,43,-19,0,0
 2020-04-14,Vermilion,Illinois,17183,8,0,0,0
 2020-04-14,Wabash,Illinois,17185,2,0,0,0
 2020-04-14,Warren,Illinois,17187,2,0,0,0
@@ -1633,7 +1609,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-15,Stephenson,Illinois,17177,9,0,0,0
 2020-04-15,Tazewell,Illinois,17179,21,0,3,0
 2020-04-15,Union,Illinois,17181,3,3,0,0
-2020-04-15,Unknown,Illinois,,45,2,0,0
+2020-04-15,Unknown,Illinois,,34,-9,1,1
 2020-04-15,Vermilion,Illinois,17183,8,0,0,0
 2020-04-15,Wabash,Illinois,17185,1,-1,0,0
 2020-04-15,Warren,Illinois,17187,2,0,0,0
@@ -1724,7 +1700,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-16,Stephenson,Illinois,17177,9,0,0,0
 2020-04-16,Tazewell,Illinois,17179,21,0,3,0
 2020-04-16,Union,Illinois,17181,3,0,0,0
-2020-04-16,Unknown,Illinois,,55,10,0,0
+2020-04-16,Unknown,Illinois,,51,17,1,0
 2020-04-16,Vermilion,Illinois,17183,8,0,0,0
 2020-04-16,Wabash,Illinois,17185,1,0,0,0
 2020-04-16,Warren,Illinois,17187,2,0,0,0
@@ -1816,7 +1792,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-17,Stephenson,Illinois,17177,10,1,0,0
 2020-04-17,Tazewell,Illinois,17179,21,0,3,0
 2020-04-17,Union,Illinois,17181,4,1,0,0
-2020-04-17,Unknown,Illinois,,71,16,0,0
+2020-04-17,Unknown,Illinois,,71,20,0,-1
 2020-04-17,Vermilion,Illinois,17183,8,0,0,0
 2020-04-17,Wabash,Illinois,17185,1,0,0,0
 2020-04-17,Warren,Illinois,17187,2,0,0,0
@@ -2293,7 +2269,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-22,Stephenson,Illinois,17177,13,0,0,0
 2020-04-22,Tazewell,Illinois,17179,25,-5,3,0
 2020-04-22,Union,Illinois,17181,5,0,0,0
-2020-04-22,Unknown,Illinois,,191,0,0,0
+2020-04-22,Unknown,Illinois,,228,37,1,1
 2020-04-22,Vermilion,Illinois,17183,10,0,0,0
 2020-04-22,Wabash,Illinois,17185,1,0,0,0
 2020-04-22,Warren,Illinois,17187,19,4,0,0
@@ -2390,7 +2366,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-23,Stephenson,Illinois,17177,13,0,0,0
 2020-04-23,Tazewell,Illinois,17179,30,5,3,0
 2020-04-23,Union,Illinois,17181,6,1,0,0
-2020-04-23,Unknown,Illinois,,191,0,0,0
+2020-04-23,Unknown,Illinois,,192,-36,0,-1
 2020-04-23,Vermilion,Illinois,17183,10,0,0,0
 2020-04-23,Wabash,Illinois,17185,1,0,0,0
 2020-04-23,Warren,Illinois,17187,31,12,0,0
@@ -2487,7 +2463,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-24,Stephenson,Illinois,17177,13,0,0,0
 2020-04-24,Tazewell,Illinois,17179,34,4,3,0
 2020-04-24,Union,Illinois,17181,7,1,0,0
-2020-04-24,Unknown,Illinois,,218,27,0,0
+2020-04-24,Unknown,Illinois,,218,26,0,0
 2020-04-24,Vermilion,Illinois,17183,11,1,0,0
 2020-04-24,Wabash,Illinois,17185,1,0,0,0
 2020-04-24,Warren,Illinois,17187,37,6,0,0
@@ -8601,3 +8577,105 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Williamson,Illinois,17199,99,4,4,0
 2020-06-24,Winnebago,Illinois,17201,2933,17,88,3
 2020-06-24,Woodford,Illinois,17203,33,0,2,0
+2020-06-25,Adams,Illinois,17001,71,4,1,0
+2020-06-25,Alexander,Illinois,17003,21,0,0,0
+2020-06-25,Bond,Illinois,17005,12,0,1,0
+2020-06-25,Boone,Illinois,17007,567,7,21,0
+2020-06-25,Brown,Illinois,17009,10,0,0,0
+2020-06-25,Bureau,Illinois,17011,24,0,1,0
+2020-06-25,Calhoun,Illinois,17013,1,0,0,0
+2020-06-25,Carroll,Illinois,17015,21,0,2,0
+2020-06-25,Cass,Illinois,17017,119,2,0,0
+2020-06-25,Champaign,Illinois,17019,815,9,12,0
+2020-06-25,Christian,Illinois,17021,42,0,5,0
+2020-06-25,Clark,Illinois,17023,14,0,0,0
+2020-06-25,Clay,Illinois,17025,2,0,0,0
+2020-06-25,Clinton,Illinois,17027,226,2,17,0
+2020-06-25,Coles,Illinois,17029,155,1,17,0
+2020-06-25,Cook,Illinois,17031,88650,512,4500,22
+2020-06-25,Crawford,Illinois,17033,18,0,0,0
+2020-06-25,Cumberland,Illinois,17035,10,0,0,0
+2020-06-25,De Witt,Illinois,17039,4,0,0,0
+2020-06-25,DeKalb,Illinois,17037,557,3,18,0
+2020-06-25,Douglas,Illinois,17041,45,2,0,0
+2020-06-25,DuPage,Illinois,17043,8829,47,463,5
+2020-06-25,Edgar,Illinois,17045,8,1,0,0
+2020-06-25,Edwards,Illinois,17047,2,0,0,0
+2020-06-25,Effingham,Illinois,17049,11,-1,1,0
+2020-06-25,Fayette,Illinois,17051,23,0,3,0
+2020-06-25,Ford,Illinois,17053,26,0,1,0
+2020-06-25,Franklin,Illinois,17055,13,1,0,0
+2020-06-25,Fulton,Illinois,17057,15,0,0,0
+2020-06-25,Gallatin,Illinois,17059,2,0,0,0
+2020-06-25,Greene,Illinois,17061,9,0,0,0
+2020-06-25,Grundy,Illinois,17063,145,1,4,0
+2020-06-25,Hamilton,Illinois,17065,2,0,0,0
+2020-06-25,Hancock,Illinois,17067,18,0,1,0
+2020-06-25,Hardin,Illinois,17069,1,0,0,0
+2020-06-25,Henderson,Illinois,17071,8,0,0,0
+2020-06-25,Henry,Illinois,17073,78,1,1,0
+2020-06-25,Iroquois,Illinois,17075,149,5,5,0
+2020-06-25,Jackson,Illinois,17077,328,3,19,0
+2020-06-25,Jasper,Illinois,17079,46,0,7,0
+2020-06-25,Jefferson,Illinois,17081,105,-2,17,0
+2020-06-25,Jersey,Illinois,17083,34,1,1,0
+2020-06-25,Jo Daviess,Illinois,17085,39,0,1,0
+2020-06-25,Johnson,Illinois,17087,20,0,0,0
+2020-06-25,Kane,Illinois,17089,7597,44,257,2
+2020-06-25,Kankakee,Illinois,17091,1300,45,63,0
+2020-06-25,Kendall,Illinois,17093,982,11,22,0
+2020-06-25,Knox,Illinois,17095,121,2,0,0
+2020-06-25,LaSalle,Illinois,17099,199,4,17,1
+2020-06-25,Lake,Illinois,17097,9514,46,411,2
+2020-06-25,Lawrence,Illinois,17101,6,0,0,0
+2020-06-25,Lee,Illinois,17103,96,0,2,0
+2020-06-25,Livingston,Illinois,17105,40,0,2,0
+2020-06-25,Logan,Illinois,17107,13,0,0,0
+2020-06-25,Macon,Illinois,17115,226,3,22,0
+2020-06-25,Macoupin,Illinois,17117,50,2,3,0
+2020-06-25,Madison,Illinois,17119,877,25,68,0
+2020-06-25,Marion,Illinois,17121,65,2,0,0
+2020-06-25,Marshall,Illinois,17123,7,1,0,0
+2020-06-25,Mason,Illinois,17125,21,0,0,0
+2020-06-25,Massac,Illinois,17127,8,0,0,0
+2020-06-25,McDonough,Illinois,17109,101,0,15,0
+2020-06-25,McHenry,Illinois,17111,1949,12,95,2
+2020-06-25,McLean,Illinois,17113,254,1,13,0
+2020-06-25,Menard,Illinois,17129,23,0,0,0
+2020-06-25,Mercer,Illinois,17131,20,0,0,0
+2020-06-25,Monroe,Illinois,17133,118,1,13,1
+2020-06-25,Montgomery,Illinois,17135,41,0,0,0
+2020-06-25,Morgan,Illinois,17137,123,0,3,0
+2020-06-25,Moultrie,Illinois,17139,16,1,0,0
+2020-06-25,Ogle,Illinois,17141,251,6,4,0
+2020-06-25,Peoria,Illinois,17143,459,12,27,1
+2020-06-25,Perry,Illinois,17145,46,0,0,0
+2020-06-25,Piatt,Illinois,17147,19,2,0,0
+2020-06-25,Pike,Illinois,17149,2,0,0,0
+2020-06-25,Pope,Illinois,17151,1,0,0,0
+2020-06-25,Pulaski,Illinois,17153,67,0,0,0
+2020-06-25,Putnam,Illinois,17155,1,0,0,0
+2020-06-25,Randolph,Illinois,17157,278,0,7,0
+2020-06-25,Richland,Illinois,17159,4,0,0,0
+2020-06-25,Rock Island,Illinois,17161,841,8,28,0
+2020-06-25,Saline,Illinois,17165,8,0,0,0
+2020-06-25,Sangamon,Illinois,17167,402,2,33,0
+2020-06-25,Schuyler,Illinois,17169,13,0,0,0
+2020-06-25,Shelby,Illinois,17173,16,0,1,0
+2020-06-25,St. Clair,Illinois,17163,1896,27,136,0
+2020-06-25,Stark,Illinois,17175,3,0,0,0
+2020-06-25,Stephenson,Illinois,17177,261,4,5,0
+2020-06-25,Tazewell,Illinois,17179,119,4,7,0
+2020-06-25,Union,Illinois,17181,181,-1,18,0
+2020-06-25,Unknown,Illinois,,1000,0,204,0
+2020-06-25,Vermilion,Illinois,17183,52,2,2,0
+2020-06-25,Wabash,Illinois,17185,22,0,0,0
+2020-06-25,Warren,Illinois,17187,131,1,0,0
+2020-06-25,Washington,Illinois,17189,19,0,0,0
+2020-06-25,Wayne,Illinois,17191,12,1,1,0
+2020-06-25,White,Illinois,17193,4,1,0,0
+2020-06-25,Whiteside,Illinois,17195,178,0,15,0
+2020-06-25,Will,Illinois,17197,6504,24,316,1
+2020-06-25,Williamson,Illinois,17199,102,3,4,0
+2020-06-25,Winnebago,Illinois,17201,2947,14,89,1
+2020-06-25,Woodford,Illinois,17203,34,1,2,0

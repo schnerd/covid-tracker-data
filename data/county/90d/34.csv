@@ -1,24 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-03-19,Atlantic,New Jersey,34001,3,0,0,0
-2020-03-19,Bergen,New Jersey,34003,297,164,6,2
-2020-03-19,Burlington,New Jersey,34005,14,4,0,0
-2020-03-19,Camden,New Jersey,34007,11,1,0,0
-2020-03-19,Cape May,New Jersey,34009,1,1,0,0
-2020-03-19,Essex,New Jersey,34013,63,18,2,2
-2020-03-19,Gloucester,New Jersey,34015,3,1,0,0
-2020-03-19,Hudson,New Jersey,34017,55,21,0,0
-2020-03-19,Hunterdon,New Jersey,34019,8,2,0,0
-2020-03-19,Mercer,New Jersey,34021,20,5,0,0
-2020-03-19,Middlesex,New Jersey,34023,64,24,0,0
-2020-03-19,Monmouth,New Jersey,34025,43,11,1,0
-2020-03-19,Morris,New Jersey,34027,26,7,0,0
-2020-03-19,Ocean,New Jersey,34029,33,17,0,0
-2020-03-19,Passaic,New Jersey,34031,38,20,0,0
-2020-03-19,Somerset,New Jersey,34035,20,5,0,0
-2020-03-19,Sussex,New Jersey,34037,2,2,0,0
-2020-03-19,Union,New Jersey,34039,29,3,0,0
-2020-03-19,Unknown,New Jersey,,1,0,0,0
-2020-03-19,Warren,New Jersey,34041,4,2,0,0
 2020-03-20,Atlantic,New Jersey,34001,3,0,0,0
 2020-03-20,Bergen,New Jersey,34003,342,45,7,1
 2020-03-20,Burlington,New Jersey,34005,17,3,0,0
@@ -125,7 +105,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-24,Somerset,New Jersey,34035,102,35,2,0
 2020-03-24,Sussex,New Jersey,34037,18,3,0,0
 2020-03-24,Union,New Jersey,34039,246,57,2,1
-2020-03-24,Unknown,New Jersey,,645,229,7,7
+2020-03-24,Unknown,New Jersey,,645,229,0,0
 2020-03-24,Warren,New Jersey,34041,15,0,1,0
 2020-03-25,Atlantic,New Jersey,34001,9,3,0,0
 2020-03-25,Bergen,New Jersey,34003,819,118,15,1
@@ -147,7 +127,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-25,Somerset,New Jersey,34035,117,15,3,1
 2020-03-25,Sussex,New Jersey,34037,27,9,0,0
 2020-03-25,Union,New Jersey,34039,262,16,3,1
-2020-03-25,Unknown,New Jersey,,933,288,7,0
+2020-03-25,Unknown,New Jersey,,933,288,0,0
 2020-03-25,Warren,New Jersey,34041,18,3,1,0
 2020-03-26,Atlantic,New Jersey,34001,10,1,0,0
 2020-03-26,Bergen,New Jersey,34003,1206,387,21,6
@@ -169,7 +149,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-26,Somerset,New Jersey,34035,179,62,4,1
 2020-03-26,Sussex,New Jersey,34037,49,22,0,0
 2020-03-26,Union,New Jersey,34039,432,170,3,0
-2020-03-26,Unknown,New Jersey,,1478,545,7,0
+2020-03-26,Unknown,New Jersey,,1478,545,0,0
 2020-03-26,Warren,New Jersey,34041,31,13,1,0
 2020-03-27,Atlantic,New Jersey,34001,14,4,0,0
 2020-03-27,Bergen,New Jersey,34003,1505,299,28,7
@@ -191,7 +171,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-27,Somerset,New Jersey,34035,222,43,7,3
 2020-03-27,Sussex,New Jersey,34037,65,16,0,0
 2020-03-27,Union,New Jersey,34039,519,87,3,0
-2020-03-27,Unknown,New Jersey,,1984,506,7,0
+2020-03-27,Unknown,New Jersey,,1984,506,0,0
 2020-03-27,Warren,New Jersey,34041,38,7,1,0
 2020-03-28,Atlantic,New Jersey,34001,17,3,0,0
 2020-03-28,Bergen,New Jersey,34003,1838,333,35,7
@@ -213,7 +193,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-28,Somerset,New Jersey,34035,258,36,8,1
 2020-03-28,Sussex,New Jersey,34037,81,16,1,1
 2020-03-28,Union,New Jersey,34039,742,223,10,7
-2020-03-28,Unknown,New Jersey,,2478,494,7,0
+2020-03-28,Unknown,New Jersey,,2478,494,0,0
 2020-03-28,Warren,New Jersey,34041,51,13,2,1
 2020-03-29,Atlantic,New Jersey,34001,24,7,0,0
 2020-03-29,Bergen,New Jersey,34003,2169,331,35,0
@@ -235,7 +215,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-29,Somerset,New Jersey,34035,295,37,8,0
 2020-03-29,Sussex,New Jersey,34037,93,12,1,0
 2020-03-29,Union,New Jersey,34039,896,154,10,0
-2020-03-29,Unknown,New Jersey,,3020,542,21,14
+2020-03-29,Unknown,New Jersey,,3020,542,21,21
 2020-03-29,Warren,New Jersey,34041,56,5,2,0
 2020-03-30,Atlantic,New Jersey,34001,30,6,0,0
 2020-03-30,Bergen,New Jersey,34003,2482,313,41,6
@@ -257,7 +237,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-30,Somerset,New Jersey,34035,349,54,14,6
 2020-03-30,Sussex,New Jersey,34037,113,20,3,2
 2020-03-30,Union,New Jersey,34039,1213,317,15,5
-2020-03-30,Unknown,New Jersey,,3840,820,7,-14
+2020-03-30,Unknown,New Jersey,,3840,820,0,-21
 2020-03-30,Warren,New Jersey,34041,68,12,2,0
 2020-03-31,Atlantic,New Jersey,34001,31,1,0,0
 2020-03-31,Bergen,New Jersey,34003,2909,427,53,12
@@ -279,7 +259,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-31,Somerset,New Jersey,34035,413,64,14,0
 2020-03-31,Sussex,New Jersey,34037,132,19,3,0
 2020-03-31,Union,New Jersey,34039,1418,205,24,9
-2020-03-31,Unknown,New Jersey,,3683,-157,7,0
+2020-03-31,Unknown,New Jersey,,3683,-157,0,0
 2020-03-31,Warren,New Jersey,34041,76,8,2,0
 2020-04-01,Atlantic,New Jersey,34001,40,9,0,0
 2020-04-01,Bergen,New Jersey,34003,3494,585,75,22
@@ -301,7 +281,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-01,Somerset,New Jersey,34035,472,59,15,1
 2020-04-01,Sussex,New Jersey,34037,158,26,6,3
 2020-04-01,Union,New Jersey,34039,1661,243,29,5
-2020-04-01,Unknown,New Jersey,,4512,829,7,0
+2020-04-01,Unknown,New Jersey,,4512,829,0,0
 2020-04-01,Warren,New Jersey,34041,96,20,3,1
 2020-04-02,Atlantic,New Jersey,34001,50,10,1,1
 2020-04-02,Bergen,New Jersey,34003,4099,605,120,45
@@ -323,7 +303,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-02,Somerset,New Jersey,34035,549,77,17,2
 2020-04-02,Sussex,New Jersey,34037,179,21,7,1
 2020-04-02,Union,New Jersey,34039,2010,349,34,5
-2020-04-02,Unknown,New Jersey,,4866,354,4,-3
+2020-04-02,Unknown,New Jersey,,4866,354,4,4
 2020-04-02,Warren,New Jersey,34041,116,20,3,0
 2020-04-03,Atlantic,New Jersey,34001,75,25,1,0
 2020-04-03,Bergen,New Jersey,34003,4866,767,132,12
@@ -433,7 +413,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-07,Somerset,New Jersey,34035,1033,131,40,9
 2020-04-07,Sussex,New Jersey,34037,331,39,15,4
 2020-04-07,Union,New Jersey,34039,4358,673,95,17
-2020-04-07,Unknown,New Jersey,,2220,-1301,5,-9
+2020-04-07,Unknown,New Jersey,,2220,-1301,4,-10
 2020-04-07,Warren,New Jersey,34041,255,40,7,0
 2020-04-08,Atlantic,New Jersey,34001,168,24,4,0
 2020-04-08,Bergen,New Jersey,34003,7874,341,314,51
@@ -455,7 +435,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-08,Somerset,New Jersey,34035,1189,156,46,6
 2020-04-08,Sussex,New Jersey,34037,357,26,21,6
 2020-04-08,Union,New Jersey,34039,4831,473,125,30
-2020-04-08,Unknown,New Jersey,,1362,-858,4,-1
+2020-04-08,Unknown,New Jersey,,1362,-858,4,0
 2020-04-08,Warren,New Jersey,34041,289,34,9,2
 2020-04-09,Atlantic,New Jersey,34001,191,23,4,0
 2020-04-09,Bergen,New Jersey,34003,8343,469,345,31
@@ -477,7 +457,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-09,Somerset,New Jersey,34035,1335,146,59,13
 2020-04-09,Sussex,New Jersey,34037,392,35,21,0
 2020-04-09,Union,New Jersey,34039,5203,372,145,20
-2020-04-09,Unknown,New Jersey,,996,-366,12,8
+2020-04-09,Unknown,New Jersey,,996,-366,6,2
 2020-04-09,Warren,New Jersey,34041,319,30,7,-2
 2020-04-10,Atlantic,New Jersey,34001,211,20,6,2
 2020-04-10,Bergen,New Jersey,34003,8928,585,390,45
@@ -499,7 +479,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-10,Somerset,New Jersey,34035,1523,188,69,10
 2020-04-10,Sussex,New Jersey,34037,413,21,26,5
 2020-04-10,Union,New Jersey,34039,5575,372,161,16
-2020-04-10,Unknown,New Jersey,,649,-347,2,-10
+2020-04-10,Unknown,New Jersey,,649,-347,2,-4
 2020-04-10,Warren,New Jersey,34041,337,18,15,8
 2020-04-11,Atlantic,New Jersey,34001,230,19,7,1
 2020-04-11,Bergen,New Jersey,34003,9362,434,435,45
@@ -719,7 +699,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-20,Somerset,New Jersey,34035,2488,104,170,12
 2020-04-20,Sussex,New Jersey,34037,680,21,64,2
 2020-04-20,Union,New Jersey,34039,9972,363,387,15
-2020-04-20,Unknown,New Jersey,,660,75,1,1
+2020-04-20,Unknown,New Jersey,,669,84,1,1
 2020-04-20,Warren,New Jersey,34041,613,21,47,3
 2020-04-21,Atlantic,New Jersey,34001,469,59,22,3
 2020-04-21,Bergen,New Jersey,34003,13356,345,835,48
@@ -741,7 +721,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-21,Somerset,New Jersey,34035,2599,111,176,6
 2020-04-21,Sussex,New Jersey,34037,712,32,69,5
 2020-04-21,Union,New Jersey,34039,10289,317,427,40
-2020-04-21,Unknown,New Jersey,,599,-61,0,-1
+2020-04-21,Unknown,New Jersey,,599,-70,0,-1
 2020-04-21,Warren,New Jersey,34041,642,29,48,1
 2020-04-22,Atlantic,New Jersey,34001,505,36,24,2
 2020-04-22,Bergen,New Jersey,34003,13686,330,876,41
@@ -763,7 +743,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-22,Somerset,New Jersey,34035,2688,89,183,7
 2020-04-22,Sussex,New Jersey,34037,743,31,76,7
 2020-04-22,Union,New Jersey,34039,10484,195,481,54
-2020-04-22,Unknown,New Jersey,,591,-8,2,2
+2020-04-22,Unknown,New Jersey,,1045,446,2,2
 2020-04-22,Warren,New Jersey,34041,689,47,55,7
 2020-04-23,Atlantic,New Jersey,34001,544,39,30,6
 2020-04-23,Bergen,New Jersey,34003,14049,363,907,31
@@ -785,7 +765,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-23,Somerset,New Jersey,34035,2798,110,196,13
 2020-04-23,Sussex,New Jersey,34037,784,41,82,6
 2020-04-23,Union,New Jersey,34039,10935,451,515,34
-2020-04-23,Unknown,New Jersey,,1108,517,2,0
+2020-04-23,Unknown,New Jersey,,1108,63,2,0
 2020-04-23,Warren,New Jersey,34041,719,30,60,5
 2020-04-24,Atlantic,New Jersey,34001,566,22,29,-1
 2020-04-24,Bergen,New Jersey,34003,14363,314,934,27
@@ -1357,7 +1337,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-19,Somerset,New Jersey,34035,4312,34,382,7
 2020-05-19,Sussex,New Jersey,34037,1063,2,139,1
 2020-05-19,Union,New Jersey,34039,15031,128,977,15
-2020-05-19,Unknown,New Jersey,,802,-33,0,0
+2020-05-19,Unknown,New Jersey,,778,-57,0,0
 2020-05-19,Warren,New Jersey,34041,1091,5,121,0
 2020-05-20,Atlantic,New Jersey,34001,1875,37,126,5
 2020-05-20,Bergen,New Jersey,34003,17518,-4,1500,26
@@ -1379,7 +1359,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-20,Somerset,New Jersey,34035,4349,37,384,2
 2020-05-20,Sussex,New Jersey,34037,1069,6,140,1
 2020-05-20,Union,New Jersey,34039,15122,91,994,17
-2020-05-20,Unknown,New Jersey,,855,53,0,0
+2020-05-20,Unknown,New Jersey,,855,77,0,0
 2020-05-20,Warren,New Jersey,34041,1100,9,122,1
 2020-05-21,Atlantic,New Jersey,34001,1895,20,128,2
 2020-05-21,Bergen,New Jersey,34003,17583,65,1508,8
@@ -2151,3 +2131,25 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Union,New Jersey,34039,16330,-11,1140,1
 2020-06-24,Unknown,New Jersey,,698,1,0,0
 2020-06-24,Warren,New Jersey,34041,1222,1,144,0
+2020-06-25,Atlantic,New Jersey,34001,2801,30,206,14
+2020-06-25,Bergen,New Jersey,34003,19430,333,1979,265
+2020-06-25,Burlington,New Jersey,34005,5122,54,414,41
+2020-06-25,Camden,New Jersey,34007,7259,74,474,49
+2020-06-25,Cape May,New Jersey,34009,708,11,67,4
+2020-06-25,Cumberland,New Jersey,34011,2929,21,138,12
+2020-06-25,Essex,New Jersey,34013,18874,257,2011,247
+2020-06-25,Gloucester,New Jersey,34015,2525,28,180,8
+2020-06-25,Hudson,New Jersey,34017,18946,175,1444,172
+2020-06-25,Hunterdon,New Jersey,34019,1120,56,122,55
+2020-06-25,Mercer,New Jersey,34021,7633,61,573,38
+2020-06-25,Middlesex,New Jersey,34023,16867,227,1307,200
+2020-06-25,Monmouth,New Jersey,34025,9123,115,797,95
+2020-06-25,Morris,New Jersey,34027,6831,107,789,145
+2020-06-25,Ocean,New Jersey,34029,9576,90,936,70
+2020-06-25,Passaic,New Jersey,34031,16967,179,1173,148
+2020-06-25,Salem,New Jersey,34033,755,5,71,4
+2020-06-25,Somerset,New Jersey,34035,4909,90,524,80
+2020-06-25,Sussex,New Jersey,34037,1220,40,191,38
+2020-06-25,Union,New Jersey,34039,16514,184,1321,181
+2020-06-25,Unknown,New Jersey,,706,8,0,0
+2020-06-25,Warren,New Jersey,34041,1235,13,155,11

@@ -298,6 +298,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-24,Spotsylvania,Virginia,51177,2,0,0,0
 2020-03-24,Stafford,Virginia,51179,6,0,0,0
 2020-03-24,Suffolk city,Virginia,51800,1,0,0,0
+2020-03-24,Unknown,Virginia,,0,0,1,1
 2020-03-24,Virginia Beach city,Virginia,51810,17,0,0,0
 2020-03-24,Williamsburg city,Virginia,51830,5,0,1,0
 2020-03-24,York,Virginia,51199,6,1,0,0
@@ -350,6 +351,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-25,Spotsylvania,Virginia,51177,3,1,0,0
 2020-03-25,Stafford,Virginia,51179,6,0,0,0
 2020-03-25,Suffolk city,Virginia,51800,1,0,0,0
+2020-03-25,Unknown,Virginia,,0,0,1,0
 2020-03-25,Virginia Beach city,Virginia,51810,23,6,0,0
 2020-03-25,Williamsburg city,Virginia,51830,5,0,1,0
 2020-03-25,York,Virginia,51199,8,2,0,0
@@ -414,6 +416,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-26,Spotsylvania,Virginia,51177,3,0,0,0
 2020-03-26,Stafford,Virginia,51179,11,5,0,0
 2020-03-26,Suffolk city,Virginia,51800,1,0,0,0
+2020-03-26,Unknown,Virginia,,35,35,5,4
 2020-03-26,Virginia Beach city,Virginia,51810,26,3,0,0
 2020-03-26,Warren,Virginia,51187,2,2,0,0
 2020-03-26,Washington,Virginia,51191,1,1,0,0
@@ -913,6 +916,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-01,Surry,Virginia,51181,1,0,0,0
 2020-04-01,Sussex,Virginia,51183,1,1,0,0
 2020-04-01,Tazewell,Virginia,51185,2,0,0,0
+2020-04-01,Unknown,Virginia,,27,-8,0,-5
 2020-04-01,Virginia Beach city,Virginia,51810,88,23,0,0
 2020-04-01,Warren,Virginia,51187,3,0,0,0
 2020-04-01,Washington,Virginia,51191,2,0,0,0
@@ -1117,7 +1121,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-03,Surry,Virginia,51181,3,2,0,0
 2020-04-03,Sussex,Virginia,51183,2,1,0,0
 2020-04-03,Tazewell,Virginia,51185,2,0,0,0
-2020-04-03,Unknown,Virginia,,0,0,11,11
+2020-04-03,Unknown,Virginia,,0,-27,11,11
 2020-04-03,Virginia Beach city,Virginia,51810,128,17,1,1
 2020-04-03,Warren,Virginia,51187,4,1,0,0
 2020-04-03,Washington,Virginia,51191,3,1,0,0
@@ -1227,7 +1231,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-04,Surry,Virginia,51181,3,0,0,0
 2020-04-04,Sussex,Virginia,51183,3,1,0,0
 2020-04-04,Tazewell,Virginia,51185,2,0,0,0
-2020-04-04,Unknown,Virginia,,18,18,17,6
+2020-04-04,Unknown,Virginia,,0,0,17,6
 2020-04-04,Virginia Beach city,Virginia,51810,160,32,1,0
 2020-04-04,Warren,Virginia,51187,4,0,0,0
 2020-04-04,Washington,Virginia,51191,3,0,0,0
@@ -1337,7 +1341,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-05,Surry,Virginia,51181,3,0,0,0
 2020-04-05,Sussex,Virginia,51183,4,1,0,0
 2020-04-05,Tazewell,Virginia,51185,2,0,0,0
-2020-04-05,Unknown,Virginia,,18,0,17,0
+2020-04-05,Unknown,Virginia,,0,0,17,0
 2020-04-05,Virginia Beach city,Virginia,51810,170,10,1,0
 2020-04-05,Warren,Virginia,51187,4,0,0,0
 2020-04-05,Washington,Virginia,51191,5,2,0,0
@@ -1450,7 +1454,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-06,Surry,Virginia,51181,3,0,0,0
 2020-04-06,Sussex,Virginia,51183,4,0,0,0
 2020-04-06,Tazewell,Virginia,51185,3,1,0,0
-2020-04-06,Unknown,Virginia,,0,-18,18,1
+2020-04-06,Unknown,Virginia,,0,0,18,1
 2020-04-06,Virginia Beach city,Virginia,51810,178,8,1,0
 2020-04-06,Warren,Virginia,51187,5,1,0,0
 2020-04-06,Washington,Virginia,51191,5,0,0,0
@@ -1686,6 +1690,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-08,Surry,Virginia,51181,3,0,0,0
 2020-04-08,Sussex,Virginia,51183,6,1,0,0
 2020-04-08,Tazewell,Virginia,51185,4,0,0,0
+2020-04-08,Unknown,Virginia,,1,1,0,-26
 2020-04-08,Virginia Beach city,Virginia,51810,207,7,1,0
 2020-04-08,Warren,Virginia,51187,8,2,0,0
 2020-04-08,Washington,Virginia,51191,12,2,0,0
@@ -1805,7 +1810,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-09,Surry,Virginia,51181,3,0,0,0
 2020-04-09,Sussex,Virginia,51183,6,0,0,0
 2020-04-09,Tazewell,Virginia,51185,4,0,0,0
-2020-04-09,Unknown,Virginia,,0,0,40,14
+2020-04-09,Unknown,Virginia,,2,1,40,40
 2020-04-09,Virginia Beach city,Virginia,51810,219,12,1,0
 2020-04-09,Warren,Virginia,51187,9,1,0,0
 2020-04-09,Washington,Virginia,51191,15,3,0,0
@@ -1928,7 +1933,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-10,Surry,Virginia,51181,3,0,0,0
 2020-04-10,Sussex,Virginia,51183,8,2,0,0
 2020-04-10,Tazewell,Virginia,51185,4,0,0,0
-2020-04-10,Unknown,Virginia,,0,0,52,12
+2020-04-10,Unknown,Virginia,,0,-2,52,12
 2020-04-10,Virginia Beach city,Virginia,51810,224,5,1,0
 2020-04-10,Warren,Virginia,51187,10,1,0,0
 2020-04-10,Washington,Virginia,51191,17,2,0,0
@@ -2174,7 +2179,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-12,Surry,Virginia,51181,3,0,0,0
 2020-04-12,Sussex,Virginia,51183,8,0,0,0
 2020-04-12,Tazewell,Virginia,51185,4,0,0,0
-2020-04-12,Unknown,Virginia,,0,0,68,10
+2020-04-12,Unknown,Virginia,,2,2,68,10
 2020-04-12,Virginia Beach city,Virginia,51810,243,7,1,0
 2020-04-12,Warren,Virginia,51187,15,0,0,0
 2020-04-12,Washington,Virginia,51191,24,0,0,0
@@ -2298,7 +2303,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-13,Surry,Virginia,51181,3,0,0,0
 2020-04-13,Sussex,Virginia,51183,8,0,0,0
 2020-04-13,Tazewell,Virginia,51185,4,0,0,0
-2020-04-13,Unknown,Virginia,,2,2,49,-19
+2020-04-13,Unknown,Virginia,,0,-2,49,-19
 2020-04-13,Virginia Beach city,Virginia,51810,251,8,1,0
 2020-04-13,Warren,Virginia,51187,17,2,0,0
 2020-04-13,Washington,Virginia,51191,28,4,0,0
@@ -2422,7 +2427,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-14,Surry,Virginia,51181,3,0,0,0
 2020-04-14,Sussex,Virginia,51183,8,0,0,0
 2020-04-14,Tazewell,Virginia,51185,4,0,0,0
-2020-04-14,Unknown,Virginia,,0,-2,32,-17
+2020-04-14,Unknown,Virginia,,0,0,32,-17
 2020-04-14,Virginia Beach city,Virginia,51810,252,1,5,4
 2020-04-14,Warren,Virginia,51187,19,2,0,0
 2020-04-14,Washington,Virginia,51191,27,-1,0,0
@@ -2921,7 +2926,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-18,Surry,Virginia,51181,3,0,0,0
 2020-04-18,Sussex,Virginia,51183,11,0,0,0
 2020-04-18,Tazewell,Virginia,51185,4,0,0,0
-2020-04-18,Unknown,Virginia,,1,1,114,20
+2020-04-18,Unknown,Virginia,,0,0,114,20
 2020-04-18,Virginia Beach city,Virginia,51810,271,6,5,0
 2020-04-18,Warren,Virginia,51187,24,2,0,0
 2020-04-18,Washington,Virginia,51191,27,-1,0,0
@@ -3046,7 +3051,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-19,Surry,Virginia,51181,3,0,0,0
 2020-04-19,Sussex,Virginia,51183,11,0,0,0
 2020-04-19,Tazewell,Virginia,51185,4,0,0,0
-2020-04-19,Unknown,Virginia,,2,1,89,-25
+2020-04-19,Unknown,Virginia,,0,0,89,-25
 2020-04-19,Virginia Beach city,Virginia,51810,273,2,8,3
 2020-04-19,Warren,Virginia,51187,24,0,0,0
 2020-04-19,Washington,Virginia,51191,29,2,0,0
@@ -3171,7 +3176,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-20,Surry,Virginia,51181,4,1,0,0
 2020-04-20,Sussex,Virginia,51183,12,1,0,0
 2020-04-20,Tazewell,Virginia,51185,4,0,0,0
-2020-04-20,Unknown,Virginia,,2,0,90,1
+2020-04-20,Unknown,Virginia,,2,2,90,1
 2020-04-20,Virginia Beach city,Virginia,51810,281,8,8,0
 2020-04-20,Warren,Virginia,51187,24,0,0,0
 2020-04-20,Washington,Virginia,51191,29,0,0,0
@@ -11614,3 +11619,135 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Wise,Virginia,51195,27,0,2,0
 2020-06-24,Wythe,Virginia,51197,46,0,1,0
 2020-06-24,York,Virginia,51199,106,0,3,0
+2020-06-25,Accomack,Virginia,51001,1037,3,14,0
+2020-06-25,Albemarle,Virginia,51003,367,8,8,0
+2020-06-25,Alexandria city,Virginia,51510,2271,13,50,0
+2020-06-25,Alleghany,Virginia,51005,31,0,2,0
+2020-06-25,Amelia,Virginia,51007,42,0,1,0
+2020-06-25,Amherst,Virginia,51009,32,1,0,0
+2020-06-25,Appomattox,Virginia,51011,37,1,0,0
+2020-06-25,Arlington,Virginia,51013,2445,7,127,1
+2020-06-25,Augusta,Virginia,51015,178,4,2,0
+2020-06-25,Bedford,Virginia,51019,106,2,3,0
+2020-06-25,Bland,Virginia,51021,2,0,0,0
+2020-06-25,Botetourt,Virginia,51023,69,0,4,0
+2020-06-25,Bristol city,Virginia,51520,4,0,0,0
+2020-06-25,Brunswick,Virginia,51025,96,3,1,0
+2020-06-25,Buchanan,Virginia,51027,18,0,0,0
+2020-06-25,Buckingham,Virginia,51029,555,2,4,0
+2020-06-25,Buena Vista city,Virginia,51530,14,0,0,0
+2020-06-25,Campbell,Virginia,51031,34,2,1,0
+2020-06-25,Caroline,Virginia,51033,126,1,4,0
+2020-06-25,Carroll,Virginia,51035,200,4,6,0
+2020-06-25,Charles City,Virginia,51036,39,-1,3,-1
+2020-06-25,Charlotte,Virginia,51037,30,-1,0,0
+2020-06-25,Charlottesville city,Virginia,51540,193,11,3,0
+2020-06-25,Chesapeake city,Virginia,51550,800,8,16,0
+2020-06-25,Chesterfield,Virginia,51041,2735,25,49,0
+2020-06-25,Clarke,Virginia,51043,47,-1,0,0
+2020-06-25,Colonial Heights city,Virginia,51570,142,3,17,0
+2020-06-25,Covington city,Virginia,51580,3,-1,0,0
+2020-06-25,Craig,Virginia,51045,6,0,0,0
+2020-06-25,Culpeper,Virginia,51047,803,0,9,0
+2020-06-25,Cumberland,Virginia,51049,51,0,0,0
+2020-06-25,Danville city,Virginia,51590,73,0,2,0
+2020-06-25,Dickenson,Virginia,51051,1,0,0,0
+2020-06-25,Dinwiddie,Virginia,51053,129,-1,0,0
+2020-06-25,Emporia city,Virginia,51595,124,1,6,0
+2020-06-25,Essex,Virginia,51057,54,0,0,0
+2020-06-25,Fairfax,Virginia,51059,13611,23,457,7
+2020-06-25,Fairfax city,Virginia,51600,69,0,7,0
+2020-06-25,Falls Church city,Virginia,51610,57,0,7,0
+2020-06-25,Fauquier,Virginia,51061,415,-2,6,0
+2020-06-25,Floyd,Virginia,51063,14,-1,1,0
+2020-06-25,Fluvanna,Virginia,51065,107,0,6,0
+2020-06-25,Franklin,Virginia,51067,53,0,1,0
+2020-06-25,Franklin city,Virginia,51620,46,0,2,0
+2020-06-25,Frederick,Virginia,51069,464,3,4,0
+2020-06-25,Fredericksburg city,Virginia,51630,236,1,0,0
+2020-06-25,Galax city,Virginia,51640,238,5,13,0
+2020-06-25,Giles,Virginia,51071,8,1,0,0
+2020-06-25,Gloucester,Virginia,51073,46,1,1,0
+2020-06-25,Goochland,Virginia,51075,118,0,6,0
+2020-06-25,Grayson,Virginia,51077,81,0,2,0
+2020-06-25,Greene,Virginia,51079,57,2,1,0
+2020-06-25,Greensville,Virginia,51081,351,1,7,0
+2020-06-25,Halifax,Virginia,51083,41,0,1,0
+2020-06-25,Hampton city,Virginia,51650,281,5,5,0
+2020-06-25,Hanover,Virginia,51085,412,2,25,0
+2020-06-25,Harrisonburg city,Virginia,51660,907,6,23,0
+2020-06-25,Henrico,Virginia,51087,2500,37,140,2
+2020-06-25,Henry,Virginia,51089,232,2,4,0
+2020-06-25,Highland,Virginia,51091,3,0,0,0
+2020-06-25,Hopewell city,Virginia,51670,163,0,2,0
+2020-06-25,Isle of Wight,Virginia,51093,168,3,8,0
+2020-06-25,James City,Virginia,51095,248,1,15,0
+2020-06-25,King George,Virginia,51099,96,0,4,0
+2020-06-25,King William,Virginia,51101,38,1,0,0
+2020-06-25,King and Queen,Virginia,51097,24,0,1,0
+2020-06-25,Lancaster,Virginia,51103,12,0,0,0
+2020-06-25,Lee,Virginia,51105,9,0,0,0
+2020-06-25,Lexington city,Virginia,51678,10,0,0,0
+2020-06-25,Loudoun,Virginia,51107,3739,56,85,1
+2020-06-25,Louisa,Virginia,51109,112,1,1,0
+2020-06-25,Lunenburg,Virginia,51111,30,0,0,0
+2020-06-25,Lynchburg city,Virginia,51680,122,6,1,0
+2020-06-25,Madison,Virginia,51113,43,0,1,0
+2020-06-25,Manassas Park city,Virginia,51685,417,1,5,0
+2020-06-25,Manassas city,Virginia,51683,1374,4,16,0
+2020-06-25,Mathews,Virginia,51115,5,0,0,0
+2020-06-25,Mecklenburg,Virginia,51117,238,1,26,0
+2020-06-25,Middlesex,Virginia,51119,15,0,0,0
+2020-06-25,Montgomery,Virginia,51121,116,0,2,0
+2020-06-25,Nelson,Virginia,51125,18,0,0,0
+2020-06-25,New Kent,Virginia,51127,52,2,1,0
+2020-06-25,Newport News city,Virginia,51700,466,3,10,0
+2020-06-25,Norfolk city,Virginia,51710,795,24,8,1
+2020-06-25,Northampton,Virginia,51131,269,-1,28,0
+2020-06-25,Northumberland,Virginia,51133,28,0,1,0
+2020-06-25,Norton city,Virginia,51720,4,0,0,0
+2020-06-25,Nottoway,Virginia,51135,107,1,2,0
+2020-06-25,Orange,Virginia,51137,142,1,2,0
+2020-06-25,Page,Virginia,51139,266,2,24,0
+2020-06-25,Patrick,Virginia,51141,39,0,1,0
+2020-06-25,Petersburg city,Virginia,51730,212,1,3,0
+2020-06-25,Pittsylvania,Virginia,51143,95,7,1,0
+2020-06-25,Poquoson city,Virginia,51735,16,0,0,0
+2020-06-25,Portsmouth city,Virginia,51740,442,16,16,0
+2020-06-25,Powhatan,Virginia,51145,74,3,2,0
+2020-06-25,Prince Edward,Virginia,51147,178,2,3,0
+2020-06-25,Prince George,Virginia,51149,222,7,0,0
+2020-06-25,Prince William,Virginia,51153,7064,26,137,1
+2020-06-25,Pulaski,Virginia,51155,39,0,2,1
+2020-06-25,Radford city,Virginia,51750,11,0,0,0
+2020-06-25,Rappahannock,Virginia,51157,20,1,0,0
+2020-06-25,Richmond,Virginia,51159,295,0,6,0
+2020-06-25,Richmond city,Virginia,51760,2089,18,30,-1
+2020-06-25,Roanoke,Virginia,51161,200,0,5,0
+2020-06-25,Roanoke city,Virginia,51770,359,0,10,0
+2020-06-25,Rockbridge,Virginia,51163,27,3,0,0
+2020-06-25,Rockingham,Virginia,51165,674,11,9,0
+2020-06-25,Russell,Virginia,51167,9,0,0,0
+2020-06-25,Salem city,Virginia,51775,50,0,3,0
+2020-06-25,Scott,Virginia,51169,9,0,2,0
+2020-06-25,Shenandoah,Virginia,51171,552,5,28,1
+2020-06-25,Smyth,Virginia,51173,35,1,1,0
+2020-06-25,Southampton,Virginia,51175,155,0,2,0
+2020-06-25,Spotsylvania,Virginia,51177,931,7,26,0
+2020-06-25,Stafford,Virginia,51179,954,5,5,0
+2020-06-25,Staunton city,Virginia,51790,68,0,0,0
+2020-06-25,Suffolk city,Virginia,51800,389,4,34,0
+2020-06-25,Surry,Virginia,51181,14,0,1,0
+2020-06-25,Sussex,Virginia,51183,193,2,2,0
+2020-06-25,Tazewell,Virginia,51185,13,2,0,0
+2020-06-25,Unknown,Virginia,,70,0,1,0
+2020-06-25,Virginia Beach city,Virginia,51810,1053,15,27,0
+2020-06-25,Warren,Virginia,51187,269,3,4,0
+2020-06-25,Washington,Virginia,51191,60,0,4,0
+2020-06-25,Waynesboro city,Virginia,51820,70,3,0,0
+2020-06-25,Westmoreland,Virginia,51193,92,0,1,0
+2020-06-25,Williamsburg city,Virginia,51830,55,1,6,1
+2020-06-25,Winchester city,Virginia,51840,301,1,3,0
+2020-06-25,Wise,Virginia,51195,27,0,2,0
+2020-06-25,Wythe,Virginia,51197,48,2,1,0
+2020-06-25,York,Virginia,51199,106,0,3,0

@@ -290,7 +290,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-04,Socorro,New Mexico,35053,4,0,0,0
 2020-04-04,Taos,New Mexico,35055,13,0,0,0
 2020-04-04,Torrance,New Mexico,35057,6,3,0,0
-2020-04-04,Unknown,New Mexico,,2,0,0,0
 2020-04-04,Valencia,New Mexico,35061,5,0,0,0
 2020-04-05,Bernalillo,New Mexico,35001,246,21,7,0
 2020-04-05,Catron,New Mexico,35003,1,0,0,0
@@ -749,7 +748,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-22,Socorro,New Mexico,35053,34,0,1,0
 2020-04-22,Taos,New Mexico,35055,16,0,0,0
 2020-04-22,Torrance,New Mexico,35057,13,0,0,0
-2020-04-22,Unknown,New Mexico,,1,-1,0,0
 2020-04-22,Valencia,New Mexico,35061,35,1,0,0
 2020-04-23,Bernalillo,New Mexico,35001,631,31,31,2
 2020-04-23,Catron,New Mexico,35003,1,0,0,0
@@ -893,7 +891,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-27,Taos,New Mexico,35055,17,0,0,0
 2020-04-27,Torrance,New Mexico,35057,14,0,0,0
 2020-04-27,Union,New Mexico,35059,3,0,0,0
-2020-04-27,Unknown,New Mexico,,0,-1,5,5
+2020-04-27,Unknown,New Mexico,,0,-2,5,5
 2020-04-27,Valencia,New Mexico,35061,42,0,0,0
 2020-04-28,Bernalillo,New Mexico,35001,738,44,35,2
 2020-04-28,Catron,New Mexico,35003,1,0,1,0
@@ -2058,7 +2056,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-04,Taos,New Mexico,35055,31,1,0,0
 2020-06-04,Torrance,New Mexico,35057,51,1,1,0
 2020-06-04,Union,New Mexico,35059,4,0,0,0
-2020-06-04,Unknown,New Mexico,,109,108,0,0
 2020-06-04,Valencia,New Mexico,35061,81,1,2,0
 2020-06-05,Bernalillo,New Mexico,35001,1559,16,74,1
 2020-06-05,Catron,New Mexico,35003,2,0,1,0
@@ -2152,7 +2149,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-07,Taos,New Mexico,35055,31,0,0,0
 2020-06-07,Torrance,New Mexico,35057,53,0,1,0
 2020-06-07,Union,New Mexico,35059,5,0,0,0
-2020-06-07,Unknown,New Mexico,,1,-108,1,1
+2020-06-07,Unknown,New Mexico,,0,-1,1,1
 2020-06-07,Valencia,New Mexico,35061,82,0,2,0
 2020-06-08,Bernalillo,New Mexico,35001,1600,8,75,0
 2020-06-08,Catron,New Mexico,35003,2,0,1,0
@@ -2184,7 +2181,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-08,Taos,New Mexico,35055,31,0,0,0
 2020-06-08,Torrance,New Mexico,35057,53,0,1,0
 2020-06-08,Union,New Mexico,35059,5,0,0,0
-2020-06-08,Unknown,New Mexico,,1,0,0,-1
+2020-06-08,Unknown,New Mexico,,1,1,0,-1
 2020-06-08,Valencia,New Mexico,35061,82,0,2,0
 2020-06-09,Bernalillo,New Mexico,35001,1612,12,76,1
 2020-06-09,Catron,New Mexico,35003,2,0,1,0
@@ -2685,3 +2682,34 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Torrance,New Mexico,35057,72,10,1,0
 2020-06-24,Union,New Mexico,35059,6,1,0,0
 2020-06-24,Valencia,New Mexico,35061,99,1,2,0
+2020-06-25,Bernalillo,New Mexico,35001,1937,58,85,1
+2020-06-25,Catron,New Mexico,35003,2,0,1,0
+2020-06-25,Chaves,New Mexico,35005,71,2,2,0
+2020-06-25,Cibola,New Mexico,35006,207,4,13,0
+2020-06-25,Colfax,New Mexico,35007,9,0,1,0
+2020-06-25,Curry,New Mexico,35009,125,2,0,0
+2020-06-25,Doña Ana,New Mexico,35013,817,46,8,0
+2020-06-25,Eddy,New Mexico,35015,63,2,1,0
+2020-06-25,Grant,New Mexico,35017,17,0,0,0
+2020-06-25,Guadalupe,New Mexico,35019,20,0,0,0
+2020-06-25,Harding,New Mexico,35021,1,0,0,0
+2020-06-25,Hidalgo,New Mexico,35023,40,1,0,0
+2020-06-25,Lea,New Mexico,35025,89,3,0,0
+2020-06-25,Lincoln,New Mexico,35027,9,1,0,0
+2020-06-25,Los Alamos,New Mexico,35028,7,0,0,0
+2020-06-25,Luna,New Mexico,35029,64,6,2,0
+2020-06-25,McKinley,New Mexico,35031,3215,36,162,1
+2020-06-25,Otero,New Mexico,35035,871,2,6,0
+2020-06-25,Quay,New Mexico,35037,5,0,1,0
+2020-06-25,Rio Arriba,New Mexico,35039,89,3,1,0
+2020-06-25,Roosevelt,New Mexico,35041,55,1,1,0
+2020-06-25,San Juan,New Mexico,35045,2268,18,160,3
+2020-06-25,San Miguel,New Mexico,35047,18,0,0,0
+2020-06-25,Sandoval,New Mexico,35043,701,8,29,0
+2020-06-25,Santa Fe,New Mexico,35049,207,3,3,0
+2020-06-25,Sierra,New Mexico,35051,9,2,0,0
+2020-06-25,Socorro,New Mexico,35053,59,1,5,0
+2020-06-25,Taos,New Mexico,35055,37,0,1,0
+2020-06-25,Torrance,New Mexico,35057,74,2,1,0
+2020-06-25,Union,New Mexico,35059,6,0,0,0
+2020-06-25,Valencia,New Mexico,35061,100,1,2,0

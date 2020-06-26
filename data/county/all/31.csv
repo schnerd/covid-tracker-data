@@ -185,7 +185,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-29,Sarpy,Nebraska,31153,11,0,0,0
 2020-03-29,Saunders,Nebraska,31155,2,0,0,0
 2020-03-29,Scotts Bluff,Nebraska,31157,1,1,0,0
-2020-03-29,Unknown,Nebraska,,2,2,0,0
 2020-03-29,Washington,Nebraska,31177,9,4,0,0
 2020-03-30,Adams,Nebraska,31001,3,1,0,0
 2020-03-30,Antelope,Nebraska,31003,1,1,0,0
@@ -206,7 +205,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-30,Sarpy,Nebraska,31153,13,2,0,0
 2020-03-30,Saunders,Nebraska,31155,2,0,0,0
 2020-03-30,Scotts Bluff,Nebraska,31157,1,0,0,0
-2020-03-30,Unknown,Nebraska,,2,0,0,0
+2020-03-30,Unknown,Nebraska,,2,2,0,0
 2020-03-30,Washington,Nebraska,31177,19,10,0,0
 2020-03-30,York,Nebraska,31185,1,1,0,0
 2020-03-31,Adams,Nebraska,31001,3,0,0,0
@@ -229,7 +228,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-31,Sarpy,Nebraska,31153,16,3,0,0
 2020-03-31,Saunders,Nebraska,31155,2,0,0,0
 2020-03-31,Scotts Bluff,Nebraska,31157,1,0,0,0
-2020-03-31,Unknown,Nebraska,,2,0,0,0
 2020-03-31,Washington,Nebraska,31177,19,0,0,0
 2020-03-31,York,Nebraska,31185,1,0,0,0
 2020-04-01,Adams,Nebraska,31001,4,1,0,0
@@ -253,7 +251,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-01,Sarpy,Nebraska,31153,17,1,0,0
 2020-04-01,Saunders,Nebraska,31155,2,0,0,0
 2020-04-01,Scotts Bluff,Nebraska,31157,3,2,0,0
-2020-04-01,Unknown,Nebraska,,3,1,0,0
+2020-04-01,Unknown,Nebraska,,26,24,0,0
 2020-04-01,Washington,Nebraska,31177,19,0,0,0
 2020-04-01,York,Nebraska,31185,1,0,0,0
 2020-04-02,Adams,Nebraska,31001,6,2,0,0
@@ -281,7 +279,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-02,Sarpy,Nebraska,31153,23,6,0,0
 2020-04-02,Saunders,Nebraska,31155,3,1,0,0
 2020-04-02,Scotts Bluff,Nebraska,31157,3,0,0,0
-2020-04-02,Unknown,Nebraska,,1,-2,0,0
+2020-04-02,Unknown,Nebraska,,5,-21,0,0
 2020-04-02,Washington,Nebraska,31177,19,0,0,0
 2020-04-02,York,Nebraska,31185,1,0,0,0
 2020-04-03,Adams,Nebraska,31001,6,0,0,0
@@ -682,7 +680,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-13,Scotts Bluff,Nebraska,31157,14,0,0,0
 2020-04-13,Seward,Nebraska,31159,1,0,0,0
 2020-04-13,Stanton,Nebraska,31167,1,0,0,0
-2020-04-13,Unknown,Nebraska,,1,0,0,0
+2020-04-13,Unknown,Nebraska,,1,-4,0,0
 2020-04-13,Washington,Nebraska,31177,22,2,1,1
 2020-04-13,Wayne,Nebraska,31179,1,0,0,0
 2020-04-13,Webster,Nebraska,31181,1,0,0,0
@@ -1134,7 +1132,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-22,Scotts Bluff,Nebraska,31157,22,0,0,0
 2020-04-22,Seward,Nebraska,31159,4,0,1,0
 2020-04-22,Stanton,Nebraska,31167,2,0,0,0
-2020-04-22,Unknown,Nebraska,,6,0,0,0
+2020-04-22,Unknown,Nebraska,,10,4,0,0
 2020-04-22,Washington,Nebraska,31177,21,0,1,0
 2020-04-22,Wayne,Nebraska,31179,1,0,0,0
 2020-04-22,Webster,Nebraska,31181,2,0,0,0
@@ -1190,7 +1188,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-23,Seward,Nebraska,31159,5,1,1,0
 2020-04-23,Sherman,Nebraska,31163,1,1,0,0
 2020-04-23,Stanton,Nebraska,31167,2,0,0,0
-2020-04-23,Unknown,Nebraska,,6,0,1,1
+2020-04-23,Unknown,Nebraska,,8,-2,1,1
 2020-04-23,Washington,Nebraska,31177,22,1,1,0
 2020-04-23,Wayne,Nebraska,31179,1,0,0,0
 2020-04-23,Webster,Nebraska,31181,2,0,0,0
@@ -1658,7 +1656,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-01,Sherman,Nebraska,31163,2,1,0,0
 2020-05-01,Stanton,Nebraska,31167,5,0,0,0
 2020-05-01,Thurston,Nebraska,31173,5,1,0,0
-2020-05-01,Unknown,Nebraska,,26,20,1,0
+2020-05-01,Unknown,Nebraska,,26,18,1,0
 2020-05-01,Valley,Nebraska,31175,1,0,0,0
 2020-05-01,Washington,Nebraska,31177,22,0,1,0
 2020-05-01,Wayne,Nebraska,31179,1,0,0,0
@@ -2994,7 +2992,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-21,Stanton,Nebraska,31167,15,0,0,0
 2020-05-21,Thomas,Nebraska,31171,1,0,0,0
 2020-05-21,Thurston,Nebraska,31173,23,3,0,0
-2020-05-21,Unknown,Nebraska,,8,-2,0,0
+2020-05-21,Unknown,Nebraska,,8,-2,4,4
 2020-05-21,Valley,Nebraska,31175,3,0,0,0
 2020-05-21,Washington,Nebraska,31177,26,0,1,0
 2020-05-21,Wayne,Nebraska,31179,7,3,0,0
@@ -3064,7 +3062,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-22,Stanton,Nebraska,31167,15,0,0,0
 2020-05-22,Thomas,Nebraska,31171,1,0,0,0
 2020-05-22,Thurston,Nebraska,31173,24,1,0,0
-2020-05-22,Unknown,Nebraska,,51,43,0,0
+2020-05-22,Unknown,Nebraska,,51,43,0,-4
 2020-05-22,Valley,Nebraska,31175,3,0,0,0
 2020-05-22,Washington,Nebraska,31177,26,0,1,0
 2020-05-22,Wayne,Nebraska,31179,7,0,0,0
@@ -3921,7 +3919,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-03,Thayer,Nebraska,31169,1,0,0,0
 2020-06-03,Thomas,Nebraska,31171,1,0,0,0
 2020-06-03,Thurston,Nebraska,31173,49,0,0,0
-2020-06-03,Unknown,Nebraska,,105,29,0,0
+2020-06-03,Unknown,Nebraska,,105,29,1,1
 2020-06-03,Valley,Nebraska,31175,4,0,0,0
 2020-06-03,Washington,Nebraska,31177,32,0,1,0
 2020-06-03,Wayne,Nebraska,31179,18,0,0,0
@@ -3994,7 +3992,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-04,Thayer,Nebraska,31169,1,0,0,0
 2020-06-04,Thomas,Nebraska,31171,1,0,0,0
 2020-06-04,Thurston,Nebraska,31173,50,1,0,0
-2020-06-04,Unknown,Nebraska,,54,-51,0,0
+2020-06-04,Unknown,Nebraska,,54,-51,0,-1
 2020-06-04,Valley,Nebraska,31175,5,1,0,0
 2020-06-04,Washington,Nebraska,31177,33,1,1,0
 2020-06-04,Wayne,Nebraska,31179,18,0,0,0
@@ -5511,3 +5509,81 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Wayne,Nebraska,31179,27,1,0,0
 2020-06-24,Webster,Nebraska,31181,6,0,0,0
 2020-06-24,York,Nebraska,31185,41,0,0,0
+2020-06-25,Adams,Nebraska,31001,285,2,11,0
+2020-06-25,Antelope,Nebraska,31003,9,0,1,0
+2020-06-25,Banner,Nebraska,31007,1,0,0,0
+2020-06-25,Boone,Nebraska,31011,7,0,0,0
+2020-06-25,Box Butte,Nebraska,31013,3,0,0,0
+2020-06-25,Boyd,Nebraska,31015,1,0,0,0
+2020-06-25,Buffalo,Nebraska,31019,181,0,1,0
+2020-06-25,Burt,Nebraska,31021,11,0,0,0
+2020-06-25,Butler,Nebraska,31023,51,0,0,0
+2020-06-25,Cass,Nebraska,31025,63,1,0,0
+2020-06-25,Cedar,Nebraska,31027,11,0,0,0
+2020-06-25,Chase,Nebraska,31029,1,0,0,0
+2020-06-25,Cherry,Nebraska,31031,1,0,0,0
+2020-06-25,Cheyenne,Nebraska,31033,18,0,0,0
+2020-06-25,Clay,Nebraska,31035,27,0,0,0
+2020-06-25,Colfax,Nebraska,31037,664,1,4,0
+2020-06-25,Cuming,Nebraska,31039,34,0,0,0
+2020-06-25,Custer,Nebraska,31041,41,0,4,0
+2020-06-25,Dakota,Nebraska,31043,1761,3,34,0
+2020-06-25,Dawes,Nebraska,31045,2,0,0,0
+2020-06-25,Dawson,Nebraska,31047,854,0,8,0
+2020-06-25,Dixon,Nebraska,31051,44,1,2,1
+2020-06-25,Dodge,Nebraska,31053,672,8,8,0
+2020-06-25,Douglas,Nebraska,31055,6716,64,84,1
+2020-06-25,Fillmore,Nebraska,31059,13,0,1,0
+2020-06-25,Franklin,Nebraska,31061,6,0,0,0
+2020-06-25,Frontier,Nebraska,31063,1,0,0,0
+2020-06-25,Furnas,Nebraska,31065,10,0,1,0
+2020-06-25,Gage,Nebraska,31067,48,1,4,0
+2020-06-25,Garden,Nebraska,31069,4,0,0,0
+2020-06-25,Garfield,Nebraska,31071,1,0,0,0
+2020-06-25,Gosper,Nebraska,31073,13,0,0,0
+2020-06-25,Greeley,Nebraska,31077,3,0,0,0
+2020-06-25,Hall,Nebraska,31079,1594,0,46,0
+2020-06-25,Hamilton,Nebraska,31081,64,0,13,0
+2020-06-25,Harlan,Nebraska,31083,1,0,0,0
+2020-06-25,Hitchcock,Nebraska,31087,1,0,0,0
+2020-06-25,Holt,Nebraska,31089,3,0,0,0
+2020-06-25,Howard,Nebraska,31093,46,0,4,0
+2020-06-25,Jefferson,Nebraska,31095,9,0,0,0
+2020-06-25,Johnson,Nebraska,31097,6,0,0,0
+2020-06-25,Kearney,Nebraska,31099,13,0,0,0
+2020-06-25,Keith,Nebraska,31101,2,0,0,0
+2020-06-25,Kimball,Nebraska,31105,10,0,0,0
+2020-06-25,Knox,Nebraska,31107,20,4,0,0
+2020-06-25,Lancaster,Nebraska,31109,1660,11,12,1
+2020-06-25,Lincoln,Nebraska,31111,54,0,2,0
+2020-06-25,Madison,Nebraska,31119,365,10,4,0
+2020-06-25,Merrick,Nebraska,31121,38,0,0,0
+2020-06-25,Morrill,Nebraska,31123,20,6,0,0
+2020-06-25,Nance,Nebraska,31125,4,0,0,0
+2020-06-25,Nemaha,Nebraska,31127,5,0,0,0
+2020-06-25,Nuckolls,Nebraska,31129,1,0,0,0
+2020-06-25,Otoe,Nebraska,31131,15,0,0,0
+2020-06-25,Phelps,Nebraska,31137,23,0,0,0
+2020-06-25,Pierce,Nebraska,31139,7,0,0,0
+2020-06-25,Platte,Nebraska,31141,656,5,3,0
+2020-06-25,Polk,Nebraska,31143,12,0,0,0
+2020-06-25,Red Willow,Nebraska,31145,6,0,0,0
+2020-06-25,Richardson,Nebraska,31147,5,0,1,0
+2020-06-25,Rock,Nebraska,31149,1,0,0,0
+2020-06-25,Saline,Nebraska,31151,531,1,2,0
+2020-06-25,Sarpy,Nebraska,31153,1068,8,8,0
+2020-06-25,Saunders,Nebraska,31155,67,1,2,0
+2020-06-25,Scotts Bluff,Nebraska,31157,205,3,3,0
+2020-06-25,Seward,Nebraska,31159,33,1,1,0
+2020-06-25,Sherman,Nebraska,31163,5,0,0,0
+2020-06-25,Sioux,Nebraska,31165,4,1,0,0
+2020-06-25,Stanton,Nebraska,31167,21,0,0,0
+2020-06-25,Thayer,Nebraska,31169,1,0,0,0
+2020-06-25,Thomas,Nebraska,31171,1,0,0,0
+2020-06-25,Thurston,Nebraska,31173,83,10,1,0
+2020-06-25,Unknown,Nebraska,,1,-18,0,0
+2020-06-25,Valley,Nebraska,31175,8,1,0,0
+2020-06-25,Washington,Nebraska,31177,46,1,1,0
+2020-06-25,Wayne,Nebraska,31179,27,0,0,0
+2020-06-25,Webster,Nebraska,31181,6,0,0,0
+2020-06-25,York,Nebraska,31185,41,0,0,0

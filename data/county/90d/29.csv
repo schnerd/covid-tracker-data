@@ -1,13 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-03-19,Boone,Missouri,29019,3,2,1,0
-2020-03-19,Cass,Missouri,29037,4,2,0,0
-2020-03-19,Cole,Missouri,29051,2,0,0,0
-2020-03-19,Greene,Missouri,29077,6,2,0,0
-2020-03-19,Henry,Missouri,29083,1,0,0,0
-2020-03-19,Jackson,Missouri,29095,3,0,0,0
-2020-03-19,St. Charles,Missouri,29183,1,0,0,0
-2020-03-19,St. Louis,Missouri,29189,10,4,0,0
-2020-03-19,St. Louis city,Missouri,29510,5,4,0,0
 2020-03-20,Boone,Missouri,29019,10,7,1,0
 2020-03-20,Cass,Missouri,29037,6,2,0,0
 2020-03-20,Christian,Missouri,29043,2,2,0,0
@@ -118,7 +109,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-24,St. Louis,Missouri,29189,68,0,1,0
 2020-03-24,St. Louis city,Missouri,29510,15,0,1,0
 2020-03-24,Taney,Missouri,29213,1,0,0,0
-2020-03-24,Unknown,Missouri,,72,71,0,0
+2020-03-24,Unknown,Missouri,,40,39,0,0
 2020-03-25,Adair,Missouri,29001,2,0,0,0
 2020-03-25,Bates,Missouri,29013,1,0,0,0
 2020-03-25,Boone,Missouri,29019,20,0,1,0
@@ -158,7 +149,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-25,St. Louis,Missouri,29189,129,61,1,0
 2020-03-25,St. Louis city,Missouri,29510,53,38,1,0
 2020-03-25,Taney,Missouri,29213,1,0,0,0
-2020-03-25,Unknown,Missouri,,4,-68,0,0
+2020-03-25,Unknown,Missouri,,4,-36,0,0
 2020-03-26,Adair,Missouri,29001,2,0,0,0
 2020-03-26,Bates,Missouri,29013,1,0,0,0
 2020-03-26,Benton,Missouri,29015,1,1,0,0
@@ -202,7 +193,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-26,St. Louis city,Missouri,29510,69,16,1,0
 2020-03-26,Stoddard,Missouri,29207,1,1,0,0
 2020-03-26,Taney,Missouri,29213,1,0,0,0
-2020-03-26,Unknown,Missouri,,10,6,0,0
 2020-03-27,Adair,Missouri,29001,2,0,0,0
 2020-03-27,Atchison,Missouri,29005,1,1,0,0
 2020-03-27,Barry,Missouri,29009,1,1,0,0
@@ -253,7 +243,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-27,St. Louis city,Missouri,29510,72,3,1,0
 2020-03-27,Stoddard,Missouri,29207,1,0,0,0
 2020-03-27,Taney,Missouri,29213,1,0,0,0
-2020-03-27,Unknown,Missouri,,4,-6,0,0
+2020-03-27,Unknown,Missouri,,2,-2,0,0
 2020-03-27,Wright,Missouri,29229,1,1,0,0
 2020-03-28,Adair,Missouri,29001,2,0,0,0
 2020-03-28,Atchison,Missouri,29005,1,0,0,0
@@ -306,7 +296,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-28,St. Louis city,Missouri,29510,93,21,1,0
 2020-03-28,Stoddard,Missouri,29207,1,0,0,0
 2020-03-28,Taney,Missouri,29213,2,1,0,0
-2020-03-28,Unknown,Missouri,,5,1,0,0
+2020-03-28,Unknown,Missouri,,3,1,0,0
 2020-03-28,Warren,Missouri,29219,1,1,0,0
 2020-03-28,Wright,Missouri,29229,1,0,0,0
 2020-03-29,Adair,Missouri,29001,2,0,0,0
@@ -360,7 +350,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-29,St. Louis city,Missouri,29510,97,4,1,0
 2020-03-29,Stoddard,Missouri,29207,2,1,0,0
 2020-03-29,Taney,Missouri,29213,2,0,0,0
-2020-03-29,Unknown,Missouri,,8,3,0,0
+2020-03-29,Unknown,Missouri,,6,3,0,0
 2020-03-29,Warren,Missouri,29219,2,1,0,0
 2020-03-29,Wright,Missouri,29229,3,2,0,0
 2020-03-30,Adair,Missouri,29001,2,0,0,0
@@ -424,7 +414,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-30,Stoddard,Missouri,29207,2,0,0,0
 2020-03-30,Stone,Missouri,29209,1,1,0,0
 2020-03-30,Taney,Missouri,29213,2,0,0,0
-2020-03-30,Unknown,Missouri,,12,4,0,0
+2020-03-30,Unknown,Missouri,,11,5,0,0
 2020-03-30,Warren,Missouri,29219,2,0,0,0
 2020-03-30,Webster,Missouri,29225,1,1,0,0
 2020-03-30,Wright,Missouri,29229,4,1,0,0
@@ -491,7 +481,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-31,Stoddard,Missouri,29207,3,1,0,0
 2020-03-31,Stone,Missouri,29209,1,0,0,0
 2020-03-31,Taney,Missouri,29213,2,0,0,0
-2020-03-31,Unknown,Missouri,,1,-11,0,0
+2020-03-31,Unknown,Missouri,,1,-10,0,0
 2020-03-31,Warren,Missouri,29219,5,3,0,0
 2020-03-31,Webster,Missouri,29225,2,1,0,0
 2020-03-31,Wright,Missouri,29229,4,0,0,0
@@ -562,7 +552,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-01,Stoddard,Missouri,29207,3,0,0,0
 2020-04-01,Stone,Missouri,29209,2,1,0,0
 2020-04-01,Taney,Missouri,29213,2,0,0,0
-2020-04-01,Unknown,Missouri,,2,1,0,0
+2020-04-01,Unknown,Missouri,,153,152,0,0
 2020-04-01,Warren,Missouri,29219,6,1,0,0
 2020-04-01,Webster,Missouri,29225,2,0,0,0
 2020-04-01,Wright,Missouri,29229,4,0,0,0
@@ -635,7 +625,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-02,Stoddard,Missouri,29207,6,3,0,0
 2020-04-02,Stone,Missouri,29209,2,0,0,0
 2020-04-02,Taney,Missouri,29213,2,0,0,0
-2020-04-02,Unknown,Missouri,,3,1,0,0
+2020-04-02,Unknown,Missouri,,2,-151,0,0
 2020-04-02,Warren,Missouri,29219,7,1,0,0
 2020-04-02,Webster,Missouri,29225,2,0,0,0
 2020-04-02,Wright,Missouri,29229,6,2,0,0
@@ -711,7 +701,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-03,Stoddard,Missouri,29207,7,1,0,0
 2020-04-03,Stone,Missouri,29209,2,0,0,0
 2020-04-03,Taney,Missouri,29213,5,3,0,0
-2020-04-03,Unknown,Missouri,,3,0,0,0
+2020-04-03,Unknown,Missouri,,3,1,0,0
 2020-04-03,Warren,Missouri,29219,7,0,0,0
 2020-04-03,Webster,Missouri,29225,2,0,0,0
 2020-04-03,Wright,Missouri,29229,6,0,0,0
@@ -788,7 +778,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-04,Stoddard,Missouri,29207,7,0,0,0
 2020-04-04,Stone,Missouri,29209,2,0,0,0
 2020-04-04,Taney,Missouri,29213,5,0,0,0
-2020-04-04,Unknown,Missouri,,3,0,0,0
+2020-04-04,Unknown,Missouri,,9,6,0,0
 2020-04-04,Warren,Missouri,29219,7,0,0,0
 2020-04-04,Webster,Missouri,29225,3,1,0,0
 2020-04-04,Wright,Missouri,29229,6,0,0,0
@@ -865,6 +855,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-05,Stoddard,Missouri,29207,7,0,0,0
 2020-04-05,Stone,Missouri,29209,3,1,0,0
 2020-04-05,Taney,Missouri,29213,5,0,0,0
+2020-04-05,Unknown,Missouri,,2,-7,0,0
 2020-04-05,Warren,Missouri,29219,9,2,0,0
 2020-04-05,Webster,Missouri,29225,3,0,0,0
 2020-04-05,Wright,Missouri,29229,7,1,0,0
@@ -944,7 +935,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-06,Stoddard,Missouri,29207,7,0,0,0
 2020-04-06,Stone,Missouri,29209,3,0,0,0
 2020-04-06,Taney,Missouri,29213,7,2,0,0
-2020-04-06,Unknown,Missouri,,2,-1,0,0
+2020-04-06,Unknown,Missouri,,3,1,0,0
 2020-04-06,Warren,Missouri,29219,9,0,0,0
 2020-04-06,Webster,Missouri,29225,3,0,0,0
 2020-04-06,Worth,Missouri,29227,1,1,0,0
@@ -1030,7 +1021,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-07,Stoddard,Missouri,29207,8,1,0,0
 2020-04-07,Stone,Missouri,29209,3,0,0,0
 2020-04-07,Taney,Missouri,29213,7,0,0,0
-2020-04-07,Unknown,Missouri,,2,0,0,0
+2020-04-07,Unknown,Missouri,,4,1,0,0
 2020-04-07,Warren,Missouri,29219,11,2,0,0
 2020-04-07,Webster,Missouri,29225,3,0,0,0
 2020-04-07,Worth,Missouri,29227,1,0,0,0
@@ -1116,7 +1107,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-08,Stoddard,Missouri,29207,8,0,0,0
 2020-04-08,Stone,Missouri,29209,3,0,0,0
 2020-04-08,Taney,Missouri,29213,7,0,0,0
-2020-04-08,Unknown,Missouri,,1,-1,0,0
+2020-04-08,Unknown,Missouri,,3,-1,0,0
 2020-04-08,Warren,Missouri,29219,13,2,0,0
 2020-04-08,Washington,Missouri,29221,1,1,0,0
 2020-04-08,Webster,Missouri,29225,3,0,0,0
@@ -1204,7 +1195,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-09,Stoddard,Missouri,29207,9,1,0,0
 2020-04-09,Stone,Missouri,29209,4,1,0,0
 2020-04-09,Taney,Missouri,29213,7,0,1,1
-2020-04-09,Unknown,Missouri,,1,0,0,0
+2020-04-09,Unknown,Missouri,,2,-1,0,0
 2020-04-09,Vernon,Missouri,29217,1,1,0,0
 2020-04-09,Warren,Missouri,29219,12,-1,0,0
 2020-04-09,Washington,Missouri,29221,1,0,0,0
@@ -1293,7 +1284,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-10,Stoddard,Missouri,29207,9,0,0,0
 2020-04-10,Stone,Missouri,29209,3,-1,0,0
 2020-04-10,Taney,Missouri,29213,7,0,1,0
-2020-04-10,Unknown,Missouri,,1,0,0,0
+2020-04-10,Unknown,Missouri,,5,3,0,0
 2020-04-10,Vernon,Missouri,29217,3,2,0,0
 2020-04-10,Warren,Missouri,29219,11,-1,0,0
 2020-04-10,Washington,Missouri,29221,1,0,0,0
@@ -1384,7 +1375,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-11,Stoddard,Missouri,29207,9,0,0,0
 2020-04-11,Stone,Missouri,29209,3,0,0,0
 2020-04-11,Taney,Missouri,29213,7,0,1,0
-2020-04-11,Unknown,Missouri,,1,0,0,0
+2020-04-11,Unknown,Missouri,,4,-1,0,0
 2020-04-11,Vernon,Missouri,29217,3,0,0,0
 2020-04-11,Warren,Missouri,29219,11,0,0,0
 2020-04-11,Washington,Missouri,29221,1,0,0,0
@@ -1475,7 +1466,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-12,Stoddard,Missouri,29207,9,0,0,0
 2020-04-12,Stone,Missouri,29209,3,0,0,0
 2020-04-12,Taney,Missouri,29213,7,0,1,0
-2020-04-12,Unknown,Missouri,,1,0,0,0
+2020-04-12,Unknown,Missouri,,5,1,0,0
 2020-04-12,Vernon,Missouri,29217,3,0,0,0
 2020-04-12,Warren,Missouri,29219,12,1,0,0
 2020-04-12,Washington,Missouri,29221,1,0,0,0
@@ -1566,7 +1557,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-13,Stoddard,Missouri,29207,11,2,0,0
 2020-04-13,Stone,Missouri,29209,3,0,0,0
 2020-04-13,Taney,Missouri,29213,8,1,1,0
-2020-04-13,Unknown,Missouri,,1,0,0,0
 2020-04-13,Vernon,Missouri,29217,3,0,0,0
 2020-04-13,Warren,Missouri,29219,12,0,0,0
 2020-04-13,Washington,Missouri,29221,1,0,0,0
@@ -1657,7 +1647,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-14,Stoddard,Missouri,29207,12,1,0,0
 2020-04-14,Stone,Missouri,29209,3,0,0,0
 2020-04-14,Taney,Missouri,29213,7,-1,1,0
-2020-04-14,Unknown,Missouri,,1,0,0,0
+2020-04-14,Unknown,Missouri,,1,-4,0,0
 2020-04-14,Vernon,Missouri,29217,3,0,0,0
 2020-04-14,Warren,Missouri,29219,16,4,0,0
 2020-04-14,Washington,Missouri,29221,1,0,0,0
@@ -1751,7 +1741,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-15,Stoddard,Missouri,29207,13,1,0,0
 2020-04-15,Stone,Missouri,29209,3,0,0,0
 2020-04-15,Taney,Missouri,29213,8,1,1,0
-2020-04-15,Unknown,Missouri,,1,0,0,0
 2020-04-15,Vernon,Missouri,29217,3,0,0,0
 2020-04-15,Warren,Missouri,29219,16,0,0,0
 2020-04-15,Washington,Missouri,29221,2,1,0,0
@@ -2424,7 +2413,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-22,Stoddard,Missouri,29207,19,0,0,0
 2020-04-22,Stone,Missouri,29209,3,0,0,0
 2020-04-22,Taney,Missouri,29213,9,0,1,0
-2020-04-22,Unknown,Missouri,,1,0,1,1
+2020-04-22,Unknown,Missouri,,3,2,0,0
 2020-04-22,Vernon,Missouri,29217,4,1,0,0
 2020-04-22,Warren,Missouri,29219,20,0,0,0
 2020-04-22,Washington,Missouri,29221,6,0,0,0
@@ -2523,7 +2512,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-23,Stoddard,Missouri,29207,19,0,0,0
 2020-04-23,Stone,Missouri,29209,3,0,0,0
 2020-04-23,Taney,Missouri,29213,10,1,1,0
-2020-04-23,Unknown,Missouri,,1,0,0,-1
+2020-04-23,Unknown,Missouri,,2,-1,0,0
 2020-04-23,Vernon,Missouri,29217,4,0,0,0
 2020-04-23,Warren,Missouri,29219,20,0,0,0
 2020-04-23,Washington,Missouri,29221,7,1,0,0
@@ -2622,7 +2611,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-24,Stoddard,Missouri,29207,19,0,0,0
 2020-04-24,Stone,Missouri,29209,3,0,0,0
 2020-04-24,Taney,Missouri,29213,10,0,1,0
-2020-04-24,Unknown,Missouri,,2,1,0,0
+2020-04-24,Unknown,Missouri,,2,0,0,0
 2020-04-24,Vernon,Missouri,29217,4,0,0,0
 2020-04-24,Warren,Missouri,29219,20,0,0,0
 2020-04-24,Washington,Missouri,29221,8,1,0,0
@@ -9081,3 +9070,119 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Webster,Missouri,29225,23,1,1,0
 2020-06-24,Worth,Missouri,29227,4,0,0,0
 2020-06-24,Wright,Missouri,29229,14,0,0,0
+2020-06-25,Adair,Missouri,29001,88,1,0,0
+2020-06-25,Andrew,Missouri,29003,45,0,0,0
+2020-06-25,Atchison,Missouri,29005,3,0,0,0
+2020-06-25,Audrain,Missouri,29007,137,0,1,0
+2020-06-25,Barry,Missouri,29009,34,2,0,0
+2020-06-25,Barton,Missouri,29011,21,4,0,0
+2020-06-25,Bates,Missouri,29013,12,0,1,0
+2020-06-25,Benton,Missouri,29015,16,0,0,0
+2020-06-25,Bollinger,Missouri,29017,12,0,0,0
+2020-06-25,Boone,Missouri,29019,319,31,2,0
+2020-06-25,Buchanan,Missouri,29021,827,8,3,0
+2020-06-25,Butler,Missouri,29023,71,3,0,0
+2020-06-25,Caldwell,Missouri,29025,9,0,0,0
+2020-06-25,Callaway,Missouri,29027,45,-1,1,0
+2020-06-25,Camden,Missouri,29029,57,2,1,0
+2020-06-25,Cape Girardeau,Missouri,29031,126,3,3,0
+2020-06-25,Carroll,Missouri,29033,11,0,0,0
+2020-06-25,Carter,Missouri,29035,6,0,1,0
+2020-06-25,Cass,Missouri,29037,123,4,8,0
+2020-06-25,Cedar,Missouri,29039,9,0,0,0
+2020-06-25,Chariton,Missouri,29041,6,0,0,0
+2020-06-25,Christian,Missouri,29043,38,1,0,0
+2020-06-25,Clark,Missouri,29045,2,0,0,0
+2020-06-25,Clay,Missouri,29047,386,11,11,0
+2020-06-25,Clinton,Missouri,29049,23,0,0,0
+2020-06-25,Cole,Missouri,29051,67,3,2,0
+2020-06-25,Cooper,Missouri,29053,14,1,0,0
+2020-06-25,Crawford,Missouri,29055,10,0,0,0
+2020-06-25,Dade,Missouri,29057,1,0,0,0
+2020-06-25,Dallas,Missouri,29059,12,0,1,0
+2020-06-25,Daviess,Missouri,29061,7,0,0,0
+2020-06-25,DeKalb,Missouri,29063,10,0,0,0
+2020-06-25,Dent,Missouri,29065,3,1,0,0
+2020-06-25,Douglas,Missouri,29067,3,0,0,0
+2020-06-25,Dunklin,Missouri,29069,84,2,3,0
+2020-06-25,Franklin,Missouri,29071,201,9,18,0
+2020-06-25,Gasconade,Missouri,29073,7,1,0,0
+2020-06-25,Gentry,Missouri,29075,56,-1,9,0
+2020-06-25,Greene,Missouri,29077,285,7,8,0
+2020-06-25,Grundy,Missouri,29079,18,0,0,0
+2020-06-25,Harrison,Missouri,29081,12,0,0,0
+2020-06-25,Henry,Missouri,29083,19,2,3,0
+2020-06-25,Holt,Missouri,29087,1,0,0,0
+2020-06-25,Howard,Missouri,29089,5,0,0,0
+2020-06-25,Howell,Missouri,29091,36,2,0,0
+2020-06-25,Iron,Missouri,29093,2,0,0,0
+2020-06-25,Jackson,Missouri,29095,1074,-2,36,3
+2020-06-25,Jasper,Missouri,29097,311,2,1,1
+2020-06-25,Jefferson,Missouri,29099,506,5,21,0
+2020-06-25,Johnson,Missouri,29101,100,9,0,0
+2020-06-25,Joplin,Missouri,,103,103,0,0
+2020-06-25,Kansas City,Missouri,,2162,105,32,0
+2020-06-25,Knox,Missouri,29103,2,0,0,0
+2020-06-25,Laclede,Missouri,29105,23,3,0,0
+2020-06-25,Lafayette,Missouri,29107,87,1,2,0
+2020-06-25,Lawrence,Missouri,29109,20,0,0,0
+2020-06-25,Lewis,Missouri,29111,7,0,1,0
+2020-06-25,Lincoln,Missouri,29113,96,1,1,0
+2020-06-25,Linn,Missouri,29115,14,0,1,0
+2020-06-25,Livingston,Missouri,29117,10,0,0,0
+2020-06-25,Macon,Missouri,29121,7,0,0,0
+2020-06-25,Madison,Missouri,29123,3,0,0,0
+2020-06-25,Maries,Missouri,29125,4,0,0,0
+2020-06-25,Marion,Missouri,29127,14,1,0,0
+2020-06-25,McDonald,Missouri,29119,605,183,1,0
+2020-06-25,Mercer,Missouri,29129,5,0,0,0
+2020-06-25,Miller,Missouri,29131,11,0,0,0
+2020-06-25,Mississippi,Missouri,29133,82,2,0,0
+2020-06-25,Moniteau,Missouri,29135,49,0,1,0
+2020-06-25,Monroe,Missouri,29137,5,0,0,0
+2020-06-25,Montgomery,Missouri,29139,16,1,0,0
+2020-06-25,Morgan,Missouri,29141,13,0,0,0
+2020-06-25,New Madrid,Missouri,29143,36,0,1,0
+2020-06-25,Newton,Missouri,29145,312,0,2,0
+2020-06-25,Nodaway,Missouri,29147,17,0,0,0
+2020-06-25,Oregon,Missouri,29149,6,0,0,0
+2020-06-25,Osage,Missouri,29151,6,0,0,0
+2020-06-25,Ozark,Missouri,29153,1,0,0,0
+2020-06-25,Pemiscot,Missouri,29155,109,1,6,0
+2020-06-25,Perry,Missouri,29157,112,1,0,0
+2020-06-25,Pettis,Missouri,29159,110,8,1,0
+2020-06-25,Phelps,Missouri,29161,15,3,0,0
+2020-06-25,Pike,Missouri,29163,36,2,1,0
+2020-06-25,Platte,Missouri,29165,110,1,4,0
+2020-06-25,Polk,Missouri,29167,11,0,0,0
+2020-06-25,Pulaski,Missouri,29169,116,1,1,0
+2020-06-25,Putnam,Missouri,29171,2,0,0,0
+2020-06-25,Ralls,Missouri,29173,9,0,0,0
+2020-06-25,Randolph,Missouri,29175,12,0,0,0
+2020-06-25,Ray,Missouri,29177,25,0,0,0
+2020-06-25,Reynolds,Missouri,29179,2,0,0,0
+2020-06-25,Ripley,Missouri,29181,17,1,0,0
+2020-06-25,Saline,Missouri,29195,282,4,4,0
+2020-06-25,Schuyler,Missouri,29197,4,0,0,0
+2020-06-25,Scotland,Missouri,29199,8,0,1,0
+2020-06-25,Scott,Missouri,29201,159,0,11,0
+2020-06-25,Shannon,Missouri,29203,6,0,0,0
+2020-06-25,Shelby,Missouri,29205,3,0,0,0
+2020-06-25,St. Charles,Missouri,29183,1011,14,73,0
+2020-06-25,St. Clair,Missouri,29185,2,0,0,0
+2020-06-25,St. Francois,Missouri,29187,100,3,2,0
+2020-06-25,St. Louis,Missouri,29189,6092,88,558,0
+2020-06-25,St. Louis city,Missouri,29510,2310,-9,155,1
+2020-06-25,Ste. Genevieve,Missouri,29186,17,1,1,0
+2020-06-25,Stoddard,Missouri,29207,132,3,8,0
+2020-06-25,Stone,Missouri,29209,11,0,0,0
+2020-06-25,Sullivan,Missouri,29211,108,6,0,0
+2020-06-25,Taney,Missouri,29213,39,4,2,0
+2020-06-25,Texas,Missouri,29215,4,-1,0,0
+2020-06-25,Vernon,Missouri,29217,15,2,0,0
+2020-06-25,Warren,Missouri,29219,37,3,0,0
+2020-06-25,Washington,Missouri,29221,19,2,1,0
+2020-06-25,Wayne,Missouri,29223,3,0,0,0
+2020-06-25,Webster,Missouri,29225,24,1,1,0
+2020-06-25,Worth,Missouri,29227,4,0,0,0
+2020-06-25,Wright,Missouri,29229,14,0,0,0

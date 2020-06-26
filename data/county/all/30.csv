@@ -214,6 +214,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-31,Roosevelt,Montana,30085,1,0,0,0
 2020-03-31,Silver Bow,Montana,30093,10,1,0,0
 2020-03-31,Toole,Montana,30101,6,0,2,0
+2020-03-31,Unknown,Montana,,0,0,1,1
 2020-03-31,Yellowstone,Montana,30111,31,3,0,0
 2020-04-01,Broadwater,Montana,30007,3,0,0,0
 2020-04-01,Carbon,Montana,30009,1,1,0,0
@@ -236,6 +237,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-01,Roosevelt,Montana,30085,1,0,0,0
 2020-04-01,Silver Bow,Montana,30093,11,1,0,0
 2020-04-01,Toole,Montana,30101,6,0,2,0
+2020-04-01,Unknown,Montana,,0,0,1,0
 2020-04-01,Yellowstone,Montana,30111,32,1,0,0
 2020-04-02,Broadwater,Montana,30007,3,0,0,0
 2020-04-02,Carbon,Montana,30009,1,0,0,0
@@ -2745,3 +2747,40 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Valley,Montana,30105,1,0,0,0
 2020-06-24,Wheatland,Montana,30107,1,0,0,0
 2020-06-24,Yellowstone,Montana,30111,129,3,4,0
+2020-06-25,Beaverhead,Montana,30001,1,0,0,0
+2020-06-25,Big Horn,Montana,30003,70,2,3,0
+2020-06-25,Broadwater,Montana,30007,5,0,0,0
+2020-06-25,Carbon,Montana,30009,16,1,0,0
+2020-06-25,Cascade,Montana,30013,26,0,2,0
+2020-06-25,Custer,Montana,30017,24,1,0,0
+2020-06-25,Dawson,Montana,30021,9,6,0,0
+2020-06-25,Deer Lodge,Montana,30023,3,0,0,0
+2020-06-25,Fergus,Montana,30027,2,0,0,0
+2020-06-25,Flathead,Montana,30029,51,2,2,0
+2020-06-25,Gallatin,Montana,30031,223,7,1,0
+2020-06-25,Glacier,Montana,30035,7,0,0,0
+2020-06-25,Golden Valley,Montana,30037,3,0,0,0
+2020-06-25,Granite,Montana,30039,1,1,0,0
+2020-06-25,Hill,Montana,30041,1,0,0,0
+2020-06-25,Jefferson,Montana,30043,3,0,0,0
+2020-06-25,Lake,Montana,30047,12,0,0,0
+2020-06-25,Lewis and Clark,Montana,30049,24,0,0,0
+2020-06-25,Liberty,Montana,30051,1,0,0,0
+2020-06-25,Lincoln,Montana,30053,7,0,1,0
+2020-06-25,Madison,Montana,30057,8,0,1,0
+2020-06-25,Meagher,Montana,30059,1,0,0,0
+2020-06-25,Missoula,Montana,30063,58,4,1,0
+2020-06-25,Musselshell,Montana,30065,1,0,0,0
+2020-06-25,Park,Montana,30067,9,0,0,0
+2020-06-25,Pondera,Montana,30073,2,0,0,0
+2020-06-25,Ravalli,Montana,30081,18,1,0,0
+2020-06-25,Richland,Montana,30083,9,0,0,0
+2020-06-25,Roosevelt,Montana,30085,7,0,0,0
+2020-06-25,Rosebud,Montana,30087,10,0,0,0
+2020-06-25,Silver Bow,Montana,30093,13,2,0,0
+2020-06-25,Stillwater,Montana,30095,4,0,0,0
+2020-06-25,Toole,Montana,30101,31,0,6,0
+2020-06-25,Treasure,Montana,30103,2,0,0,0
+2020-06-25,Valley,Montana,30105,1,0,0,0
+2020-06-25,Wheatland,Montana,30107,1,0,0,0
+2020-06-25,Yellowstone,Montana,30111,139,10,4,0

@@ -1,26 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-03-19,Adams,Colorado,08001,10,0,0,0
-2020-03-19,Arapahoe,Colorado,08005,22,0,0,0
-2020-03-19,Boulder,Colorado,08013,11,3,0,0
-2020-03-19,Clear Creek,Colorado,08019,2,0,0,0
-2020-03-19,Crowley,Colorado,08025,1,1,1,1
-2020-03-19,Denver,Colorado,08031,61,16,0,0
-2020-03-19,Douglas,Colorado,08035,14,3,0,0
-2020-03-19,Eagle,Colorado,08037,51,12,0,0
-2020-03-19,El Paso,Colorado,08041,15,7,3,1
-2020-03-19,Garfield,Colorado,08045,3,1,0,0
-2020-03-19,Grand,Colorado,08049,1,1,0,0
-2020-03-19,Gunnison,Colorado,08051,13,2,0,0
-2020-03-19,Jefferson,Colorado,08059,36,11,0,0
-2020-03-19,Larimer,Colorado,08069,5,1,0,0
-2020-03-19,Mesa,Colorado,08077,1,0,0,0
-2020-03-19,Morgan,Colorado,08087,1,1,0,0
-2020-03-19,Pitkin,Colorado,08097,12,1,0,0
-2020-03-19,Pueblo,Colorado,08101,2,1,0,0
-2020-03-19,Routt,Colorado,08107,2,0,0,0
-2020-03-19,Summit,Colorado,08117,5,1,0,0
-2020-03-19,Weld,Colorado,08123,9,0,1,0
-2020-03-19,Yuma,Colorado,08125,1,0,0,0
 2020-03-20,Adams,Colorado,08001,12,2,0,0
 2020-03-20,Arapahoe,Colorado,08005,29,7,0,0
 2020-03-20,Boulder,Colorado,08013,24,13,0,0
@@ -171,7 +149,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-24,San Miguel,Colorado,08113,1,0,0,0
 2020-03-24,Summit,Colorado,08117,10,2,0,0
 2020-03-24,Teller,Colorado,08119,3,0,1,0
-2020-03-24,Unknown,Colorado,,18,13,2,2
+2020-03-24,Unknown,Colorado,,18,13,1,1
 2020-03-24,Weld,Colorado,08123,76,26,2,0
 2020-03-24,Yuma,Colorado,08125,1,0,0,0
 2020-03-25,Adams,Colorado,08001,38,11,0,0
@@ -208,7 +186,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-25,San Miguel,Colorado,08113,1,0,0,0
 2020-03-25,Summit,Colorado,08117,9,-1,0,0
 2020-03-25,Teller,Colorado,08119,5,2,1,0
-2020-03-25,Unknown,Colorado,,18,0,0,-2
+2020-03-25,Unknown,Colorado,,18,0,0,-1
 2020-03-25,Weld,Colorado,08123,87,11,4,2
 2020-03-25,Yuma,Colorado,08125,1,0,0,0
 2020-03-26,Adams,Colorado,08001,50,12,0,0
@@ -290,7 +268,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-27,San Miguel,Colorado,08113,1,0,0,0
 2020-03-27,Summit,Colorado,08117,10,1,0,0
 2020-03-27,Teller,Colorado,08119,7,0,1,0
-2020-03-27,Unknown,Colorado,,136,34,0,0
+2020-03-27,Unknown,Colorado,,136,34,1,1
 2020-03-27,Washington,Colorado,08121,1,0,0,0
 2020-03-27,Weld,Colorado,08123,129,22,6,2
 2020-03-27,Yuma,Colorado,08125,2,0,0,0
@@ -335,7 +313,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-28,San Miguel,Colorado,08113,1,0,0,0
 2020-03-28,Summit,Colorado,08117,11,1,0,0
 2020-03-28,Teller,Colorado,08119,7,0,1,0
-2020-03-28,Unknown,Colorado,,167,31,0,0
+2020-03-28,Unknown,Colorado,,165,29,1,0
 2020-03-28,Washington,Colorado,08121,1,0,0,0
 2020-03-28,Weld,Colorado,08123,161,32,7,1
 2020-03-28,Yuma,Colorado,08125,2,0,0,0
@@ -382,7 +360,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-29,San Miguel,Colorado,08113,1,0,0,0
 2020-03-29,Summit,Colorado,08117,11,0,0,0
 2020-03-29,Teller,Colorado,08119,7,0,1,0
-2020-03-29,Unknown,Colorado,,186,19,0,0
+2020-03-29,Unknown,Colorado,,186,21,1,0
 2020-03-29,Washington,Colorado,08121,1,0,0,0
 2020-03-29,Weld,Colorado,08123,180,19,9,2
 2020-03-29,Yuma,Colorado,08125,2,0,0,0
@@ -431,7 +409,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-30,San Miguel,Colorado,08113,1,0,0,0
 2020-03-30,Summit,Colorado,08117,14,3,0,0
 2020-03-30,Teller,Colorado,08119,8,1,1,0
-2020-03-30,Unknown,Colorado,,160,-26,0,0
+2020-03-30,Unknown,Colorado,,132,-54,1,0
 2020-03-30,Washington,Colorado,08121,1,0,0,0
 2020-03-30,Weld,Colorado,08123,215,35,10,1
 2020-03-30,Yuma,Colorado,08125,2,0,0,0
@@ -482,7 +460,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-31,San Miguel,Colorado,08113,4,3,0,0
 2020-03-31,Summit,Colorado,08117,20,6,0,0
 2020-03-31,Teller,Colorado,08119,7,-1,1,0
-2020-03-31,Unknown,Colorado,,129,-31,0,0
+2020-03-31,Unknown,Colorado,,129,-3,1,0
 2020-03-31,Washington,Colorado,08121,1,0,0,0
 2020-03-31,Weld,Colorado,08123,255,40,12,2
 2020-03-31,Yuma,Colorado,08125,2,0,0,0
@@ -533,7 +511,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-01,San Miguel,Colorado,08113,4,0,0,0
 2020-04-01,Summit,Colorado,08117,23,3,0,0
 2020-04-01,Teller,Colorado,08119,7,0,1,0
-2020-04-01,Unknown,Colorado,,139,10,0,0
+2020-04-01,Unknown,Colorado,,135,6,1,0
 2020-04-01,Washington,Colorado,08121,1,0,0,0
 2020-04-01,Weld,Colorado,08123,293,38,13,1
 2020-04-01,Yuma,Colorado,08125,2,0,0,0
@@ -585,7 +563,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-02,San Miguel,Colorado,08113,7,3,0,0
 2020-04-02,Summit,Colorado,08117,26,3,0,0
 2020-04-02,Teller,Colorado,08119,7,0,1,0
-2020-04-02,Unknown,Colorado,,144,5,0,0
+2020-04-02,Unknown,Colorado,,142,7,0,-1
 2020-04-02,Washington,Colorado,08121,1,0,0,0
 2020-04-02,Weld,Colorado,08123,329,36,16,3
 2020-04-02,Yuma,Colorado,08125,2,0,0,0
@@ -639,7 +617,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-03,San Miguel,Colorado,08113,9,2,0,0
 2020-04-03,Summit,Colorado,08117,35,9,0,0
 2020-04-03,Teller,Colorado,08119,11,4,1,0
-2020-04-03,Unknown,Colorado,,158,14,0,0
+2020-04-03,Unknown,Colorado,,158,16,0,0
 2020-04-03,Washington,Colorado,08121,1,0,0,0
 2020-04-03,Weld,Colorado,08123,379,50,16,0
 2020-04-03,Yuma,Colorado,08125,2,0,0,0
@@ -749,7 +727,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-05,San Miguel,Colorado,08113,10,1,0,0
 2020-04-05,Summit,Colorado,08117,45,2,0,0
 2020-04-05,Teller,Colorado,08119,11,0,1,0
-2020-04-05,Unknown,Colorado,,258,47,0,0
+2020-04-05,Unknown,Colorado,,246,35,0,0
 2020-04-05,Washington,Colorado,08121,1,0,0,0
 2020-04-05,Weld,Colorado,08123,470,46,24,2
 2020-04-05,Yuma,Colorado,08125,2,0,0,0
@@ -804,7 +782,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-06,San Miguel,Colorado,08113,10,0,0,0
 2020-04-06,Summit,Colorado,08117,47,2,0,0
 2020-04-06,Teller,Colorado,08119,11,0,1,0
-2020-04-06,Unknown,Colorado,,276,18,0,0
+2020-04-06,Unknown,Colorado,,273,27,0,0
 2020-04-06,Washington,Colorado,08121,1,0,0,0
 2020-04-06,Weld,Colorado,08123,504,34,26,2
 2020-04-06,Yuma,Colorado,08125,2,0,0,0
@@ -859,7 +837,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-07,San Miguel,Colorado,08113,10,0,0,0
 2020-04-07,Summit,Colorado,08117,53,6,0,0
 2020-04-07,Teller,Colorado,08119,12,1,1,0
-2020-04-07,Unknown,Colorado,,249,-27,0,0
+2020-04-07,Unknown,Colorado,,249,-24,0,0
 2020-04-07,Washington,Colorado,08121,1,0,0,0
 2020-04-07,Weld,Colorado,08123,537,33,27,1
 2020-04-07,Yuma,Colorado,08125,2,0,0,0
@@ -914,7 +892,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-08,San Miguel,Colorado,08113,10,0,0,0
 2020-04-08,Summit,Colorado,08117,56,3,0,0
 2020-04-08,Teller,Colorado,08119,12,0,1,0
-2020-04-08,Unknown,Colorado,,238,-11,0,0
+2020-04-08,Unknown,Colorado,,237,-12,0,0
 2020-04-08,Washington,Colorado,08121,1,0,0,0
 2020-04-08,Weld,Colorado,08123,573,36,30,3
 2020-04-08,Yuma,Colorado,08125,2,0,0,0
@@ -971,7 +949,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-09,San Miguel,Colorado,08113,11,1,0,0
 2020-04-09,Summit,Colorado,08117,57,1,0,0
 2020-04-09,Teller,Colorado,08119,12,0,1,0
-2020-04-09,Unknown,Colorado,,233,-5,0,0
+2020-04-09,Unknown,Colorado,,233,-4,0,0
 2020-04-09,Washington,Colorado,08121,2,1,0,0
 2020-04-09,Weld,Colorado,08123,614,41,36,6
 2020-04-09,Yuma,Colorado,08125,2,0,0,0
@@ -1370,7 +1348,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-16,San Miguel,Colorado,08113,12,0,0,0
 2020-04-16,Summit,Colorado,08117,77,1,1,0
 2020-04-16,Teller,Colorado,08119,17,1,2,0
-2020-04-16,Unknown,Colorado,,96,-15,1,0
+2020-04-16,Unknown,Colorado,,96,-15,3,2
 2020-04-16,Washington,Colorado,08121,5,0,0,0
 2020-04-16,Weld,Colorado,08123,960,32,60,3
 2020-04-16,Yuma,Colorado,08125,2,0,0,0
@@ -1427,7 +1405,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-17,San Miguel,Colorado,08113,13,1,0,0
 2020-04-17,Summit,Colorado,08117,82,5,1,0
 2020-04-17,Teller,Colorado,08119,18,1,2,0
-2020-04-17,Unknown,Colorado,,78,-18,1,0
+2020-04-17,Unknown,Colorado,,78,-18,1,-2
 2020-04-17,Washington,Colorado,08121,5,0,0,0
 2020-04-17,Weld,Colorado,08123,986,26,61,1
 2020-04-17,Yuma,Colorado,08125,2,0,0,0
@@ -1997,7 +1975,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-27,San Miguel,Colorado,08113,19,0,0,0
 2020-04-27,Summit,Colorado,08117,106,1,2,0
 2020-04-27,Teller,Colorado,08119,27,0,2,0
-2020-04-27,Unknown,Colorado,,101,-71,2,2
+2020-04-27,Unknown,Colorado,,101,-71,0,0
 2020-04-27,Washington,Colorado,08121,6,0,0,0
 2020-04-27,Weld,Colorado,08123,1544,75,87,8
 2020-04-27,Yuma,Colorado,08125,6,0,0,0
@@ -2054,7 +2032,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-28,San Miguel,Colorado,08113,19,0,0,0
 2020-04-28,Summit,Colorado,08117,119,13,2,0
 2020-04-28,Teller,Colorado,08119,28,1,2,0
-2020-04-28,Unknown,Colorado,,88,-13,1,-1
+2020-04-28,Unknown,Colorado,,88,-13,0,0
 2020-04-28,Washington,Colorado,08121,7,1,0,0
 2020-04-28,Weld,Colorado,08123,1618,74,88,1
 2020-04-28,Yuma,Colorado,08125,7,1,0,0
@@ -2111,7 +2089,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-29,San Miguel,Colorado,08113,19,0,0,0
 2020-04-29,Summit,Colorado,08117,121,2,2,0
 2020-04-29,Teller,Colorado,08119,28,0,2,0
-2020-04-29,Unknown,Colorado,,67,-21,1,0
+2020-04-29,Unknown,Colorado,,67,-21,0,0
 2020-04-29,Washington,Colorado,08121,7,0,0,0
 2020-04-29,Weld,Colorado,08123,1704,86,93,5
 2020-04-29,Yuma,Colorado,08125,8,1,0,0
@@ -2168,7 +2146,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-30,San Miguel,Colorado,08113,19,0,0,0
 2020-04-30,Summit,Colorado,08117,128,7,2,0
 2020-04-30,Teller,Colorado,08119,28,0,2,0
-2020-04-30,Unknown,Colorado,,81,14,1,0
+2020-04-30,Unknown,Colorado,,81,14,0,0
 2020-04-30,Washington,Colorado,08121,7,0,0,0
 2020-04-30,Weld,Colorado,08123,1776,72,95,2
 2020-04-30,Yuma,Colorado,08125,8,0,0,0
@@ -2225,7 +2203,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-01,San Miguel,Colorado,08113,19,0,0,0
 2020-05-01,Summit,Colorado,08117,130,2,2,0
 2020-05-01,Teller,Colorado,08119,28,0,2,0
-2020-05-01,Unknown,Colorado,,94,13,0,-1
+2020-05-01,Unknown,Colorado,,94,13,0,0
 2020-05-01,Washington,Colorado,08121,7,0,0,0
 2020-05-01,Weld,Colorado,08123,1802,26,100,5
 2020-05-01,Yuma,Colorado,08125,9,1,0,0
@@ -5470,3 +5448,64 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Washington,Colorado,08121,44,0,0,0
 2020-06-24,Weld,Colorado,08123,2746,16,136,0
 2020-06-24,Yuma,Colorado,08125,51,1,0,0
+2020-06-25,Adams,Colorado,08001,4013,42,154,0
+2020-06-25,Alamosa,Colorado,08003,178,1,3,0
+2020-06-25,Arapahoe,Colorado,08005,5066,44,342,0
+2020-06-25,Archuleta,Colorado,08007,8,0,0,0
+2020-06-25,Baca,Colorado,08009,13,1,0,0
+2020-06-25,Bent,Colorado,08011,4,0,0,0
+2020-06-25,Boulder,Colorado,08013,1321,16,71,0
+2020-06-25,Broomfield,Colorado,08014,287,3,29,0
+2020-06-25,Chaffee,Colorado,08015,78,0,20,0
+2020-06-25,Cheyenne,Colorado,08017,5,0,0,0
+2020-06-25,Clear Creek,Colorado,08019,18,0,1,0
+2020-06-25,Conejos,Colorado,08021,12,0,0,0
+2020-06-25,Costilla,Colorado,08023,20,2,0,0
+2020-06-25,Crowley,Colorado,08025,69,0,1,0
+2020-06-25,Custer,Colorado,08027,2,0,0,0
+2020-06-25,Delta,Colorado,08029,81,0,1,0
+2020-06-25,Denver,Colorado,08031,6835,60,369,0
+2020-06-25,Douglas,Colorado,08035,895,22,52,0
+2020-06-25,Eagle,Colorado,08037,670,5,8,0
+2020-06-25,El Paso,Colorado,08041,2220,47,121,1
+2020-06-25,Elbert,Colorado,08039,55,1,2,0
+2020-06-25,Fremont,Colorado,08043,32,1,0,0
+2020-06-25,Garfield,Colorado,08045,252,9,2,0
+2020-06-25,Gilpin,Colorado,08047,7,1,0,0
+2020-06-25,Grand,Colorado,08049,18,0,0,0
+2020-06-25,Gunnison,Colorado,08051,186,0,6,0
+2020-06-25,Hinsdale,Colorado,08053,3,0,0,0
+2020-06-25,Huerfano,Colorado,08055,4,0,0,0
+2020-06-25,Jackson,Colorado,08057,1,1,0,0
+2020-06-25,Jefferson,Colorado,08059,2594,25,207,0
+2020-06-25,Kit Carson,Colorado,08063,31,0,3,0
+2020-06-25,La Plata,Colorado,08067,90,1,1,0
+2020-06-25,Lake,Colorado,08065,50,2,0,0
+2020-06-25,Larimer,Colorado,08069,692,6,29,0
+2020-06-25,Las Animas,Colorado,08071,7,-1,0,0
+2020-06-25,Lincoln,Colorado,08073,4,0,0,0
+2020-06-25,Logan,Colorado,08075,635,0,5,0
+2020-06-25,Mesa,Colorado,08077,87,2,0,0
+2020-06-25,Mineral,Colorado,08079,5,2,0,0
+2020-06-25,Moffat,Colorado,08081,9,0,0,0
+2020-06-25,Montezuma,Colorado,08083,69,1,3,0
+2020-06-25,Montrose,Colorado,08085,202,1,12,0
+2020-06-25,Morgan,Colorado,08087,649,0,46,0
+2020-06-25,Otero,Colorado,08089,22,0,1,0
+2020-06-25,Ouray,Colorado,08091,10,0,1,0
+2020-06-25,Park,Colorado,08093,27,0,0,0
+2020-06-25,Phillips,Colorado,08095,15,0,0,0
+2020-06-25,Pitkin,Colorado,08097,91,5,2,0
+2020-06-25,Prowers,Colorado,08099,17,1,0,0
+2020-06-25,Pueblo,Colorado,08101,369,1,26,0
+2020-06-25,Rio Blanco,Colorado,08103,3,1,0,0
+2020-06-25,Rio Grande,Colorado,08105,70,3,2,1
+2020-06-25,Routt,Colorado,08107,69,2,6,0
+2020-06-25,Saguache,Colorado,08109,100,1,2,0
+2020-06-25,San Juan,Colorado,08111,1,0,0,0
+2020-06-25,San Miguel,Colorado,08113,34,2,0,0
+2020-06-25,Summit,Colorado,08117,265,1,3,0
+2020-06-25,Teller,Colorado,08119,41,1,2,0
+2020-06-25,Washington,Colorado,08121,44,0,0,0
+2020-06-25,Weld,Colorado,08123,2757,11,136,0
+2020-06-25,Yuma,Colorado,08125,51,0,0,0

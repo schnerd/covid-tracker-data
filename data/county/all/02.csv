@@ -1153,7 +1153,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-11,Prince of Wales-Hyder Census Area,Alaska,02198,2,0,0,0
 2020-06-11,Sitka City and Borough,Alaska,02220,5,1,0,0
 2020-06-11,Southeast Fairbanks Census Area,Alaska,02240,4,0,0,0
-2020-06-11,Unknown,Alaska,,1,0,0,0
+2020-06-11,Unknown,Alaska,,3,2,0,0
 2020-06-11,Valdez-Cordova Census Area,Alaska,02261,13,0,0,0
 2020-06-11,Wrangell City and Borough,Alaska,02275,1,0,0,0
 2020-06-11,Yukon-Koyukuk Census Area,Alaska,02290,1,0,0,0
@@ -1178,7 +1178,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-12,Prince of Wales-Hyder Census Area,Alaska,02198,2,0,0,0
 2020-06-12,Sitka City and Borough,Alaska,02220,9,4,0,0
 2020-06-12,Southeast Fairbanks Census Area,Alaska,02240,4,0,0,0
-2020-06-12,Unknown,Alaska,,2,1,0,0
+2020-06-12,Unknown,Alaska,,2,-1,0,0
 2020-06-12,Valdez-Cordova Census Area,Alaska,02261,13,0,0,0
 2020-06-12,Wrangell City and Borough,Alaska,02275,1,0,0,0
 2020-06-12,Yukon-Koyukuk Census Area,Alaska,02290,1,0,0,0
@@ -1482,3 +1482,29 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Valdez-Cordova Census Area,Alaska,02261,16,0,0,0
 2020-06-24,Wrangell City and Borough,Alaska,02275,6,0,0,0
 2020-06-24,Yukon-Koyukuk Census Area,Alaska,02290,2,0,0,0
+2020-06-25,Aleutians East Borough,Alaska,02013,2,0,0,0
+2020-06-25,Aleutians West Census Area,Alaska,02016,4,0,0,0
+2020-06-25,Anchorage,Alaska,02020,420,10,6,0
+2020-06-25,Bethel Census Area,Alaska,02050,9,1,0,0
+2020-06-25,Bristol Bay Borough,Alaska,02060,5,0,0,0
+2020-06-25,Denali Borough,Alaska,02068,1,1,0,0
+2020-06-25,Dillingham Census Area,Alaska,02070,14,0,0,0
+2020-06-25,Fairbanks North Star Borough,Alaska,02090,140,7,2,0
+2020-06-25,Haines Borough,Alaska,02100,5,0,0,0
+2020-06-25,Juneau City and Borough,Alaska,02110,42,0,0,0
+2020-06-25,Kenai Peninsula Borough,Alaska,02122,134,6,1,0
+2020-06-25,Ketchikan Gateway Borough,Alaska,02130,28,0,0,0
+2020-06-25,Kodiak Island Borough,Alaska,02150,7,0,0,0
+2020-06-25,Lake and Peninsula Borough,Alaska,02164,2,0,0,0
+2020-06-25,Matanuska-Susitna Borough,Alaska,02170,65,3,1,0
+2020-06-25,Nome Census Area,Alaska,02180,7,0,0,0
+2020-06-25,North Slope Borough,Alaska,02185,4,0,0,0
+2020-06-25,Northwest Arctic Borough,Alaska,02188,4,0,0,0
+2020-06-25,Petersburg Borough,Alaska,02195,4,0,0,0
+2020-06-25,Prince of Wales-Hyder Census Area,Alaska,02198,3,0,0,0
+2020-06-25,Sitka City and Borough,Alaska,02220,14,0,0,0
+2020-06-25,Southeast Fairbanks Census Area,Alaska,02240,7,0,0,0
+2020-06-25,Unknown,Alaska,,24,15,0,0
+2020-06-25,Valdez-Cordova Census Area,Alaska,02261,18,2,0,0
+2020-06-25,Wrangell City and Borough,Alaska,02275,6,0,0,0
+2020-06-25,Yukon-Koyukuk Census Area,Alaska,02290,2,0,0,0

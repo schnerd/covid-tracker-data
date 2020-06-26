@@ -1,11 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-03-19,Fairfield,Connecticut,09001,102,33,4,3
-2020-03-19,Hartford,Connecticut,09003,18,7,0,0
-2020-03-19,Litchfield,Connecticut,09005,7,2,0,0
-2020-03-19,Middlesex,Connecticut,09007,3,2,0,0
-2020-03-19,New Haven,Connecticut,09009,24,14,0,0
-2020-03-19,Tolland,Connecticut,09013,4,4,0,0
-2020-03-19,Windham,Connecticut,09015,1,1,0,0
 2020-03-20,Fairfield,Connecticut,09001,122,20,4,0
 2020-03-20,Hartford,Connecticut,09003,29,11,0,0
 2020-03-20,Litchfield,Connecticut,09005,8,1,0,0
@@ -174,7 +167,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-08,New Haven,Connecticut,09009,1945,281,70,10
 2020-04-08,New London,Connecticut,09011,120,35,5,1
 2020-04-08,Tolland,Connecticut,09013,128,17,13,0
-2020-04-08,Unknown,Connecticut,,366,74,3,0
+2020-04-08,Unknown,Connecticut,,366,74,2,-1
 2020-04-08,Windham,Connecticut,09015,49,6,1,0
 2020-04-09,Fairfield,Connecticut,09001,4882,465,178,23
 2020-04-09,Hartford,Connecticut,09003,1471,181,75,7
@@ -183,7 +176,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-09,New Haven,Connecticut,09009,2183,238,78,8
 2020-04-09,New London,Connecticut,09011,139,19,6,1
 2020-04-09,Tolland,Connecticut,09013,145,17,13,0
-2020-04-09,Unknown,Connecticut,,392,26,2,-1
+2020-04-09,Unknown,Connecticut,,392,26,2,0
 2020-04-09,Windham,Connecticut,09015,52,3,1,0
 2020-04-10,Fairfield,Connecticut,09001,5180,298,203,25
 2020-04-10,Hartford,Connecticut,09003,1615,144,88,13
@@ -300,7 +293,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-22,New Haven,Connecticut,09009,5811,318,345,23
 2020-04-22,New London,Connecticut,09011,397,28,14,1
 2020-04-22,Tolland,Connecticut,09013,331,26,32,2
-2020-04-22,Unknown,Connecticut,,503,0,7,3
+2020-04-22,Unknown,Connecticut,,550,47,7,3
 2020-04-22,Windham,Connecticut,09015,122,10,4,2
 2020-04-23,Fairfield,Connecticut,09001,10008,125,615,31
 2020-04-23,Hartford,Connecticut,09003,4303,175,469,27
@@ -309,7 +302,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-23,New Haven,Connecticut,09009,6064,253,372,27
 2020-04-23,New London,Connecticut,09011,419,22,17,3
 2020-04-23,Tolland,Connecticut,09013,359,28,33,1
-2020-04-23,Unknown,Connecticut,,522,19,6,-1
+2020-04-23,Unknown,Connecticut,,522,-28,6,-1
 2020-04-23,Windham,Connecticut,09015,129,7,4,0
 2020-04-24,Fairfield,Connecticut,09001,10227,219,662,47
 2020-04-24,Hartford,Connecticut,09003,4570,267,511,42
@@ -345,7 +338,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-27,New Haven,Connecticut,09009,6993,278,456,27
 2020-04-27,New London,Connecticut,09011,516,18,34,3
 2020-04-27,Tolland,Connecticut,09013,419,12,35,0
-2020-04-27,Unknown,Connecticut,,484,-38,7,7
+2020-04-27,Unknown,Connecticut,,484,-38,0,0
 2020-04-27,Windham,Connecticut,09015,164,7,4,0
 2020-04-28,Fairfield,Connecticut,09001,10874,111,747,20
 2020-04-28,Hartford,Connecticut,09003,5224,67,643,31
@@ -354,7 +347,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-28,New Haven,Connecticut,09009,7089,96,478,22
 2020-04-28,New London,Connecticut,09011,530,14,34,0
 2020-04-28,Tolland,Connecticut,09013,422,3,35,0
-2020-04-28,Unknown,Connecticut,,491,7,2,-5
+2020-04-28,Unknown,Connecticut,,491,7,2,2
 2020-04-28,Windham,Connecticut,09015,164,0,4,0
 2020-04-29,Fairfield,Connecticut,09001,10985,111,774,27
 2020-04-29,Hartford,Connecticut,09003,5388,164,670,27
@@ -390,7 +383,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-02,New Haven,Connecticut,09009,8024,124,565,32
 2020-05-02,New London,Connecticut,09011,623,20,43,1
 2020-05-02,Tolland,Connecticut,09013,461,15,39,1
-2020-05-02,Unknown,Connecticut,,371,0,2,0
+2020-05-02,Unknown,Connecticut,,312,-59,1,-1
 2020-05-02,Windham,Connecticut,09015,211,11,2,0
 2020-05-03,Fairfield,Connecticut,09001,11801,0,865,0
 2020-05-03,Hartford,Connecticut,09003,6112,0,741,0
@@ -399,7 +392,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-03,New Haven,Connecticut,09009,8024,0,565,0
 2020-05-03,New London,Connecticut,09011,623,0,43,0
 2020-05-03,Tolland,Connecticut,09013,461,0,39,0
-2020-05-03,Unknown,Connecticut,,312,-59,1,-1
+2020-05-03,Unknown,Connecticut,,312,0,1,0
 2020-05-03,Windham,Connecticut,09015,211,0,2,0
 2020-05-04,Fairfield,Connecticut,09001,12245,444,910,45
 2020-05-04,Hartford,Connecticut,09003,6173,61,773,32
@@ -869,3 +862,12 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Tolland,Connecticut,09013,898,0,64,0
 2020-06-24,Unknown,Connecticut,,260,-2,0,0
 2020-06-24,Windham,Connecticut,09015,588,1,14,0
+2020-06-25,Fairfield,Connecticut,09001,16547,20,1373,3
+2020-06-25,Hartford,Connecticut,09003,11483,33,1362,6
+2020-06-25,Litchfield,Connecticut,09005,1469,0,136,0
+2020-06-25,Middlesex,Connecticut,09007,1277,4,179,0
+2020-06-25,New Haven,Connecticut,09009,12245,18,1068,2
+2020-06-25,New London,Connecticut,09011,1219,-2,102,0
+2020-06-25,Tolland,Connecticut,09013,899,1,64,0
+2020-06-25,Unknown,Connecticut,,260,0,0,0
+2020-06-25,Windham,Connecticut,09015,595,7,14,0

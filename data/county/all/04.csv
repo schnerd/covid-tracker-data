@@ -142,6 +142,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-24,Pima,Arizona,04019,42,18,0,0
 2020-03-24,Pinal,Arizona,04021,22,5,0,0
 2020-03-24,Santa Cruz,Arizona,04023,1,0,0,0
+2020-03-24,Unknown,Arizona,,0,0,3,3
 2020-03-24,Yavapai,Arizona,04025,3,0,0,0
 2020-03-24,Yuma,Arizona,04027,2,1,0,0
 2020-03-25,Apache,Arizona,04001,7,3,0,0
@@ -153,6 +154,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-25,Pima,Arizona,04019,49,7,0,0
 2020-03-25,Pinal,Arizona,04021,23,1,0,0
 2020-03-25,Santa Cruz,Arizona,04023,2,1,0,0
+2020-03-25,Unknown,Arizona,,0,0,3,0
 2020-03-25,Yavapai,Arizona,04025,4,1,0,0
 2020-03-25,Yuma,Arizona,04027,3,1,0,0
 2020-03-26,Apache,Arizona,04001,9,2,0,0
@@ -166,6 +168,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-26,Pima,Arizona,04019,75,26,0,0
 2020-03-26,Pinal,Arizona,04021,35,12,0,0
 2020-03-26,Santa Cruz,Arizona,04023,2,0,0,0
+2020-03-26,Unknown,Arizona,,0,0,2,-1
 2020-03-26,Yavapai,Arizona,04025,5,1,0,0
 2020-03-26,Yuma,Arizona,04027,4,1,0,0
 2020-03-27,Apache,Arizona,04001,11,2,0,0
@@ -179,6 +182,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-27,Pima,Arizona,04019,102,27,4,4
 2020-03-27,Pinal,Arizona,04021,36,1,0,0
 2020-03-27,Santa Cruz,Arizona,04023,2,0,0,0
+2020-03-27,Unknown,Arizona,,0,0,4,2
 2020-03-27,Yavapai,Arizona,04025,9,4,0,0
 2020-03-27,Yuma,Arizona,04027,4,0,0,0
 2020-03-28,Apache,Arizona,04001,13,2,0,0
@@ -193,6 +197,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-28,Pima,Arizona,04019,120,18,5,1
 2020-03-28,Pinal,Arizona,04021,41,5,0,0
 2020-03-28,Santa Cruz,Arizona,04023,2,0,0,0
+2020-03-28,Unknown,Arizona,,0,0,3,-1
 2020-03-28,Yavapai,Arizona,04025,13,4,0,0
 2020-03-28,Yuma,Arizona,04027,4,0,0,0
 2020-03-29,Apache,Arizona,04001,13,0,0,0
@@ -207,6 +212,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-29,Pima,Arizona,04019,153,33,6,1
 2020-03-29,Pinal,Arizona,04021,51,10,0,0
 2020-03-29,Santa Cruz,Arizona,04023,2,0,0,0
+2020-03-29,Unknown,Arizona,,0,0,5,2
 2020-03-29,Yavapai,Arizona,04025,12,-1,0,0
 2020-03-29,Yuma,Arizona,04027,9,5,0,0
 2020-03-30,Apache,Arizona,04001,17,4,0,0
@@ -222,6 +228,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-30,Pima,Arizona,04019,187,34,6,0
 2020-03-30,Pinal,Arizona,04021,64,13,0,0
 2020-03-30,Santa Cruz,Arizona,04023,2,0,0,0
+2020-03-30,Unknown,Arizona,,0,0,6,1
 2020-03-30,Yavapai,Arizona,04025,19,7,0,0
 2020-03-30,Yuma,Arizona,04027,12,3,0,0
 2020-03-31,Apache,Arizona,04001,16,-1,0,0
@@ -237,6 +244,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-31,Pima,Arizona,04019,202,15,6,0
 2020-03-31,Pinal,Arizona,04021,62,-2,0,0
 2020-03-31,Santa Cruz,Arizona,04023,2,0,0,0
+2020-03-31,Unknown,Arizona,,0,0,7,1
 2020-03-31,Yavapai,Arizona,04025,24,5,0,0
 2020-03-31,Yuma,Arizona,04027,12,0,0,0
 2020-04-01,Apache,Arizona,04001,17,1,0,0
@@ -252,6 +260,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-01,Pima,Arizona,04019,217,15,10,4
 2020-04-01,Pinal,Arizona,04021,65,3,0,0
 2020-04-01,Santa Cruz,Arizona,04023,3,1,0,0
+2020-04-01,Unknown,Arizona,,0,0,8,1
 2020-04-01,Yavapai,Arizona,04025,24,0,0,0
 2020-04-01,Yuma,Arizona,04027,12,0,0,0
 2020-04-02,Apache,Arizona,04001,19,2,0,0
@@ -267,6 +276,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-02,Pima,Arizona,04019,237,20,11,1
 2020-04-02,Pinal,Arizona,04021,69,4,0,0
 2020-04-02,Santa Cruz,Arizona,04023,3,0,0,0
+2020-04-02,Unknown,Arizona,,0,0,3,-5
 2020-04-02,Yavapai,Arizona,04025,34,10,0,0
 2020-04-02,Yuma,Arizona,04027,13,1,0,0
 2020-04-03,Apache,Arizona,04001,17,-2,0,0
@@ -282,7 +292,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-03,Pima,Arizona,04019,280,43,11,0
 2020-04-03,Pinal,Arizona,04021,77,8,0,0
 2020-04-03,Santa Cruz,Arizona,04023,3,0,0,0
-2020-04-03,Unknown,Arizona,,0,0,4,4
+2020-04-03,Unknown,Arizona,,0,0,4,1
 2020-04-03,Yavapai,Arizona,04025,35,1,0,0
 2020-04-03,Yuma,Arizona,04027,13,0,0,0
 2020-04-04,Apache,Arizona,04001,20,3,0,0
@@ -362,6 +372,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-08,Pima,Arizona,04019,464,49,16,3
 2020-04-08,Pinal,Arizona,04021,124,4,0,0
 2020-04-08,Santa Cruz,Arizona,04023,6,1,0,0
+2020-04-08,Unknown,Arizona,,0,0,1,-11
 2020-04-08,Yavapai,Arizona,04025,58,1,1,0
 2020-04-08,Yuma,Arizona,04027,14,-1,0,0
 2020-04-09,Apache,Arizona,04001,52,18,3,0
@@ -392,7 +403,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-10,Pima,Arizona,04019,543,31,20,0
 2020-04-10,Pinal,Arizona,04021,138,1,3,0
 2020-04-10,Santa Cruz,Arizona,04023,7,0,0,0
-2020-04-10,Unknown,Arizona,,0,0,5,-7
+2020-04-10,Unknown,Arizona,,0,0,5,4
 2020-04-10,Yavapai,Arizona,04025,62,0,1,0
 2020-04-10,Yuma,Arizona,04027,16,1,0,0
 2020-04-11,Apache,Arizona,04001,66,11,3,0
@@ -577,6 +588,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-22,Pima,Arizona,04019,973,10,68,3
 2020-04-22,Pinal,Arizona,04021,283,15,8,1
 2020-04-22,Santa Cruz,Arizona,04023,28,5,0,0
+2020-04-22,Unknown,Arizona,,0,0,5,4
 2020-04-22,Yavapai,Arizona,04025,73,1,1,0
 2020-04-22,Yuma,Arizona,04027,28,1,1,0
 2020-04-23,Apache,Arizona,04001,268,33,5,0
@@ -592,6 +604,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-23,Pima,Arizona,04019,1026,53,70,2
 2020-04-23,Pinal,Arizona,04021,303,20,8,0
 2020-04-23,Santa Cruz,Arizona,04023,28,0,0,0
+2020-04-23,Unknown,Arizona,,0,0,5,0
 2020-04-23,Yavapai,Arizona,04025,75,2,1,0
 2020-04-23,Yuma,Arizona,04027,39,11,1,0
 2020-04-24,Apache,Arizona,04001,296,28,5,0
@@ -1072,7 +1085,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-25,Pima,Arizona,04019,2046,19,173,0
 2020-05-25,Pinal,Arizona,04021,764,9,37,0
 2020-05-25,Santa Cruz,Arizona,04023,186,17,0,0
-2020-05-25,Unknown,Arizona,,0,0,1,0
+2020-05-25,Unknown,Arizona,,0,0,1,-4
 2020-05-25,Yavapai,Arizona,04025,288,3,6,0
 2020-05-25,Yuma,Arizona,04027,656,24,9,0
 2020-05-26,Apache,Arizona,04001,1214,23,26,0
@@ -1526,3 +1539,18 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Santa Cruz,Arizona,04023,1554,14,14,0
 2020-06-24,Yavapai,Arizona,04025,521,11,7,0
 2020-06-24,Yuma,Arizona,04027,5131,191,72,3
+2020-06-25,Apache,Arizona,04001,2235,41,73,0
+2020-06-25,Cochise,Arizona,04003,468,27,6,0
+2020-06-25,Coconino,Arizona,04005,1676,65,91,0
+2020-06-25,Gila,Arizona,04007,216,15,5,0
+2020-06-25,Graham,Arizona,04009,70,-1,2,0
+2020-06-25,Greenlee,Arizona,04011,17,1,1,0
+2020-06-25,La Paz,Arizona,04012,299,10,4,0
+2020-06-25,Maricopa,Arizona,04013,37135,2142,694,4
+2020-06-25,Mohave,Arizona,04015,881,40,80,2
+2020-06-25,Navajo,Arizona,04017,3311,63,115,1
+2020-06-25,Pima,Arizona,04019,6546,228,272,17
+2020-06-25,Pinal,Arizona,04021,2912,134,58,3
+2020-06-25,Santa Cruz,Arizona,04023,1603,49,14,0
+2020-06-25,Yavapai,Arizona,04025,564,43,7,0
+2020-06-25,Yuma,Arizona,04027,5364,233,73,1

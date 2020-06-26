@@ -263,6 +263,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-24,Saginaw,Michigan,26145,8,6,0,0
 2020-03-24,St. Clair,Michigan,26147,8,1,0,0
 2020-03-24,Tuscola,Michigan,26157,1,0,0,0
+2020-03-24,Unknown,Michigan,,8,8,0,0
 2020-03-24,Washtenaw,Michigan,26161,50,8,3,2
 2020-03-24,Wayne,Michigan,26163,873,235,13,5
 2020-03-24,Wexford,Michigan,26165,1,0,0,0
@@ -308,6 +309,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-25,Sanilac,Michigan,26151,1,1,0,0
 2020-03-25,St. Clair,Michigan,26147,10,2,0,0
 2020-03-25,Tuscola,Michigan,26157,2,1,0,0
+2020-03-25,Unknown,Michigan,,8,0,0,0
 2020-03-25,Van Buren,Michigan,26159,2,2,0,0
 2020-03-25,Washtenaw,Michigan,26161,72,22,3,0
 2020-03-25,Wayne,Michigan,26163,1122,249,21,8
@@ -361,7 +363,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-26,Shiawassee,Michigan,26155,1,1,0,0
 2020-03-26,St. Clair,Michigan,26147,13,3,0,0
 2020-03-26,Tuscola,Michigan,26157,2,0,1,1
-2020-03-26,Unknown,Michigan,,13,13,0,0
+2020-03-26,Unknown,Michigan,,13,5,0,0
 2020-03-26,Van Buren,Michigan,26159,2,0,0,0
 2020-03-26,Washtenaw,Michigan,26161,92,20,3,0
 2020-03-26,Wayne,Michigan,26163,1389,267,26,5
@@ -419,7 +421,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-27,Shiawassee,Michigan,26155,2,1,0,0
 2020-03-27,St. Clair,Michigan,26147,15,2,0,0
 2020-03-27,Tuscola,Michigan,26157,2,0,1,0
-2020-03-27,Unknown,Michigan,,23,10,0,0
+2020-03-27,Unknown,Michigan,,28,15,0,0
 2020-03-27,Van Buren,Michigan,26159,3,1,0,0
 2020-03-27,Washtenaw,Michigan,26161,150,58,3,0
 2020-03-27,Wayne,Michigan,26163,1810,421,37,11
@@ -478,7 +480,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-28,Shiawassee,Michigan,26155,2,0,0,0
 2020-03-28,St. Clair,Michigan,26147,16,1,0,0
 2020-03-28,Tuscola,Michigan,26157,4,2,1,0
-2020-03-28,Unknown,Michigan,,47,24,0,0
+2020-03-28,Unknown,Michigan,,45,17,0,0
 2020-03-28,Van Buren,Michigan,26159,4,1,0,0
 2020-03-28,Washtenaw,Michigan,26161,185,35,3,0
 2020-03-28,Wayne,Michigan,26163,2316,506,46,9
@@ -538,7 +540,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-29,Shiawassee,Michigan,26155,5,3,0,0
 2020-03-29,St. Clair,Michigan,26147,20,4,0,0
 2020-03-29,Tuscola,Michigan,26157,4,0,1,0
-2020-03-29,Unknown,Michigan,,77,30,0,0
+2020-03-29,Unknown,Michigan,,90,45,0,0
 2020-03-29,Van Buren,Michigan,26159,4,0,0,0
 2020-03-29,Washtenaw,Michigan,26161,231,46,5,2
 2020-03-29,Wayne,Michigan,26163,2704,388,56,10
@@ -602,7 +604,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-30,St. Clair,Michigan,26147,25,5,0,0
 2020-03-30,St. Joseph,Michigan,26149,3,3,0,0
 2020-03-30,Tuscola,Michigan,26157,5,1,1,0
-2020-03-30,Unknown,Michigan,,78,1,0,0
+2020-03-30,Unknown,Michigan,,77,-13,0,0
 2020-03-30,Van Buren,Michigan,26159,4,0,0,0
 2020-03-30,Washtenaw,Michigan,26161,266,35,6,1
 2020-03-30,Wayne,Michigan,26163,3195,491,83,27
@@ -669,7 +671,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-31,St. Clair,Michigan,26147,32,7,0,0
 2020-03-31,St. Joseph,Michigan,26149,4,1,0,0
 2020-03-31,Tuscola,Michigan,26157,9,4,2,1
-2020-03-31,Unknown,Michigan,,93,15,0,0
+2020-03-31,Unknown,Michigan,,93,16,0,0
 2020-03-31,Van Buren,Michigan,26159,7,3,0,0
 2020-03-31,Washtenaw,Michigan,26161,311,45,7,1
 2020-03-31,Wayne,Michigan,26163,3735,540,120,37
@@ -946,7 +948,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-04,St. Clair,Michigan,26147,85,19,2,2
 2020-04-04,St. Joseph,Michigan,26149,9,-1,0,0
 2020-04-04,Tuscola,Michigan,26157,20,5,2,0
-2020-04-04,Unknown,Michigan,,333,118,1,0
+2020-04-04,Unknown,Michigan,,333,118,0,-1
 2020-04-04,Van Buren,Michigan,26159,12,0,1,0
 2020-04-04,Washtenaw,Michigan,26161,501,24,8,0
 2020-04-04,Wayne,Michigan,26163,6762,666,252,29
@@ -1016,7 +1018,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-05,St. Clair,Michigan,26147,94,9,2,0
 2020-04-05,St. Joseph,Michigan,26149,10,1,0,0
 2020-04-05,Tuscola,Michigan,26157,22,2,2,0
-2020-04-05,Unknown,Michigan,,306,-27,0,-1
+2020-04-05,Unknown,Michigan,,306,-27,0,0
 2020-04-05,Van Buren,Michigan,26159,14,2,1,0
 2020-04-05,Washtenaw,Michigan,26161,521,20,8,0
 2020-04-05,Wayne,Michigan,26163,7518,756,293,41
@@ -5599,7 +5601,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-02,St. Clair,Michigan,26147,511,0,43,1
 2020-06-02,St. Joseph,Michigan,26149,129,10,2,0
 2020-06-02,Tuscola,Michigan,26157,189,0,24,0
-2020-06-02,Unknown,Michigan,,173,34,4,1
+2020-06-02,Unknown,Michigan,,173,34,5,2
 2020-06-02,Van Buren,Michigan,26159,147,3,6,0
 2020-06-02,Washtenaw,Michigan,26161,1995,3,109,0
 2020-06-02,Wayne,Michigan,26163,20491,22,2477,12
@@ -5680,7 +5682,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-03,St. Clair,Michigan,26147,514,3,44,1
 2020-06-03,St. Joseph,Michigan,26149,130,1,3,1
 2020-06-03,Tuscola,Michigan,26157,188,-1,24,0
-2020-06-03,Unknown,Michigan,,95,-78,3,-1
+2020-06-03,Unknown,Michigan,,95,-78,3,-2
 2020-06-03,Van Buren,Michigan,26159,149,2,6,0
 2020-06-03,Washtenaw,Michigan,26161,1996,1,110,1
 2020-06-03,Wayne,Michigan,26163,20564,73,2481,4
@@ -5761,7 +5763,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-04,St. Clair,Michigan,26147,515,1,44,0
 2020-06-04,St. Joseph,Michigan,26149,133,3,3,0
 2020-06-04,Tuscola,Michigan,26157,188,0,25,1
-2020-06-04,Unknown,Michigan,,90,-5,3,0
+2020-06-04,Unknown,Michigan,,107,12,2,-1
 2020-06-04,Van Buren,Michigan,26159,150,1,6,0
 2020-06-04,Washtenaw,Michigan,26161,2002,6,110,0
 2020-06-04,Wayne,Michigan,26163,20613,49,2494,13
@@ -5842,7 +5844,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-05,St. Clair,Michigan,26147,515,0,44,0
 2020-06-05,St. Joseph,Michigan,26149,144,11,3,0
 2020-06-05,Tuscola,Michigan,26157,195,7,25,0
-2020-06-05,Unknown,Michigan,,197,107,3,0
+2020-06-05,Unknown,Michigan,,197,90,3,1
 2020-06-05,Van Buren,Michigan,26159,172,22,7,1
 2020-06-05,Washtenaw,Michigan,26161,2016,14,110,0
 2020-06-05,Wayne,Michigan,26163,21065,452,2615,121
@@ -6332,7 +6334,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-11,St. Clair,Michigan,26147,517,0,45,0
 2020-06-11,St. Joseph,Michigan,26149,166,6,3,0
 2020-06-11,Tuscola,Michigan,26157,207,1,25,0
-2020-06-11,Unknown,Michigan,,220,17,4,1
+2020-06-11,Unknown,Michigan,,220,17,1,-2
 2020-06-11,Van Buren,Michigan,26159,195,0,8,1
 2020-06-11,Washtenaw,Michigan,26161,2045,8,111,0
 2020-06-11,Wayne,Michigan,26163,21652,59,2666,11
@@ -6415,7 +6417,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-12,St. Clair,Michigan,26147,517,0,45,0
 2020-06-12,St. Joseph,Michigan,26149,171,5,3,0
 2020-06-12,Tuscola,Michigan,26157,208,1,25,0
-2020-06-12,Unknown,Michigan,,232,12,4,0
+2020-06-12,Unknown,Michigan,,232,12,4,3
 2020-06-12,Van Buren,Michigan,26159,200,5,7,-1
 2020-06-12,Washtenaw,Michigan,26161,2062,17,111,0
 2020-06-12,Wayne,Michigan,26163,21683,31,2666,0
@@ -7416,3 +7418,86 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Washtenaw,Michigan,26161,2136,6,113,0
 2020-06-24,Wayne,Michigan,26163,22347,79,2695,3
 2020-06-24,Wexford,Michigan,26165,22,0,3,0
+2020-06-25,Alcona,Michigan,26001,21,0,1,0
+2020-06-25,Alger,Michigan,26003,2,0,0,0
+2020-06-25,Allegan,Michigan,26005,301,-2,6,0
+2020-06-25,Alpena,Michigan,26007,117,1,12,0
+2020-06-25,Antrim,Michigan,26009,18,2,0,0
+2020-06-25,Arenac,Michigan,26011,38,0,2,0
+2020-06-25,Baraga,Michigan,26013,1,0,0,0
+2020-06-25,Barry,Michigan,26015,95,-1,2,0
+2020-06-25,Bay,Michigan,26017,383,2,30,1
+2020-06-25,Benzie,Michigan,26019,6,0,0,0
+2020-06-25,Berrien,Michigan,26021,922,4,60,0
+2020-06-25,Branch,Michigan,26023,1047,0,25,0
+2020-06-25,Calhoun,Michigan,26025,517,3,32,1
+2020-06-25,Cass,Michigan,26027,131,5,4,0
+2020-06-25,Charlevoix,Michigan,26029,29,4,2,0
+2020-06-25,Cheboygan,Michigan,26031,27,1,2,0
+2020-06-25,Chippewa,Michigan,26033,4,0,0,0
+2020-06-25,Clare,Michigan,26035,27,0,3,1
+2020-06-25,Clinton,Michigan,26037,207,2,12,1
+2020-06-25,Crawford,Michigan,26039,68,0,5,0
+2020-06-25,Delta,Michigan,26041,22,1,2,0
+2020-06-25,Dickinson,Michigan,26043,7,0,2,0
+2020-06-25,Eaton,Michigan,26045,297,10,7,0
+2020-06-25,Emmet,Michigan,26047,27,-1,2,0
+2020-06-25,Genesee,Michigan,26049,2669,1,285,0
+2020-06-25,Gladwin,Michigan,26051,26,0,1,0
+2020-06-25,Gogebic,Michigan,26053,6,0,1,0
+2020-06-25,Grand Traverse,Michigan,26055,44,0,5,0
+2020-06-25,Gratiot,Michigan,26057,98,-1,13,0
+2020-06-25,Hillsdale,Michigan,26059,192,5,25,0
+2020-06-25,Houghton,Michigan,26061,11,0,0,0
+2020-06-25,Huron,Michigan,26063,64,0,3,0
+2020-06-25,Ingham,Michigan,26065,916,20,29,0
+2020-06-25,Ionia,Michigan,26067,197,2,4,0
+2020-06-25,Iosco,Michigan,26069,112,0,10,0
+2020-06-25,Iron,Michigan,26071,5,1,0,0
+2020-06-25,Isabella,Michigan,26073,120,0,8,0
+2020-06-25,Jackson,Michigan,26075,2056,0,52,0
+2020-06-25,Kalamazoo,Michigan,26077,1042,25,67,0
+2020-06-25,Kalkaska,Michigan,26079,31,0,2,0
+2020-06-25,Kent,Michigan,26081,4723,51,130,1
+2020-06-25,Keweenaw,Michigan,26083,1,0,0,0
+2020-06-25,Lake,Michigan,26085,7,0,0,0
+2020-06-25,Lapeer,Michigan,26087,567,2,38,0
+2020-06-25,Leelanau,Michigan,26089,20,8,0,0
+2020-06-25,Lenawee,Michigan,26091,933,5,10,0
+2020-06-25,Livingston,Michigan,26093,599,3,29,0
+2020-06-25,Luce,Michigan,26095,4,0,0,0
+2020-06-25,Mackinac,Michigan,26097,8,0,0,0
+2020-06-25,Macomb,Michigan,26099,7464,34,905,2
+2020-06-25,Manistee,Michigan,26101,28,0,0,-1
+2020-06-25,Marquette,Michigan,26103,63,0,11,0
+2020-06-25,Mason,Michigan,26105,43,0,0,0
+2020-06-25,Mecosta,Michigan,26107,29,1,2,0
+2020-06-25,Menominee,Michigan,26109,14,3,0,0
+2020-06-25,Midland,Michigan,26111,161,1,9,0
+2020-06-25,Missaukee,Michigan,26113,24,0,1,0
+2020-06-25,Monroe,Michigan,26115,591,8,21,0
+2020-06-25,Montcalm,Michigan,26117,85,0,1,0
+2020-06-25,Montmorency,Michigan,26119,5,0,0,0
+2020-06-25,Muskegon,Michigan,26121,796,3,49,0
+2020-06-25,Newaygo,Michigan,26123,162,11,0,0
+2020-06-25,Oakland,Michigan,26125,11826,21,1084,3
+2020-06-25,Oceana,Michigan,26127,222,12,3,0
+2020-06-25,Ogemaw,Michigan,26129,32,0,2,0
+2020-06-25,Osceola,Michigan,26133,25,0,0,0
+2020-06-25,Oscoda,Michigan,26135,14,2,1,0
+2020-06-25,Otsego,Michigan,26137,133,0,10,0
+2020-06-25,Ottawa,Michigan,26139,996,8,51,0
+2020-06-25,Presque Isle,Michigan,26141,12,0,0,0
+2020-06-25,Roscommon,Michigan,26143,26,0,0,0
+2020-06-25,Saginaw,Michigan,26145,1248,23,123,0
+2020-06-25,Sanilac,Michigan,26151,44,0,6,0
+2020-06-25,Schoolcraft,Michigan,26153,4,0,0,0
+2020-06-25,Shiawassee,Michigan,26155,268,3,27,0
+2020-06-25,St. Clair,Michigan,26147,538,4,49,0
+2020-06-25,St. Joseph,Michigan,26149,255,13,3,0
+2020-06-25,Tuscola,Michigan,26157,229,0,26,0
+2020-06-25,Unknown,Michigan,,192,9,2,0
+2020-06-25,Van Buren,Michigan,26159,224,3,7,0
+2020-06-25,Washtenaw,Michigan,26161,2142,6,113,0
+2020-06-25,Wayne,Michigan,26163,22476,129,2705,10
+2020-06-25,Wexford,Michigan,26165,23,1,3,0

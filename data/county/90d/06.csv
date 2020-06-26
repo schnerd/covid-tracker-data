@@ -1,37 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-03-19,Alameda,California,06001,57,4,0,0
-2020-03-19,Contra Costa,California,06013,42,1,0,0
-2020-03-19,Fresno,California,06019,4,0,0,0
-2020-03-19,Humboldt,California,06023,1,0,0,0
-2020-03-19,Kern,California,06029,2,1,0,0
-2020-03-19,Los Angeles,California,06037,231,41,2,1
-2020-03-19,Madera,California,06039,3,2,0,0
-2020-03-19,Marin,California,06041,25,9,0,0
-2020-03-19,Mendocino,California,06045,1,0,0,0
-2020-03-19,Monterey,California,06053,2,0,0,0
-2020-03-19,Napa,California,06055,1,0,0,0
-2020-03-19,Nevada,California,06057,1,0,0,0
-2020-03-19,Orange,California,06059,53,11,0,0
-2020-03-19,Placer,California,06061,9,0,1,0
-2020-03-19,Riverside,California,06065,22,6,3,0
-2020-03-19,Sacramento,California,06067,44,5,3,1
-2020-03-19,San Benito,California,06069,5,0,1,0
-2020-03-19,San Bernardino,California,06071,5,0,0,0
-2020-03-19,San Diego,California,06073,105,24,0,0
-2020-03-19,San Francisco,California,06075,73,22,0,0
-2020-03-19,San Joaquin,California,06077,17,3,2,0
-2020-03-19,San Luis Obispo,California,06079,13,6,0,0
-2020-03-19,San Mateo,California,06081,89,9,1,0
-2020-03-19,Santa Barbara,California,06083,8,6,0,0
-2020-03-19,Santa Clara,California,06085,189,14,6,0
-2020-03-19,Santa Cruz,California,06087,2,0,0,0
-2020-03-19,Shasta,California,06089,1,0,0,0
-2020-03-19,Solano,California,06095,15,0,0,0
-2020-03-19,Sonoma,California,06097,11,2,0,0
-2020-03-19,Stanislaus,California,06099,5,0,0,0
-2020-03-19,Tulare,California,06107,7,2,0,0
-2020-03-19,Ventura,California,06111,19,6,0,0
-2020-03-19,Yolo,California,06113,5,0,0,0
 2020-03-20,Alameda,California,06001,67,10,0,0
 2020-03-20,Amador,California,06005,1,1,0,0
 2020-03-20,Contra Costa,California,06013,46,4,1,1
@@ -182,7 +149,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-23,Sonoma,California,06097,29,18,1,0
 2020-03-23,Stanislaus,California,06099,10,2,0,0
 2020-03-23,Tulare,California,06107,16,4,0,0
-2020-03-23,Unknown,California,,1,0,0,0
+2020-03-23,Unknown,California,,2,1,0,0
 2020-03-23,Ventura,California,06111,35,5,1,0
 2020-03-23,Yolo,California,06113,8,2,1,0
 2020-03-23,Yuba,California,06115,3,1,0,0
@@ -225,7 +192,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-24,Sonoma,California,06097,34,5,1,0
 2020-03-24,Stanislaus,California,06099,11,1,0,0
 2020-03-24,Tulare,California,06107,17,1,0,0
-2020-03-24,Unknown,California,,1,0,0,0
 2020-03-24,Ventura,California,06111,39,4,1,0
 2020-03-24,Yolo,California,06113,10,2,1,0
 2020-03-24,Yuba,California,06115,3,0,0,0
@@ -270,7 +236,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-25,Stanislaus,California,06099,12,1,0,0
 2020-03-25,Sutter,California,06101,2,2,0,0
 2020-03-25,Tulare,California,06107,18,1,0,0
-2020-03-25,Unknown,California,,1,0,0,0
 2020-03-25,Ventura,California,06111,50,11,1,0
 2020-03-25,Yolo,California,06113,11,1,1,0
 2020-03-25,Yuba,California,06115,3,0,0,0
@@ -315,7 +280,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-26,Stanislaus,California,06099,17,5,0,0
 2020-03-26,Sutter,California,06101,2,0,0,0
 2020-03-26,Tulare,California,06107,20,2,0,0
-2020-03-26,Unknown,California,,1,0,0,0
 2020-03-26,Ventura,California,06111,61,11,1,0
 2020-03-26,Yolo,California,06113,11,0,1,0
 2020-03-26,Yuba,California,06115,3,0,0,0
@@ -362,7 +326,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-27,Stanislaus,California,06099,23,6,0,0
 2020-03-27,Sutter,California,06101,2,0,0,0
 2020-03-27,Tulare,California,06107,24,4,0,0
-2020-03-27,Unknown,California,,1,0,0,0
 2020-03-27,Ventura,California,06111,83,22,3,2
 2020-03-27,Yolo,California,06113,16,5,1,0
 2020-03-27,Yuba,California,06115,3,0,0,0
@@ -410,7 +373,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-28,Stanislaus,California,06099,29,6,0,0
 2020-03-28,Sutter,California,06101,2,0,0,0
 2020-03-28,Tulare,California,06107,29,5,1,1
-2020-03-28,Unknown,California,,1,0,0,0
 2020-03-28,Ventura,California,06111,98,15,3,0
 2020-03-28,Yolo,California,06113,16,0,1,0
 2020-03-28,Yuba,California,06115,3,0,0,0
@@ -459,7 +421,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-29,Sutter,California,06101,6,4,0,0
 2020-03-29,Tulare,California,06107,35,6,1,0
 2020-03-29,Tuolumne,California,06109,1,1,0,0
-2020-03-29,Unknown,California,,1,0,0,0
 2020-03-29,Ventura,California,06111,109,11,4,1
 2020-03-29,Yolo,California,06113,16,0,1,0
 2020-03-29,Yuba,California,06115,3,0,0,0
@@ -509,7 +470,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-30,Sutter,California,06101,9,3,0,0
 2020-03-30,Tulare,California,06107,43,8,1,0
 2020-03-30,Tuolumne,California,06109,1,0,0,0
-2020-03-30,Unknown,California,,1,0,0,0
 2020-03-30,Ventura,California,06111,126,17,4,0
 2020-03-30,Yolo,California,06113,24,8,1,0
 2020-03-30,Yuba,California,06115,6,3,0,0
@@ -560,7 +520,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-31,Sutter,California,06101,10,1,0,0
 2020-03-31,Tulare,California,06107,45,2,1,0
 2020-03-31,Tuolumne,California,06109,1,0,0,0
-2020-03-31,Unknown,California,,1,0,0,0
 2020-03-31,Ventura,California,06111,149,23,5,1
 2020-03-31,Yolo,California,06113,25,1,1,0
 2020-03-31,Yuba,California,06115,7,1,0,0
@@ -611,7 +570,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-01,Sutter,California,06101,14,4,0,0
 2020-04-01,Tulare,California,06107,59,14,2,1
 2020-04-01,Tuolumne,California,06109,1,0,0,0
-2020-04-01,Unknown,California,,1,0,0,0
+2020-04-01,Unknown,California,,0,-2,1,1
 2020-04-01,Ventura,California,06111,160,11,5,0
 2020-04-01,Yolo,California,06113,28,3,1,0
 2020-04-01,Yuba,California,06115,7,0,0,0
@@ -663,7 +622,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-02,Sutter,California,06101,14,0,1,1
 2020-04-02,Tulare,California,06107,74,15,2,0
 2020-04-02,Tuolumne,California,06109,1,0,0,0
-2020-04-02,Unknown,California,,0,-1,1,1
+2020-04-02,Unknown,California,,0,0,2,1
 2020-04-02,Ventura,California,06111,177,17,6,1
 2020-04-02,Yolo,California,06113,28,0,1,0
 2020-04-02,Yuba,California,06115,8,1,0,0
@@ -716,6 +675,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-03,Tehama,California,06103,1,1,0,0
 2020-04-03,Tulare,California,06107,81,7,3,1
 2020-04-03,Tuolumne,California,06109,1,0,0,0
+2020-04-03,Unknown,California,,1,1,0,-2
 2020-04-03,Ventura,California,06111,189,12,6,0
 2020-04-03,Yolo,California,06113,33,5,1,0
 2020-04-03,Yuba,California,06115,9,1,0,0
@@ -926,6 +886,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-07,Tehama,California,06103,1,0,0,0
 2020-04-07,Tulare,California,06107,157,22,6,0
 2020-04-07,Tuolumne,California,06109,1,0,0,0
+2020-04-07,Unknown,California,,1,0,0,0
 2020-04-07,Ventura,California,06111,243,17,6,0
 2020-04-07,Yolo,California,06113,56,6,2,1
 2020-04-07,Yuba,California,06115,13,2,0,0
@@ -1774,7 +1735,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-23,Tehama,California,06103,1,0,0,0
 2020-04-23,Tulare,California,06107,453,12,25,0
 2020-04-23,Tuolumne,California,06109,2,0,0,0
-2020-04-23,Unknown,California,,3,3,0,-1
 2020-04-23,Ventura,California,06111,465,14,16,2
 2020-04-23,Yolo,California,06113,155,4,12,0
 2020-04-23,Yuba,California,06115,16,0,1,0
@@ -1987,7 +1947,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-27,Tehama,California,06103,1,0,1,1
 2020-04-27,Tulare,California,06107,532,28,32,0
 2020-04-27,Tuolumne,California,06109,4,1,0,0
-2020-04-27,Unknown,California,,3,0,0,0
 2020-04-27,Ventura,California,06111,509,12,17,0
 2020-04-27,Yolo,California,06113,161,0,16,2
 2020-04-27,Yuba,California,06115,16,0,1,0
@@ -2528,7 +2487,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-07,Tehama,California,06103,1,0,1,0
 2020-05-07,Tulare,California,06107,969,53,43,2
 2020-05-07,Tuolumne,California,06109,2,0,0,0
-2020-05-07,Unknown,California,,2,-1,0,0
 2020-05-07,Ventura,California,06111,631,23,19,0
 2020-05-07,Yolo,California,06113,172,0,20,0
 2020-05-07,Yuba,California,06115,20,1,1,0
@@ -2583,7 +2541,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-08,Tehama,California,06103,1,0,1,0
 2020-05-08,Tulare,California,06107,1013,44,44,1
 2020-05-08,Tuolumne,California,06109,2,0,0,0
-2020-05-08,Unknown,California,,2,0,0,0
 2020-05-08,Ventura,California,06111,652,21,19,0
 2020-05-08,Yolo,California,06113,172,0,20,0
 2020-05-08,Yuba,California,06115,20,0,1,0
@@ -2638,7 +2595,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-09,Tehama,California,06103,1,0,1,0
 2020-05-09,Tulare,California,06107,1079,66,46,2
 2020-05-09,Tuolumne,California,06109,2,0,0,0
-2020-05-09,Unknown,California,,2,0,0,0
+2020-05-09,Unknown,California,,1,0,0,0
 2020-05-09,Ventura,California,06111,666,14,19,0
 2020-05-09,Yolo,California,06113,172,0,20,0
 2020-05-09,Yuba,California,06115,20,0,1,0
@@ -2749,6 +2706,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-11,Trinity,California,06105,1,0,0,0
 2020-05-11,Tulare,California,06107,1159,19,50,2
 2020-05-11,Tuolumne,California,06109,2,0,0,0
+2020-05-11,Unknown,California,,1,0,0,0
 2020-05-11,Ventura,California,06111,690,11,19,0
 2020-05-11,Yolo,California,06113,174,1,20,0
 2020-05-11,Yuba,California,06115,21,1,1,0
@@ -2969,6 +2927,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-15,Trinity,California,06105,2,0,0,0
 2020-05-15,Tulare,California,06107,1338,43,64,10
 2020-05-15,Tuolumne,California,06109,2,0,0,0
+2020-05-15,Unknown,California,,0,-1,1,1
 2020-05-15,Ventura,California,06111,760,18,25,1
 2020-05-15,Yolo,California,06113,182,0,22,0
 2020-05-15,Yuba,California,06115,25,0,1,0
@@ -5241,3 +5200,60 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Ventura,California,06111,2260,99,44,1
 2020-06-24,Yolo,California,06113,386,20,24,0
 2020-06-24,Yuba,California,06115,49,6,1,0
+2020-06-25,Alameda,California,06001,5403,107,128,6
+2020-06-25,Alpine,California,06003,1,0,0,0
+2020-06-25,Amador,California,06005,18,1,0,0
+2020-06-25,Butte,California,06007,133,6,2,1
+2020-06-25,Calaveras,California,06009,29,0,0,0
+2020-06-25,Colusa,California,06011,16,2,0,0
+2020-06-25,Contra Costa,California,06013,2576,53,72,5
+2020-06-25,Del Norte,California,06015,49,0,0,0
+2020-06-25,El Dorado,California,06017,158,5,0,0
+2020-06-25,Fresno,California,06019,4053,161,71,0
+2020-06-25,Glenn,California,06021,87,13,0,0
+2020-06-25,Humboldt,California,06023,127,5,4,0
+2020-06-25,Imperial,California,06025,5744,195,72,3
+2020-06-25,Inyo,California,06027,28,2,1,0
+2020-06-25,Kern,California,06029,4192,74,70,4
+2020-06-25,Kings,California,06031,2284,50,21,1
+2020-06-25,Lake,California,06033,42,1,0,0
+2020-06-25,Lassen,California,06035,74,59,0,0
+2020-06-25,Los Angeles,California,06037,91467,1977,3246,41
+2020-06-25,Madera,California,06039,383,13,5,0
+2020-06-25,Marin,California,06041,1573,103,18,0
+2020-06-25,Mariposa,California,06043,22,1,1,0
+2020-06-25,Mendocino,California,06045,74,2,0,0
+2020-06-25,Merced,California,06047,791,50,11,1
+2020-06-25,Mono,California,06051,40,0,1,0
+2020-06-25,Monterey,California,06053,1416,19,12,0
+2020-06-25,Napa,California,06055,259,7,4,0
+2020-06-25,Nevada,California,06057,101,10,1,0
+2020-06-25,Orange,California,06059,11804,733,306,7
+2020-06-25,Placer,California,06061,579,23,10,0
+2020-06-25,Plumas,California,06063,6,0,0,0
+2020-06-25,Riverside,California,06065,15142,237,435,3
+2020-06-25,Sacramento,California,06067,2511,72,66,0
+2020-06-25,San Benito,California,06069,194,3,2,0
+2020-06-25,San Bernardino,California,06071,10769,362,248,3
+2020-06-25,San Diego,California,06073,12024,335,352,5
+2020-06-25,San Francisco,California,06075,3300,48,48,0
+2020-06-25,San Joaquin,California,06077,2884,142,49,0
+2020-06-25,San Luis Obispo,California,06079,489,16,1,0
+2020-06-25,San Mateo,California,06081,2964,57,104,0
+2020-06-25,Santa Barbara,California,06083,2591,38,27,0
+2020-06-25,Santa Clara,California,06085,3888,56,156,0
+2020-06-25,Santa Cruz,California,06087,337,7,3,0
+2020-06-25,Shasta,California,06089,96,4,5,0
+2020-06-25,Sierra,California,06091,1,0,0,0
+2020-06-25,Siskiyou,California,06093,26,0,0,0
+2020-06-25,Solano,California,06095,984,38,23,0
+2020-06-25,Sonoma,California,06097,1006,32,5,0
+2020-06-25,Stanislaus,California,06099,2039,189,38,1
+2020-06-25,Sutter,California,06101,140,13,3,0
+2020-06-25,Tehama,California,06103,55,5,1,0
+2020-06-25,Trinity,California,06105,3,0,0,0
+2020-06-25,Tulare,California,06107,3646,113,119,1
+2020-06-25,Tuolumne,California,06109,22,7,0,0
+2020-06-25,Ventura,California,06111,2314,54,44,0
+2020-06-25,Yolo,California,06113,408,22,24,0
+2020-06-25,Yuba,California,06115,51,2,1,0

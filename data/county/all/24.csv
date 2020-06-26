@@ -352,6 +352,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-01,Somerset,Maryland,24039,4,3,0,0
 2020-04-01,St. Mary's,Maryland,24037,19,4,0,0
 2020-04-01,Talbot,Maryland,24041,3,0,0,0
+2020-04-01,Unknown,Maryland,,34,34,9,9
 2020-04-01,Washington,Maryland,24043,15,4,0,0
 2020-04-01,Wicomico,Maryland,24045,7,0,1,0
 2020-04-01,Worcester,Maryland,24047,4,1,0,0
@@ -376,6 +377,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-02,Somerset,Maryland,24039,4,0,0,0
 2020-04-02,St. Mary's,Maryland,24037,27,8,0,0
 2020-04-02,Talbot,Maryland,24041,4,1,0,0
+2020-04-02,Unknown,Maryland,,0,-34,7,-2
 2020-04-02,Washington,Maryland,24043,17,2,0,0
 2020-04-02,Wicomico,Maryland,24045,7,0,1,0
 2020-04-02,Worcester,Maryland,24047,5,1,0,0
@@ -688,7 +690,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-15,Somerset,Maryland,24039,5,0,0,0
 2020-04-15,St. Mary's,Maryland,24037,99,1,1,-2
 2020-04-15,Talbot,Maryland,24041,14,-2,1,0
-2020-04-15,Unknown,Maryland,,14,14,99,99
+2020-04-15,Unknown,Maryland,,14,14,99,92
 2020-04-15,Washington,Maryland,24043,106,10,0,-1
 2020-04-15,Wicomico,Maryland,24045,76,13,1,0
 2020-04-15,Worcester,Maryland,24047,22,1,0,0
@@ -913,7 +915,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-24,Somerset,Maryland,24039,13,1,0,0
 2020-04-24,St. Mary's,Maryland,24037,119,4,6,2
 2020-04-24,Talbot,Maryland,24041,25,0,1,0
-2020-04-24,Unknown,Maryland,,9,4,101,-1
+2020-04-24,Unknown,Maryland,,9,4,135,33
 2020-04-24,Washington,Maryland,24043,143,4,3,0
 2020-04-24,Wicomico,Maryland,24045,222,19,3,0
 2020-04-24,Worcester,Maryland,24047,44,5,0,0
@@ -938,7 +940,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-25,Somerset,Maryland,24039,14,1,0,0
 2020-04-25,St. Mary's,Maryland,24037,124,5,6,0
 2020-04-25,Talbot,Maryland,24041,28,3,1,0
-2020-04-25,Unknown,Maryland,,9,0,113,12
+2020-04-25,Unknown,Maryland,,9,0,113,-22
 2020-04-25,Washington,Maryland,24043,154,11,3,0
 2020-04-25,Wicomico,Maryland,24045,242,20,4,1
 2020-04-25,Worcester,Maryland,24047,46,2,0,0
@@ -1063,7 +1065,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-30,Somerset,Maryland,24039,26,5,0,0
 2020-04-30,St. Mary's,Maryland,24037,152,6,8,0
 2020-04-30,Talbot,Maryland,24041,35,1,1,0
-2020-04-30,Unknown,Maryland,,10,-3,75,-4
+2020-04-30,Unknown,Maryland,,0,-13,74,-5
 2020-04-30,Washington,Maryland,24043,206,9,4,1
 2020-04-30,Wicomico,Maryland,24045,406,56,7,0
 2020-04-30,Worcester,Maryland,24047,61,6,2,0
@@ -1088,7 +1090,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-01,Somerset,Maryland,24039,30,4,0,0
 2020-05-01,St. Mary's,Maryland,24037,159,7,7,-1
 2020-05-01,Talbot,Maryland,24041,35,0,1,0
-2020-05-01,Unknown,Maryland,,9,-1,100,25
+2020-05-01,Unknown,Maryland,,9,9,100,26
 2020-05-01,Washington,Maryland,24043,216,10,4,0
 2020-05-01,Wicomico,Maryland,24045,425,19,7,0
 2020-05-01,Worcester,Maryland,24047,66,5,3,1
@@ -2442,3 +2444,28 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Washington,Maryland,24043,634,18,26,1
 2020-06-24,Wicomico,Maryland,24045,1053,2,39,1
 2020-06-24,Worcester,Maryland,24047,279,1,16,-1
+2020-06-25,Allegany,Maryland,24001,203,9,17,0
+2020-06-25,Anne Arundel,Maryland,24003,4993,28,201,-1
+2020-06-25,Baltimore,Maryland,24005,7732,57,460,0
+2020-06-25,Baltimore city,Maryland,24510,7267,48,327,2
+2020-06-25,Calvert,Maryland,24009,404,1,26,1
+2020-06-25,Caroline,Maryland,24011,302,5,3,0
+2020-06-25,Carroll,Maryland,24013,1103,19,109,0
+2020-06-25,Cecil,Maryland,24015,461,-4,29,0
+2020-06-25,Charles,Maryland,24017,1352,9,86,0
+2020-06-25,Dorchester,Maryland,24019,184,1,5,0
+2020-06-25,Frederick,Maryland,24021,2448,16,116,0
+2020-06-25,Garrett,Maryland,24023,10,0,1,0
+2020-06-25,Harford,Maryland,24025,1081,6,61,0
+2020-06-25,Howard,Maryland,24027,2458,17,83,2
+2020-06-25,Kent,Maryland,24029,195,-1,23,0
+2020-06-25,Montgomery,Maryland,24031,14421,98,731,3
+2020-06-25,Prince George's,Maryland,24033,18767,123,669,7
+2020-06-25,Queen Anne's,Maryland,24035,215,2,16,1
+2020-06-25,Somerset,Maryland,24039,85,1,3,0
+2020-06-25,St. Mary's,Maryland,24037,610,4,48,0
+2020-06-25,Talbot,Maryland,24041,119,3,4,0
+2020-06-25,Unknown,Maryland,,0,0,29,5
+2020-06-25,Washington,Maryland,24043,653,19,26,0
+2020-06-25,Wicomico,Maryland,24045,1055,2,40,1
+2020-06-25,Worcester,Maryland,24047,279,0,16,0

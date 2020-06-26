@@ -1,30 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-03-19,Benton,Arkansas,05007,1,1,0,0
-2020-03-19,Boone,Arkansas,05009,1,1,0,0
-2020-03-19,Bradley,Arkansas,05011,1,0,0,0
-2020-03-19,Clark,Arkansas,05019,1,1,0,0
-2020-03-19,Cleburne,Arkansas,05023,1,0,0,0
-2020-03-19,Cleveland,Arkansas,05025,1,0,0,0
-2020-03-19,Craighead,Arkansas,05031,1,1,0,0
-2020-03-19,Crittenden,Arkansas,05035,1,1,0,0
-2020-03-19,Desha,Arkansas,05041,1,0,0,0
-2020-03-19,Faulkner,Arkansas,05045,1,0,0,0
-2020-03-19,Garland,Arkansas,05051,3,1,0,0
-2020-03-19,Grant,Arkansas,05053,1,1,0,0
-2020-03-19,Greene,Arkansas,05055,1,1,0,0
-2020-03-19,Independence,Arkansas,05063,1,1,0,0
-2020-03-19,Jefferson,Arkansas,05069,18,8,0,0
-2020-03-19,Lincoln,Arkansas,05079,1,0,0,0
-2020-03-19,Poinsett,Arkansas,05111,1,1,0,0
-2020-03-19,Polk,Arkansas,05113,1,1,0,0
-2020-03-19,Pope,Arkansas,05115,1,1,0,0
-2020-03-19,Pulaski,Arkansas,05119,18,5,0,0
-2020-03-19,Saline,Arkansas,05125,1,0,0,0
-2020-03-19,Searcy,Arkansas,05129,1,1,0,0
-2020-03-19,Sebastian,Arkansas,05131,1,1,0,0
-2020-03-19,Sevier,Arkansas,05133,1,1,0,0
-2020-03-19,Van Buren,Arkansas,05141,1,1,0,0
-2020-03-19,Washington,Arkansas,05143,1,0,0,0
 2020-03-20,Benton,Arkansas,05007,1,0,0,0
 2020-03-20,Boone,Arkansas,05009,1,0,0,0
 2020-03-20,Bradley,Arkansas,05011,1,0,0,0
@@ -166,7 +140,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-24,Sevier,Arkansas,05133,1,0,0,0
 2020-03-24,Stone,Arkansas,05137,2,2,0,0
 2020-03-24,Union,Arkansas,05139,1,1,0,0
-2020-03-24,Unknown,Arkansas,,61,0,0,0
+2020-03-24,Unknown,Arkansas,,2,-59,0,0
 2020-03-24,Van Buren,Arkansas,05141,7,6,0,0
 2020-03-24,Washington,Arkansas,05143,6,1,0,0
 2020-03-24,White,Arkansas,05145,4,4,0,0
@@ -205,7 +179,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-25,Sevier,Arkansas,05133,1,0,0,0
 2020-03-25,Stone,Arkansas,05137,3,1,0,0
 2020-03-25,Union,Arkansas,05139,2,1,0,0
-2020-03-25,Unknown,Arkansas,,61,0,0,0
+2020-03-25,Unknown,Arkansas,,2,0,0,0
 2020-03-25,Van Buren,Arkansas,05141,10,3,0,0
 2020-03-25,Washington,Arkansas,05143,10,4,0,0
 2020-03-25,White,Arkansas,05145,4,0,0,0
@@ -248,7 +222,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-26,Sevier,Arkansas,05133,1,0,0,0
 2020-03-26,Stone,Arkansas,05137,4,1,0,0
 2020-03-26,Union,Arkansas,05139,2,0,0,0
-2020-03-26,Unknown,Arkansas,,61,0,1,1
+2020-03-26,Unknown,Arkansas,,2,0,0,0
 2020-03-26,Van Buren,Arkansas,05141,13,3,0,0
 2020-03-26,Washington,Arkansas,05143,12,2,0,0
 2020-03-26,White,Arkansas,05145,6,2,0,0
@@ -292,7 +266,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-27,Sevier,Arkansas,05133,1,0,0,0
 2020-03-27,Stone,Arkansas,05137,4,0,0,0
 2020-03-27,Union,Arkansas,05139,2,0,0,0
-2020-03-27,Unknown,Arkansas,,61,0,1,0
+2020-03-27,Unknown,Arkansas,,5,3,0,0
 2020-03-27,Van Buren,Arkansas,05141,17,4,0,0
 2020-03-27,Washington,Arkansas,05143,13,1,0,0
 2020-03-27,White,Arkansas,05145,6,0,0,0
@@ -337,7 +311,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-28,Sevier,Arkansas,05133,1,0,0,0
 2020-03-28,Stone,Arkansas,05137,4,0,0,0
 2020-03-28,Union,Arkansas,05139,5,3,0,0
-2020-03-28,Unknown,Arkansas,,61,0,2,1
+2020-03-28,Unknown,Arkansas,,7,2,0,0
 2020-03-28,Van Buren,Arkansas,05141,17,0,0,0
 2020-03-28,Washington,Arkansas,05143,14,1,0,0
 2020-03-28,White,Arkansas,05145,6,0,0,0
@@ -387,7 +361,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-29,Sevier,Arkansas,05133,2,1,0,0
 2020-03-29,Stone,Arkansas,05137,4,0,0,0
 2020-03-29,Union,Arkansas,05139,6,1,0,0
-2020-03-29,Unknown,Arkansas,,61,0,3,1
+2020-03-29,Unknown,Arkansas,,5,-2,0,0
 2020-03-29,Van Buren,Arkansas,05141,18,1,1,1
 2020-03-29,Washington,Arkansas,05143,15,1,0,0
 2020-03-29,White,Arkansas,05145,6,0,0,0
@@ -439,7 +413,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-30,St. Francis,Arkansas,05123,1,1,0,0
 2020-03-30,Stone,Arkansas,05137,5,1,0,0
 2020-03-30,Union,Arkansas,05139,8,2,0,0
-2020-03-30,Unknown,Arkansas,,61,0,4,1
+2020-03-30,Unknown,Arkansas,,2,-3,0,0
 2020-03-30,Van Buren,Arkansas,05141,20,2,1,0
 2020-03-30,Washington,Arkansas,05143,18,3,0,0
 2020-03-30,White,Arkansas,05145,9,3,0,0
@@ -493,7 +467,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-31,St. Francis,Arkansas,05123,2,1,0,0
 2020-03-31,Stone,Arkansas,05137,5,0,0,0
 2020-03-31,Union,Arkansas,05139,8,0,0,0
-2020-03-31,Unknown,Arkansas,,61,0,5,1
+2020-03-31,Unknown,Arkansas,,5,3,1,1
 2020-03-31,Van Buren,Arkansas,05141,19,-1,1,0
 2020-03-31,Washington,Arkansas,05143,22,4,0,0
 2020-03-31,White,Arkansas,05145,11,2,0,0
@@ -549,7 +523,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-01,St. Francis,Arkansas,05123,2,0,0,0
 2020-04-01,Stone,Arkansas,05137,5,0,0,0
 2020-04-01,Union,Arkansas,05139,9,1,0,0
-2020-04-01,Unknown,Arkansas,,61,0,5,0
+2020-04-01,Unknown,Arkansas,,6,1,1,0
 2020-04-01,Van Buren,Arkansas,05141,20,1,1,0
 2020-04-01,Washington,Arkansas,05143,22,0,0,0
 2020-04-01,White,Arkansas,05145,15,4,0,0
@@ -609,7 +583,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-02,St. Francis,Arkansas,05123,2,0,0,0
 2020-04-02,Stone,Arkansas,05137,5,0,0,0
 2020-04-02,Union,Arkansas,05139,10,1,0,0
-2020-04-02,Unknown,Arkansas,,10,-51,1,-4
+2020-04-02,Unknown,Arkansas,,10,4,1,0
 2020-04-02,Van Buren,Arkansas,05141,20,0,1,0
 2020-04-02,Washington,Arkansas,05143,24,2,0,0
 2020-04-02,White,Arkansas,05145,22,7,0,0
@@ -6712,3 +6686,78 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,White,Arkansas,05145,80,4,1,0
 2020-06-24,Woodruff,Arkansas,05147,6,0,0,0
 2020-06-24,Yell,Arkansas,05149,475,27,3,0
+2020-06-25,Arkansas,Arkansas,05001,24,2,0,0
+2020-06-25,Ashley,Arkansas,05003,59,1,1,0
+2020-06-25,Baxter,Arkansas,05005,16,1,0,0
+2020-06-25,Benton,Arkansas,05007,2262,66,14,0
+2020-06-25,Boone,Arkansas,05009,19,3,1,0
+2020-06-25,Bradley,Arkansas,05011,39,1,2,0
+2020-06-25,Carroll,Arkansas,05015,149,8,4,0
+2020-06-25,Chicot,Arkansas,05017,108,12,2,0
+2020-06-25,Clark,Arkansas,05019,53,-1,0,0
+2020-06-25,Clay,Arkansas,05021,49,0,3,0
+2020-06-25,Cleburne,Arkansas,05023,79,1,4,0
+2020-06-25,Cleveland,Arkansas,05025,25,0,0,0
+2020-06-25,Columbia,Arkansas,05027,72,0,3,0
+2020-06-25,Conway,Arkansas,05029,39,0,3,0
+2020-06-25,Craighead,Arkansas,05031,422,7,6,0
+2020-06-25,Crawford,Arkansas,05033,121,9,0,0
+2020-06-25,Crittenden,Arkansas,05035,660,39,10,0
+2020-06-25,Cross,Arkansas,05037,84,1,1,0
+2020-06-25,Dallas,Arkansas,05039,6,0,0,0
+2020-06-25,Desha,Arkansas,05041,40,3,0,0
+2020-06-25,Drew,Arkansas,05043,44,3,1,0
+2020-06-25,Faulkner,Arkansas,05045,350,11,3,0
+2020-06-25,Franklin,Arkansas,05047,15,2,0,0
+2020-06-25,Fulton,Arkansas,05049,9,-1,0,0
+2020-06-25,Garland,Arkansas,05051,205,14,1,0
+2020-06-25,Grant,Arkansas,05053,30,2,0,0
+2020-06-25,Greene,Arkansas,05055,102,3,0,0
+2020-06-25,Hempstead,Arkansas,05057,46,0,1,0
+2020-06-25,Hot Spring,Arkansas,05059,396,0,0,0
+2020-06-25,Howard,Arkansas,05061,73,3,0,0
+2020-06-25,Independence,Arkansas,05063,49,1,0,0
+2020-06-25,Izard,Arkansas,05065,20,0,1,0
+2020-06-25,Jackson,Arkansas,05067,26,1,0,0
+2020-06-25,Jefferson,Arkansas,05069,663,2,28,0
+2020-06-25,Johnson,Arkansas,05071,175,9,0,0
+2020-06-25,Lafayette,Arkansas,05073,14,0,1,0
+2020-06-25,Lawrence,Arkansas,05075,98,0,9,0
+2020-06-25,Lee,Arkansas,05077,626,5,1,0
+2020-06-25,Lincoln,Arkansas,05079,1036,0,11,0
+2020-06-25,Little River,Arkansas,05081,37,0,0,0
+2020-06-25,Logan,Arkansas,05083,36,0,0,0
+2020-06-25,Lonoke,Arkansas,05085,123,27,0,0
+2020-06-25,Madison,Arkansas,05087,168,5,0,0
+2020-06-25,Marion,Arkansas,05089,3,1,0,0
+2020-06-25,Miller,Arkansas,05091,98,1,2,0
+2020-06-25,Mississippi,Arkansas,05093,128,0,3,0
+2020-06-25,Monroe,Arkansas,05095,8,0,0,0
+2020-06-25,Montgomery,Arkansas,05097,4,2,0,0
+2020-06-25,Nevada,Arkansas,05099,95,0,2,0
+2020-06-25,Newton,Arkansas,05101,4,0,0,0
+2020-06-25,Ouachita,Arkansas,05103,18,0,0,0
+2020-06-25,Perry,Arkansas,05105,23,1,0,0
+2020-06-25,Phillips,Arkansas,05107,104,13,3,0
+2020-06-25,Pike,Arkansas,05109,8,1,0,0
+2020-06-25,Poinsett,Arkansas,05111,55,2,3,0
+2020-06-25,Polk,Arkansas,05113,69,0,0,0
+2020-06-25,Pope,Arkansas,05115,370,7,3,0
+2020-06-25,Prairie,Arkansas,05117,19,1,0,0
+2020-06-25,Pulaski,Arkansas,05119,1655,48,53,0
+2020-06-25,Randolph,Arkansas,05121,40,1,1,0
+2020-06-25,Saline,Arkansas,05125,225,8,2,0
+2020-06-25,Scott,Arkansas,05127,8,0,0,0
+2020-06-25,Searcy,Arkansas,05129,7,0,0,0
+2020-06-25,Sebastian,Arkansas,05131,324,26,2,0
+2020-06-25,Sevier,Arkansas,05133,617,3,6,0
+2020-06-25,Sharp,Arkansas,05135,53,1,4,0
+2020-06-25,St. Francis,Arkansas,05123,801,6,3,0
+2020-06-25,Stone,Arkansas,05137,13,0,0,0
+2020-06-25,Union,Arkansas,05139,237,5,13,0
+2020-06-25,Unknown,Arkansas,,935,204,0,0
+2020-06-25,Van Buren,Arkansas,05141,30,0,2,0
+2020-06-25,Washington,Arkansas,05143,2880,113,23,0
+2020-06-25,White,Arkansas,05145,79,-1,1,0
+2020-06-25,Woodruff,Arkansas,05147,6,0,0,0
+2020-06-25,Yell,Arkansas,05149,479,4,3,0

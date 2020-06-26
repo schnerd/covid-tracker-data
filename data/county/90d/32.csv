@@ -1,9 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-03-19,Carson City,Nevada,32510,2,1,0,0
-2020-03-19,Clark,Nevada,32003,74,5,1,0
-2020-03-19,Elko,Nevada,32007,1,1,0,0
-2020-03-19,Unknown,Nevada,,4,4,0,0
-2020-03-19,Washoe,Nevada,32031,18,6,0,0
 2020-03-20,Carson City,Nevada,32510,3,1,0,0
 2020-03-20,Clark,Nevada,32003,126,52,2,1
 2020-03-20,Elko,Nevada,32007,2,1,0,0
@@ -34,7 +29,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-24,Douglas,Nevada,32005,2,1,0,0
 2020-03-24,Elko,Nevada,32007,2,0,0,0
 2020-03-24,Nye,Nevada,32023,1,0,0,0
-2020-03-24,Unknown,Nevada,,82,0,0,0
+2020-03-24,Unknown,Nevada,,14,-68,0,0
 2020-03-24,Washoe,Nevada,32031,44,19,0,0
 2020-03-25,Carson City,Nevada,32510,3,0,0,0
 2020-03-25,Clark,Nevada,32003,249,0,6,0
@@ -42,7 +37,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-25,Elko,Nevada,32007,2,0,0,0
 2020-03-25,Lyon,Nevada,32019,1,1,0,0
 2020-03-25,Nye,Nevada,32023,1,0,0,0
-2020-03-25,Unknown,Nevada,,90,8,4,4
+2020-03-25,Unknown,Nevada,,89,75,4,4
 2020-03-25,Washoe,Nevada,32031,57,13,0,0
 2020-03-26,Carson City,Nevada,32510,4,1,0,0
 2020-03-26,Clark,Nevada,32003,350,101,10,4
@@ -50,7 +45,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-26,Elko,Nevada,32007,2,0,0,0
 2020-03-26,Lyon,Nevada,32019,1,0,0,0
 2020-03-26,Nye,Nevada,32023,1,0,0,0
-2020-03-26,Unknown,Nevada,,107,17,0,-4
+2020-03-26,Unknown,Nevada,,107,18,0,-4
 2020-03-26,Washoe,Nevada,32031,67,10,0,0
 2020-03-27,Carson City,Nevada,32510,4,0,0,0
 2020-03-27,Clark,Nevada,32003,443,93,10,0
@@ -255,7 +250,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-17,Humboldt,Nevada,32013,26,4,1,0
 2020-04-17,Lyon,Nevada,32019,12,0,0,0
 2020-04-17,Nye,Nevada,32023,21,1,0,0
-2020-04-17,Unknown,Nevada,,80,64,0,-4
+2020-04-17,Unknown,Nevada,,80,64,9,5
 2020-04-17,Washoe,Nevada,32031,588,16,16,1
 2020-04-17,White Pine,Nevada,32033,3,0,0,0
 2020-04-18,Carson City,Nevada,32510,28,1,0,0
@@ -267,7 +262,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-18,Lyon,Nevada,32019,16,4,0,0
 2020-04-18,Mineral,Nevada,32021,1,1,0,0
 2020-04-18,Nye,Nevada,32023,28,7,0,0
-2020-04-18,Unknown,Nevada,,6,-74,3,3
+2020-04-18,Unknown,Nevada,,6,-74,3,-6
 2020-04-18,Washoe,Nevada,32031,606,18,16,0
 2020-04-18,White Pine,Nevada,32033,3,0,0,0
 2020-04-19,Carson City,Nevada,32510,28,0,0,0
@@ -316,7 +311,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-22,Lyon,Nevada,32019,18,0,0,0
 2020-04-22,Mineral,Nevada,32021,1,0,0,0
 2020-04-22,Nye,Nevada,32023,29,0,0,0
-2020-04-22,Unknown,Nevada,,10,0,11,11
+2020-04-22,Unknown,Nevada,,9,-1,11,11
 2020-04-22,Washoe,Nevada,32031,710,26,21,3
 2020-04-22,White Pine,Nevada,32033,3,0,0,0
 2020-04-23,Carson City,Nevada,32510,33,5,1,0
@@ -329,7 +324,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-23,Lyon,Nevada,32019,22,4,0,0
 2020-04-23,Mineral,Nevada,32021,1,0,0,0
 2020-04-23,Nye,Nevada,32023,31,2,0,0
-2020-04-23,Unknown,Nevada,,1,-9,5,-6
+2020-04-23,Unknown,Nevada,,1,-8,5,-6
 2020-04-23,Washoe,Nevada,32031,736,26,22,1
 2020-04-23,White Pine,Nevada,32033,3,0,0,0
 2020-04-24,Carson City,Nevada,32510,33,0,1,0
@@ -1217,3 +1212,18 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Storey,Nevada,32029,2,1,0,0
 2020-06-24,Washoe,Nevada,32031,2376,90,74,0
 2020-06-24,White Pine,Nevada,32033,3,0,0,0
+2020-06-25,Carson City,Nevada,32510,139,5,5,0
+2020-06-25,Churchill,Nevada,32001,11,0,1,0
+2020-06-25,Clark,Nevada,32003,11878,397,405,1
+2020-06-25,Douglas,Nevada,32005,60,2,0,0
+2020-06-25,Elko,Nevada,32007,99,18,1,0
+2020-06-25,Humboldt,Nevada,32013,82,1,4,0
+2020-06-25,Lander,Nevada,32015,32,-1,0,0
+2020-06-25,Lincoln,Nevada,32017,2,0,0,0
+2020-06-25,Lyon,Nevada,32019,104,2,2,0
+2020-06-25,Mineral,Nevada,32021,4,0,0,0
+2020-06-25,Nye,Nevada,32023,85,0,3,0
+2020-06-25,Pershing,Nevada,32027,6,-1,0,0
+2020-06-25,Storey,Nevada,32029,2,0,0,0
+2020-06-25,Washoe,Nevada,32031,2404,28,74,0
+2020-06-25,White Pine,Nevada,32033,3,0,0,0

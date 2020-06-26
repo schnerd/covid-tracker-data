@@ -1,17 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-03-19,Adair,Iowa,19001,1,0,0,0
-2020-03-19,Allamakee,Iowa,19005,2,0,0,0
-2020-03-19,Black Hawk,Iowa,19013,1,0,0,0
-2020-03-19,Carroll,Iowa,19027,1,0,0,0
-2020-03-19,Dallas,Iowa,19049,5,0,0,0
-2020-03-19,Dubuque,Iowa,19061,1,1,0,0
-2020-03-19,Harrison,Iowa,19085,1,0,0,0
-2020-03-19,Johnson,Iowa,19103,22,1,0,0
-2020-03-19,Muscatine,Iowa,19139,1,1,0,0
-2020-03-19,Polk,Iowa,19153,6,3,0,0
-2020-03-19,Pottawattamie,Iowa,19155,1,0,0,0
-2020-03-19,Washington,Iowa,19183,1,0,0,0
-2020-03-19,Winneshiek,Iowa,19191,1,0,0,0
 2020-03-20,Adair,Iowa,19001,1,0,0,0
 2020-03-20,Allamakee,Iowa,19005,3,1,0,0
 2020-03-20,Black Hawk,Iowa,19013,1,0,0,0
@@ -500,6 +487,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-01,Story,Iowa,19169,4,2,0,0
 2020-04-01,Tama,Iowa,19171,14,3,0,0
 2020-04-01,Taylor,Iowa,19173,1,0,0,0
+2020-04-01,Unknown,Iowa,,1,1,0,0
 2020-04-01,Van Buren,Iowa,19177,2,1,0,0
 2020-04-01,Wapello,Iowa,19179,1,0,0,0
 2020-04-01,Warren,Iowa,19181,4,1,0,0
@@ -1729,7 +1717,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-17,Tama,Iowa,19171,121,7,5,1
 2020-04-17,Taylor,Iowa,19173,1,0,0,0
 2020-04-17,Union,Iowa,19175,1,0,0,0
-2020-04-17,Unknown,Iowa,,1,1,0,0
+2020-04-17,Unknown,Iowa,,1,0,0,0
 2020-04-17,Van Buren,Iowa,19177,8,0,0,0
 2020-04-17,Wapello,Iowa,19179,6,0,0,0
 2020-04-17,Warren,Iowa,19181,17,0,0,0
@@ -2146,7 +2134,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-22,Tama,Iowa,19171,226,2,7,1
 2020-04-22,Taylor,Iowa,19173,1,0,0,0
 2020-04-22,Union,Iowa,19175,1,0,0,0
-2020-04-22,Unknown,Iowa,,3,0,7,5
+2020-04-22,Unknown,Iowa,,0,-3,2,0
 2020-04-22,Van Buren,Iowa,19177,8,0,0,0
 2020-04-22,Wapello,Iowa,19179,7,0,0,0
 2020-04-22,Warren,Iowa,19181,18,-2,0,0
@@ -2231,7 +2219,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-23,Tama,Iowa,19171,226,0,7,0
 2020-04-23,Taylor,Iowa,19173,1,0,0,0
 2020-04-23,Union,Iowa,19175,1,0,0,0
-2020-04-23,Unknown,Iowa,,3,0,7,0
 2020-04-23,Van Buren,Iowa,19177,8,0,0,0
 2020-04-23,Wapello,Iowa,19179,7,0,0,0
 2020-04-23,Warren,Iowa,19181,18,0,0,0
@@ -2316,7 +2303,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-24,Tama,Iowa,19171,237,11,7,0
 2020-04-24,Taylor,Iowa,19173,1,0,0,0
 2020-04-24,Union,Iowa,19175,1,0,0,0
-2020-04-24,Unknown,Iowa,,0,-3,1,-6
+2020-04-24,Unknown,Iowa,,0,0,1,-1
 2020-04-24,Van Buren,Iowa,19177,8,0,0,0
 2020-04-24,Wapello,Iowa,19179,8,1,0,0
 2020-04-24,Warren,Iowa,19181,19,1,0,0
@@ -2570,7 +2557,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-27,Tama,Iowa,19171,259,-6,7,0
 2020-04-27,Taylor,Iowa,19173,1,0,0,0
 2020-04-27,Union,Iowa,19175,1,0,0,0
-2020-04-27,Unknown,Iowa,,7,7,8,7
+2020-04-27,Unknown,Iowa,,7,7,0,-1
 2020-04-27,Van Buren,Iowa,19177,8,0,0,0
 2020-04-27,Wapello,Iowa,19179,10,0,0,0
 2020-04-27,Warren,Iowa,19181,20,0,0,0
@@ -2656,7 +2643,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-28,Tama,Iowa,19171,263,4,7,0
 2020-04-28,Taylor,Iowa,19173,1,0,0,0
 2020-04-28,Union,Iowa,19175,1,0,0,0
-2020-04-28,Unknown,Iowa,,13,6,0,-8
+2020-04-28,Unknown,Iowa,,13,6,0,0
 2020-04-28,Van Buren,Iowa,19177,8,0,0,0
 2020-04-28,Wapello,Iowa,19179,10,0,0,0
 2020-04-28,Warren,Iowa,19181,20,0,0,0
@@ -4718,7 +4705,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-20,Tama,Iowa,19171,374,12,21,3
 2020-05-20,Taylor,Iowa,19173,5,2,0,0
 2020-05-20,Union,Iowa,19175,5,3,0,0
-2020-05-20,Unknown,Iowa,,2,-3,0,0
 2020-05-20,Van Buren,Iowa,19177,8,0,0,0
 2020-05-20,Wapello,Iowa,19179,420,15,3,1
 2020-05-20,Warren,Iowa,19181,89,2,0,0
@@ -4817,7 +4803,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-21,Tama,Iowa,19171,378,4,23,2
 2020-05-21,Taylor,Iowa,19173,5,0,0,0
 2020-05-21,Union,Iowa,19175,4,-1,0,0
-2020-05-21,Unknown,Iowa,,7,5,0,0
+2020-05-21,Unknown,Iowa,,7,2,0,0
 2020-05-21,Van Buren,Iowa,19177,8,0,0,0
 2020-05-21,Wapello,Iowa,19179,450,30,3,0
 2020-05-21,Warren,Iowa,19181,90,1,0,0
@@ -5113,7 +5099,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-24,Tama,Iowa,19171,392,8,23,0
 2020-05-24,Taylor,Iowa,19173,37,30,0,0
 2020-05-24,Union,Iowa,19175,7,2,0,0
-2020-05-24,Unknown,Iowa,,4,-384,0,-5
+2020-05-24,Unknown,Iowa,,5,-383,0,-5
 2020-05-24,Van Buren,Iowa,19177,10,2,0,0
 2020-05-24,Wapello,Iowa,19179,511,49,4,1
 2020-05-24,Warren,Iowa,19181,108,9,0,0
@@ -5212,7 +5198,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-25,Tama,Iowa,19171,395,3,23,0
 2020-05-25,Taylor,Iowa,19173,39,2,0,0
 2020-05-25,Union,Iowa,19175,7,0,0,0
-2020-05-25,Unknown,Iowa,,6,2,0,0
+2020-05-25,Unknown,Iowa,,6,1,0,0
 2020-05-25,Van Buren,Iowa,19177,10,0,0,0
 2020-05-25,Wapello,Iowa,19179,514,3,4,0
 2020-05-25,Warren,Iowa,19181,112,4,0,0
@@ -7208,7 +7194,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-14,Tama,Iowa,19171,427,0,29,0
 2020-06-14,Taylor,Iowa,19173,73,0,0,0
 2020-06-14,Union,Iowa,19175,10,0,0,0
-2020-06-14,Unknown,Iowa,,5,0,0,0
+2020-06-14,Unknown,Iowa,,4,-1,0,0
 2020-06-14,Van Buren,Iowa,19177,11,0,0,0
 2020-06-14,Wapello,Iowa,19179,675,1,26,0
 2020-06-14,Warren,Iowa,19181,197,4,1,0
@@ -7308,7 +7294,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-15,Tama,Iowa,19171,429,2,29,0
 2020-06-15,Taylor,Iowa,19173,74,1,0,0
 2020-06-15,Union,Iowa,19175,10,0,0,0
-2020-06-15,Unknown,Iowa,,5,0,0,0
+2020-06-15,Unknown,Iowa,,5,1,0,0
 2020-06-15,Van Buren,Iowa,19177,11,0,0,0
 2020-06-15,Wapello,Iowa,19179,675,0,26,0
 2020-06-15,Warren,Iowa,19181,197,0,1,0
@@ -8220,3 +8206,103 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Woodbury,Iowa,19193,3090,7,43,0
 2020-06-24,Worth,Iowa,19195,8,0,0,0
 2020-06-24,Wright,Iowa,19197,353,12,0,0
+2020-06-25,Adair,Iowa,19001,14,1,0,0
+2020-06-25,Adams,Iowa,19003,7,0,0,0
+2020-06-25,Allamakee,Iowa,19005,122,1,4,0
+2020-06-25,Appanoose,Iowa,19007,20,0,3,0
+2020-06-25,Audubon,Iowa,19009,16,1,1,0
+2020-06-25,Benton,Iowa,19011,55,2,1,0
+2020-06-25,Black Hawk,Iowa,19013,1962,30,57,1
+2020-06-25,Boone,Iowa,19015,128,8,1,0
+2020-06-25,Bremer,Iowa,19017,86,1,6,0
+2020-06-25,Buchanan,Iowa,19019,41,-1,1,0
+2020-06-25,Buena Vista,Iowa,19021,1677,2,11,1
+2020-06-25,Butler,Iowa,19023,40,3,2,0
+2020-06-25,Calhoun,Iowa,19025,30,1,0,0
+2020-06-25,Carroll,Iowa,19027,73,2,1,0
+2020-06-25,Cass,Iowa,19029,16,0,0,0
+2020-06-25,Cedar,Iowa,19031,68,-1,1,0
+2020-06-25,Cerro Gordo,Iowa,19033,70,2,1,0
+2020-06-25,Cherokee,Iowa,19035,68,-1,0,0
+2020-06-25,Chickasaw,Iowa,19037,23,2,0,0
+2020-06-25,Clarke,Iowa,19039,114,2,2,0
+2020-06-25,Clay,Iowa,19041,113,2,0,0
+2020-06-25,Clayton,Iowa,19043,38,3,3,0
+2020-06-25,Clinton,Iowa,19045,83,3,1,0
+2020-06-25,Crawford,Iowa,19047,650,3,2,0
+2020-06-25,Dallas,Iowa,19049,1115,24,29,0
+2020-06-25,Davis,Iowa,19051,36,0,1,0
+2020-06-25,Decatur,Iowa,19053,9,0,0,0
+2020-06-25,Delaware,Iowa,19055,36,0,1,0
+2020-06-25,Des Moines,Iowa,19057,81,2,2,0
+2020-06-25,Dickinson,Iowa,19059,232,10,2,0
+2020-06-25,Dubuque,Iowa,19061,483,14,22,0
+2020-06-25,Emmet,Iowa,19063,66,1,0,0
+2020-06-25,Fayette,Iowa,19065,30,0,0,0
+2020-06-25,Floyd,Iowa,19067,54,4,2,1
+2020-06-25,Franklin,Iowa,19069,68,1,0,0
+2020-06-25,Fremont,Iowa,19071,6,1,0,0
+2020-06-25,Greene,Iowa,19073,28,0,0,0
+2020-06-25,Grundy,Iowa,19075,27,1,0,0
+2020-06-25,Guthrie,Iowa,19077,64,1,4,0
+2020-06-25,Hamilton,Iowa,19079,178,5,0,0
+2020-06-25,Hancock,Iowa,19081,41,1,0,0
+2020-06-25,Hardin,Iowa,19083,58,2,0,0
+2020-06-25,Harrison,Iowa,19085,47,1,0,0
+2020-06-25,Henry,Iowa,19087,79,-1,3,0
+2020-06-25,Howard,Iowa,19089,17,3,0,0
+2020-06-25,Humboldt,Iowa,19091,46,2,1,0
+2020-06-25,Ida,Iowa,19093,21,0,0,0
+2020-06-25,Iowa,Iowa,19095,41,1,0,0
+2020-06-25,Jackson,Iowa,19097,21,0,0,0
+2020-06-25,Jasper,Iowa,19099,305,0,17,0
+2020-06-25,Jefferson,Iowa,19101,50,1,0,0
+2020-06-25,Johnson,Iowa,19103,914,56,9,0
+2020-06-25,Jones,Iowa,19105,51,4,0,0
+2020-06-25,Keokuk,Iowa,19107,19,1,1,0
+2020-06-25,Kossuth,Iowa,19109,29,-2,0,0
+2020-06-25,Lee,Iowa,19111,44,0,1,0
+2020-06-25,Linn,Iowa,19113,1152,26,81,1
+2020-06-25,Louisa,Iowa,19115,357,2,13,0
+2020-06-25,Lucas,Iowa,19117,28,-1,3,0
+2020-06-25,Lyon,Iowa,19119,37,0,0,0
+2020-06-25,Madison,Iowa,19121,35,0,2,0
+2020-06-25,Mahaska,Iowa,19123,116,2,16,0
+2020-06-25,Marion,Iowa,19125,52,2,0,0
+2020-06-25,Marshall,Iowa,19127,994,5,18,0
+2020-06-25,Mills,Iowa,19129,32,1,0,0
+2020-06-25,Mitchell,Iowa,19131,15,6,0,0
+2020-06-25,Monona,Iowa,19133,66,1,0,0
+2020-06-25,Monroe,Iowa,19135,50,-1,6,0
+2020-06-25,Montgomery,Iowa,19137,10,0,2,0
+2020-06-25,Muscatine,Iowa,19139,597,2,44,1
+2020-06-25,O'Brien,Iowa,19141,78,-1,1,0
+2020-06-25,Osceola,Iowa,19143,49,0,0,0
+2020-06-25,Page,Iowa,19145,20,2,0,0
+2020-06-25,Palo Alto,Iowa,19147,24,0,0,0
+2020-06-25,Plymouth,Iowa,19149,272,12,4,0
+2020-06-25,Pocahontas,Iowa,19151,46,5,1,0
+2020-06-25,Polk,Iowa,19153,5738,93,174,3
+2020-06-25,Pottawattamie,Iowa,19155,655,12,11,0
+2020-06-25,Poweshiek,Iowa,19157,101,3,8,0
+2020-06-25,Ringgold,Iowa,19159,12,0,0,0
+2020-06-25,Sac,Iowa,19161,50,0,0,0
+2020-06-25,Scott,Iowa,19163,516,28,10,0
+2020-06-25,Shelby,Iowa,19165,95,2,0,0
+2020-06-25,Sioux,Iowa,19167,435,12,0,0
+2020-06-25,Story,Iowa,19169,599,41,3,0
+2020-06-25,Tama,Iowa,19171,433,0,29,0
+2020-06-25,Taylor,Iowa,19173,77,1,0,0
+2020-06-25,Union,Iowa,19175,17,2,0,0
+2020-06-25,Unknown,Iowa,,10,5,0,0
+2020-06-25,Van Buren,Iowa,19177,17,0,0,0
+2020-06-25,Wapello,Iowa,19179,692,0,28,0
+2020-06-25,Warren,Iowa,19181,221,6,2,0
+2020-06-25,Washington,Iowa,19183,217,-1,9,0
+2020-06-25,Wayne,Iowa,19185,7,0,0,0
+2020-06-25,Webster,Iowa,19187,141,6,1,0
+2020-06-25,Winnebago,Iowa,19189,18,-2,0,0
+2020-06-25,Winneshiek,Iowa,19191,24,-1,0,0
+2020-06-25,Woodbury,Iowa,19193,3106,16,43,0
+2020-06-25,Worth,Iowa,19195,8,0,0,0
+2020-06-25,Wright,Iowa,19197,355,2,0,0

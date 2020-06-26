@@ -186,7 +186,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-04,Rockingham,New Hampshire,33015,213,23,1,0
 2020-04-04,Strafford,New Hampshire,33017,43,7,0,0
 2020-04-04,Sullivan,New Hampshire,33019,5,0,1,0
-2020-04-04,Unknown,New Hampshire,,3,3,0,0
+2020-04-04,Unknown,New Hampshire,,4,4,0,0
 2020-04-05,Belknap,New Hampshire,33001,17,0,0,0
 2020-04-05,Carroll,New Hampshire,33003,19,2,0,0
 2020-04-05,Cheshire,New Hampshire,33005,11,1,0,0
@@ -197,7 +197,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-05,Rockingham,New Hampshire,33015,230,17,1,0
 2020-04-05,Strafford,New Hampshire,33017,44,1,0,0
 2020-04-05,Sullivan,New Hampshire,33019,6,1,1,0
-2020-04-05,Unknown,New Hampshire,,6,3,0,0
+2020-04-05,Unknown,New Hampshire,,6,2,0,0
 2020-04-06,Belknap,New Hampshire,33001,18,1,0,0
 2020-04-06,Carroll,New Hampshire,33003,19,0,0,0
 2020-04-06,Cheshire,New Hampshire,33005,13,2,0,0
@@ -208,6 +208,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-06,Rockingham,New Hampshire,33015,246,16,1,0
 2020-04-06,Strafford,New Hampshire,33017,46,2,0,0
 2020-04-06,Sullivan,New Hampshire,33019,6,0,1,0
+2020-04-06,Unknown,New Hampshire,,1,-5,0,0
 2020-04-07,Belknap,New Hampshire,33001,21,3,0,0
 2020-04-07,Carroll,New Hampshire,33003,19,0,0,0
 2020-04-07,Cheshire,New Hampshire,33005,13,0,1,1
@@ -218,7 +219,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-07,Rockingham,New Hampshire,33015,255,9,2,1
 2020-04-07,Strafford,New Hampshire,33017,46,0,0,0
 2020-04-07,Sullivan,New Hampshire,33019,6,0,1,0
-2020-04-07,Unknown,New Hampshire,,1,-5,0,0
+2020-04-07,Unknown,New Hampshire,,1,0,0,0
 2020-04-08,Belknap,New Hampshire,33001,21,0,0,0
 2020-04-08,Carroll,New Hampshire,33003,23,4,0,0
 2020-04-08,Cheshire,New Hampshire,33005,14,1,1,0
@@ -380,7 +381,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-22,Rockingham,New Hampshire,33015,519,26,13,2
 2020-04-22,Strafford,New Hampshire,33017,118,7,1,1
 2020-04-22,Sullivan,New Hampshire,33019,10,0,1,0
-2020-04-22,Unknown,New Hampshire,,15,0,1,0
+2020-04-22,Unknown,New Hampshire,,17,2,1,0
 2020-04-23,Belknap,New Hampshire,33001,28,0,0,0
 2020-04-23,Carroll,New Hampshire,33003,30,0,0,0
 2020-04-23,Cheshire,New Hampshire,33005,35,2,2,0
@@ -391,7 +392,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-04-23,Rockingham,New Hampshire,33015,551,32,14,1
 2020-04-23,Strafford,New Hampshire,33017,123,5,2,1
 2020-04-23,Sullivan,New Hampshire,33019,10,0,1,0
-2020-04-23,Unknown,New Hampshire,,11,-4,1,0
+2020-04-23,Unknown,New Hampshire,,11,-6,1,0
 2020-04-24,Belknap,New Hampshire,33001,30,2,0,0
 2020-04-24,Carroll,New Hampshire,33003,30,0,0,0
 2020-04-24,Cheshire,New Hampshire,33005,35,0,2,0
@@ -1074,3 +1075,14 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Strafford,New Hampshire,33017,286,1,13,0
 2020-06-24,Sullivan,New Hampshire,33019,25,1,1,0
 2020-06-24,Unknown,New Hampshire,,2,1,0,0
+2020-06-25,Belknap,New Hampshire,33001,78,0,1,0
+2020-06-25,Carroll,New Hampshire,33003,53,1,0,0
+2020-06-25,Cheshire,New Hampshire,33005,66,0,2,0
+2020-06-25,Coos,New Hampshire,33007,6,0,0,0
+2020-06-25,Grafton,New Hampshire,33009,80,3,1,0
+2020-06-25,Hillsborough,New Hampshire,33011,3187,24,234,8
+2020-06-25,Merrimack,New Hampshire,33013,401,1,18,0
+2020-06-25,Rockingham,New Hampshire,33015,1450,7,87,2
+2020-06-25,Strafford,New Hampshire,33017,288,2,13,0
+2020-06-25,Sullivan,New Hampshire,33019,27,2,1,0
+2020-06-25,Unknown,New Hampshire,,2,0,0,0

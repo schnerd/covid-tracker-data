@@ -1,9 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-03-19,Ada,Idaho,16001,3,0,0,0
-2020-03-19,Blaine,Idaho,16013,17,12,0,0
-2020-03-19,Madison,Idaho,16065,1,0,0,0
-2020-03-19,Teton,Idaho,16081,1,0,0,0
-2020-03-19,Twin Falls,Idaho,16083,1,0,0,0
 2020-03-20,Ada,Idaho,16001,4,1,0,0
 2020-03-20,Bingham,Idaho,16011,1,1,0,0
 2020-03-20,Blaine,Idaho,16013,19,2,0,0
@@ -100,7 +95,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-03-27,Payette,Idaho,16075,1,0,0,0
 2020-03-27,Teton,Idaho,16081,2,0,0,0
 2020-03-27,Twin Falls,Idaho,16083,2,1,0,0
-2020-03-27,Unknown,Idaho,,1,0,0,0
 2020-03-27,Valley,Idaho,16085,1,0,0,0
 2020-03-28,Ada,Idaho,16001,88,12,1,1
 2020-03-28,Bannock,Idaho,16005,3,0,0,0
@@ -1908,7 +1902,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-23,Power,Idaho,16077,3,0,0,0
 2020-05-23,Teton,Idaho,16081,11,0,0,0
 2020-05-23,Twin Falls,Idaho,16083,381,7,19,0
-2020-05-23,Unknown,Idaho,,31,30,0,0
 2020-05-23,Valley,Idaho,16085,2,0,0,0
 2020-05-23,Washington,Idaho,16087,34,0,0,0
 2020-05-24,Ada,Idaho,16001,796,0,23,0
@@ -1942,7 +1935,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-24,Power,Idaho,16077,3,0,0,0
 2020-05-24,Teton,Idaho,16081,11,0,0,0
 2020-05-24,Twin Falls,Idaho,16083,383,2,19,0
-2020-05-24,Unknown,Idaho,,31,0,0,0
 2020-05-24,Valley,Idaho,16085,2,0,0,0
 2020-05-24,Washington,Idaho,16087,34,0,0,0
 2020-05-25,Ada,Idaho,16001,798,2,23,0
@@ -2884,6 +2876,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-20,Power,Idaho,16077,14,0,0,0
 2020-06-20,Teton,Idaho,16081,14,0,0,0
 2020-06-20,Twin Falls,Idaho,16083,511,4,26,0
+2020-06-20,Unknown,Idaho,,2,1,0,0
 2020-06-20,Valley,Idaho,16085,3,0,0,0
 2020-06-20,Washington,Idaho,16087,84,0,0,0
 2020-06-21,Ada,Idaho,16001,1166,0,22,0
@@ -3026,3 +3019,39 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Twin Falls,Idaho,16083,532,10,26,0
 2020-06-24,Valley,Idaho,16085,4,1,0,0
 2020-06-24,Washington,Idaho,16087,97,1,0,0
+2020-06-25,Ada,Idaho,16001,1585,101,23,0
+2020-06-25,Adams,Idaho,16003,10,0,0,0
+2020-06-25,Bannock,Idaho,16005,91,0,1,0
+2020-06-25,Benewah,Idaho,16009,21,0,0,0
+2020-06-25,Bingham,Idaho,16011,33,0,0,0
+2020-06-25,Blaine,Idaho,16013,528,4,5,0
+2020-06-25,Boise,Idaho,16015,1,1,0,0
+2020-06-25,Bonner,Idaho,16017,24,5,0,0
+2020-06-25,Bonneville,Idaho,16019,106,3,1,0
+2020-06-25,Camas,Idaho,16025,1,0,0,0
+2020-06-25,Canyon,Idaho,16027,601,55,6,0
+2020-06-25,Caribou,Idaho,16029,11,0,0,0
+2020-06-25,Cassia,Idaho,16031,193,2,1,0
+2020-06-25,Custer,Idaho,16037,3,1,0,0
+2020-06-25,Elmore,Idaho,16039,47,0,2,0
+2020-06-25,Franklin,Idaho,16041,21,0,0,0
+2020-06-25,Fremont,Idaho,16043,4,0,0,0
+2020-06-25,Gem,Idaho,16045,20,1,0,0
+2020-06-25,Gooding,Idaho,16047,62,1,1,0
+2020-06-25,Idaho,Idaho,16049,3,0,0,0
+2020-06-25,Jefferson,Idaho,16051,16,0,0,0
+2020-06-25,Jerome,Idaho,16053,231,-1,3,0
+2020-06-25,Kootenai,Idaho,16055,171,16,1,0
+2020-06-25,Latah,Idaho,16057,10,1,0,0
+2020-06-25,Lemhi,Idaho,16059,2,0,0,0
+2020-06-25,Lincoln,Idaho,16063,36,0,0,0
+2020-06-25,Madison,Idaho,16065,31,0,0,0
+2020-06-25,Minidoka,Idaho,16067,138,2,0,0
+2020-06-25,Nez Perce,Idaho,16069,91,0,19,0
+2020-06-25,Owyhee,Idaho,16073,33,5,0,0
+2020-06-25,Payette,Idaho,16075,73,13,2,0
+2020-06-25,Power,Idaho,16077,16,0,0,0
+2020-06-25,Teton,Idaho,16081,14,0,0,0
+2020-06-25,Twin Falls,Idaho,16083,540,8,26,0
+2020-06-25,Valley,Idaho,16085,5,1,0,0
+2020-06-25,Washington,Idaho,16087,97,0,0,0
