@@ -1,51 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-03-25,Alachua,Florida,12001,46,9,0,0
-2020-03-25,Baker,Florida,12003,5,1,0,0
-2020-03-25,Bay,Florida,12005,3,2,0,0
-2020-03-25,Bradford,Florida,12007,1,0,0,0
-2020-03-25,Brevard,Florida,12009,12,3,0,0
-2020-03-25,Broward,Florida,12011,412,100,3,0
-2020-03-25,Charlotte,Florida,12015,3,0,0,0
-2020-03-25,Citrus,Florida,12017,9,0,1,1
-2020-03-25,Clay,Florida,12019,16,6,2,0
-2020-03-25,Collier,Florida,12021,57,16,0,0
-2020-03-25,Columbia,Florida,12023,3,0,0,0
-2020-03-25,DeSoto,Florida,12027,4,3,0,0
-2020-03-25,Duval,Florida,12031,60,10,3,0
-2020-03-25,Escambia,Florida,12033,17,4,0,0
-2020-03-25,Flagler,Florida,12035,6,2,0,0
-2020-03-25,Gadsden,Florida,12039,1,1,0,0
-2020-03-25,Hernando,Florida,12053,8,1,0,0
-2020-03-25,Highlands,Florida,12055,5,1,0,0
-2020-03-25,Hillsborough,Florida,12057,123,28,0,0
-2020-03-25,Indian River,Florida,12061,12,0,0,0
-2020-03-25,Jackson,Florida,12063,1,0,0,0
-2020-03-25,Lake,Florida,12069,22,8,0,0
-2020-03-25,Lee,Florida,12071,52,18,3,0
-2020-03-25,Leon,Florida,12073,7,1,0,0
-2020-03-25,Manatee,Florida,12081,26,10,1,0
-2020-03-25,Marion,Florida,12083,5,1,0,0
-2020-03-25,Martin,Florida,12085,7,3,0,0
-2020-03-25,Miami-Dade,Florida,12086,489,124,0,0
-2020-03-25,Monroe,Florida,12087,11,8,0,0
-2020-03-25,Nassau,Florida,12089,4,3,0,0
-2020-03-25,Okaloosa,Florida,12091,18,5,0,0
-2020-03-25,Orange,Florida,12095,87,37,2,1
-2020-03-25,Osceola,Florida,12097,39,13,0,0
-2020-03-25,Palm Beach,Florida,12099,139,37,3,0
-2020-03-25,Pasco,Florida,12101,18,2,1,0
-2020-03-25,Pinellas,Florida,12103,54,9,1,0
-2020-03-25,Polk,Florida,12105,15,2,0,0
-2020-03-25,Putnam,Florida,12107,5,3,0,0
-2020-03-25,Santa Rosa,Florida,12113,8,2,1,0
-2020-03-25,Sarasota,Florida,12115,32,6,1,1
-2020-03-25,Seminole,Florida,12117,32,7,0,0
-2020-03-25,St. Johns,Florida,12109,28,4,1,0
-2020-03-25,St. Lucie,Florida,12111,9,3,0,0
-2020-03-25,Sumter,Florida,12119,18,8,0,0
-2020-03-25,Unknown,Florida,,1,-9,0,0
-2020-03-25,Volusia,Florida,12127,28,9,0,0
-2020-03-25,Walton,Florida,12131,13,3,0,0
 2020-03-26,Alachua,Florida,12001,53,7,0,0
 2020-03-26,Baker,Florida,12003,5,0,0,0
 2020-03-26,Bay,Florida,12005,3,0,0,0
@@ -6494,3 +6447,71 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-30,Wakulla,Florida,12129,60,5,1,0
 2020-06-30,Walton,Florida,12131,245,32,9,0
 2020-06-30,Washington,Florida,12133,113,1,12,0
+2020-07-01,Alachua,Florida,12001,1245,48,12,0
+2020-07-01,Baker,Florida,12003,72,9,4,0
+2020-07-01,Bay,Florida,12005,408,24,5,1
+2020-07-01,Bradford,Florida,12007,84,1,2,0
+2020-07-01,Brevard,Florida,12009,1962,169,17,0
+2020-07-01,Broward,Florida,12011,16155,531,385,2
+2020-07-01,Calhoun,Florida,12013,77,1,6,0
+2020-07-01,Charlotte,Florida,12015,793,18,76,0
+2020-07-01,Citrus,Florida,12017,323,32,13,0
+2020-07-01,Clay,Florida,12019,729,16,34,0
+2020-07-01,Collier,Florida,12021,4376,151,81,7
+2020-07-01,Columbia,Florida,12023,296,9,3,0
+2020-07-01,DeSoto,Florida,12027,634,30,10,0
+2020-07-01,Dixie,Florida,12029,69,1,4,0
+2020-07-01,Duval,Florida,12031,6480,273,67,3
+2020-07-01,Escambia,Florida,12033,2046,94,44,-1
+2020-07-01,Flagler,Florida,12035,323,13,5,0
+2020-07-01,Franklin,Florida,12037,6,0,0,0
+2020-07-01,Gadsden,Florida,12039,388,10,7,0
+2020-07-01,Gilchrist,Florida,12041,102,5,0,0
+2020-07-01,Glades,Florida,12043,164,-11,1,0
+2020-07-01,Gulf,Florida,12045,23,0,0,0
+2020-07-01,Hamilton,Florida,12047,345,11,2,0
+2020-07-01,Hardee,Florida,12049,440,10,3,0
+2020-07-01,Hendry,Florida,12051,980,27,25,0
+2020-07-01,Hernando,Florida,12053,408,35,5,0
+2020-07-01,Highlands,Florida,12055,365,15,11,0
+2020-07-01,Hillsborough,Florida,12057,11465,713,140,2
+2020-07-01,Holmes,Florida,12059,181,4,0,0
+2020-07-01,Indian River,Florida,12061,739,42,16,0
+2020-07-01,Jackson,Florida,12063,365,2,2,0
+2020-07-01,Jefferson,Florida,12065,51,2,4,0
+2020-07-01,Lafayette,Florida,12067,32,0,0,0
+2020-07-01,Lake,Florida,12069,1410,108,22,0
+2020-07-01,Lee,Florida,12071,5868,281,159,1
+2020-07-01,Leon,Florida,12073,1148,35,8,0
+2020-07-01,Levy,Florida,12075,181,7,1,0
+2020-07-01,Liberty,Florida,12077,222,0,1,0
+2020-07-01,Madison,Florida,12079,200,5,3,0
+2020-07-01,Manatee,Florida,12081,3015,159,129,-1
+2020-07-01,Marion,Florida,12083,727,55,10,0
+2020-07-01,Martin,Florida,12085,2112,57,25,0
+2020-07-01,Miami-Dade,Florida,12086,37960,1141,1000,9
+2020-07-01,Monroe,Florida,12087,270,11,4,0
+2020-07-01,Nassau,Florida,12089,196,14,1,0
+2020-07-01,Okaloosa,Florida,12091,703,38,7,1
+2020-07-01,Okeechobee,Florida,12093,383,6,0,0
+2020-07-01,Orange,Florida,12095,10873,560,57,0
+2020-07-01,Osceola,Florida,12097,2164,138,25,1
+2020-07-01,Palm Beach,Florida,12099,14445,297,512,2
+2020-07-01,Pasco,Florida,12101,2133,141,21,2
+2020-07-01,Pinellas,Florida,12103,6861,374,172,6
+2020-07-01,Polk,Florida,12105,4048,212,102,4
+2020-07-01,Putnam,Florida,12107,381,42,6,0
+2020-07-01,Santa Rosa,Florida,12113,617,24,9,0
+2020-07-01,Sarasota,Florida,12115,1601,119,97,0
+2020-07-01,Seminole,Florida,12117,2682,116,17,1
+2020-07-01,St. Johns,Florida,12109,989,41,7,0
+2020-07-01,St. Lucie,Florida,12111,1812,88,48,1
+2020-07-01,Sumter,Florida,12119,368,23,17,0
+2020-07-01,Suwannee,Florida,12121,532,33,21,1
+2020-07-01,Taylor,Florida,12123,80,1,1,1
+2020-07-01,Union,Florida,12125,62,0,2,0
+2020-07-01,Unknown,Florida,,167,22,0,0
+2020-07-01,Volusia,Florida,12127,2219,114,58,1
+2020-07-01,Wakulla,Florida,12129,65,5,1,0
+2020-07-01,Walton,Florida,12131,257,12,9,0
+2020-07-01,Washington,Florida,12133,112,-1,13,1
