@@ -1,56 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-03-27,Adair,Missouri,29001,2,0,0,0
-2020-03-27,Atchison,Missouri,29005,1,1,0,0
-2020-03-27,Barry,Missouri,29009,1,1,0,0
-2020-03-27,Bates,Missouri,29013,1,0,0,0
-2020-03-27,Benton,Missouri,29015,1,0,0,0
-2020-03-27,Bollinger,Missouri,29017,1,0,0,0
-2020-03-27,Boone,Missouri,29019,37,12,1,0
-2020-03-27,Buchanan,Missouri,29021,2,2,0,0
-2020-03-27,Callaway,Missouri,29027,3,1,0,0
-2020-03-27,Camden,Missouri,29029,1,0,0,0
-2020-03-27,Cape Girardeau,Missouri,29031,6,0,0,0
-2020-03-27,Carter,Missouri,29035,1,0,0,0
-2020-03-27,Cass,Missouri,29037,8,0,0,0
-2020-03-27,Chariton,Missouri,29041,1,1,0,0
-2020-03-27,Christian,Missouri,29043,3,1,0,0
-2020-03-27,Clay,Missouri,29047,9,4,0,0
-2020-03-27,Clinton,Missouri,29049,1,0,0,0
-2020-03-27,Cole,Missouri,29051,10,2,0,0
-2020-03-27,Cooper,Missouri,29053,1,0,0,0
-2020-03-27,Dunklin,Missouri,29069,3,1,0,0
-2020-03-27,Franklin,Missouri,29071,4,0,0,0
-2020-03-27,Greene,Missouri,29077,31,6,3,0
-2020-03-27,Henry,Missouri,29083,1,0,0,0
-2020-03-27,Jackson,Missouri,29095,41,10,1,0
-2020-03-27,Jasper,Missouri,29097,2,0,0,0
-2020-03-27,Jefferson,Missouri,29099,15,5,0,0
-2020-03-27,Johnson,Missouri,29101,8,0,0,0
-2020-03-27,Kansas City,Missouri,,78,14,0,0
-2020-03-27,Lafayette,Missouri,29107,4,2,0,0
-2020-03-27,Lincoln,Missouri,29113,2,2,0,0
-2020-03-27,McDonald,Missouri,29119,1,0,0,0
-2020-03-27,Moniteau,Missouri,29135,2,0,0,0
-2020-03-27,Montgomery,Missouri,29139,3,1,0,0
-2020-03-27,Newton,Missouri,29145,3,0,0,0
-2020-03-27,Pemiscot,Missouri,29155,1,0,0,0
-2020-03-27,Perry,Missouri,29157,6,2,0,0
-2020-03-27,Pettis,Missouri,29159,1,1,0,0
-2020-03-27,Platte,Missouri,29165,5,0,0,0
-2020-03-27,Pulaski,Missouri,29169,4,0,0,0
-2020-03-27,Ralls,Missouri,29173,1,0,0,0
-2020-03-27,Randolph,Missouri,29175,1,0,0,0
-2020-03-27,Ray,Missouri,29177,1,1,0,0
-2020-03-27,Scott,Missouri,29201,1,0,0,0
-2020-03-27,Shelby,Missouri,29205,1,0,0,0
-2020-03-27,St. Charles,Missouri,29183,32,10,1,0
-2020-03-27,St. Francois,Missouri,29187,4,2,0,0
-2020-03-27,St. Louis,Missouri,29189,247,74,2,1
-2020-03-27,St. Louis city,Missouri,29510,72,3,1,0
-2020-03-27,Stoddard,Missouri,29207,1,0,0,0
-2020-03-27,Taney,Missouri,29213,1,0,0,0
-2020-03-27,Unknown,Missouri,,2,-2,0,0
-2020-03-27,Wright,Missouri,29229,1,1,0,0
 2020-03-28,Adair,Missouri,29001,2,0,0,0
 2020-03-28,Atchison,Missouri,29005,1,0,0,0
 2020-03-28,Barry,Missouri,29009,1,0,0,0
@@ -9804,3 +9752,119 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-02,Webster,Missouri,29225,35,2,1,0
 2020-07-02,Worth,Missouri,29227,4,0,0,0
 2020-07-02,Wright,Missouri,29229,15,0,0,0
+2020-07-03,Adair,Missouri,29001,91,0,0,0
+2020-07-03,Andrew,Missouri,29003,55,1,0,0
+2020-07-03,Atchison,Missouri,29005,4,0,0,0
+2020-07-03,Audrain,Missouri,29007,139,0,1,0
+2020-07-03,Barry,Missouri,29009,71,5,0,0
+2020-07-03,Barton,Missouri,29011,26,0,0,0
+2020-07-03,Bates,Missouri,29013,12,0,1,0
+2020-07-03,Benton,Missouri,29015,18,1,0,0
+2020-07-03,Bollinger,Missouri,29017,14,2,0,0
+2020-07-03,Boone,Missouri,29019,460,31,2,0
+2020-07-03,Buchanan,Missouri,29021,883,3,3,0
+2020-07-03,Butler,Missouri,29023,108,0,0,0
+2020-07-03,Caldwell,Missouri,29025,12,1,0,0
+2020-07-03,Callaway,Missouri,29027,55,4,1,0
+2020-07-03,Camden,Missouri,29029,66,-1,1,0
+2020-07-03,Cape Girardeau,Missouri,29031,193,11,3,0
+2020-07-03,Carroll,Missouri,29033,14,2,0,0
+2020-07-03,Carter,Missouri,29035,6,0,1,0
+2020-07-03,Cass,Missouri,29037,162,6,9,0
+2020-07-03,Cedar,Missouri,29039,11,2,0,0
+2020-07-03,Chariton,Missouri,29041,6,0,0,0
+2020-07-03,Christian,Missouri,29043,54,0,1,0
+2020-07-03,Clark,Missouri,29045,2,0,0,0
+2020-07-03,Clay,Missouri,29047,478,6,16,0
+2020-07-03,Clinton,Missouri,29049,28,2,0,0
+2020-07-03,Cole,Missouri,29051,81,2,2,0
+2020-07-03,Cooper,Missouri,29053,20,4,0,0
+2020-07-03,Crawford,Missouri,29055,15,2,0,0
+2020-07-03,Dade,Missouri,29057,1,0,0,0
+2020-07-03,Dallas,Missouri,29059,14,0,1,0
+2020-07-03,Daviess,Missouri,29061,9,0,0,0
+2020-07-03,DeKalb,Missouri,29063,14,1,0,0
+2020-07-03,Dent,Missouri,29065,5,0,0,0
+2020-07-03,Douglas,Missouri,29067,6,0,0,0
+2020-07-03,Dunklin,Missouri,29069,108,2,3,0
+2020-07-03,Franklin,Missouri,29071,217,4,18,0
+2020-07-03,Gasconade,Missouri,29073,12,0,0,0
+2020-07-03,Gentry,Missouri,29075,58,0,9,0
+2020-07-03,Greene,Missouri,29077,346,3,8,0
+2020-07-03,Grundy,Missouri,29079,20,0,0,0
+2020-07-03,Harrison,Missouri,29081,17,3,0,0
+2020-07-03,Henry,Missouri,29083,20,0,3,0
+2020-07-03,Holt,Missouri,29087,1,0,0,0
+2020-07-03,Howard,Missouri,29089,5,0,0,0
+2020-07-03,Howell,Missouri,29091,45,4,0,0
+2020-07-03,Iron,Missouri,29093,3,0,0,0
+2020-07-03,Jackson,Missouri,29095,1306,49,39,0
+2020-07-03,Jasper,Missouri,29097,515,34,1,0
+2020-07-03,Jefferson,Missouri,29099,551,0,23,0
+2020-07-03,Johnson,Missouri,29101,151,10,0,0
+2020-07-03,Joplin,Missouri,,188,14,7,1
+2020-07-03,Kansas City,Missouri,,2601,104,32,0
+2020-07-03,Knox,Missouri,29103,2,0,0,0
+2020-07-03,Laclede,Missouri,29105,33,0,0,0
+2020-07-03,Lafayette,Missouri,29107,92,1,2,0
+2020-07-03,Lawrence,Missouri,29109,41,4,1,0
+2020-07-03,Lewis,Missouri,29111,7,0,1,0
+2020-07-03,Lincoln,Missouri,29113,98,-1,1,0
+2020-07-03,Linn,Missouri,29115,17,1,1,0
+2020-07-03,Livingston,Missouri,29117,15,2,0,0
+2020-07-03,Macon,Missouri,29121,8,0,0,0
+2020-07-03,Madison,Missouri,29123,6,0,0,0
+2020-07-03,Maries,Missouri,29125,6,0,0,0
+2020-07-03,Marion,Missouri,29127,25,5,0,0
+2020-07-03,McDonald,Missouri,29119,747,33,1,0
+2020-07-03,Mercer,Missouri,29129,6,0,0,0
+2020-07-03,Miller,Missouri,29131,19,2,0,0
+2020-07-03,Mississippi,Missouri,29133,91,0,0,0
+2020-07-03,Moniteau,Missouri,29135,62,0,1,0
+2020-07-03,Monroe,Missouri,29137,5,0,0,0
+2020-07-03,Montgomery,Missouri,29139,20,0,0,0
+2020-07-03,Morgan,Missouri,29141,15,1,0,0
+2020-07-03,New Madrid,Missouri,29143,44,1,1,0
+2020-07-03,Newton,Missouri,29145,451,3,2,0
+2020-07-03,Nodaway,Missouri,29147,22,1,0,0
+2020-07-03,Oregon,Missouri,29149,7,0,0,0
+2020-07-03,Osage,Missouri,29151,7,0,0,0
+2020-07-03,Ozark,Missouri,29153,2,0,0,0
+2020-07-03,Pemiscot,Missouri,29155,111,0,6,0
+2020-07-03,Perry,Missouri,29157,149,2,0,0
+2020-07-03,Pettis,Missouri,29159,125,3,1,0
+2020-07-03,Phelps,Missouri,29161,45,1,0,0
+2020-07-03,Pike,Missouri,29163,37,0,1,0
+2020-07-03,Platte,Missouri,29165,125,0,6,0
+2020-07-03,Polk,Missouri,29167,15,-1,0,0
+2020-07-03,Pulaski,Missouri,29169,127,-1,1,0
+2020-07-03,Putnam,Missouri,29171,3,0,0,0
+2020-07-03,Ralls,Missouri,29173,10,0,0,0
+2020-07-03,Randolph,Missouri,29175,12,0,0,0
+2020-07-03,Ray,Missouri,29177,27,1,0,0
+2020-07-03,Reynolds,Missouri,29179,2,0,0,0
+2020-07-03,Ripley,Missouri,29181,19,0,0,0
+2020-07-03,Saline,Missouri,29195,284,1,4,0
+2020-07-03,Schuyler,Missouri,29197,5,0,0,0
+2020-07-03,Scotland,Missouri,29199,11,0,1,0
+2020-07-03,Scott,Missouri,29201,172,2,11,0
+2020-07-03,Shannon,Missouri,29203,13,2,0,0
+2020-07-03,Shelby,Missouri,29205,4,0,0,0
+2020-07-03,St. Charles,Missouri,29183,1163,28,76,0
+2020-07-03,St. Clair,Missouri,29185,2,0,0,0
+2020-07-03,St. Francois,Missouri,29187,155,0,2,0
+2020-07-03,St. Louis,Missouri,29189,6755,73,583,1
+2020-07-03,St. Louis city,Missouri,29510,2565,20,158,1
+2020-07-03,Ste. Genevieve,Missouri,29186,20,0,1,0
+2020-07-03,Stoddard,Missouri,29207,141,4,8,0
+2020-07-03,Stone,Missouri,29209,20,4,0,0
+2020-07-03,Sullivan,Missouri,29211,115,3,0,0
+2020-07-03,Taney,Missouri,29213,74,7,2,0
+2020-07-03,Texas,Missouri,29215,6,0,0,0
+2020-07-03,Vernon,Missouri,29217,26,9,1,1
+2020-07-03,Warren,Missouri,29219,45,1,0,0
+2020-07-03,Washington,Missouri,29221,25,2,1,0
+2020-07-03,Wayne,Missouri,29223,4,0,0,0
+2020-07-03,Webster,Missouri,29225,39,4,1,0
+2020-07-03,Worth,Missouri,29227,4,0,0,0
+2020-07-03,Wright,Missouri,29229,20,5,0,0
