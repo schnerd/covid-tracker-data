@@ -1,28 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-04-01,Anne Arundel,Maryland,24003,158,31,1,0
-2020-04-01,Baltimore,Maryland,24005,289,62,1,0
-2020-04-01,Baltimore city,Maryland,24510,187,0,2,0
-2020-04-01,Calvert,Maryland,24009,18,3,0,0
-2020-04-01,Caroline,Maryland,24011,4,0,0,0
-2020-04-01,Carroll,Maryland,24013,96,2,5,3
-2020-04-01,Cecil,Maryland,24015,16,2,1,1
-2020-04-01,Charles,Maryland,24017,56,16,1,0
-2020-04-01,Dorchester,Maryland,24019,1,1,0,0
-2020-04-01,Frederick,Maryland,24021,35,2,2,2
-2020-04-01,Garrett,Maryland,24023,3,0,0,0
-2020-04-01,Harford,Maryland,24025,34,9,0,0
-2020-04-01,Howard,Maryland,24027,142,25,2,0
-2020-04-01,Kent,Maryland,24029,3,0,0,0
-2020-04-01,Montgomery,Maryland,24031,447,59,1,0
-2020-04-01,Prince George's,Maryland,24033,403,62,7,0
-2020-04-01,Queen Anne's,Maryland,24035,7,3,0,0
-2020-04-01,Somerset,Maryland,24039,4,3,0,0
-2020-04-01,St. Mary's,Maryland,24037,19,4,0,0
-2020-04-01,Talbot,Maryland,24041,3,0,0,0
-2020-04-01,Unknown,Maryland,,34,34,9,9
-2020-04-01,Washington,Maryland,24043,15,4,0,0
-2020-04-01,Wicomico,Maryland,24045,7,0,1,0
-2020-04-01,Worcester,Maryland,24047,4,1,0,0
 2020-04-02,Allegany,Maryland,24001,1,1,0,0
 2020-04-02,Anne Arundel,Maryland,24003,206,48,1,0
 2020-04-02,Baltimore,Maryland,24005,353,64,1,0
@@ -2436,3 +2412,28 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-07,Washington,Maryland,24043,691,-5,29,0
 2020-07-07,Wicomico,Maryland,24045,1095,4,41,0
 2020-07-07,Worcester,Maryland,24047,302,4,17,0
+2020-07-08,Allegany,Maryland,24001,212,2,18,0
+2020-07-08,Anne Arundel,Maryland,24003,5349,36,210,0
+2020-07-08,Baltimore,Maryland,24005,8464,62,490,4
+2020-07-08,Baltimore city,Maryland,24510,8082,71,355,3
+2020-07-08,Calvert,Maryland,24009,426,3,27,0
+2020-07-08,Caroline,Maryland,24011,325,2,3,0
+2020-07-08,Carroll,Maryland,24013,1190,6,114,0
+2020-07-08,Cecil,Maryland,24015,513,7,29,0
+2020-07-08,Charles,Maryland,24017,1475,22,88,1
+2020-07-08,Dorchester,Maryland,24019,199,0,5,0
+2020-07-08,Frederick,Maryland,24021,2560,2,120,0
+2020-07-08,Garrett,Maryland,24023,16,1,0,0
+2020-07-08,Harford,Maryland,24025,1212,11,64,1
+2020-07-08,Howard,Maryland,24027,2729,38,93,0
+2020-07-08,Kent,Maryland,24029,205,0,23,0
+2020-07-08,Montgomery,Maryland,24031,15438,68,752,0
+2020-07-08,Prince George's,Maryland,24033,19776,107,699,7
+2020-07-08,Queen Anne's,Maryland,24035,261,4,21,1
+2020-07-08,Somerset,Maryland,24039,93,2,3,0
+2020-07-08,St. Mary's,Maryland,24037,666,4,51,0
+2020-07-08,Talbot,Maryland,24041,161,6,4,0
+2020-07-08,Unknown,Maryland,,0,0,19,-8
+2020-07-08,Washington,Maryland,24043,694,3,29,0
+2020-07-08,Wicomico,Maryland,24045,1102,7,41,0
+2020-07-08,Worcester,Maryland,24047,307,5,17,0
