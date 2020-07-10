@@ -1,9 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-04-02,Hawaii,Hawaii,15001,18,0,0,0
-2020-04-02,Honolulu,Hawaii,15003,206,24,2,1
-2020-04-02,Kauai,Hawaii,15007,12,0,0,0
-2020-04-02,Maui,Hawaii,15009,27,1,0,0
-2020-04-02,Unknown,Hawaii,,20,0,0,0
 2020-04-03,Hawaii,Hawaii,15001,20,2,0,0
 2020-04-03,Honolulu,Hawaii,15003,237,31,2,0
 2020-04-03,Kauai,Hawaii,15007,13,1,0,0
@@ -407,3 +402,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-08,Honolulu,Hawaii,15003,808,20,13,0
 2020-07-08,Kauai,Hawaii,15007,42,0,0,0
 2020-07-08,Maui,Hawaii,15009,130,2,6,0
+2020-07-09,Hawaii,Hawaii,15001,97,1,0,0
+2020-07-09,Honolulu,Hawaii,15003,842,34,13,0
+2020-07-09,Kauai,Hawaii,15007,43,1,0,0
+2020-07-09,Maui,Hawaii,15009,130,0,6,0
