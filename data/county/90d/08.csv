@@ -1,59 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-04-04,Adams,Colorado,08001,320,26,9,0
-2020-04-04,Alamosa,Colorado,08003,4,0,0,0
-2020-04-04,Arapahoe,Colorado,08005,552,52,10,0
-2020-04-04,Archuleta,Colorado,08007,1,0,0,0
-2020-04-04,Baca,Colorado,08009,9,0,0,0
-2020-04-04,Boulder,Colorado,08013,159,16,3,1
-2020-04-04,Broomfield,Colorado,08014,44,8,2,0
-2020-04-04,Chaffee,Colorado,08015,21,2,2,0
-2020-04-04,Clear Creek,Colorado,08019,6,0,0,0
-2020-04-04,Costilla,Colorado,08023,3,0,0,0
-2020-04-04,Crowley,Colorado,08025,1,0,1,0
-2020-04-04,Custer,Colorado,08027,2,0,0,0
-2020-04-04,Delta,Colorado,08029,4,0,0,0
-2020-04-04,Denver,Colorado,08031,769,53,14,0
-2020-04-04,Douglas,Colorado,08035,209,15,3,1
-2020-04-04,Eagle,Colorado,08037,333,0,5,0
-2020-04-04,El Paso,Colorado,08041,406,32,22,4
-2020-04-04,Elbert,Colorado,08039,9,3,1,1
-2020-04-04,Fremont,Colorado,08043,3,1,0,0
-2020-04-04,Garfield,Colorado,08045,45,0,1,0
-2020-04-04,Grand,Colorado,08049,4,0,0,0
-2020-04-04,Gunnison,Colorado,08051,90,2,1,0
-2020-04-04,Hinsdale,Colorado,08053,1,0,0,0
-2020-04-04,Huerfano,Colorado,08055,1,0,0,0
-2020-04-04,Jefferson,Colorado,08059,483,43,15,2
-2020-04-04,Kit Carson,Colorado,08063,5,1,0,0
-2020-04-04,La Plata,Colorado,08067,25,0,0,0
-2020-04-04,Lake,Colorado,08065,3,0,0,0
-2020-04-04,Larimer,Colorado,08069,144,10,8,1
-2020-04-04,Las Animas,Colorado,08071,1,0,0,0
-2020-04-04,Lincoln,Colorado,08073,1,0,0,0
-2020-04-04,Logan,Colorado,08075,8,1,0,0
-2020-04-04,Mesa,Colorado,08077,20,0,0,0
-2020-04-04,Mineral,Colorado,08079,2,0,0,0
-2020-04-04,Moffat,Colorado,08081,4,0,0,0
-2020-04-04,Montezuma,Colorado,08083,6,3,1,0
-2020-04-04,Montrose,Colorado,08085,31,5,1,0
-2020-04-04,Morgan,Colorado,08087,16,9,0,0
-2020-04-04,Otero,Colorado,08089,3,0,0,0
-2020-04-04,Ouray,Colorado,08091,2,2,0,0
-2020-04-04,Park,Colorado,08093,5,0,0,0
-2020-04-04,Phillips,Colorado,08095,3,1,0,0
-2020-04-04,Pitkin,Colorado,08097,38,0,2,0
-2020-04-04,Pueblo,Colorado,08101,39,0,2,0
-2020-04-04,Rio Blanco,Colorado,08103,1,0,0,0
-2020-04-04,Rio Grande,Colorado,08105,5,0,0,0
-2020-04-04,Routt,Colorado,08107,29,1,0,0
-2020-04-04,Saguache,Colorado,08109,3,0,0,0
-2020-04-04,San Miguel,Colorado,08113,9,0,0,0
-2020-04-04,Summit,Colorado,08117,43,8,0,0
-2020-04-04,Teller,Colorado,08119,11,0,1,0
-2020-04-04,Unknown,Colorado,,211,53,0,0
-2020-04-04,Washington,Colorado,08121,1,0,0,0
-2020-04-04,Weld,Colorado,08123,424,45,22,6
-2020-04-04,Yuma,Colorado,08125,2,0,0,0
 2020-04-05,Adams,Colorado,08001,354,34,10,1
 2020-04-05,Alamosa,Colorado,08003,4,0,0,0
 2020-04-05,Arapahoe,Colorado,08005,608,56,13,3
@@ -5802,3 +5747,64 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-10,Washington,Colorado,08121,46,0,0,0
 2020-07-10,Weld,Colorado,08123,2987,26,138,0
 2020-07-10,Yuma,Colorado,08125,54,0,0,0
+2020-07-11,Adams,Colorado,08001,4719,50,158,1
+2020-07-11,Alamosa,Colorado,08003,204,0,6,0
+2020-07-11,Arapahoe,Colorado,08005,5627,44,349,0
+2020-07-11,Archuleta,Colorado,08007,12,0,0,0
+2020-07-11,Baca,Colorado,08009,14,0,0,0
+2020-07-11,Bent,Colorado,08011,4,0,0,0
+2020-07-11,Boulder,Colorado,08013,1522,19,73,0
+2020-07-11,Broomfield,Colorado,08014,341,5,30,0
+2020-07-11,Chaffee,Colorado,08015,93,11,19,0
+2020-07-11,Cheyenne,Colorado,08017,5,0,0,0
+2020-07-11,Clear Creek,Colorado,08019,21,0,1,0
+2020-07-11,Conejos,Colorado,08021,18,1,0,0
+2020-07-11,Costilla,Colorado,08023,22,0,0,0
+2020-07-11,Crowley,Colorado,08025,71,0,1,0
+2020-07-11,Custer,Colorado,08027,3,0,0,0
+2020-07-11,Delta,Colorado,08029,83,-1,1,0
+2020-07-11,Denver,Colorado,08031,7832,73,394,0
+2020-07-11,Douglas,Colorado,08035,1134,14,52,0
+2020-07-11,Eagle,Colorado,08037,761,3,8,0
+2020-07-11,El Paso,Colorado,08041,3051,98,115,0
+2020-07-11,Elbert,Colorado,08039,62,1,2,0
+2020-07-11,Fremont,Colorado,08043,43,1,0,0
+2020-07-11,Garfield,Colorado,08045,403,24,3,0
+2020-07-11,Gilpin,Colorado,08047,8,0,0,0
+2020-07-11,Grand,Colorado,08049,27,1,1,0
+2020-07-11,Gunnison,Colorado,08051,192,0,6,0
+2020-07-11,Hinsdale,Colorado,08053,3,0,0,0
+2020-07-11,Huerfano,Colorado,08055,4,0,1,0
+2020-07-11,Jackson,Colorado,08057,7,0,0,0
+2020-07-11,Jefferson,Colorado,08059,3007,37,215,0
+2020-07-11,Kit Carson,Colorado,08063,36,0,3,0
+2020-07-11,La Plata,Colorado,08067,134,1,1,0
+2020-07-11,Lake,Colorado,08065,54,1,0,0
+2020-07-11,Larimer,Colorado,08069,899,15,30,0
+2020-07-11,Las Animas,Colorado,08071,9,0,0,0
+2020-07-11,Lincoln,Colorado,08073,4,0,0,0
+2020-07-11,Logan,Colorado,08075,641,0,5,0
+2020-07-11,Mesa,Colorado,08077,140,3,0,0
+2020-07-11,Mineral,Colorado,08079,16,1,0,0
+2020-07-11,Moffat,Colorado,08081,15,0,1,0
+2020-07-11,Montezuma,Colorado,08083,77,0,3,0
+2020-07-11,Montrose,Colorado,08085,218,2,12,0
+2020-07-11,Morgan,Colorado,08087,656,0,46,0
+2020-07-11,Otero,Colorado,08089,23,1,1,0
+2020-07-11,Ouray,Colorado,08091,12,0,1,0
+2020-07-11,Park,Colorado,08093,33,0,0,0
+2020-07-11,Phillips,Colorado,08095,16,0,0,0
+2020-07-11,Pitkin,Colorado,08097,130,6,2,0
+2020-07-11,Prowers,Colorado,08099,36,0,0,0
+2020-07-11,Pueblo,Colorado,08101,430,8,31,0
+2020-07-11,Rio Blanco,Colorado,08103,6,0,0,0
+2020-07-11,Rio Grande,Colorado,08105,80,0,2,0
+2020-07-11,Routt,Colorado,08107,81,0,6,0
+2020-07-11,Saguache,Colorado,08109,103,0,2,0
+2020-07-11,San Juan,Colorado,08111,2,0,0,0
+2020-07-11,San Miguel,Colorado,08113,48,3,0,0
+2020-07-11,Summit,Colorado,08117,293,-1,4,0
+2020-07-11,Teller,Colorado,08119,60,1,2,0
+2020-07-11,Washington,Colorado,08121,46,0,0,0
+2020-07-11,Weld,Colorado,08123,2988,1,138,0
+2020-07-11,Yuma,Colorado,08125,54,0,0,0
