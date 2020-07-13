@@ -128,6 +128,12 @@ async function parseCtStates() {
 async function buildStateFiles() {
   // Parse US data first
   const [nytUsData, ctUsData] = await Promise.all([parseNytUs(), parseCtUs()]);
+  if (nytUsData.length < 10) {
+    throw new Error('Found less than 10 rows in NYT US data – bailing out.');
+  }
+  if (ctUsData.length < 10) {
+    throw new Error('Found less than 10 rows in Covid Tracker US data – bailing out.');
+  }
 
   // Add fips: '00' to ctUsData to keep matching code consistent
   ctUsData.forEach((row: any) => {
@@ -136,6 +142,12 @@ async function buildStateFiles() {
 
   // Then parse state-level data
   const [nytStateData, ctStateData] = await Promise.all([parseNytStates(), parseCtStates()]);
+  if (nytStateData.length < 10) {
+    throw new Error('Found less than 10 rows in NYT states data – bailing out.');
+  }
+  if (ctStateData.length < 10) {
+    throw new Error('Found less than 10 rows in Covid Tracker states data – bailing out.');
+  }
 
   // Remove existing files
   try {
@@ -194,6 +206,10 @@ async function buildCountyFiles() {
 
   const columns = ['date', 'county', 'state', 'fips', 'cases', 'newCases', 'deaths', 'newDeaths'];
 
+  const numStates = Object.keys(groupedByStateFips).length;
+  if (numStates < 50) {
+    throw new Error('Found less than 50 states with data, something is wrong – bailing out.');
+  }
   for (const fips in groupedByStateFips) {
     const rows = groupedByStateFips[fips];
     const safeFips = fips.replace(/\D/g, '');
@@ -220,6 +236,7 @@ function writeCsvFile(rows: any[], columns: string[], filePath: string) {
         return;
       }
       fs.writeFileSync(path.resolve(__dirname, filePath), output);
+      console.log(`Wrote ${filePath} (${rows.length} rows)`);
       resolve();
     });
   });
