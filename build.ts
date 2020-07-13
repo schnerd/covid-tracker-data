@@ -5,6 +5,7 @@ import csv from 'csv';
 import fs from 'fs';
 import path from 'path';
 import moment from 'moment';
+import mkdirp from 'mkdirp';
 
 const startTime = moment();
 
@@ -280,6 +281,9 @@ function coerceNumber(value: unknown) {
 
 async function clearDir(directory: string) {
   return new Promise((resolve, reject) => {
+    if (!fs.existsSync(directory)) {
+      mkdirp.sync(directory);
+    }
     fs.readdir(directory, (err, files) => {
       if (err) {
         reject(err);

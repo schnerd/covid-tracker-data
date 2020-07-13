@@ -1,0 +1,452 @@
+date,county,state,fips,cases,newCases,deaths,newDeaths
+2020-03-11,New Castle,Delaware,10003,1,1,0,0
+2020-03-12,New Castle,Delaware,10003,4,3,0,0
+2020-03-13,New Castle,Delaware,10003,4,0,0,0
+2020-03-14,New Castle,Delaware,10003,4,0,0,0
+2020-03-15,New Castle,Delaware,10003,7,3,0,0
+2020-03-16,New Castle,Delaware,10003,8,1,0,0
+2020-03-17,New Castle,Delaware,10003,15,7,0,0
+2020-03-17,Sussex,Delaware,10005,1,1,0,0
+2020-03-18,Kent,Delaware,10001,3,3,0,0
+2020-03-18,New Castle,Delaware,10003,20,5,0,0
+2020-03-18,Sussex,Delaware,10005,3,2,0,0
+2020-03-19,Kent,Delaware,10001,4,1,0,0
+2020-03-19,New Castle,Delaware,10003,23,3,0,0
+2020-03-19,Sussex,Delaware,10005,3,0,0,0
+2020-03-20,Kent,Delaware,10001,4,0,0,0
+2020-03-20,New Castle,Delaware,10003,28,5,0,0
+2020-03-20,Sussex,Delaware,10005,7,4,0,0
+2020-03-21,Kent,Delaware,10001,5,1,0,0
+2020-03-21,New Castle,Delaware,10003,32,4,0,0
+2020-03-21,Sussex,Delaware,10005,8,1,0,0
+2020-03-22,Kent,Delaware,10001,5,0,0,0
+2020-03-22,New Castle,Delaware,10003,39,7,0,0
+2020-03-22,Sussex,Delaware,10005,12,4,0,0
+2020-03-23,Kent,Delaware,10001,9,4,0,0
+2020-03-23,New Castle,Delaware,10003,58,19,0,0
+2020-03-23,Sussex,Delaware,10005,20,8,0,0
+2020-03-24,Kent,Delaware,10001,10,1,0,0
+2020-03-24,New Castle,Delaware,10003,71,13,0,0
+2020-03-24,Sussex,Delaware,10005,23,3,0,0
+2020-03-25,Kent,Delaware,10001,14,4,0,0
+2020-03-25,New Castle,Delaware,10003,79,8,0,0
+2020-03-25,Sussex,Delaware,10005,26,3,0,0
+2020-03-26,Kent,Delaware,10001,19,5,0,0
+2020-03-26,New Castle,Delaware,10003,91,12,0,0
+2020-03-26,Sussex,Delaware,10005,33,7,1,1
+2020-03-27,Kent,Delaware,10001,21,2,0,0
+2020-03-27,New Castle,Delaware,10003,106,15,1,1
+2020-03-27,Sussex,Delaware,10005,38,5,1,0
+2020-03-28,Kent,Delaware,10001,25,4,2,2
+2020-03-28,New Castle,Delaware,10003,130,24,2,1
+2020-03-28,Sussex,Delaware,10005,59,21,1,0
+2020-03-29,Kent,Delaware,10001,25,0,2,0
+2020-03-29,New Castle,Delaware,10003,141,11,3,1
+2020-03-29,Sussex,Delaware,10005,66,7,1,0
+2020-03-30,Kent,Delaware,10001,27,2,2,0
+2020-03-30,New Castle,Delaware,10003,156,15,3,0
+2020-03-30,Sussex,Delaware,10005,81,15,2,1
+2020-03-31,Kent,Delaware,10001,34,7,2,0
+2020-03-31,New Castle,Delaware,10003,197,41,6,3
+2020-03-31,Sussex,Delaware,10005,88,7,2,0
+2020-04-01,Kent,Delaware,10001,41,7,2,0
+2020-04-01,New Castle,Delaware,10003,226,29,6,0
+2020-04-01,Sussex,Delaware,10005,101,13,3,1
+2020-04-02,Kent,Delaware,10001,43,2,2,0
+2020-04-02,New Castle,Delaware,10003,245,19,7,1
+2020-04-02,Sussex,Delaware,10005,105,4,3,0
+2020-04-03,Kent,Delaware,10001,54,11,2,0
+2020-04-03,New Castle,Delaware,10003,279,34,9,2
+2020-04-03,Sussex,Delaware,10005,117,12,3,0
+2020-04-04,Kent,Delaware,10001,68,14,2,0
+2020-04-04,New Castle,Delaware,10003,400,121,9,0
+2020-04-04,Sussex,Delaware,10005,125,8,3,0
+2020-04-05,Kent,Delaware,10001,86,18,2,0
+2020-04-05,New Castle,Delaware,10003,436,36,9,0
+2020-04-05,Sussex,Delaware,10005,151,26,3,0
+2020-04-06,Kent,Delaware,10001,128,42,3,1
+2020-04-06,New Castle,Delaware,10003,496,60,9,0
+2020-04-06,Sussex,Delaware,10005,159,8,3,0
+2020-04-07,Kent,Delaware,10001,147,19,3,0
+2020-04-07,New Castle,Delaware,10003,571,75,9,0
+2020-04-07,Sussex,Delaware,10005,210,51,4,1
+2020-04-08,Kent,Delaware,10001,201,54,3,0
+2020-04-08,New Castle,Delaware,10003,636,65,11,2
+2020-04-08,Sussex,Delaware,10005,279,69,5,1
+2020-04-09,Kent,Delaware,10001,214,13,3,0
+2020-04-09,New Castle,Delaware,10003,701,65,13,2
+2020-04-09,Sussex,Delaware,10005,294,15,7,2
+2020-04-10,Kent,Delaware,10001,230,16,3,0
+2020-04-10,New Castle,Delaware,10003,751,50,19,6
+2020-04-10,Sussex,Delaware,10005,336,42,10,3
+2020-04-10,Unknown,Delaware,,9,9,0,0
+2020-04-11,Kent,Delaware,10001,255,25,4,1
+2020-04-11,New Castle,Delaware,10003,807,56,19,0
+2020-04-11,Sussex,Delaware,10005,404,68,10,0
+2020-04-11,Unknown,Delaware,,13,4,0,0
+2020-04-12,Kent,Delaware,10001,281,26,4,0
+2020-04-12,New Castle,Delaware,10003,880,73,19,0
+2020-04-12,Sussex,Delaware,10005,464,60,12,2
+2020-04-13,Kent,Delaware,10001,288,7,6,2
+2020-04-13,New Castle,Delaware,10003,919,39,20,1
+2020-04-13,Sussex,Delaware,10005,551,87,15,3
+2020-04-13,Unknown,Delaware,,3,-10,0,0
+2020-04-14,Kent,Delaware,10001,329,41,7,1
+2020-04-14,New Castle,Delaware,10003,947,28,20,0
+2020-04-14,Sussex,Delaware,10005,639,88,16,1
+2020-04-14,Unknown,Delaware,,11,8,0,0
+2020-04-15,Kent,Delaware,10001,345,16,8,1
+2020-04-15,New Castle,Delaware,10003,974,27,21,1
+2020-04-15,Sussex,Delaware,10005,678,39,17,1
+2020-04-15,Unknown,Delaware,,17,6,0,0
+2020-04-16,Kent,Delaware,10001,352,7,9,1
+2020-04-16,New Castle,Delaware,10003,1003,29,25,4
+2020-04-16,Sussex,Delaware,10005,698,20,18,1
+2020-04-16,Unknown,Delaware,,22,5,0,0
+2020-04-17,Kent,Delaware,10001,384,32,9,0
+2020-04-17,New Castle,Delaware,10003,1100,97,30,5
+2020-04-17,Sussex,Delaware,10005,811,113,22,4
+2020-04-17,Unknown,Delaware,,28,6,0,0
+2020-04-18,Kent,Delaware,10001,417,33,10,1
+2020-04-18,New Castle,Delaware,10003,1205,105,32,2
+2020-04-18,Sussex,Delaware,10005,886,75,25,3
+2020-04-18,Unknown,Delaware,,30,2,0,0
+2020-04-19,Kent,Delaware,10001,417,0,10,0
+2020-04-19,New Castle,Delaware,10003,1205,0,32,0
+2020-04-19,Sussex,Delaware,10005,886,0,25,0
+2020-04-19,Unknown,Delaware,,30,0,0,0
+2020-04-20,Kent,Delaware,10001,430,13,13,3
+2020-04-20,New Castle,Delaware,10003,1229,24,33,1
+2020-04-20,Sussex,Delaware,10005,1055,169,26,1
+2020-04-20,Unknown,Delaware,,31,1,0,0
+2020-04-21,Kent,Delaware,10001,459,29,14,1
+2020-04-21,New Castle,Delaware,10003,1303,74,36,3
+2020-04-21,Sussex,Delaware,10005,1139,84,32,6
+2020-04-21,Unknown,Delaware,,30,-1,0,0
+2020-04-22,Kent,Delaware,10001,503,44,15,1
+2020-04-22,New Castle,Delaware,10003,1352,49,38,2
+2020-04-22,Sussex,Delaware,10005,1317,178,36,4
+2020-04-22,Unknown,Delaware,,28,-2,0,0
+2020-04-23,Kent,Delaware,10001,539,36,15,0
+2020-04-23,New Castle,Delaware,10003,1389,37,40,2
+2020-04-23,Sussex,Delaware,10005,1377,60,37,1
+2020-04-23,Unknown,Delaware,,3,-25,0,0
+2020-04-24,Kent,Delaware,10001,558,19,15,0
+2020-04-24,New Castle,Delaware,10003,1486,97,45,5
+2020-04-24,Sussex,Delaware,10005,1394,17,40,3
+2020-04-24,Unknown,Delaware,,4,1,0,0
+2020-04-25,Kent,Delaware,10001,579,21,18,3
+2020-04-25,New Castle,Delaware,10003,1504,18,52,7
+2020-04-25,Sussex,Delaware,10005,1490,96,42,2
+2020-04-25,Unknown,Delaware,,3,-1,0,0
+2020-04-26,Kent,Delaware,10001,625,46,22,4
+2020-04-26,New Castle,Delaware,10003,1599,95,55,3
+2020-04-26,Sussex,Delaware,10005,1801,311,43,1
+2020-04-26,Unknown,Delaware,,9,6,0,0
+2020-04-27,Kent,Delaware,10001,652,27,23,1
+2020-04-27,New Castle,Delaware,10003,1629,30,57,2
+2020-04-27,Sussex,Delaware,10005,1870,69,45,2
+2020-04-27,Unknown,Delaware,,11,2,0,0
+2020-04-28,Kent,Delaware,10001,728,76,23,0
+2020-04-28,New Castle,Delaware,10003,1701,72,63,6
+2020-04-28,Sussex,Delaware,10005,2114,244,51,6
+2020-04-28,Unknown,Delaware,,32,21,0,0
+2020-04-29,Kent,Delaware,10001,743,15,25,2
+2020-04-29,New Castle,Delaware,10003,1717,16,65,2
+2020-04-29,Sussex,Delaware,10005,2169,55,54,3
+2020-04-29,Unknown,Delaware,,26,-6,0,0
+2020-04-30,Kent,Delaware,10001,759,16,26,1
+2020-04-30,New Castle,Delaware,10003,1734,17,68,3
+2020-04-30,Sussex,Delaware,10005,2216,47,58,4
+2020-04-30,Unknown,Delaware,,25,-1,0,0
+2020-05-01,Kent,Delaware,10001,773,14,27,1
+2020-05-01,New Castle,Delaware,10003,1829,95,70,2
+2020-05-01,Sussex,Delaware,10005,2292,76,62,4
+2020-05-01,Unknown,Delaware,,24,-1,0,0
+2020-05-02,Kent,Delaware,10001,793,20,29,2
+2020-05-02,New Castle,Delaware,10003,1864,35,76,6
+2020-05-02,Sussex,Delaware,10005,2359,67,63,1
+2020-05-02,Unknown,Delaware,,22,-2,0,0
+2020-05-03,Kent,Delaware,10001,821,28,30,1
+2020-05-03,New Castle,Delaware,10003,1903,39,79,3
+2020-05-03,Sussex,Delaware,10005,2461,102,68,5
+2020-05-03,Unknown,Delaware,,23,1,0,0
+2020-05-04,Kent,Delaware,10001,833,12,30,0
+2020-05-04,New Castle,Delaware,10003,1934,31,82,3
+2020-05-04,Sussex,Delaware,10005,2497,36,70,2
+2020-05-04,Unknown,Delaware,,24,1,0,0
+2020-05-05,Kent,Delaware,10001,847,14,32,2
+2020-05-05,New Castle,Delaware,10003,1979,45,83,1
+2020-05-05,Sussex,Delaware,10005,2520,23,72,2
+2020-05-05,Unknown,Delaware,,25,1,0,0
+2020-05-06,Kent,Delaware,10001,891,44,33,1
+2020-05-06,New Castle,Delaware,10003,2087,108,85,2
+2020-05-06,Sussex,Delaware,10005,2764,244,75,3
+2020-05-06,Unknown,Delaware,,36,11,0,0
+2020-05-07,Kent,Delaware,10001,945,54,34,1
+2020-05-07,New Castle,Delaware,10003,2130,43,89,4
+2020-05-07,Sussex,Delaware,10005,2834,70,79,4
+2020-05-07,Unknown,Delaware,,30,-6,0,0
+2020-05-08,Kent,Delaware,10001,963,18,36,2
+2020-05-08,New Castle,Delaware,10003,2184,54,91,2
+2020-05-08,Sussex,Delaware,10005,2936,102,86,7
+2020-05-09,Kent,Delaware,10001,985,22,38,2
+2020-05-09,New Castle,Delaware,10003,2275,91,93,2
+2020-05-09,Sussex,Delaware,10005,2990,54,90,4
+2020-05-09,Unknown,Delaware,,27,-3,0,0
+2020-05-10,Kent,Delaware,10001,1016,31,38,0
+2020-05-10,New Castle,Delaware,10003,2331,56,95,2
+2020-05-10,Sussex,Delaware,10005,3059,69,91,1
+2020-05-10,Unknown,Delaware,,41,14,0,0
+2020-05-11,Kent,Delaware,10001,1044,28,39,1
+2020-05-11,New Castle,Delaware,10003,2390,59,95,0
+2020-05-11,Sussex,Delaware,10005,3091,32,91,0
+2020-05-11,Unknown,Delaware,,40,-1,0,0
+2020-05-12,Kent,Delaware,10001,1060,16,43,4
+2020-05-12,New Castle,Delaware,10003,2440,50,100,5
+2020-05-12,Sussex,Delaware,10005,3205,114,93,2
+2020-05-12,Unknown,Delaware,,36,-4,1,1
+2020-05-13,Kent,Delaware,10001,1084,24,45,2
+2020-05-13,New Castle,Delaware,10003,2496,56,102,2
+2020-05-13,Sussex,Delaware,10005,3336,131,99,6
+2020-05-13,Unknown,Delaware,,36,0,1,0
+2020-05-14,Kent,Delaware,10001,1115,31,46,1
+2020-05-14,New Castle,Delaware,10003,2560,64,108,6
+2020-05-14,Sussex,Delaware,10005,3503,167,105,6
+2020-05-14,Unknown,Delaware,,45,9,1,0
+2020-05-15,Kent,Delaware,10001,1146,31,48,2
+2020-05-15,New Castle,Delaware,10003,2619,59,114,6
+2020-05-15,Sussex,Delaware,10005,3565,62,108,3
+2020-05-15,Unknown,Delaware,,43,-2,1,0
+2020-05-16,Kent,Delaware,10001,1176,30,52,4
+2020-05-16,New Castle,Delaware,10003,2667,48,121,7
+2020-05-16,Sussex,Delaware,10005,3658,93,112,4
+2020-05-16,Unknown,Delaware,,46,3,1,0
+2020-05-17,Kent,Delaware,10001,1197,21,52,0
+2020-05-17,New Castle,Delaware,10003,2682,15,124,3
+2020-05-17,Sussex,Delaware,10005,3739,81,113,1
+2020-05-17,Unknown,Delaware,,52,6,1,0
+2020-05-18,Kent,Delaware,10001,1219,22,52,0
+2020-05-18,New Castle,Delaware,10003,2738,56,130,6
+2020-05-18,Sussex,Delaware,10005,3861,122,114,1
+2020-05-18,Unknown,Delaware,,51,-1,1,0
+2020-05-19,Kent,Delaware,10001,1238,19,53,1
+2020-05-19,New Castle,Delaware,10003,2845,107,135,5
+2020-05-19,Sussex,Delaware,10005,3904,43,115,1
+2020-05-19,Unknown,Delaware,,50,-1,1,0
+2020-05-20,Kent,Delaware,10001,1253,15,55,2
+2020-05-20,New Castle,Delaware,10003,2933,88,138,3
+2020-05-20,Sussex,Delaware,10005,3960,56,116,1
+2020-05-20,Unknown,Delaware,,48,-2,1,0
+2020-05-21,Kent,Delaware,10001,1281,28,55,0
+2020-05-21,New Castle,Delaware,10003,3053,120,144,6
+2020-05-21,Sussex,Delaware,10005,4006,46,117,1
+2020-05-21,Unknown,Delaware,,46,-2,1,0
+2020-05-22,Kent,Delaware,10001,1296,15,56,1
+2020-05-22,New Castle,Delaware,10003,3132,79,146,2
+2020-05-22,Sussex,Delaware,10005,4048,42,119,2
+2020-05-22,Unknown,Delaware,,53,7,1,0
+2020-05-23,Kent,Delaware,10001,1315,19,56,0
+2020-05-23,New Castle,Delaware,10003,3238,106,147,1
+2020-05-23,Sussex,Delaware,10005,4084,36,120,1
+2020-05-23,Unknown,Delaware,,53,0,1,0
+2020-05-24,Kent,Delaware,10001,1340,25,56,0
+2020-05-24,New Castle,Delaware,10003,3309,71,148,1
+2020-05-24,Sussex,Delaware,10005,4103,19,121,1
+2020-05-24,Unknown,Delaware,,57,4,1,0
+2020-05-25,Kent,Delaware,10001,1356,16,56,0
+2020-05-25,New Castle,Delaware,10003,3436,127,149,1
+2020-05-25,Sussex,Delaware,10005,4118,15,126,5
+2020-05-25,Unknown,Delaware,,55,-2,1,0
+2020-05-26,Kent,Delaware,10001,1368,12,57,1
+2020-05-26,New Castle,Delaware,10003,3508,72,150,1
+2020-05-26,Sussex,Delaware,10005,4132,14,128,2
+2020-05-26,Unknown,Delaware,,58,3,0,-1
+2020-05-27,Kent,Delaware,10001,1374,6,61,4
+2020-05-27,New Castle,Delaware,10003,3528,20,155,5
+2020-05-27,Sussex,Delaware,10005,4140,8,128,0
+2020-05-27,Unknown,Delaware,,54,-4,0,0
+2020-05-28,Kent,Delaware,10001,1392,18,61,0
+2020-05-28,New Castle,Delaware,10003,3575,47,155,0
+2020-05-28,Sussex,Delaware,10005,4151,11,129,1
+2020-05-28,Unknown,Delaware,,53,-1,0,0
+2020-05-29,Kent,Delaware,10001,1401,9,62,1
+2020-05-29,New Castle,Delaware,10003,3629,54,163,8
+2020-05-29,Sussex,Delaware,10005,4155,4,131,2
+2020-05-29,Unknown,Delaware,,51,-2,0,0
+2020-05-30,Kent,Delaware,10001,1432,31,63,1
+2020-05-30,New Castle,Delaware,10003,3723,94,166,3
+2020-05-30,Sussex,Delaware,10005,4215,60,132,1
+2020-05-30,Unknown,Delaware,,52,1,0,0
+2020-05-31,Kent,Delaware,10001,1436,4,63,0
+2020-05-31,New Castle,Delaware,10003,3758,35,170,4
+2020-05-31,Sussex,Delaware,10005,4253,38,133,1
+2020-05-31,Unknown,Delaware,,51,-1,0,0
+2020-06-01,Kent,Delaware,10001,1440,4,63,0
+2020-06-01,New Castle,Delaware,10003,3838,80,172,2
+2020-06-01,Sussex,Delaware,10005,4272,19,133,0
+2020-06-01,Unknown,Delaware,,55,4,0,0
+2020-06-02,Kent,Delaware,10001,1450,10,66,3
+2020-06-02,New Castle,Delaware,10003,3883,45,172,0
+2020-06-02,Sussex,Delaware,10005,4299,27,135,2
+2020-06-02,Unknown,Delaware,,53,-2,0,0
+2020-06-03,Kent,Delaware,10001,1451,1,66,0
+2020-06-03,New Castle,Delaware,10003,3903,20,173,1
+2020-06-03,Sussex,Delaware,10005,4305,6,136,1
+2020-06-03,Unknown,Delaware,,53,0,0,0
+2020-06-04,Kent,Delaware,10001,1454,3,69,3
+2020-06-04,New Castle,Delaware,10003,3925,22,173,0
+2020-06-04,Sussex,Delaware,10005,4314,9,143,7
+2020-06-04,Unknown,Delaware,,53,0,1,1
+2020-06-05,Kent,Delaware,10001,1465,11,71,2
+2020-06-05,New Castle,Delaware,10003,3937,12,173,0
+2020-06-05,Sussex,Delaware,10005,4322,8,144,1
+2020-06-05,Unknown,Delaware,,49,-4,0,-1
+2020-06-06,Kent,Delaware,10001,1496,31,72,1
+2020-06-06,New Castle,Delaware,10003,3995,58,174,1
+2020-06-06,Sussex,Delaware,10005,4342,20,144,0
+2020-06-06,Unknown,Delaware,,12,-37,0,0
+2020-06-07,Kent,Delaware,10001,1511,15,76,4
+2020-06-07,New Castle,Delaware,10003,4070,75,176,2
+2020-06-07,Sussex,Delaware,10005,4346,4,146,2
+2020-06-07,Unknown,Delaware,,15,3,0,0
+2020-06-08,Kent,Delaware,10001,1513,2,76,0
+2020-06-08,New Castle,Delaware,10003,4095,25,176,0
+2020-06-08,Sussex,Delaware,10005,4353,7,146,0
+2020-06-08,Unknown,Delaware,,11,-4,0,0
+2020-06-09,Kent,Delaware,10001,1522,9,76,0
+2020-06-09,New Castle,Delaware,10003,4125,30,185,9
+2020-06-09,Sussex,Delaware,10005,4361,8,149,3
+2020-06-09,Unknown,Delaware,,12,1,0,0
+2020-06-10,Kent,Delaware,10001,1530,8,78,2
+2020-06-10,New Castle,Delaware,10003,4139,14,186,1
+2020-06-10,Sussex,Delaware,10005,4373,12,149,0
+2020-06-10,Unknown,Delaware,,14,2,0,0
+2020-06-11,Kent,Delaware,10001,1543,13,79,1
+2020-06-11,New Castle,Delaware,10003,4171,32,186,0
+2020-06-11,Sussex,Delaware,10005,4379,6,149,0
+2020-06-11,Unknown,Delaware,,13,-1,0,0
+2020-06-12,Kent,Delaware,10001,1544,1,79,0
+2020-06-12,New Castle,Delaware,10003,4224,53,186,0
+2020-06-12,Sussex,Delaware,10005,4389,10,149,0
+2020-06-12,Unknown,Delaware,,16,3,0,0
+2020-06-13,Kent,Delaware,10001,1554,10,82,3
+2020-06-13,New Castle,Delaware,10003,4259,35,187,1
+2020-06-13,Sussex,Delaware,10005,4401,12,150,1
+2020-06-13,Unknown,Delaware,,15,-1,0,0
+2020-06-14,Kent,Delaware,10001,1557,3,83,1
+2020-06-14,New Castle,Delaware,10003,4287,28,189,2
+2020-06-14,Sussex,Delaware,10005,4406,5,150,0
+2020-06-14,Unknown,Delaware,,14,-1,0,0
+2020-06-15,Kent,Delaware,10001,1565,8,83,0
+2020-06-15,New Castle,Delaware,10003,4345,58,190,1
+2020-06-15,Sussex,Delaware,10005,4416,10,150,0
+2020-06-15,Unknown,Delaware,,14,0,0,0
+2020-06-16,Kent,Delaware,10001,1573,8,84,1
+2020-06-16,New Castle,Delaware,10003,4386,41,190,0
+2020-06-16,Sussex,Delaware,10005,4428,12,150,0
+2020-06-16,Unknown,Delaware,,16,2,0,0
+2020-06-17,Kent,Delaware,10001,1579,6,84,0
+2020-06-17,New Castle,Delaware,10003,4422,36,191,1
+2020-06-17,Sussex,Delaware,10005,4429,1,151,1
+2020-06-17,Unknown,Delaware,,14,-2,0,0
+2020-06-18,Kent,Delaware,10001,1584,5,84,0
+2020-06-18,New Castle,Delaware,10003,4470,48,195,4
+2020-06-18,Sussex,Delaware,10005,4431,2,152,1
+2020-06-18,Unknown,Delaware,,14,0,0,0
+2020-06-19,Kent,Delaware,10001,1602,18,84,0
+2020-06-19,New Castle,Delaware,10003,4522,52,196,1
+2020-06-19,Sussex,Delaware,10005,4470,39,153,1
+2020-06-19,Unknown,Delaware,,17,3,0,0
+2020-06-20,Kent,Delaware,10001,1606,4,84,0
+2020-06-20,New Castle,Delaware,10003,4569,47,197,1
+2020-06-20,Sussex,Delaware,10005,4487,17,153,0
+2020-06-20,Unknown,Delaware,,19,2,0,0
+2020-06-21,Kent,Delaware,10001,1613,7,84,0
+2020-06-21,New Castle,Delaware,10003,4647,78,197,0
+2020-06-21,Sussex,Delaware,10005,4495,8,154,1
+2020-06-21,Unknown,Delaware,,20,1,0,0
+2020-06-22,Kent,Delaware,10001,1620,7,84,0
+2020-06-22,New Castle,Delaware,10003,4682,35,197,0
+2020-06-22,Sussex,Delaware,10005,4501,6,154,0
+2020-06-22,Unknown,Delaware,,17,-3,0,0
+2020-06-23,Kent,Delaware,10001,1624,4,89,5
+2020-06-23,New Castle,Delaware,10003,4697,15,239,42
+2020-06-23,Sussex,Delaware,10005,4509,8,176,22
+2020-06-23,Unknown,Delaware,,17,0,0,0
+2020-06-24,Kent,Delaware,10001,1628,4,89,0
+2020-06-24,New Castle,Delaware,10003,4720,23,240,1
+2020-06-24,Sussex,Delaware,10005,4522,13,176,0
+2020-06-24,Unknown,Delaware,,19,2,0,0
+2020-06-25,Kent,Delaware,10001,1630,2,89,0
+2020-06-25,New Castle,Delaware,10003,4791,71,242,2
+2020-06-25,Sussex,Delaware,10005,4538,16,176,0
+2020-06-25,Unknown,Delaware,,21,2,0,0
+2020-06-26,Kent,Delaware,10001,1635,5,89,0
+2020-06-26,New Castle,Delaware,10003,4840,49,242,0
+2020-06-26,Sussex,Delaware,10005,4519,-19,176,0
+2020-06-26,Unknown,Delaware,,23,2,0,0
+2020-06-27,Kent,Delaware,10001,1652,17,89,0
+2020-06-27,New Castle,Delaware,10003,4871,31,242,0
+2020-06-27,Sussex,Delaware,10005,4542,23,176,0
+2020-06-27,Unknown,Delaware,,26,3,0,0
+2020-06-28,Kent,Delaware,10001,1663,11,89,0
+2020-06-28,New Castle,Delaware,10003,4925,54,242,0
+2020-06-28,Sussex,Delaware,10005,4608,66,176,0
+2020-06-28,Unknown,Delaware,,30,4,0,0
+2020-06-29,Kent,Delaware,10001,1672,9,89,0
+2020-06-29,New Castle,Delaware,10003,5031,106,242,0
+2020-06-29,Sussex,Delaware,10005,4637,29,176,0
+2020-06-29,Unknown,Delaware,,36,6,0,0
+2020-06-30,Kent,Delaware,10001,1690,18,89,0
+2020-06-30,New Castle,Delaware,10003,5065,34,244,2
+2020-06-30,Sussex,Delaware,10005,4681,44,176,0
+2020-06-30,Unknown,Delaware,,38,2,0,0
+2020-07-01,Kent,Delaware,10001,1699,9,90,1
+2020-07-01,New Castle,Delaware,10003,5079,14,243,-1
+2020-07-01,Sussex,Delaware,10005,4690,9,176,0
+2020-07-01,Unknown,Delaware,,42,4,0,0
+2020-07-02,Kent,Delaware,10001,1716,17,90,0
+2020-07-02,New Castle,Delaware,10003,5183,104,245,2
+2020-07-02,Sussex,Delaware,10005,4779,89,175,-1
+2020-07-02,Unknown,Delaware,,53,11,0,0
+2020-07-03,Kent,Delaware,10001,1730,14,92,2
+2020-07-03,New Castle,Delaware,10003,5277,94,245,0
+2020-07-03,Sussex,Delaware,10005,4847,68,175,0
+2020-07-03,Unknown,Delaware,,69,16,0,0
+2020-07-04,Kent,Delaware,10001,1735,5,92,0
+2020-07-04,New Castle,Delaware,10003,5334,57,245,0
+2020-07-04,Sussex,Delaware,10005,4854,7,175,0
+2020-07-04,Unknown,Delaware,,73,4,0,0
+2020-07-05,Kent,Delaware,10001,1746,11,92,0
+2020-07-05,New Castle,Delaware,10003,5398,64,245,0
+2020-07-05,Sussex,Delaware,10005,4903,49,175,0
+2020-07-05,Unknown,Delaware,,81,8,0,0
+2020-07-06,Kent,Delaware,10001,1761,15,92,0
+2020-07-06,New Castle,Delaware,10003,5489,91,245,0
+2020-07-06,Sussex,Delaware,10005,4952,49,175,0
+2020-07-06,Unknown,Delaware,,91,10,0,0
+2020-07-07,Kent,Delaware,10001,1784,23,92,0
+2020-07-07,New Castle,Delaware,10003,5555,66,247,2
+2020-07-07,Sussex,Delaware,10005,4977,25,175,0
+2020-07-07,Unknown,Delaware,,98,7,0,0
+2020-07-08,Kent,Delaware,10001,1790,6,92,0
+2020-07-08,New Castle,Delaware,10003,5583,28,248,1
+2020-07-08,Sussex,Delaware,10005,4988,11,175,0
+2020-07-08,Unknown,Delaware,,101,3,0,0
+2020-07-09,Kent,Delaware,10001,1795,5,92,0
+2020-07-09,New Castle,Delaware,10003,5626,43,249,1
+2020-07-09,Sussex,Delaware,10005,5008,20,176,1
+2020-07-09,Unknown,Delaware,,102,1,0,0
+2020-07-10,Kent,Delaware,10001,1815,20,92,0
+2020-07-10,New Castle,Delaware,10003,5688,62,249,0
+2020-07-10,Sussex,Delaware,10005,5045,37,176,0
+2020-07-10,Unknown,Delaware,,104,2,0,0
+2020-07-11,Kent,Delaware,10001,1829,14,92,0
+2020-07-11,New Castle,Delaware,10003,5732,44,249,0
+2020-07-11,Sussex,Delaware,10005,5076,31,176,0
+2020-07-11,Unknown,Delaware,,106,2,0,0
+2020-07-12,Kent,Delaware,10001,1848,19,92,0
+2020-07-12,New Castle,Delaware,10003,5759,27,249,0
+2020-07-12,Sussex,Delaware,10005,5093,17,176,0
+2020-07-12,Unknown,Delaware,,104,-2,0,0
