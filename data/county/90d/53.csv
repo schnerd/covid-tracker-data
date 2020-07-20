@@ -1,43 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-04-12,Adams,Washington,53001,37,1,0,0
-2020-04-12,Asotin,Washington,53003,5,0,0,0
-2020-04-12,Benton,Washington,53005,250,4,28,2
-2020-04-12,Chelan,Washington,53007,55,1,6,0
-2020-04-12,Clallam,Washington,53009,12,0,0,0
-2020-04-12,Clark,Washington,53011,220,0,14,0
-2020-04-12,Columbia,Washington,53013,1,0,0,0
-2020-04-12,Cowlitz,Washington,53015,23,0,0,0
-2020-04-12,Douglas,Washington,53017,18,2,0,0
-2020-04-12,Ferry,Washington,53019,1,0,0,0
-2020-04-12,Franklin,Washington,53021,120,8,2,0
-2020-04-12,Grant,Washington,53025,119,8,2,0
-2020-04-12,Grays Harbor,Washington,53027,11,0,0,0
-2020-04-12,Island,Washington,53029,158,1,7,0
-2020-04-12,Jefferson,Washington,53031,28,0,0,0
-2020-04-12,King,Washington,53033,4428,164,294,8
-2020-04-12,Kitsap,Washington,53035,132,0,1,0
-2020-04-12,Kittitas,Washington,53037,15,0,0,0
-2020-04-12,Klickitat,Washington,53039,14,2,1,0
-2020-04-12,Lewis,Washington,53041,18,0,2,0
-2020-04-12,Lincoln,Washington,53043,2,0,0,0
-2020-04-12,Mason,Washington,53045,19,0,0,0
-2020-04-12,Okanogan,Washington,53047,14,0,0,0
-2020-04-12,Pacific,Washington,53049,1,0,0,0
-2020-04-12,Pend Oreille,Washington,53051,1,0,0,0
-2020-04-12,Pierce,Washington,53053,940,9,20,1
-2020-04-12,San Juan,Washington,53055,13,0,0,0
-2020-04-12,Skagit,Washington,53057,191,4,6,0
-2020-04-12,Skamania,Washington,53059,3,0,0,0
-2020-04-12,Snohomish,Washington,53061,1866,32,69,2
-2020-04-12,Spokane,Washington,53063,278,23,14,0
-2020-04-12,Stevens,Washington,53065,7,1,0,0
-2020-04-12,Thurston,Washington,53067,81,0,1,0
-2020-04-12,Unknown,Washington,,499,-84,0,0
-2020-04-12,Wahkiakum,Washington,53069,2,0,0,0
-2020-04-12,Walla Walla,Washington,53071,21,0,0,0
-2020-04-12,Whatcom,Washington,53073,263,11,23,0
-2020-04-12,Whitman,Washington,53075,13,0,0,0
-2020-04-12,Yakima,Washington,53077,535,0,21,0
 2020-04-13,Adams,Washington,53001,39,2,0,0
 2020-04-13,Asotin,Washington,53003,6,1,0,0
 2020-04-13,Benton,Washington,53005,261,11,29,1
@@ -3737,3 +3698,42 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-18,Whatcom,Washington,53073,772,12,43,0
 2020-07-18,Whitman,Washington,53075,62,4,0,0
 2020-07-18,Yakima,Washington,53077,9431,156,206,2
+2020-07-19,Adams,Washington,53001,296,8,0,0
+2020-07-19,Asotin,Washington,53003,21,0,2,0
+2020-07-19,Benton,Washington,53005,2895,0,102,1
+2020-07-19,Chelan,Washington,53007,732,31,7,0
+2020-07-19,Clallam,Washington,53009,68,-1,0,0
+2020-07-19,Clark,Washington,53011,1434,0,34,0
+2020-07-19,Columbia,Washington,53013,9,0,0,0
+2020-07-19,Cowlitz,Washington,53015,344,6,2,0
+2020-07-19,Douglas,Washington,53017,491,34,4,0
+2020-07-19,Ferry,Washington,53019,6,0,0,0
+2020-07-19,Franklin,Washington,53021,2784,0,42,0
+2020-07-19,Garfield,Washington,53023,2,0,0,0
+2020-07-19,Grant,Washington,53025,964,0,7,0
+2020-07-19,Grays Harbor,Washington,53027,65,-1,1,0
+2020-07-19,Island,Washington,53029,215,1,12,0
+2020-07-19,Jefferson,Washington,53031,50,0,0,0
+2020-07-19,King,Washington,53033,13161,168,656,-2
+2020-07-19,Kitsap,Washington,53035,389,27,2,0
+2020-07-19,Kittitas,Washington,53037,280,7,0,0
+2020-07-19,Klickitat,Washington,53039,82,1,3,0
+2020-07-19,Lewis,Washington,53041,127,7,3,0
+2020-07-19,Lincoln,Washington,53043,5,0,0,0
+2020-07-19,Mason,Washington,53045,77,2,1,0
+2020-07-19,Okanogan,Washington,53047,383,60,3,0
+2020-07-19,Pacific,Washington,53049,19,0,1,0
+2020-07-19,Pend Oreille,Washington,53051,23,5,0,0
+2020-07-19,Pierce,Washington,53053,4194,98,119,3
+2020-07-19,San Juan,Washington,53055,24,0,0,0
+2020-07-19,Skagit,Washington,53057,686,17,18,0
+2020-07-19,Skamania,Washington,53059,40,0,0,0
+2020-07-19,Snohomish,Washington,53061,4849,0,184,-1
+2020-07-19,Spokane,Washington,53063,2667,90,46,0
+2020-07-19,Stevens,Washington,53065,44,1,1,0
+2020-07-19,Thurston,Washington,53067,485,13,8,0
+2020-07-19,Wahkiakum,Washington,53069,5,0,0,0
+2020-07-19,Walla Walla,Washington,53071,294,12,3,0
+2020-07-19,Whatcom,Washington,53073,780,8,43,0
+2020-07-19,Whitman,Washington,53075,66,4,0,0
+2020-07-19,Yakima,Washington,53077,9545,114,208,2
