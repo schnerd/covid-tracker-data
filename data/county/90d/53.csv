@@ -1,42 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-04-24,Adams,Washington,53001,45,0,0,0
-2020-04-24,Asotin,Washington,53003,16,0,1,0
-2020-04-24,Benton,Washington,53005,383,18,38,0
-2020-04-24,Chelan,Washington,53007,92,0,6,0
-2020-04-24,Clallam,Washington,53009,14,0,0,0
-2020-04-24,Clark,Washington,53011,321,0,17,0
-2020-04-24,Columbia,Washington,53013,1,0,0,0
-2020-04-24,Cowlitz,Washington,53015,35,0,0,0
-2020-04-24,Douglas,Washington,53017,69,6,1,0
-2020-04-24,Ferry,Washington,53019,1,0,0,0
-2020-04-24,Franklin,Washington,53021,242,9,5,0
-2020-04-24,Grant,Washington,53025,154,0,2,0
-2020-04-24,Grays Harbor,Washington,53027,12,0,0,0
-2020-04-24,Island,Washington,53029,168,0,9,0
-2020-04-24,Jefferson,Washington,53031,28,0,0,0
-2020-04-24,King,Washington,53033,5691,120,393,7
-2020-04-24,Kitsap,Washington,53035,144,0,2,0
-2020-04-24,Kittitas,Washington,53037,14,0,0,0
-2020-04-24,Klickitat,Washington,53039,16,0,3,0
-2020-04-24,Lewis,Washington,53041,25,0,3,0
-2020-04-24,Lincoln,Washington,53043,2,0,0,0
-2020-04-24,Mason,Washington,53045,22,0,0,0
-2020-04-24,Okanogan,Washington,53047,18,0,1,0
-2020-04-24,Pacific,Washington,53049,4,0,0,0
-2020-04-24,Pend Oreille,Washington,53051,2,0,0,0
-2020-04-24,Pierce,Washington,53053,1370,27,47,3
-2020-04-24,San Juan,Washington,53055,14,0,0,0
-2020-04-24,Skagit,Washington,53057,283,2,10,0
-2020-04-24,Skamania,Washington,53059,3,0,0,0
-2020-04-24,Snohomish,Washington,53061,2267,28,102,3
-2020-04-24,Spokane,Washington,53063,330,4,19,0
-2020-04-24,Stevens,Washington,53065,9,0,1,0
-2020-04-24,Thurston,Washington,53067,98,2,1,0
-2020-04-24,Wahkiakum,Washington,53069,2,0,0,0
-2020-04-24,Walla Walla,Washington,53071,52,0,0,0
-2020-04-24,Whatcom,Washington,53073,282,0,27,0
-2020-04-24,Whitman,Washington,53075,16,0,0,0
-2020-04-24,Yakima,Washington,53077,952,0,43,1
 2020-04-25,Adams,Washington,53001,46,1,0,0
 2020-04-25,Asotin,Washington,53003,17,1,1,0
 2020-04-25,Benton,Washington,53005,399,16,38,0
@@ -3749,3 +3711,43 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-30,Whatcom,Washington,53073,904,15,48,0
 2020-07-30,Whitman,Washington,53075,89,4,1,0
 2020-07-30,Yakima,Washington,53077,10381,43,217,2
+2020-07-31,Adams,Washington,53001,374,0,3,0
+2020-07-31,Asotin,Washington,53003,24,0,2,0
+2020-07-31,Benton,Washington,53005,3636,32,110,0
+2020-07-31,Chelan,Washington,53007,1060,38,11,0
+2020-07-31,Clallam,Washington,53009,91,0,0,0
+2020-07-31,Clark,Washington,53011,1780,22,42,1
+2020-07-31,Columbia,Washington,53013,13,0,0,0
+2020-07-31,Cowlitz,Washington,53015,426,0,5,0
+2020-07-31,Douglas,Washington,53017,747,20,8,0
+2020-07-31,Ferry,Washington,53019,12,0,0,0
+2020-07-31,Franklin,Washington,53021,3386,39,47,0
+2020-07-31,Garfield,Washington,53023,2,0,0,0
+2020-07-31,Grant,Washington,53025,1281,25,11,0
+2020-07-31,Grays Harbor,Washington,53027,92,0,2,0
+2020-07-31,Island,Washington,53029,237,0,15,0
+2020-07-31,Jefferson,Washington,53031,51,0,0,0
+2020-07-31,King,Washington,53033,15216,158,668,0
+2020-07-31,Kitsap,Washington,53035,599,0,4,0
+2020-07-31,Kittitas,Washington,53037,326,0,17,0
+2020-07-31,Klickitat,Washington,53039,100,0,3,0
+2020-07-31,Lewis,Washington,53041,166,0,3,0
+2020-07-31,Lincoln,Washington,53043,10,0,0,0
+2020-07-31,Mason,Washington,53045,145,0,1,0
+2020-07-31,Okanogan,Washington,53047,724,34,5,0
+2020-07-31,Pacific,Washington,53049,33,0,2,0
+2020-07-31,Pend Oreille,Washington,53051,36,0,0,0
+2020-07-31,Pierce,Washington,53053,5344,92,134,0
+2020-07-31,San Juan,Washington,53055,28,0,0,0
+2020-07-31,Skagit,Washington,53057,784,0,21,0
+2020-07-31,Skamania,Washington,53059,47,0,1,0
+2020-07-31,Snohomish,Washington,53061,5741,77,197,0
+2020-07-31,Spokane,Washington,53063,3620,0,60,0
+2020-07-31,Stevens,Washington,53065,82,0,1,0
+2020-07-31,Thurston,Washington,53067,650,9,9,0
+2020-07-31,Unknown,Washington,,2,0,2,0
+2020-07-31,Wahkiakum,Washington,53069,5,0,0,0
+2020-07-31,Walla Walla,Washington,53071,412,10,4,0
+2020-07-31,Whatcom,Washington,53073,904,0,48,0
+2020-07-31,Whitman,Washington,53075,89,0,1,0
+2020-07-31,Yakima,Washington,53077,10449,68,217,0
