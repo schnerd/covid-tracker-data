@@ -1,42 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-04-25,Adams,Washington,53001,46,1,0,0
-2020-04-25,Asotin,Washington,53003,17,1,1,0
-2020-04-25,Benton,Washington,53005,399,16,38,0
-2020-04-25,Chelan,Washington,53007,93,1,6,0
-2020-04-25,Clallam,Washington,53009,15,1,0,0
-2020-04-25,Clark,Washington,53011,327,6,19,2
-2020-04-25,Columbia,Washington,53013,1,0,0,0
-2020-04-25,Cowlitz,Washington,53015,39,4,0,0
-2020-04-25,Douglas,Washington,53017,70,1,1,0
-2020-04-25,Ferry,Washington,53019,1,0,0,0
-2020-04-25,Franklin,Washington,53021,250,8,5,0
-2020-04-25,Grant,Washington,53025,156,2,2,0
-2020-04-25,Grays Harbor,Washington,53027,12,0,0,0
-2020-04-25,Island,Washington,53029,168,0,9,0
-2020-04-25,Jefferson,Washington,53031,28,0,0,0
-2020-04-25,King,Washington,53033,5813,122,401,8
-2020-04-25,Kitsap,Washington,53035,146,2,2,0
-2020-04-25,Kittitas,Washington,53037,14,0,0,0
-2020-04-25,Klickitat,Washington,53039,16,0,3,0
-2020-04-25,Lewis,Washington,53041,29,4,3,0
-2020-04-25,Lincoln,Washington,53043,2,0,0,0
-2020-04-25,Mason,Washington,53045,22,0,0,0
-2020-04-25,Okanogan,Washington,53047,19,1,1,0
-2020-04-25,Pacific,Washington,53049,4,0,0,0
-2020-04-25,Pend Oreille,Washington,53051,2,0,0,0
-2020-04-25,Pierce,Washington,53053,1394,24,47,0
-2020-04-25,San Juan,Washington,53055,14,0,0,0
-2020-04-25,Skagit,Washington,53057,287,4,10,0
-2020-04-25,Skamania,Washington,53059,3,0,0,0
-2020-04-25,Snohomish,Washington,53061,2297,30,103,1
-2020-04-25,Spokane,Washington,53063,345,15,19,0
-2020-04-25,Stevens,Washington,53065,10,1,1,0
-2020-04-25,Thurston,Washington,53067,101,3,1,0
-2020-04-25,Wahkiakum,Washington,53069,2,0,0,0
-2020-04-25,Walla Walla,Washington,53071,57,5,0,0
-2020-04-25,Whatcom,Washington,53073,284,2,27,0
-2020-04-25,Whitman,Washington,53075,16,0,0,0
-2020-04-25,Yakima,Washington,53077,1066,114,44,1
 2020-04-26,Adams,Washington,53001,46,0,0,0
 2020-04-26,Asotin,Washington,53003,17,0,1,0
 2020-04-26,Benton,Washington,53005,405,6,38,0
@@ -3751,3 +3713,43 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-31,Whatcom,Washington,53073,904,0,48,0
 2020-07-31,Whitman,Washington,53075,89,0,1,0
 2020-07-31,Yakima,Washington,53077,10449,68,217,0
+2020-08-01,Adams,Washington,53001,386,12,4,1
+2020-08-01,Asotin,Washington,53003,24,0,2,0
+2020-08-01,Benton,Washington,53005,3655,19,112,2
+2020-08-01,Chelan,Washington,53007,1108,48,12,1
+2020-08-01,Clallam,Washington,53009,91,0,0,0
+2020-08-01,Clark,Washington,53011,1780,0,44,2
+2020-08-01,Columbia,Washington,53013,13,0,0,0
+2020-08-01,Cowlitz,Washington,53015,441,15,5,0
+2020-08-01,Douglas,Washington,53017,789,42,8,0
+2020-08-01,Ferry,Washington,53019,13,1,0,0
+2020-08-01,Franklin,Washington,53021,3418,32,48,1
+2020-08-01,Garfield,Washington,53023,2,0,0,0
+2020-08-01,Grant,Washington,53025,1281,0,12,1
+2020-08-01,Grays Harbor,Washington,53027,96,4,1,-1
+2020-08-01,Island,Washington,53029,240,1,15,0
+2020-08-01,Jefferson,Washington,53031,51,0,0,0
+2020-08-01,King,Washington,53033,15418,202,674,6
+2020-08-01,Kitsap,Washington,53035,634,35,5,1
+2020-08-01,Kittitas,Washington,53037,347,21,17,0
+2020-08-01,Klickitat,Washington,53039,103,3,3,0
+2020-08-01,Lewis,Washington,53041,176,10,3,0
+2020-08-01,Lincoln,Washington,53043,13,3,0,0
+2020-08-01,Mason,Washington,53045,149,4,1,0
+2020-08-01,Okanogan,Washington,53047,735,11,5,0
+2020-08-01,Pacific,Washington,53049,40,7,2,0
+2020-08-01,Pend Oreille,Washington,53051,35,-1,0,0
+2020-08-01,Pierce,Washington,53053,5452,108,135,1
+2020-08-01,San Juan,Washington,53055,28,0,0,0
+2020-08-01,Skagit,Washington,53057,806,22,22,1
+2020-08-01,Skamania,Washington,53059,52,5,1,0
+2020-08-01,Snohomish,Washington,53061,5741,0,200,3
+2020-08-01,Spokane,Washington,53063,3813,193,63,3
+2020-08-01,Stevens,Washington,53065,89,7,1,0
+2020-08-01,Thurston,Washington,53067,675,25,9,0
+2020-08-01,Unknown,Washington,,2,0,2,0
+2020-08-01,Wahkiakum,Washington,53069,5,0,0,0
+2020-08-01,Walla Walla,Washington,53071,421,9,4,0
+2020-08-01,Whatcom,Washington,53073,920,16,48,0
+2020-08-01,Whitman,Washington,53075,89,0,1,0
+2020-08-01,Yakima,Washington,53077,10516,67,217,0
