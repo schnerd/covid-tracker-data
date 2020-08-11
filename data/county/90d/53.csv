@@ -1,42 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-05-04,Adams,Washington,53001,48,0,0,0
-2020-05-04,Asotin,Washington,53003,18,0,2,0
-2020-05-04,Benton,Washington,53005,532,14,44,0
-2020-05-04,Chelan,Washington,53007,123,0,6,0
-2020-05-04,Clallam,Washington,53009,18,-1,0,0
-2020-05-04,Clark,Washington,53011,367,6,21,0
-2020-05-04,Columbia,Washington,53013,1,0,0,0
-2020-05-04,Cowlitz,Washington,53015,59,6,0,0
-2020-05-04,Douglas,Washington,53017,84,2,1,0
-2020-05-04,Ferry,Washington,53019,1,0,0,0
-2020-05-04,Franklin,Washington,53021,377,14,11,0
-2020-05-04,Grant,Washington,53025,179,5,2,0
-2020-05-04,Grays Harbor,Washington,53027,12,0,0,0
-2020-05-04,Island,Washington,53029,175,0,9,0
-2020-05-04,Jefferson,Washington,53031,28,0,0,0
-2020-05-04,King,Washington,53033,6584,-36,465,4
-2020-05-04,Kitsap,Washington,53035,152,0,2,0
-2020-05-04,Kittitas,Washington,53037,14,-1,0,0
-2020-05-04,Klickitat,Washington,53039,18,0,3,0
-2020-05-04,Lewis,Washington,53041,29,0,3,0
-2020-05-04,Lincoln,Washington,53043,2,0,0,0
-2020-05-04,Mason,Washington,53045,26,0,1,0
-2020-05-04,Okanogan,Washington,53047,25,0,1,0
-2020-05-04,Pacific,Washington,53049,4,0,0,0
-2020-05-04,Pend Oreille,Washington,53051,2,0,0,0
-2020-05-04,Pierce,Washington,53053,1673,33,52,0
-2020-05-04,San Juan,Washington,53055,14,0,0,0
-2020-05-04,Skagit,Washington,53057,357,3,13,0
-2020-05-04,Skamania,Washington,53059,3,0,0,0
-2020-05-04,Snohomish,Washington,53061,2784,47,110,2
-2020-05-04,Spokane,Washington,53063,378,5,22,0
-2020-05-04,Stevens,Washington,53065,9,0,1,0
-2020-05-04,Thurston,Washington,53067,113,2,1,0
-2020-05-04,Wahkiakum,Washington,53069,2,0,0,0
-2020-05-04,Walla Walla,Washington,53071,92,4,0,0
-2020-05-04,Whatcom,Washington,53073,317,1,28,0
-2020-05-04,Whitman,Washington,53075,16,0,0,0
-2020-05-04,Yakima,Washington,53077,1411,0,48,0
 2020-05-05,Adams,Washington,53001,48,0,0,0
 2020-05-05,Asotin,Washington,53003,18,0,2,0
 2020-05-05,Benton,Washington,53005,537,5,46,2
@@ -3769,3 +3731,43 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-09,Whatcom,Washington,53073,992,17,50,2
 2020-08-09,Whitman,Washington,53075,123,7,1,0
 2020-08-09,Yakima,Washington,53077,10935,70,225,1
+2020-08-10,Adams,Washington,53001,452,18,5,0
+2020-08-10,Asotin,Washington,53003,27,0,2,0
+2020-08-10,Benton,Washington,53005,3918,34,119,1
+2020-08-10,Chelan,Washington,53007,1360,52,12,0
+2020-08-10,Clallam,Washington,53009,122,19,0,0
+2020-08-10,Clark,Washington,53011,2112,92,45,0
+2020-08-10,Columbia,Washington,53013,13,0,1,0
+2020-08-10,Cowlitz,Washington,53015,485,8,5,0
+2020-08-10,Douglas,Washington,53017,962,23,8,0
+2020-08-10,Ferry,Washington,53019,23,1,0,0
+2020-08-10,Franklin,Washington,53021,3679,56,50,0
+2020-08-10,Garfield,Washington,53023,4,0,0,0
+2020-08-10,Grant,Washington,53025,1614,109,12,0
+2020-08-10,Grays Harbor,Washington,53027,122,3,2,0
+2020-08-10,Island,Washington,53029,251,-1,14,0
+2020-08-10,Jefferson,Washington,53031,54,0,0,0
+2020-08-10,King,Washington,53033,16768,148,695,2
+2020-08-10,Kitsap,Washington,53035,747,16,8,0
+2020-08-10,Kittitas,Washington,53037,375,2,20,1
+2020-08-10,Klickitat,Washington,53039,113,2,3,0
+2020-08-10,Lewis,Washington,53041,225,12,3,0
+2020-08-10,Lincoln,Washington,53043,27,-1,0,0
+2020-08-10,Mason,Washington,53045,226,14,1,0
+2020-08-10,Okanogan,Washington,53047,877,16,9,0
+2020-08-10,Pacific,Washington,53049,50,1,2,0
+2020-08-10,Pend Oreille,Washington,53051,44,4,0,0
+2020-08-10,Pierce,Washington,53053,6310,66,149,0
+2020-08-10,San Juan,Washington,53055,28,0,0,0
+2020-08-10,Skagit,Washington,53057,891,14,23,1
+2020-08-10,Skamania,Washington,53059,57,0,1,0
+2020-08-10,Snohomish,Washington,53061,6245,133,204,1
+2020-08-10,Spokane,Washington,53063,4511,89,93,1
+2020-08-10,Stevens,Washington,53065,110,2,1,0
+2020-08-10,Thurston,Washington,53067,790,13,12,0
+2020-08-10,Unknown,Washington,,2,0,2,0
+2020-08-10,Wahkiakum,Washington,53069,5,0,0,0
+2020-08-10,Walla Walla,Washington,53071,550,5,4,0
+2020-08-10,Whatcom,Washington,53073,1000,8,50,0
+2020-08-10,Whitman,Washington,53075,123,0,1,0
+2020-08-10,Yakima,Washington,53077,10954,19,225,0
