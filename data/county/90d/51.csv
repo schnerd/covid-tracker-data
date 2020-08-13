@@ -72,6 +72,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-07,Madison,Virginia,51113,18,1,1,0
 2020-05-07,Manassas Park city,Virginia,51685,106,10,2,0
 2020-05-07,Manassas city,Virginia,51683,332,43,1,0
+2020-05-07,Martinsville city,Virginia,51690,2,0,0,0
 2020-05-07,Mathews,Virginia,51115,4,0,0,0
 2020-05-07,Mecklenburg,Virginia,51117,109,3,10,0
 2020-05-07,Middlesex,Virginia,51119,7,0,0,0
@@ -117,7 +118,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-07,Surry,Virginia,51181,4,0,1,0
 2020-05-07,Sussex,Virginia,51183,32,0,1,0
 2020-05-07,Tazewell,Virginia,51185,6,0,0,0
-2020-05-07,Unknown,Virginia,,2,0,0,0
 2020-05-07,Virginia Beach city,Virginia,51810,454,9,17,2
 2020-05-07,Warren,Virginia,51187,75,7,0,0
 2020-05-07,Washington,Virginia,51191,41,1,3,0
@@ -201,6 +201,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-08,Madison,Virginia,51113,20,2,1,0
 2020-05-08,Manassas Park city,Virginia,51685,114,8,2,0
 2020-05-08,Manassas city,Virginia,51683,355,23,2,1
+2020-05-08,Martinsville city,Virginia,51690,2,0,0,0
 2020-05-08,Mathews,Virginia,51115,4,0,0,0
 2020-05-08,Mecklenburg,Virginia,51117,111,2,10,0
 2020-05-08,Middlesex,Virginia,51119,10,3,0,0
@@ -246,7 +247,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-08,Surry,Virginia,51181,4,0,1,0
 2020-05-08,Sussex,Virginia,51183,32,0,1,0
 2020-05-08,Tazewell,Virginia,51185,6,0,0,0
-2020-05-08,Unknown,Virginia,,2,0,0,0
 2020-05-08,Virginia Beach city,Virginia,51810,469,15,17,0
 2020-05-08,Warren,Virginia,51187,78,3,0,0
 2020-05-08,Washington,Virginia,51191,42,1,3,0
@@ -331,6 +331,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-09,Madison,Virginia,51113,20,0,1,0
 2020-05-09,Manassas Park city,Virginia,51685,116,2,2,0
 2020-05-09,Manassas city,Virginia,51683,358,3,2,0
+2020-05-09,Martinsville city,Virginia,51690,2,0,0,0
 2020-05-09,Mathews,Virginia,51115,5,1,0,0
 2020-05-09,Mecklenburg,Virginia,51117,118,7,10,0
 2020-05-09,Middlesex,Virginia,51119,10,0,0,0
@@ -376,7 +377,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-09,Surry,Virginia,51181,5,1,1,0
 2020-05-09,Sussex,Virginia,51183,32,0,1,0
 2020-05-09,Tazewell,Virginia,51185,6,0,0,0
-2020-05-09,Unknown,Virginia,,2,0,0,0
 2020-05-09,Virginia Beach city,Virginia,51810,478,9,17,0
 2020-05-09,Warren,Virginia,51187,82,4,1,1
 2020-05-09,Washington,Virginia,51191,42,0,3,0
@@ -461,6 +461,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-10,Madison,Virginia,51113,21,1,1,0
 2020-05-10,Manassas Park city,Virginia,51685,120,4,2,0
 2020-05-10,Manassas city,Virginia,51683,381,23,2,0
+2020-05-10,Martinsville city,Virginia,51690,2,0,0,0
 2020-05-10,Mathews,Virginia,51115,5,0,0,0
 2020-05-10,Mecklenburg,Virginia,51117,122,4,10,0
 2020-05-10,Middlesex,Virginia,51119,10,0,0,0
@@ -506,7 +507,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-10,Surry,Virginia,51181,5,0,1,0
 2020-05-10,Sussex,Virginia,51183,33,1,1,0
 2020-05-10,Tazewell,Virginia,51185,7,1,0,0
-2020-05-10,Unknown,Virginia,,2,0,0,0
 2020-05-10,Virginia Beach city,Virginia,51810,491,13,17,0
 2020-05-10,Warren,Virginia,51187,85,3,1,0
 2020-05-10,Washington,Virginia,51191,49,7,3,0
@@ -591,6 +591,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-11,Madison,Virginia,51113,21,0,1,0
 2020-05-11,Manassas Park city,Virginia,51685,135,15,2,0
 2020-05-11,Manassas city,Virginia,51683,428,47,3,1
+2020-05-11,Martinsville city,Virginia,51690,2,0,0,0
 2020-05-11,Mathews,Virginia,51115,5,0,0,0
 2020-05-11,Mecklenburg,Virginia,51117,134,12,10,0
 2020-05-11,Middlesex,Virginia,51119,10,0,0,0
@@ -636,7 +637,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-11,Surry,Virginia,51181,5,0,1,0
 2020-05-11,Sussex,Virginia,51183,34,1,1,0
 2020-05-11,Tazewell,Virginia,51185,7,0,0,0
-2020-05-11,Unknown,Virginia,,2,0,0,0
 2020-05-11,Virginia Beach city,Virginia,51810,505,14,17,0
 2020-05-11,Warren,Virginia,51187,86,1,1,0
 2020-05-11,Washington,Virginia,51191,49,0,3,0
@@ -721,6 +721,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-12,Madison,Virginia,51113,21,0,1,0
 2020-05-12,Manassas Park city,Virginia,51685,139,4,3,1
 2020-05-12,Manassas city,Virginia,51683,430,2,3,0
+2020-05-12,Martinsville city,Virginia,51690,2,0,0,0
 2020-05-12,Mathews,Virginia,51115,5,0,0,0
 2020-05-12,Mecklenburg,Virginia,51117,138,4,10,0
 2020-05-12,Middlesex,Virginia,51119,10,0,0,0
@@ -766,7 +767,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-12,Surry,Virginia,51181,6,1,1,0
 2020-05-12,Sussex,Virginia,51183,38,4,1,0
 2020-05-12,Tazewell,Virginia,51185,7,0,0,0
-2020-05-12,Unknown,Virginia,,2,0,0,0
 2020-05-12,Virginia Beach city,Virginia,51810,509,4,18,1
 2020-05-12,Warren,Virginia,51187,87,1,1,0
 2020-05-12,Washington,Virginia,51191,48,-1,3,0
@@ -851,6 +851,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-13,Madison,Virginia,51113,22,1,1,0
 2020-05-13,Manassas Park city,Virginia,51685,152,13,3,0
 2020-05-13,Manassas city,Virginia,51683,459,29,4,1
+2020-05-13,Martinsville city,Virginia,51690,2,0,0,0
 2020-05-13,Mathews,Virginia,51115,5,0,0,0
 2020-05-13,Mecklenburg,Virginia,51117,138,0,13,3
 2020-05-13,Middlesex,Virginia,51119,10,0,0,0
@@ -896,7 +897,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-13,Surry,Virginia,51181,6,0,1,0
 2020-05-13,Sussex,Virginia,51183,38,0,1,0
 2020-05-13,Tazewell,Virginia,51185,6,-1,0,0
-2020-05-13,Unknown,Virginia,,2,0,0,0
 2020-05-13,Virginia Beach city,Virginia,51810,519,10,18,0
 2020-05-13,Warren,Virginia,51187,88,1,1,0
 2020-05-13,Washington,Virginia,51191,49,1,3,0
@@ -981,6 +981,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-14,Madison,Virginia,51113,23,1,1,0
 2020-05-14,Manassas Park city,Virginia,51685,170,18,3,0
 2020-05-14,Manassas city,Virginia,51683,515,56,5,1
+2020-05-14,Martinsville city,Virginia,51690,3,1,0,0
 2020-05-14,Mathews,Virginia,51115,5,0,0,0
 2020-05-14,Mecklenburg,Virginia,51117,146,8,13,0
 2020-05-14,Middlesex,Virginia,51119,11,1,0,0
@@ -1026,7 +1027,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-14,Surry,Virginia,51181,6,0,1,0
 2020-05-14,Sussex,Virginia,51183,53,15,1,0
 2020-05-14,Tazewell,Virginia,51185,6,0,0,0
-2020-05-14,Unknown,Virginia,,3,1,0,0
 2020-05-14,Virginia Beach city,Virginia,51810,528,9,19,1
 2020-05-14,Warren,Virginia,51187,90,2,2,1
 2020-05-14,Washington,Virginia,51191,49,0,3,0
@@ -1111,6 +1111,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-15,Madison,Virginia,51113,23,0,1,0
 2020-05-15,Manassas Park city,Virginia,51685,176,6,3,0
 2020-05-15,Manassas city,Virginia,51683,533,18,5,0
+2020-05-15,Martinsville city,Virginia,51690,3,0,0,0
 2020-05-15,Mathews,Virginia,51115,5,0,0,0
 2020-05-15,Mecklenburg,Virginia,51117,152,6,15,2
 2020-05-15,Middlesex,Virginia,51119,11,0,0,0
@@ -1156,7 +1157,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-15,Surry,Virginia,51181,6,0,1,0
 2020-05-15,Sussex,Virginia,51183,67,14,1,0
 2020-05-15,Tazewell,Virginia,51185,6,0,0,0
-2020-05-15,Unknown,Virginia,,3,0,0,0
 2020-05-15,Virginia Beach city,Virginia,51810,535,7,19,0
 2020-05-15,Warren,Virginia,51187,94,4,2,0
 2020-05-15,Washington,Virginia,51191,49,0,3,0
@@ -1241,6 +1241,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-16,Madison,Virginia,51113,24,1,1,0
 2020-05-16,Manassas Park city,Virginia,51685,183,7,3,0
 2020-05-16,Manassas city,Virginia,51683,574,41,5,0
+2020-05-16,Martinsville city,Virginia,51690,4,1,0,0
 2020-05-16,Mathews,Virginia,51115,5,0,0,0
 2020-05-16,Mecklenburg,Virginia,51117,164,12,16,1
 2020-05-16,Middlesex,Virginia,51119,12,1,0,0
@@ -1286,7 +1287,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-16,Surry,Virginia,51181,6,0,1,0
 2020-05-16,Sussex,Virginia,51183,80,13,1,0
 2020-05-16,Tazewell,Virginia,51185,6,0,0,0
-2020-05-16,Unknown,Virginia,,4,1,0,0
 2020-05-16,Virginia Beach city,Virginia,51810,539,4,19,0
 2020-05-16,Warren,Virginia,51187,96,2,2,0
 2020-05-16,Washington,Virginia,51191,49,0,3,0
@@ -1371,6 +1371,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-17,Madison,Virginia,51113,24,0,1,0
 2020-05-17,Manassas Park city,Virginia,51685,187,4,3,0
 2020-05-17,Manassas city,Virginia,51683,594,20,5,0
+2020-05-17,Martinsville city,Virginia,51690,5,1,0,0
 2020-05-17,Mathews,Virginia,51115,5,0,0,0
 2020-05-17,Mecklenburg,Virginia,51117,167,3,16,0
 2020-05-17,Middlesex,Virginia,51119,12,0,0,0
@@ -1416,7 +1417,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-17,Surry,Virginia,51181,6,0,1,0
 2020-05-17,Sussex,Virginia,51183,80,0,1,0
 2020-05-17,Tazewell,Virginia,51185,6,0,0,0
-2020-05-17,Unknown,Virginia,,5,1,0,0
 2020-05-17,Virginia Beach city,Virginia,51810,548,9,19,0
 2020-05-17,Warren,Virginia,51187,99,3,2,0
 2020-05-17,Washington,Virginia,51191,49,0,3,0
@@ -1501,6 +1501,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-18,Madison,Virginia,51113,24,0,1,0
 2020-05-18,Manassas Park city,Virginia,51685,198,11,3,0
 2020-05-18,Manassas city,Virginia,51683,628,34,5,0
+2020-05-18,Martinsville city,Virginia,51690,8,3,0,0
 2020-05-18,Mathews,Virginia,51115,5,0,0,0
 2020-05-18,Mecklenburg,Virginia,51117,169,2,16,0
 2020-05-18,Middlesex,Virginia,51119,12,0,0,0
@@ -1546,7 +1547,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-18,Surry,Virginia,51181,6,0,1,0
 2020-05-18,Sussex,Virginia,51183,91,11,1,0
 2020-05-18,Tazewell,Virginia,51185,6,0,0,0
-2020-05-18,Unknown,Virginia,,8,3,0,0
 2020-05-18,Virginia Beach city,Virginia,51810,557,9,19,0
 2020-05-18,Warren,Virginia,51187,99,0,2,0
 2020-05-18,Washington,Virginia,51191,49,0,3,0
@@ -1631,6 +1631,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-19,Madison,Virginia,51113,27,3,1,0
 2020-05-19,Manassas Park city,Virginia,51685,202,4,3,0
 2020-05-19,Manassas city,Virginia,51683,680,52,5,0
+2020-05-19,Martinsville city,Virginia,51690,16,8,0,0
 2020-05-19,Mathews,Virginia,51115,5,0,0,0
 2020-05-19,Mecklenburg,Virginia,51117,178,9,17,1
 2020-05-19,Middlesex,Virginia,51119,12,0,0,0
@@ -1676,7 +1677,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-19,Surry,Virginia,51181,6,0,1,0
 2020-05-19,Sussex,Virginia,51183,98,7,1,0
 2020-05-19,Tazewell,Virginia,51185,6,0,0,0
-2020-05-19,Unknown,Virginia,,16,8,0,0
 2020-05-19,Virginia Beach city,Virginia,51810,559,2,19,0
 2020-05-19,Warren,Virginia,51187,103,4,2,0
 2020-05-19,Washington,Virginia,51191,50,1,4,1
@@ -1761,6 +1761,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-20,Madison,Virginia,51113,27,0,1,0
 2020-05-20,Manassas Park city,Virginia,51685,207,5,3,0
 2020-05-20,Manassas city,Virginia,51683,699,19,6,1
+2020-05-20,Martinsville city,Virginia,51690,20,4,0,0
 2020-05-20,Mathews,Virginia,51115,5,0,0,0
 2020-05-20,Mecklenburg,Virginia,51117,178,0,19,2
 2020-05-20,Middlesex,Virginia,51119,12,0,0,0
@@ -1806,7 +1807,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-20,Surry,Virginia,51181,6,0,1,0
 2020-05-20,Sussex,Virginia,51183,99,1,1,0
 2020-05-20,Tazewell,Virginia,51185,6,0,0,0
-2020-05-20,Unknown,Virginia,,20,4,0,0
 2020-05-20,Virginia Beach city,Virginia,51810,564,5,19,0
 2020-05-20,Warren,Virginia,51187,105,2,2,0
 2020-05-20,Washington,Virginia,51191,50,0,4,0
@@ -1891,6 +1891,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-21,Madison,Virginia,51113,27,0,1,0
 2020-05-21,Manassas Park city,Virginia,51685,223,16,3,0
 2020-05-21,Manassas city,Virginia,51683,743,44,6,0
+2020-05-21,Martinsville city,Virginia,51690,21,1,0,0
 2020-05-21,Mathews,Virginia,51115,5,0,0,0
 2020-05-21,Mecklenburg,Virginia,51117,185,7,20,1
 2020-05-21,Middlesex,Virginia,51119,12,0,0,0
@@ -1936,7 +1937,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-21,Surry,Virginia,51181,6,0,1,0
 2020-05-21,Sussex,Virginia,51183,100,1,1,0
 2020-05-21,Tazewell,Virginia,51185,6,0,0,0
-2020-05-21,Unknown,Virginia,,21,1,0,0
 2020-05-21,Virginia Beach city,Virginia,51810,584,20,19,0
 2020-05-21,Warren,Virginia,51187,110,5,2,0
 2020-05-21,Washington,Virginia,51191,51,1,4,0
@@ -2021,6 +2021,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-22,Madison,Virginia,51113,27,0,1,0
 2020-05-22,Manassas Park city,Virginia,51685,228,5,4,1
 2020-05-22,Manassas city,Virginia,51683,764,21,7,1
+2020-05-22,Martinsville city,Virginia,51690,25,4,0,0
 2020-05-22,Mathews,Virginia,51115,5,0,0,0
 2020-05-22,Mecklenburg,Virginia,51117,192,7,20,0
 2020-05-22,Middlesex,Virginia,51119,12,0,0,0
@@ -2066,7 +2067,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-22,Surry,Virginia,51181,6,0,1,0
 2020-05-22,Sussex,Virginia,51183,100,0,1,0
 2020-05-22,Tazewell,Virginia,51185,6,0,0,0
-2020-05-22,Unknown,Virginia,,25,4,0,0
 2020-05-22,Virginia Beach city,Virginia,51810,591,7,19,0
 2020-05-22,Warren,Virginia,51187,110,0,2,0
 2020-05-22,Washington,Virginia,51191,51,0,4,0
@@ -2151,6 +2151,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-23,Madison,Virginia,51113,27,0,1,0
 2020-05-23,Manassas Park city,Virginia,51685,230,2,4,0
 2020-05-23,Manassas city,Virginia,51683,792,28,7,0
+2020-05-23,Martinsville city,Virginia,51690,24,-1,1,1
 2020-05-23,Mathews,Virginia,51115,5,0,0,0
 2020-05-23,Mecklenburg,Virginia,51117,193,1,20,0
 2020-05-23,Middlesex,Virginia,51119,12,0,0,0
@@ -2196,7 +2197,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-23,Surry,Virginia,51181,6,0,1,0
 2020-05-23,Sussex,Virginia,51183,114,14,1,0
 2020-05-23,Tazewell,Virginia,51185,6,0,0,0
-2020-05-23,Unknown,Virginia,,24,-1,1,1
 2020-05-23,Virginia Beach city,Virginia,51810,598,7,19,0
 2020-05-23,Warren,Virginia,51187,110,0,2,0
 2020-05-23,Washington,Virginia,51191,51,0,4,0
@@ -2281,6 +2281,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-24,Madison,Virginia,51113,32,5,1,0
 2020-05-24,Manassas Park city,Virginia,51685,239,9,4,0
 2020-05-24,Manassas city,Virginia,51683,806,14,7,0
+2020-05-24,Martinsville city,Virginia,51690,24,0,1,0
 2020-05-24,Mathews,Virginia,51115,5,0,0,0
 2020-05-24,Mecklenburg,Virginia,51117,200,7,20,0
 2020-05-24,Middlesex,Virginia,51119,12,0,0,0
@@ -2326,7 +2327,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-24,Surry,Virginia,51181,6,0,1,0
 2020-05-24,Sussex,Virginia,51183,114,0,1,0
 2020-05-24,Tazewell,Virginia,51185,6,0,0,0
-2020-05-24,Unknown,Virginia,,24,0,1,0
 2020-05-24,Virginia Beach city,Virginia,51810,603,5,19,0
 2020-05-24,Warren,Virginia,51187,111,1,2,0
 2020-05-24,Washington,Virginia,51191,51,0,4,0
@@ -2411,6 +2411,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-25,Madison,Virginia,51113,32,0,1,0
 2020-05-25,Manassas Park city,Virginia,51685,261,22,5,1
 2020-05-25,Manassas city,Virginia,51683,849,43,9,2
+2020-05-25,Martinsville city,Virginia,51690,24,0,1,0
 2020-05-25,Mathews,Virginia,51115,5,0,0,0
 2020-05-25,Mecklenburg,Virginia,51117,205,5,20,0
 2020-05-25,Middlesex,Virginia,51119,12,0,0,0
@@ -2456,7 +2457,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-25,Surry,Virginia,51181,6,0,1,0
 2020-05-25,Sussex,Virginia,51183,114,0,1,0
 2020-05-25,Tazewell,Virginia,51185,6,0,0,0
-2020-05-25,Unknown,Virginia,,24,0,1,0
 2020-05-25,Virginia Beach city,Virginia,51810,618,15,20,1
 2020-05-25,Warren,Virginia,51187,117,6,2,0
 2020-05-25,Washington,Virginia,51191,51,0,4,0
@@ -2541,6 +2541,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-26,Madison,Virginia,51113,37,5,1,0
 2020-05-26,Manassas Park city,Virginia,51685,277,16,6,1
 2020-05-26,Manassas city,Virginia,51683,956,107,9,0
+2020-05-26,Martinsville city,Virginia,51690,27,3,1,0
 2020-05-26,Mathews,Virginia,51115,5,0,0,0
 2020-05-26,Mecklenburg,Virginia,51117,211,6,20,0
 2020-05-26,Middlesex,Virginia,51119,14,2,0,0
@@ -2586,7 +2587,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-26,Surry,Virginia,51181,7,1,1,0
 2020-05-26,Sussex,Virginia,51183,135,21,1,0
 2020-05-26,Tazewell,Virginia,51185,6,0,0,0
-2020-05-26,Unknown,Virginia,,27,3,1,0
 2020-05-26,Virginia Beach city,Virginia,51810,638,20,23,3
 2020-05-26,Warren,Virginia,51187,117,0,2,0
 2020-05-26,Washington,Virginia,51191,51,0,4,0
@@ -2671,6 +2671,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-27,Madison,Virginia,51113,38,1,1,0
 2020-05-27,Manassas Park city,Virginia,51685,280,3,6,0
 2020-05-27,Manassas city,Virginia,51683,966,10,10,1
+2020-05-27,Martinsville city,Virginia,51690,29,2,1,0
 2020-05-27,Mathews,Virginia,51115,5,0,0,0
 2020-05-27,Mecklenburg,Virginia,51117,212,1,21,1
 2020-05-27,Middlesex,Virginia,51119,14,0,0,0
@@ -2716,7 +2717,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-27,Surry,Virginia,51181,8,1,1,0
 2020-05-27,Sussex,Virginia,51183,138,3,1,0
 2020-05-27,Tazewell,Virginia,51185,6,0,0,0
-2020-05-27,Unknown,Virginia,,29,2,1,0
 2020-05-27,Virginia Beach city,Virginia,51810,646,8,22,-1
 2020-05-27,Warren,Virginia,51187,129,12,2,0
 2020-05-27,Washington,Virginia,51191,51,0,4,0
@@ -2801,6 +2801,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-28,Madison,Virginia,51113,38,0,1,0
 2020-05-28,Manassas Park city,Virginia,51685,281,1,6,0
 2020-05-28,Manassas city,Virginia,51683,971,5,10,0
+2020-05-28,Martinsville city,Virginia,51690,31,2,1,0
 2020-05-28,Mathews,Virginia,51115,5,0,0,0
 2020-05-28,Mecklenburg,Virginia,51117,214,2,21,0
 2020-05-28,Middlesex,Virginia,51119,14,0,0,0
@@ -2846,7 +2847,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-28,Surry,Virginia,51181,9,1,1,0
 2020-05-28,Sussex,Virginia,51183,142,4,2,1
 2020-05-28,Tazewell,Virginia,51185,7,1,0,0
-2020-05-28,Unknown,Virginia,,31,2,1,0
 2020-05-28,Virginia Beach city,Virginia,51810,662,16,22,0
 2020-05-28,Warren,Virginia,51187,141,12,2,0
 2020-05-28,Washington,Virginia,51191,51,0,4,0
@@ -2931,6 +2931,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-29,Madison,Virginia,51113,39,1,1,0
 2020-05-29,Manassas Park city,Virginia,51685,287,6,6,0
 2020-05-29,Manassas city,Virginia,51683,1004,33,10,0
+2020-05-29,Martinsville city,Virginia,51690,31,0,1,0
 2020-05-29,Mathews,Virginia,51115,5,0,0,0
 2020-05-29,Mecklenburg,Virginia,51117,214,0,21,0
 2020-05-29,Middlesex,Virginia,51119,14,0,0,0
@@ -2976,7 +2977,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-29,Surry,Virginia,51181,10,1,1,0
 2020-05-29,Sussex,Virginia,51183,151,9,2,0
 2020-05-29,Tazewell,Virginia,51185,7,0,0,0
-2020-05-29,Unknown,Virginia,,31,0,1,0
 2020-05-29,Virginia Beach city,Virginia,51810,680,18,23,1
 2020-05-29,Warren,Virginia,51187,146,5,2,0
 2020-05-29,Washington,Virginia,51191,51,0,4,0
@@ -3061,6 +3061,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-30,Madison,Virginia,51113,40,1,1,0
 2020-05-30,Manassas Park city,Virginia,51685,299,12,6,0
 2020-05-30,Manassas city,Virginia,51683,1046,42,10,0
+2020-05-30,Martinsville city,Virginia,51690,31,0,1,0
 2020-05-30,Mathews,Virginia,51115,5,0,0,0
 2020-05-30,Mecklenburg,Virginia,51117,217,3,21,0
 2020-05-30,Middlesex,Virginia,51119,15,1,0,0
@@ -3106,7 +3107,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-30,Surry,Virginia,51181,10,0,1,0
 2020-05-30,Sussex,Virginia,51183,154,3,2,0
 2020-05-30,Tazewell,Virginia,51185,7,0,0,0
-2020-05-30,Unknown,Virginia,,31,0,1,0
 2020-05-30,Virginia Beach city,Virginia,51810,699,19,23,0
 2020-05-30,Warren,Virginia,51187,155,9,2,0
 2020-05-30,Washington,Virginia,51191,51,0,4,0
@@ -3191,6 +3191,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-31,Madison,Virginia,51113,41,1,1,0
 2020-05-31,Manassas Park city,Virginia,51685,305,6,6,0
 2020-05-31,Manassas city,Virginia,51683,1092,46,10,0
+2020-05-31,Martinsville city,Virginia,51690,31,0,1,0
 2020-05-31,Mathews,Virginia,51115,5,0,0,0
 2020-05-31,Mecklenburg,Virginia,51117,217,0,21,0
 2020-05-31,Middlesex,Virginia,51119,15,0,0,0
@@ -3236,7 +3237,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-31,Surry,Virginia,51181,10,0,1,0
 2020-05-31,Sussex,Virginia,51183,154,0,2,0
 2020-05-31,Tazewell,Virginia,51185,9,2,0,0
-2020-05-31,Unknown,Virginia,,31,0,1,0
 2020-05-31,Virginia Beach city,Virginia,51810,708,9,23,0
 2020-05-31,Warren,Virginia,51187,157,2,2,0
 2020-05-31,Washington,Virginia,51191,51,0,4,0
@@ -3321,6 +3321,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-01,Madison,Virginia,51113,41,0,1,0
 2020-06-01,Manassas Park city,Virginia,51685,317,12,6,0
 2020-06-01,Manassas city,Virginia,51683,1105,13,11,1
+2020-06-01,Martinsville city,Virginia,51690,32,1,1,0
 2020-06-01,Mathews,Virginia,51115,5,0,0,0
 2020-06-01,Mecklenburg,Virginia,51117,218,1,21,0
 2020-06-01,Middlesex,Virginia,51119,15,0,0,0
@@ -3366,7 +3367,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-01,Surry,Virginia,51181,10,0,1,0
 2020-06-01,Sussex,Virginia,51183,161,7,2,0
 2020-06-01,Tazewell,Virginia,51185,9,0,0,0
-2020-06-01,Unknown,Virginia,,32,1,1,0
 2020-06-01,Virginia Beach city,Virginia,51810,745,37,23,0
 2020-06-01,Warren,Virginia,51187,157,0,2,0
 2020-06-01,Washington,Virginia,51191,51,0,4,0
@@ -3451,6 +3451,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-02,Madison,Virginia,51113,41,0,1,0
 2020-06-02,Manassas Park city,Virginia,51685,327,10,6,0
 2020-06-02,Manassas city,Virginia,51683,1135,30,11,0
+2020-06-02,Martinsville city,Virginia,51690,37,5,1,0
 2020-06-02,Mathews,Virginia,51115,5,0,0,0
 2020-06-02,Mecklenburg,Virginia,51117,218,0,22,1
 2020-06-02,Middlesex,Virginia,51119,15,0,0,0
@@ -3496,7 +3497,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-02,Surry,Virginia,51181,11,1,1,0
 2020-06-02,Sussex,Virginia,51183,161,0,2,0
 2020-06-02,Tazewell,Virginia,51185,9,0,0,0
-2020-06-02,Unknown,Virginia,,37,5,1,0
 2020-06-02,Virginia Beach city,Virginia,51810,752,7,23,0
 2020-06-02,Warren,Virginia,51187,166,9,2,0
 2020-06-02,Washington,Virginia,51191,52,1,4,0
@@ -3581,6 +3581,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-03,Madison,Virginia,51113,41,0,1,0
 2020-06-03,Manassas Park city,Virginia,51685,332,5,6,0
 2020-06-03,Manassas city,Virginia,51683,1154,19,12,1
+2020-06-03,Martinsville city,Virginia,51690,38,1,1,0
 2020-06-03,Mathews,Virginia,51115,5,0,0,0
 2020-06-03,Mecklenburg,Virginia,51117,219,1,23,1
 2020-06-03,Middlesex,Virginia,51119,15,0,0,0
@@ -3626,7 +3627,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-03,Surry,Virginia,51181,11,0,1,0
 2020-06-03,Sussex,Virginia,51183,165,4,2,0
 2020-06-03,Tazewell,Virginia,51185,9,0,0,0
-2020-06-03,Unknown,Virginia,,38,1,1,0
 2020-06-03,Virginia Beach city,Virginia,51810,752,0,23,0
 2020-06-03,Warren,Virginia,51187,204,38,3,1
 2020-06-03,Washington,Virginia,51191,53,1,4,0
@@ -3711,6 +3711,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-04,Madison,Virginia,51113,41,0,1,0
 2020-06-04,Manassas Park city,Virginia,51685,339,7,6,0
 2020-06-04,Manassas city,Virginia,51683,1166,12,12,0
+2020-06-04,Martinsville city,Virginia,51690,39,1,1,0
 2020-06-04,Mathews,Virginia,51115,5,0,0,0
 2020-06-04,Mecklenburg,Virginia,51117,219,0,23,0
 2020-06-04,Middlesex,Virginia,51119,15,0,0,0
@@ -3756,7 +3757,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-04,Surry,Virginia,51181,10,-1,1,0
 2020-06-04,Sussex,Virginia,51183,173,8,2,0
 2020-06-04,Tazewell,Virginia,51185,9,0,0,0
-2020-06-04,Unknown,Virginia,,39,1,1,0
 2020-06-04,Virginia Beach city,Virginia,51810,770,18,24,1
 2020-06-04,Warren,Virginia,51187,217,13,3,0
 2020-06-04,Washington,Virginia,51191,53,0,4,0
@@ -3841,6 +3841,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-05,Madison,Virginia,51113,41,0,1,0
 2020-06-05,Manassas Park city,Virginia,51685,343,4,6,0
 2020-06-05,Manassas city,Virginia,51683,1190,24,12,0
+2020-06-05,Martinsville city,Virginia,51690,41,2,1,0
 2020-06-05,Mathews,Virginia,51115,5,0,0,0
 2020-06-05,Mecklenburg,Virginia,51117,220,1,23,0
 2020-06-05,Middlesex,Virginia,51119,14,-1,0,0
@@ -3886,7 +3887,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-05,Surry,Virginia,51181,10,0,1,0
 2020-06-05,Sussex,Virginia,51183,174,1,2,0
 2020-06-05,Tazewell,Virginia,51185,9,0,0,0
-2020-06-05,Unknown,Virginia,,41,2,1,0
 2020-06-05,Virginia Beach city,Virginia,51810,784,14,25,1
 2020-06-05,Warren,Virginia,51187,220,3,4,1
 2020-06-05,Washington,Virginia,51191,53,0,4,0
@@ -3971,6 +3971,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-06,Madison,Virginia,51113,41,0,1,0
 2020-06-06,Manassas Park city,Virginia,51685,351,8,6,0
 2020-06-06,Manassas city,Virginia,51683,1214,24,12,0
+2020-06-06,Martinsville city,Virginia,51690,47,6,1,0
 2020-06-06,Mathews,Virginia,51115,5,0,0,0
 2020-06-06,Mecklenburg,Virginia,51117,222,2,23,0
 2020-06-06,Middlesex,Virginia,51119,14,0,0,0
@@ -4016,7 +4017,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-06,Surry,Virginia,51181,10,0,1,0
 2020-06-06,Sussex,Virginia,51183,175,1,2,0
 2020-06-06,Tazewell,Virginia,51185,10,1,0,0
-2020-06-06,Unknown,Virginia,,47,6,1,0
 2020-06-06,Virginia Beach city,Virginia,51810,798,14,25,0
 2020-06-06,Warren,Virginia,51187,222,2,4,0
 2020-06-06,Washington,Virginia,51191,53,0,4,0
@@ -4101,6 +4101,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-07,Madison,Virginia,51113,41,0,1,0
 2020-06-07,Manassas Park city,Virginia,51685,355,4,6,0
 2020-06-07,Manassas city,Virginia,51683,1228,14,11,-1
+2020-06-07,Martinsville city,Virginia,51690,48,1,1,0
 2020-06-07,Mathews,Virginia,51115,5,0,0,0
 2020-06-07,Mecklenburg,Virginia,51117,224,2,23,0
 2020-06-07,Middlesex,Virginia,51119,14,0,0,0
@@ -4146,7 +4147,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-07,Surry,Virginia,51181,10,0,1,0
 2020-06-07,Sussex,Virginia,51183,175,0,2,0
 2020-06-07,Tazewell,Virginia,51185,10,0,0,0
-2020-06-07,Unknown,Virginia,,48,1,1,0
 2020-06-07,Virginia Beach city,Virginia,51810,801,3,25,0
 2020-06-07,Warren,Virginia,51187,222,0,4,0
 2020-06-07,Washington,Virginia,51191,57,4,4,0
@@ -4231,6 +4231,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-08,Madison,Virginia,51113,41,0,1,0
 2020-06-08,Manassas Park city,Virginia,51685,359,4,6,0
 2020-06-08,Manassas city,Virginia,51683,1248,20,11,0
+2020-06-08,Martinsville city,Virginia,51690,50,2,1,0
 2020-06-08,Mathews,Virginia,51115,5,0,0,0
 2020-06-08,Mecklenburg,Virginia,51117,224,0,23,0
 2020-06-08,Middlesex,Virginia,51119,14,0,0,0
@@ -4276,7 +4277,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-08,Surry,Virginia,51181,10,0,1,0
 2020-06-08,Sussex,Virginia,51183,175,0,2,0
 2020-06-08,Tazewell,Virginia,51185,10,0,0,0
-2020-06-08,Unknown,Virginia,,50,2,1,0
 2020-06-08,Virginia Beach city,Virginia,51810,810,9,25,0
 2020-06-08,Warren,Virginia,51187,220,-2,4,0
 2020-06-08,Washington,Virginia,51191,57,0,4,0
@@ -4361,6 +4361,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-09,Madison,Virginia,51113,41,0,1,0
 2020-06-09,Manassas Park city,Virginia,51685,359,0,6,0
 2020-06-09,Manassas city,Virginia,51683,1254,6,11,0
+2020-06-09,Martinsville city,Virginia,51690,50,0,1,0
 2020-06-09,Mathews,Virginia,51115,5,0,0,0
 2020-06-09,Mecklenburg,Virginia,51117,224,0,24,1
 2020-06-09,Middlesex,Virginia,51119,14,0,0,0
@@ -4406,7 +4407,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-09,Surry,Virginia,51181,10,0,1,0
 2020-06-09,Sussex,Virginia,51183,175,0,2,0
 2020-06-09,Tazewell,Virginia,51185,9,-1,0,0
-2020-06-09,Unknown,Virginia,,50,0,1,0
 2020-06-09,Virginia Beach city,Virginia,51810,815,5,27,2
 2020-06-09,Warren,Virginia,51187,222,2,4,0
 2020-06-09,Washington,Virginia,51191,57,0,4,0
@@ -4491,6 +4491,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-10,Madison,Virginia,51113,41,0,1,0
 2020-06-10,Manassas Park city,Virginia,51685,360,1,6,0
 2020-06-10,Manassas city,Virginia,51683,1262,8,12,1
+2020-06-10,Martinsville city,Virginia,51690,52,2,1,0
 2020-06-10,Mathews,Virginia,51115,5,0,0,0
 2020-06-10,Mecklenburg,Virginia,51117,224,0,24,0
 2020-06-10,Middlesex,Virginia,51119,14,0,0,0
@@ -4536,7 +4537,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-10,Surry,Virginia,51181,10,0,1,0
 2020-06-10,Sussex,Virginia,51183,175,0,2,0
 2020-06-10,Tazewell,Virginia,51185,9,0,0,0
-2020-06-10,Unknown,Virginia,,52,2,1,0
 2020-06-10,Virginia Beach city,Virginia,51810,823,8,27,0
 2020-06-10,Warren,Virginia,51187,225,3,4,0
 2020-06-10,Washington,Virginia,51191,58,1,4,0
@@ -4621,6 +4621,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-11,Madison,Virginia,51113,41,0,1,0
 2020-06-11,Manassas Park city,Virginia,51685,361,1,6,0
 2020-06-11,Manassas city,Virginia,51683,1271,9,12,0
+2020-06-11,Martinsville city,Virginia,51690,53,1,1,0
 2020-06-11,Mathews,Virginia,51115,5,0,0,0
 2020-06-11,Mecklenburg,Virginia,51117,225,1,24,0
 2020-06-11,Middlesex,Virginia,51119,14,0,0,0
@@ -4666,7 +4667,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-11,Surry,Virginia,51181,11,1,1,0
 2020-06-11,Sussex,Virginia,51183,176,1,2,0
 2020-06-11,Tazewell,Virginia,51185,9,0,0,0
-2020-06-11,Unknown,Virginia,,53,1,1,0
 2020-06-11,Virginia Beach city,Virginia,51810,832,9,27,0
 2020-06-11,Warren,Virginia,51187,225,0,4,0
 2020-06-11,Washington,Virginia,51191,58,0,4,0
@@ -4751,6 +4751,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-12,Madison,Virginia,51113,42,1,1,0
 2020-06-12,Manassas Park city,Virginia,51685,369,8,6,0
 2020-06-12,Manassas city,Virginia,51683,1282,11,12,0
+2020-06-12,Martinsville city,Virginia,51690,54,1,1,0
 2020-06-12,Mathews,Virginia,51115,5,0,0,0
 2020-06-12,Mecklenburg,Virginia,51117,226,1,24,0
 2020-06-12,Middlesex,Virginia,51119,14,0,0,0
@@ -4796,7 +4797,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-12,Surry,Virginia,51181,13,2,1,0
 2020-06-12,Sussex,Virginia,51183,177,1,2,0
 2020-06-12,Tazewell,Virginia,51185,9,0,0,0
-2020-06-12,Unknown,Virginia,,54,1,1,0
 2020-06-12,Virginia Beach city,Virginia,51810,847,15,27,0
 2020-06-12,Warren,Virginia,51187,228,3,4,0
 2020-06-12,Washington,Virginia,51191,58,0,4,0
@@ -4881,6 +4881,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-13,Madison,Virginia,51113,42,0,1,0
 2020-06-13,Manassas Park city,Virginia,51685,372,3,6,0
 2020-06-13,Manassas city,Virginia,51683,1299,17,12,0
+2020-06-13,Martinsville city,Virginia,51690,54,0,1,0
 2020-06-13,Mathews,Virginia,51115,5,0,0,0
 2020-06-13,Mecklenburg,Virginia,51117,226,0,24,0
 2020-06-13,Middlesex,Virginia,51119,14,0,0,0
@@ -4926,7 +4927,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-13,Surry,Virginia,51181,13,0,1,0
 2020-06-13,Sussex,Virginia,51183,178,1,2,0
 2020-06-13,Tazewell,Virginia,51185,9,0,0,0
-2020-06-13,Unknown,Virginia,,54,0,1,0
 2020-06-13,Virginia Beach city,Virginia,51810,869,22,27,0
 2020-06-13,Warren,Virginia,51187,229,1,4,0
 2020-06-13,Washington,Virginia,51191,58,0,4,0
@@ -5011,6 +5011,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-14,Madison,Virginia,51113,42,0,1,0
 2020-06-14,Manassas Park city,Virginia,51685,378,6,6,0
 2020-06-14,Manassas city,Virginia,51683,1309,10,12,0
+2020-06-14,Martinsville city,Virginia,51690,54,0,1,0
 2020-06-14,Mathews,Virginia,51115,5,0,0,0
 2020-06-14,Mecklenburg,Virginia,51117,226,0,24,0
 2020-06-14,Middlesex,Virginia,51119,14,0,0,0
@@ -5056,7 +5057,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-14,Surry,Virginia,51181,13,0,1,0
 2020-06-14,Sussex,Virginia,51183,181,3,2,0
 2020-06-14,Tazewell,Virginia,51185,9,0,0,0
-2020-06-14,Unknown,Virginia,,54,0,1,0
 2020-06-14,Virginia Beach city,Virginia,51810,890,21,27,0
 2020-06-14,Warren,Virginia,51187,230,1,4,0
 2020-06-14,Washington,Virginia,51191,58,0,4,0
@@ -5141,6 +5141,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-15,Madison,Virginia,51113,42,0,1,0
 2020-06-15,Manassas Park city,Virginia,51685,384,6,6,0
 2020-06-15,Manassas city,Virginia,51683,1314,5,13,1
+2020-06-15,Martinsville city,Virginia,51690,54,0,1,0
 2020-06-15,Mathews,Virginia,51115,5,0,0,0
 2020-06-15,Mecklenburg,Virginia,51117,229,3,24,0
 2020-06-15,Middlesex,Virginia,51119,14,0,0,0
@@ -5186,7 +5187,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-15,Surry,Virginia,51181,13,0,1,0
 2020-06-15,Sussex,Virginia,51183,183,2,2,0
 2020-06-15,Tazewell,Virginia,51185,9,0,0,0
-2020-06-15,Unknown,Virginia,,54,0,1,0
 2020-06-15,Virginia Beach city,Virginia,51810,899,9,27,0
 2020-06-15,Warren,Virginia,51187,231,1,4,0
 2020-06-15,Washington,Virginia,51191,58,0,4,0
@@ -5272,6 +5272,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-16,Madison,Virginia,51113,42,0,1,0
 2020-06-16,Manassas Park city,Virginia,51685,388,4,6,0
 2020-06-16,Manassas city,Virginia,51683,1317,3,14,1
+2020-06-16,Martinsville city,Virginia,51690,56,2,1,0
 2020-06-16,Mathews,Virginia,51115,5,0,0,0
 2020-06-16,Mecklenburg,Virginia,51117,231,2,24,0
 2020-06-16,Middlesex,Virginia,51119,14,0,0,0
@@ -5317,7 +5318,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-16,Surry,Virginia,51181,13,0,1,0
 2020-06-16,Sussex,Virginia,51183,183,0,2,0
 2020-06-16,Tazewell,Virginia,51185,9,0,0,0
-2020-06-16,Unknown,Virginia,,56,2,1,0
 2020-06-16,Virginia Beach city,Virginia,51810,909,10,27,0
 2020-06-16,Warren,Virginia,51187,233,2,4,0
 2020-06-16,Washington,Virginia,51191,58,0,4,0
@@ -5403,6 +5403,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-17,Madison,Virginia,51113,42,0,1,0
 2020-06-17,Manassas Park city,Virginia,51685,390,2,6,0
 2020-06-17,Manassas city,Virginia,51683,1320,3,14,0
+2020-06-17,Martinsville city,Virginia,51690,58,2,1,0
 2020-06-17,Mathews,Virginia,51115,5,0,0,0
 2020-06-17,Mecklenburg,Virginia,51117,231,0,24,0
 2020-06-17,Middlesex,Virginia,51119,14,0,0,0
@@ -5448,7 +5449,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-17,Surry,Virginia,51181,13,0,1,0
 2020-06-17,Sussex,Virginia,51183,184,1,2,0
 2020-06-17,Tazewell,Virginia,51185,9,0,0,0
-2020-06-17,Unknown,Virginia,,58,2,1,0
 2020-06-17,Virginia Beach city,Virginia,51810,923,14,28,1
 2020-06-17,Warren,Virginia,51187,233,0,4,0
 2020-06-17,Washington,Virginia,51191,58,0,4,0
@@ -5534,6 +5534,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-18,Madison,Virginia,51113,42,0,1,0
 2020-06-18,Manassas Park city,Virginia,51685,393,3,6,0
 2020-06-18,Manassas city,Virginia,51683,1337,17,14,0
+2020-06-18,Martinsville city,Virginia,51690,58,0,1,0
 2020-06-18,Mathews,Virginia,51115,5,0,0,0
 2020-06-18,Mecklenburg,Virginia,51117,233,2,24,0
 2020-06-18,Middlesex,Virginia,51119,14,0,0,0
@@ -5579,7 +5580,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-18,Surry,Virginia,51181,13,0,1,0
 2020-06-18,Sussex,Virginia,51183,185,1,2,0
 2020-06-18,Tazewell,Virginia,51185,9,0,0,0
-2020-06-18,Unknown,Virginia,,58,0,1,0
 2020-06-18,Virginia Beach city,Virginia,51810,936,13,27,-1
 2020-06-18,Warren,Virginia,51187,234,1,4,0
 2020-06-18,Washington,Virginia,51191,58,0,4,0
@@ -5666,6 +5666,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-19,Madison,Virginia,51113,42,0,1,0
 2020-06-19,Manassas Park city,Virginia,51685,402,9,5,-1
 2020-06-19,Manassas city,Virginia,51683,1352,15,16,2
+2020-06-19,Martinsville city,Virginia,51690,59,1,1,0
 2020-06-19,Mathews,Virginia,51115,5,0,0,0
 2020-06-19,Mecklenburg,Virginia,51117,234,1,24,0
 2020-06-19,Middlesex,Virginia,51119,14,0,0,0
@@ -5711,7 +5712,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-19,Surry,Virginia,51181,13,0,1,0
 2020-06-19,Sussex,Virginia,51183,185,0,2,0
 2020-06-19,Tazewell,Virginia,51185,9,0,0,0
-2020-06-19,Unknown,Virginia,,59,1,1,0
 2020-06-19,Virginia Beach city,Virginia,51810,950,14,27,0
 2020-06-19,Warren,Virginia,51187,235,1,4,0
 2020-06-19,Washington,Virginia,51191,58,0,4,0
@@ -5798,6 +5798,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-20,Madison,Virginia,51113,42,0,1,0
 2020-06-20,Manassas Park city,Virginia,51685,407,5,5,0
 2020-06-20,Manassas city,Virginia,51683,1353,1,16,0
+2020-06-20,Martinsville city,Virginia,51690,59,0,1,0
 2020-06-20,Mathews,Virginia,51115,5,0,0,0
 2020-06-20,Mecklenburg,Virginia,51117,234,0,24,0
 2020-06-20,Middlesex,Virginia,51119,15,1,0,0
@@ -5843,7 +5844,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-20,Surry,Virginia,51181,13,0,1,0
 2020-06-20,Sussex,Virginia,51183,185,0,2,0
 2020-06-20,Tazewell,Virginia,51185,9,0,0,0
-2020-06-20,Unknown,Virginia,,59,0,1,0
 2020-06-20,Virginia Beach city,Virginia,51810,956,6,27,0
 2020-06-20,Warren,Virginia,51187,236,1,4,0
 2020-06-20,Washington,Virginia,51191,59,1,4,0
@@ -5930,6 +5930,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-21,Madison,Virginia,51113,43,1,1,0
 2020-06-21,Manassas Park city,Virginia,51685,410,3,5,0
 2020-06-21,Manassas city,Virginia,51683,1363,10,16,0
+2020-06-21,Martinsville city,Virginia,51690,59,0,1,0
 2020-06-21,Mathews,Virginia,51115,5,0,0,0
 2020-06-21,Mecklenburg,Virginia,51117,234,0,24,0
 2020-06-21,Middlesex,Virginia,51119,15,0,0,0
@@ -5975,7 +5976,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-21,Surry,Virginia,51181,13,0,1,0
 2020-06-21,Sussex,Virginia,51183,185,0,2,0
 2020-06-21,Tazewell,Virginia,51185,9,0,0,0
-2020-06-21,Unknown,Virginia,,59,0,1,0
 2020-06-21,Virginia Beach city,Virginia,51810,988,32,27,0
 2020-06-21,Warren,Virginia,51187,254,18,4,0
 2020-06-21,Washington,Virginia,51191,60,1,4,0
@@ -6062,6 +6062,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-22,Madison,Virginia,51113,43,0,1,0
 2020-06-22,Manassas Park city,Virginia,51685,414,4,5,0
 2020-06-22,Manassas city,Virginia,51683,1366,3,16,0
+2020-06-22,Martinsville city,Virginia,51690,60,1,1,0
 2020-06-22,Mathews,Virginia,51115,5,0,0,0
 2020-06-22,Mecklenburg,Virginia,51117,235,1,24,0
 2020-06-22,Middlesex,Virginia,51119,15,0,0,0
@@ -6107,7 +6108,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-22,Surry,Virginia,51181,13,0,1,0
 2020-06-22,Sussex,Virginia,51183,186,1,2,0
 2020-06-22,Tazewell,Virginia,51185,9,0,0,0
-2020-06-22,Unknown,Virginia,,60,1,1,0
 2020-06-22,Virginia Beach city,Virginia,51810,1006,18,27,0
 2020-06-22,Warren,Virginia,51187,265,11,4,0
 2020-06-22,Washington,Virginia,51191,60,0,4,0
@@ -6194,6 +6194,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-23,Madison,Virginia,51113,43,0,1,0
 2020-06-23,Manassas Park city,Virginia,51685,416,2,5,0
 2020-06-23,Manassas city,Virginia,51683,1367,1,16,0
+2020-06-23,Martinsville city,Virginia,51690,61,1,1,0
 2020-06-23,Mathews,Virginia,51115,5,0,0,0
 2020-06-23,Mecklenburg,Virginia,51117,237,2,24,0
 2020-06-23,Middlesex,Virginia,51119,15,0,0,0
@@ -6239,7 +6240,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-23,Surry,Virginia,51181,13,0,1,0
 2020-06-23,Sussex,Virginia,51183,187,1,2,0
 2020-06-23,Tazewell,Virginia,51185,9,0,0,0
-2020-06-23,Unknown,Virginia,,61,1,1,0
 2020-06-23,Virginia Beach city,Virginia,51810,1020,14,27,0
 2020-06-23,Warren,Virginia,51187,266,1,4,0
 2020-06-23,Washington,Virginia,51191,60,0,4,0
@@ -6326,6 +6326,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Madison,Virginia,51113,43,0,1,0
 2020-06-24,Manassas Park city,Virginia,51685,416,0,5,0
 2020-06-24,Manassas city,Virginia,51683,1370,3,16,0
+2020-06-24,Martinsville city,Virginia,51690,70,9,1,0
 2020-06-24,Mathews,Virginia,51115,5,0,0,0
 2020-06-24,Mecklenburg,Virginia,51117,237,0,26,2
 2020-06-24,Middlesex,Virginia,51119,15,0,0,0
@@ -6371,7 +6372,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Surry,Virginia,51181,14,1,1,0
 2020-06-24,Sussex,Virginia,51183,191,4,2,0
 2020-06-24,Tazewell,Virginia,51185,11,2,0,0
-2020-06-24,Unknown,Virginia,,70,9,1,0
 2020-06-24,Virginia Beach city,Virginia,51810,1038,18,27,0
 2020-06-24,Warren,Virginia,51187,266,0,4,0
 2020-06-24,Washington,Virginia,51191,60,0,4,0
@@ -6458,6 +6458,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-25,Madison,Virginia,51113,43,0,1,0
 2020-06-25,Manassas Park city,Virginia,51685,417,1,5,0
 2020-06-25,Manassas city,Virginia,51683,1374,4,16,0
+2020-06-25,Martinsville city,Virginia,51690,70,0,1,0
 2020-06-25,Mathews,Virginia,51115,5,0,0,0
 2020-06-25,Mecklenburg,Virginia,51117,238,1,26,0
 2020-06-25,Middlesex,Virginia,51119,15,0,0,0
@@ -6503,7 +6504,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-25,Surry,Virginia,51181,14,0,1,0
 2020-06-25,Sussex,Virginia,51183,193,2,2,0
 2020-06-25,Tazewell,Virginia,51185,13,2,0,0
-2020-06-25,Unknown,Virginia,,70,0,1,0
 2020-06-25,Virginia Beach city,Virginia,51810,1053,15,27,0
 2020-06-25,Warren,Virginia,51187,269,3,4,0
 2020-06-25,Washington,Virginia,51191,60,0,4,0
@@ -6590,6 +6590,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-26,Madison,Virginia,51113,43,0,1,0
 2020-06-26,Manassas Park city,Virginia,51685,419,2,5,0
 2020-06-26,Manassas city,Virginia,51683,1379,5,16,0
+2020-06-26,Martinsville city,Virginia,51690,70,0,1,0
 2020-06-26,Mathews,Virginia,51115,5,0,0,0
 2020-06-26,Mecklenburg,Virginia,51117,238,0,26,0
 2020-06-26,Middlesex,Virginia,51119,15,0,0,0
@@ -6635,7 +6636,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-26,Surry,Virginia,51181,14,0,1,0
 2020-06-26,Sussex,Virginia,51183,194,1,2,0
 2020-06-26,Tazewell,Virginia,51185,13,0,0,0
-2020-06-26,Unknown,Virginia,,70,0,1,0
 2020-06-26,Virginia Beach city,Virginia,51810,1082,29,28,1
 2020-06-26,Warren,Virginia,51187,269,0,5,1
 2020-06-26,Washington,Virginia,51191,62,2,4,0
@@ -6722,6 +6722,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-27,Madison,Virginia,51113,43,0,1,0
 2020-06-27,Manassas Park city,Virginia,51685,422,3,5,0
 2020-06-27,Manassas city,Virginia,51683,1382,3,16,0
+2020-06-27,Martinsville city,Virginia,51690,70,0,1,0
 2020-06-27,Mathews,Virginia,51115,5,0,0,0
 2020-06-27,Mecklenburg,Virginia,51117,240,2,26,0
 2020-06-27,Middlesex,Virginia,51119,15,0,0,0
@@ -6767,7 +6768,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-27,Surry,Virginia,51181,14,0,1,0
 2020-06-27,Sussex,Virginia,51183,195,1,2,0
 2020-06-27,Tazewell,Virginia,51185,15,2,0,0
-2020-06-27,Unknown,Virginia,,70,0,1,0
 2020-06-27,Virginia Beach city,Virginia,51810,1092,10,29,1
 2020-06-27,Warren,Virginia,51187,278,9,5,0
 2020-06-27,Washington,Virginia,51191,63,1,4,0
@@ -6854,6 +6854,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-28,Madison,Virginia,51113,43,0,1,0
 2020-06-28,Manassas Park city,Virginia,51685,428,6,5,0
 2020-06-28,Manassas city,Virginia,51683,1387,5,16,0
+2020-06-28,Martinsville city,Virginia,51690,72,2,1,0
 2020-06-28,Mathews,Virginia,51115,5,0,0,0
 2020-06-28,Mecklenburg,Virginia,51117,240,0,26,0
 2020-06-28,Middlesex,Virginia,51119,15,0,0,0
@@ -6899,7 +6900,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-28,Surry,Virginia,51181,14,0,1,0
 2020-06-28,Sussex,Virginia,51183,195,0,2,0
 2020-06-28,Tazewell,Virginia,51185,15,0,0,0
-2020-06-28,Unknown,Virginia,,72,2,1,0
 2020-06-28,Virginia Beach city,Virginia,51810,1123,31,29,0
 2020-06-28,Warren,Virginia,51187,285,7,5,0
 2020-06-28,Washington,Virginia,51191,63,0,4,0
@@ -6986,6 +6986,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-29,Madison,Virginia,51113,43,0,1,0
 2020-06-29,Manassas Park city,Virginia,51685,427,-1,5,0
 2020-06-29,Manassas city,Virginia,51683,1385,-2,16,0
+2020-06-29,Martinsville city,Virginia,51690,74,2,1,0
 2020-06-29,Mathews,Virginia,51115,5,0,0,0
 2020-06-29,Mecklenburg,Virginia,51117,240,0,26,0
 2020-06-29,Middlesex,Virginia,51119,15,0,0,0
@@ -7031,7 +7032,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-29,Surry,Virginia,51181,14,0,1,0
 2020-06-29,Sussex,Virginia,51183,195,0,2,0
 2020-06-29,Tazewell,Virginia,51185,15,0,0,0
-2020-06-29,Unknown,Virginia,,74,2,1,0
 2020-06-29,Virginia Beach city,Virginia,51810,1145,22,29,0
 2020-06-29,Warren,Virginia,51187,285,0,5,0
 2020-06-29,Washington,Virginia,51191,63,0,4,0
@@ -7118,6 +7118,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-30,Madison,Virginia,51113,43,0,1,0
 2020-06-30,Manassas Park city,Virginia,51685,431,4,6,1
 2020-06-30,Manassas city,Virginia,51683,1397,12,16,0
+2020-06-30,Martinsville city,Virginia,51690,78,4,1,0
 2020-06-30,Mathews,Virginia,51115,6,1,0,0
 2020-06-30,Mecklenburg,Virginia,51117,240,0,26,0
 2020-06-30,Middlesex,Virginia,51119,15,0,0,0
@@ -7163,7 +7164,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-30,Surry,Virginia,51181,15,1,1,0
 2020-06-30,Sussex,Virginia,51183,194,-1,2,0
 2020-06-30,Tazewell,Virginia,51185,15,0,0,0
-2020-06-30,Unknown,Virginia,,78,4,1,0
 2020-06-30,Virginia Beach city,Virginia,51810,1176,31,29,0
 2020-06-30,Warren,Virginia,51187,284,-1,5,0
 2020-06-30,Washington,Virginia,51191,64,1,4,0
@@ -7250,6 +7250,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-01,Madison,Virginia,51113,43,0,1,0
 2020-07-01,Manassas Park city,Virginia,51685,430,-1,6,0
 2020-07-01,Manassas city,Virginia,51683,1414,17,18,2
+2020-07-01,Martinsville city,Virginia,51690,78,0,1,0
 2020-07-01,Mathews,Virginia,51115,6,0,0,0
 2020-07-01,Mecklenburg,Virginia,51117,242,2,26,0
 2020-07-01,Middlesex,Virginia,51119,15,0,0,0
@@ -7295,7 +7296,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-01,Surry,Virginia,51181,16,1,1,0
 2020-07-01,Sussex,Virginia,51183,200,6,3,1
 2020-07-01,Tazewell,Virginia,51185,15,0,0,0
-2020-07-01,Unknown,Virginia,,78,0,1,0
 2020-07-01,Virginia Beach city,Virginia,51810,1203,27,29,0
 2020-07-01,Warren,Virginia,51187,290,6,5,0
 2020-07-01,Washington,Virginia,51191,64,0,4,0
@@ -7382,6 +7382,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-02,Madison,Virginia,51113,43,0,1,0
 2020-07-02,Manassas Park city,Virginia,51685,431,1,6,0
 2020-07-02,Manassas city,Virginia,51683,1417,3,18,0
+2020-07-02,Martinsville city,Virginia,51690,80,2,1,0
 2020-07-02,Mathews,Virginia,51115,6,0,0,0
 2020-07-02,Mecklenburg,Virginia,51117,246,4,28,2
 2020-07-02,Middlesex,Virginia,51119,15,0,0,0
@@ -7427,7 +7428,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-02,Surry,Virginia,51181,16,0,1,0
 2020-07-02,Sussex,Virginia,51183,205,5,4,1
 2020-07-02,Tazewell,Virginia,51185,16,1,0,0
-2020-07-02,Unknown,Virginia,,80,2,1,0
 2020-07-02,Virginia Beach city,Virginia,51810,1225,22,30,1
 2020-07-02,Warren,Virginia,51187,292,2,6,1
 2020-07-02,Washington,Virginia,51191,65,1,4,0
@@ -7514,6 +7514,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-03,Madison,Virginia,51113,43,0,1,0
 2020-07-03,Manassas Park city,Virginia,51685,434,3,6,0
 2020-07-03,Manassas city,Virginia,51683,1430,13,18,0
+2020-07-03,Martinsville city,Virginia,51690,81,1,1,0
 2020-07-03,Mathews,Virginia,51115,6,0,0,0
 2020-07-03,Mecklenburg,Virginia,51117,248,2,28,0
 2020-07-03,Middlesex,Virginia,51119,15,0,0,0
@@ -7559,7 +7560,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-03,Surry,Virginia,51181,16,0,1,0
 2020-07-03,Sussex,Virginia,51183,208,3,5,1
 2020-07-03,Tazewell,Virginia,51185,16,0,0,0
-2020-07-03,Unknown,Virginia,,81,1,1,0
 2020-07-03,Virginia Beach city,Virginia,51810,1254,29,30,0
 2020-07-03,Warren,Virginia,51187,294,2,7,1
 2020-07-03,Washington,Virginia,51191,65,0,4,0
@@ -7646,6 +7646,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-04,Madison,Virginia,51113,43,0,1,0
 2020-07-04,Manassas Park city,Virginia,51685,435,1,6,0
 2020-07-04,Manassas city,Virginia,51683,1435,5,18,0
+2020-07-04,Martinsville city,Virginia,51690,82,1,1,0
 2020-07-04,Mathews,Virginia,51115,6,0,0,0
 2020-07-04,Mecklenburg,Virginia,51117,248,0,28,0
 2020-07-04,Middlesex,Virginia,51119,15,0,0,0
@@ -7691,7 +7692,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-04,Surry,Virginia,51181,17,1,1,0
 2020-07-04,Sussex,Virginia,51183,209,1,5,0
 2020-07-04,Tazewell,Virginia,51185,16,0,0,0
-2020-07-04,Unknown,Virginia,,82,1,1,0
 2020-07-04,Virginia Beach city,Virginia,51810,1300,46,30,0
 2020-07-04,Warren,Virginia,51187,295,1,8,1
 2020-07-04,Washington,Virginia,51191,66,1,4,0
@@ -7778,6 +7778,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-05,Madison,Virginia,51113,44,1,1,0
 2020-07-05,Manassas Park city,Virginia,51685,444,9,6,0
 2020-07-05,Manassas city,Virginia,51683,1451,16,18,0
+2020-07-05,Martinsville city,Virginia,51690,86,4,1,0
 2020-07-05,Mathews,Virginia,51115,6,0,0,0
 2020-07-05,Mecklenburg,Virginia,51117,248,0,28,0
 2020-07-05,Middlesex,Virginia,51119,15,0,0,0
@@ -7823,7 +7824,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-05,Surry,Virginia,51181,17,0,1,0
 2020-07-05,Sussex,Virginia,51183,209,0,5,0
 2020-07-05,Tazewell,Virginia,51185,16,0,0,0
-2020-07-05,Unknown,Virginia,,86,4,1,0
 2020-07-05,Virginia Beach city,Virginia,51810,1350,50,30,0
 2020-07-05,Warren,Virginia,51187,297,2,8,0
 2020-07-05,Washington,Virginia,51191,67,1,4,0
@@ -7910,6 +7910,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-06,Madison,Virginia,51113,45,1,1,0
 2020-07-06,Manassas Park city,Virginia,51685,445,1,6,0
 2020-07-06,Manassas city,Virginia,51683,1452,1,18,0
+2020-07-06,Martinsville city,Virginia,51690,87,1,1,0
 2020-07-06,Mathews,Virginia,51115,6,0,0,0
 2020-07-06,Mecklenburg,Virginia,51117,249,1,28,0
 2020-07-06,Middlesex,Virginia,51119,15,0,0,0
@@ -7955,7 +7956,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-06,Surry,Virginia,51181,17,0,1,0
 2020-07-06,Sussex,Virginia,51183,210,1,5,0
 2020-07-06,Tazewell,Virginia,51185,17,1,0,0
-2020-07-06,Unknown,Virginia,,87,1,1,0
 2020-07-06,Virginia Beach city,Virginia,51810,1392,42,30,0
 2020-07-06,Warren,Virginia,51187,299,2,8,0
 2020-07-06,Washington,Virginia,51191,67,0,4,0
@@ -8042,6 +8042,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-07,Madison,Virginia,51113,46,1,1,0
 2020-07-07,Manassas Park city,Virginia,51685,447,2,6,0
 2020-07-07,Manassas city,Virginia,51683,1458,6,18,0
+2020-07-07,Martinsville city,Virginia,51690,98,11,1,0
 2020-07-07,Mathews,Virginia,51115,6,0,0,0
 2020-07-07,Mecklenburg,Virginia,51117,249,0,28,0
 2020-07-07,Middlesex,Virginia,51119,15,0,0,0
@@ -8087,7 +8088,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-07,Surry,Virginia,51181,17,0,1,0
 2020-07-07,Sussex,Virginia,51183,211,1,5,0
 2020-07-07,Tazewell,Virginia,51185,22,5,0,0
-2020-07-07,Unknown,Virginia,,98,11,1,0
 2020-07-07,Virginia Beach city,Virginia,51810,1455,63,30,0
 2020-07-07,Warren,Virginia,51187,300,1,8,0
 2020-07-07,Washington,Virginia,51191,68,1,4,0
@@ -8175,6 +8175,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-08,Madison,Virginia,51113,46,0,1,0
 2020-07-08,Manassas Park city,Virginia,51685,449,2,6,0
 2020-07-08,Manassas city,Virginia,51683,1464,6,18,0
+2020-07-08,Martinsville city,Virginia,51690,101,3,1,0
 2020-07-08,Mathews,Virginia,51115,6,0,0,0
 2020-07-08,Mecklenburg,Virginia,51117,250,1,29,1
 2020-07-08,Middlesex,Virginia,51119,15,0,0,0
@@ -8220,7 +8221,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-08,Surry,Virginia,51181,17,0,1,0
 2020-07-08,Sussex,Virginia,51183,212,1,5,0
 2020-07-08,Tazewell,Virginia,51185,23,1,0,0
-2020-07-08,Unknown,Virginia,,101,3,1,0
 2020-07-08,Virginia Beach city,Virginia,51810,1520,65,30,0
 2020-07-08,Warren,Virginia,51187,302,2,8,0
 2020-07-08,Washington,Virginia,51191,70,2,4,0
@@ -8308,6 +8308,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-09,Madison,Virginia,51113,46,0,1,0
 2020-07-09,Manassas Park city,Virginia,51685,451,2,6,0
 2020-07-09,Manassas city,Virginia,51683,1464,0,18,0
+2020-07-09,Martinsville city,Virginia,51690,104,3,1,0
 2020-07-09,Mathews,Virginia,51115,7,1,0,0
 2020-07-09,Mecklenburg,Virginia,51117,252,2,29,0
 2020-07-09,Middlesex,Virginia,51119,15,0,0,0
@@ -8353,7 +8354,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-09,Surry,Virginia,51181,17,0,1,0
 2020-07-09,Sussex,Virginia,51183,210,-2,7,2
 2020-07-09,Tazewell,Virginia,51185,23,0,0,0
-2020-07-09,Unknown,Virginia,,104,3,1,0
 2020-07-09,Virginia Beach city,Virginia,51810,1547,27,30,0
 2020-07-09,Warren,Virginia,51187,303,1,7,-1
 2020-07-09,Washington,Virginia,51191,74,4,4,0
@@ -8441,6 +8441,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-10,Madison,Virginia,51113,46,0,1,0
 2020-07-10,Manassas Park city,Virginia,51685,455,4,6,0
 2020-07-10,Manassas city,Virginia,51683,1472,8,18,0
+2020-07-10,Martinsville city,Virginia,51690,107,3,1,0
 2020-07-10,Mathews,Virginia,51115,7,0,0,0
 2020-07-10,Mecklenburg,Virginia,51117,253,1,29,0
 2020-07-10,Middlesex,Virginia,51119,16,1,0,0
@@ -8486,7 +8487,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-10,Surry,Virginia,51181,17,0,1,0
 2020-07-10,Sussex,Virginia,51183,211,1,7,0
 2020-07-10,Tazewell,Virginia,51185,24,1,0,0
-2020-07-10,Unknown,Virginia,,107,3,1,0
 2020-07-10,Virginia Beach city,Virginia,51810,1663,116,30,0
 2020-07-10,Warren,Virginia,51187,304,1,8,1
 2020-07-10,Washington,Virginia,51191,76,2,4,0
@@ -8574,6 +8574,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-11,Madison,Virginia,51113,47,1,1,0
 2020-07-11,Manassas Park city,Virginia,51685,457,2,6,0
 2020-07-11,Manassas city,Virginia,51683,1482,10,19,1
+2020-07-11,Martinsville city,Virginia,51690,112,5,1,0
 2020-07-11,Mathews,Virginia,51115,7,0,0,0
 2020-07-11,Mecklenburg,Virginia,51117,257,4,29,0
 2020-07-11,Middlesex,Virginia,51119,17,1,0,0
@@ -8619,7 +8620,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-11,Surry,Virginia,51181,18,1,1,0
 2020-07-11,Sussex,Virginia,51183,211,0,7,0
 2020-07-11,Tazewell,Virginia,51185,26,2,0,0
-2020-07-11,Unknown,Virginia,,112,5,1,0
 2020-07-11,Virginia Beach city,Virginia,51810,1759,96,30,0
 2020-07-11,Warren,Virginia,51187,308,4,8,0
 2020-07-11,Washington,Virginia,51191,80,4,4,0
@@ -8707,6 +8707,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-12,Madison,Virginia,51113,47,0,1,0
 2020-07-12,Manassas Park city,Virginia,51685,458,1,6,0
 2020-07-12,Manassas city,Virginia,51683,1485,3,19,0
+2020-07-12,Martinsville city,Virginia,51690,112,0,1,0
 2020-07-12,Mathews,Virginia,51115,7,0,0,0
 2020-07-12,Mecklenburg,Virginia,51117,257,0,29,0
 2020-07-12,Middlesex,Virginia,51119,17,0,0,0
@@ -8752,7 +8753,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-12,Surry,Virginia,51181,18,0,1,0
 2020-07-12,Sussex,Virginia,51183,212,1,7,0
 2020-07-12,Tazewell,Virginia,51185,28,2,0,0
-2020-07-12,Unknown,Virginia,,112,0,1,0
 2020-07-12,Virginia Beach city,Virginia,51810,1821,62,30,0
 2020-07-12,Warren,Virginia,51187,312,4,8,0
 2020-07-12,Washington,Virginia,51191,87,7,4,0
@@ -8840,6 +8840,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-13,Madison,Virginia,51113,48,1,1,0
 2020-07-13,Manassas Park city,Virginia,51685,462,4,6,0
 2020-07-13,Manassas city,Virginia,51683,1493,8,19,0
+2020-07-13,Martinsville city,Virginia,51690,112,0,1,0
 2020-07-13,Mathews,Virginia,51115,7,0,0,0
 2020-07-13,Mecklenburg,Virginia,51117,262,5,29,0
 2020-07-13,Middlesex,Virginia,51119,17,0,0,0
@@ -8885,7 +8886,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-13,Surry,Virginia,51181,19,1,1,0
 2020-07-13,Sussex,Virginia,51183,214,2,7,0
 2020-07-13,Tazewell,Virginia,51185,30,2,0,0
-2020-07-13,Unknown,Virginia,,112,0,1,0
 2020-07-13,Virginia Beach city,Virginia,51810,1978,157,32,2
 2020-07-13,Warren,Virginia,51187,313,1,8,0
 2020-07-13,Washington,Virginia,51191,88,1,4,0
@@ -8973,6 +8973,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-14,Madison,Virginia,51113,49,1,1,0
 2020-07-14,Manassas Park city,Virginia,51685,461,-1,6,0
 2020-07-14,Manassas city,Virginia,51683,1494,1,19,0
+2020-07-14,Martinsville city,Virginia,51690,117,5,1,0
 2020-07-14,Mathews,Virginia,51115,7,0,0,0
 2020-07-14,Mecklenburg,Virginia,51117,263,1,29,0
 2020-07-14,Middlesex,Virginia,51119,17,0,0,0
@@ -9018,7 +9019,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-14,Surry,Virginia,51181,21,2,1,0
 2020-07-14,Sussex,Virginia,51183,216,2,7,0
 2020-07-14,Tazewell,Virginia,51185,33,3,0,0
-2020-07-14,Unknown,Virginia,,117,5,1,0
 2020-07-14,Virginia Beach city,Virginia,51810,1993,15,32,0
 2020-07-14,Warren,Virginia,51187,314,1,8,0
 2020-07-14,Washington,Virginia,51191,89,1,4,0
@@ -9106,6 +9106,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-15,Madison,Virginia,51113,48,-1,1,0
 2020-07-15,Manassas Park city,Virginia,51685,463,2,6,0
 2020-07-15,Manassas city,Virginia,51683,1497,3,19,0
+2020-07-15,Martinsville city,Virginia,51690,123,6,1,0
 2020-07-15,Mathews,Virginia,51115,7,0,0,0
 2020-07-15,Mecklenburg,Virginia,51117,267,4,29,0
 2020-07-15,Middlesex,Virginia,51119,18,1,0,0
@@ -9151,7 +9152,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-15,Surry,Virginia,51181,21,0,1,0
 2020-07-15,Sussex,Virginia,51183,219,3,7,0
 2020-07-15,Tazewell,Virginia,51185,34,1,0,0
-2020-07-15,Unknown,Virginia,,123,6,1,0
 2020-07-15,Virginia Beach city,Virginia,51810,2137,144,34,2
 2020-07-15,Warren,Virginia,51187,317,3,8,0
 2020-07-15,Washington,Virginia,51191,90,1,4,0
@@ -9239,6 +9239,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-16,Madison,Virginia,51113,49,1,1,0
 2020-07-16,Manassas Park city,Virginia,51685,464,1,6,0
 2020-07-16,Manassas city,Virginia,51683,1499,2,19,0
+2020-07-16,Martinsville city,Virginia,51690,128,5,1,0
 2020-07-16,Mathews,Virginia,51115,7,0,0,0
 2020-07-16,Mecklenburg,Virginia,51117,269,2,29,0
 2020-07-16,Middlesex,Virginia,51119,18,0,0,0
@@ -9284,7 +9285,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-16,Surry,Virginia,51181,21,0,1,0
 2020-07-16,Sussex,Virginia,51183,227,8,7,0
 2020-07-16,Tazewell,Virginia,51185,35,1,0,0
-2020-07-16,Unknown,Virginia,,128,5,1,0
 2020-07-16,Virginia Beach city,Virginia,51810,2272,135,34,0
 2020-07-16,Warren,Virginia,51187,318,1,8,0
 2020-07-16,Washington,Virginia,51191,95,5,4,0
@@ -9372,6 +9372,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-17,Madison,Virginia,51113,51,2,1,0
 2020-07-17,Manassas Park city,Virginia,51685,468,4,7,1
 2020-07-17,Manassas city,Virginia,51683,1511,12,19,0
+2020-07-17,Martinsville city,Virginia,51690,129,1,1,0
 2020-07-17,Mathews,Virginia,51115,7,0,0,0
 2020-07-17,Mecklenburg,Virginia,51117,271,2,29,0
 2020-07-17,Middlesex,Virginia,51119,18,0,0,0
@@ -9417,7 +9418,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-17,Surry,Virginia,51181,21,0,1,0
 2020-07-17,Sussex,Virginia,51183,229,2,7,0
 2020-07-17,Tazewell,Virginia,51185,36,1,0,0
-2020-07-17,Unknown,Virginia,,129,1,1,0
 2020-07-17,Virginia Beach city,Virginia,51810,2396,124,34,0
 2020-07-17,Warren,Virginia,51187,322,4,8,0
 2020-07-17,Washington,Virginia,51191,100,5,4,0
@@ -9505,6 +9505,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-18,Madison,Virginia,51113,52,1,1,0
 2020-07-18,Manassas Park city,Virginia,51685,470,2,7,0
 2020-07-18,Manassas city,Virginia,51683,1521,10,20,1
+2020-07-18,Martinsville city,Virginia,51690,132,3,1,0
 2020-07-18,Mathews,Virginia,51115,7,0,0,0
 2020-07-18,Mecklenburg,Virginia,51117,273,2,30,1
 2020-07-18,Middlesex,Virginia,51119,18,0,0,0
@@ -9550,7 +9551,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-18,Surry,Virginia,51181,22,1,1,0
 2020-07-18,Sussex,Virginia,51183,233,4,7,0
 2020-07-18,Tazewell,Virginia,51185,39,3,0,0
-2020-07-18,Unknown,Virginia,,132,3,1,0
 2020-07-18,Virginia Beach city,Virginia,51810,2464,68,36,2
 2020-07-18,Warren,Virginia,51187,326,4,8,0
 2020-07-18,Washington,Virginia,51191,104,4,4,0
@@ -9638,6 +9638,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-19,Madison,Virginia,51113,51,-1,1,0
 2020-07-19,Manassas Park city,Virginia,51685,472,2,7,0
 2020-07-19,Manassas city,Virginia,51683,1527,6,20,0
+2020-07-19,Martinsville city,Virginia,51690,132,0,1,0
 2020-07-19,Mathews,Virginia,51115,8,1,0,0
 2020-07-19,Mecklenburg,Virginia,51117,277,4,30,0
 2020-07-19,Middlesex,Virginia,51119,18,0,0,0
@@ -9683,7 +9684,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-19,Surry,Virginia,51181,25,3,1,0
 2020-07-19,Sussex,Virginia,51183,234,1,7,0
 2020-07-19,Tazewell,Virginia,51185,43,4,0,0
-2020-07-19,Unknown,Virginia,,132,0,1,0
 2020-07-19,Virginia Beach city,Virginia,51810,2610,146,37,1
 2020-07-19,Warren,Virginia,51187,326,0,8,0
 2020-07-19,Washington,Virginia,51191,111,7,4,0
@@ -9771,6 +9771,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-20,Madison,Virginia,51113,51,0,1,0
 2020-07-20,Manassas Park city,Virginia,51685,473,1,7,0
 2020-07-20,Manassas city,Virginia,51683,1530,3,20,0
+2020-07-20,Martinsville city,Virginia,51690,132,0,1,0
 2020-07-20,Mathews,Virginia,51115,10,2,0,0
 2020-07-20,Mecklenburg,Virginia,51117,280,3,30,0
 2020-07-20,Middlesex,Virginia,51119,20,2,1,1
@@ -9816,7 +9817,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-20,Surry,Virginia,51181,26,1,1,0
 2020-07-20,Sussex,Virginia,51183,235,1,7,0
 2020-07-20,Tazewell,Virginia,51185,45,2,0,0
-2020-07-20,Unknown,Virginia,,132,0,1,0
 2020-07-20,Virginia Beach city,Virginia,51810,2720,110,37,0
 2020-07-20,Warren,Virginia,51187,334,8,8,0
 2020-07-20,Washington,Virginia,51191,112,1,4,0
@@ -9904,6 +9904,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-21,Madison,Virginia,51113,51,0,1,0
 2020-07-21,Manassas Park city,Virginia,51685,477,4,7,0
 2020-07-21,Manassas city,Virginia,51683,1531,1,20,0
+2020-07-21,Martinsville city,Virginia,51690,143,11,1,0
 2020-07-21,Mathews,Virginia,51115,9,-1,0,0
 2020-07-21,Mecklenburg,Virginia,51117,281,1,30,0
 2020-07-21,Middlesex,Virginia,51119,20,0,1,0
@@ -9949,7 +9950,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-21,Surry,Virginia,51181,29,3,1,0
 2020-07-21,Sussex,Virginia,51183,236,1,7,0
 2020-07-21,Tazewell,Virginia,51185,48,3,0,0
-2020-07-21,Unknown,Virginia,,143,11,1,0
 2020-07-21,Virginia Beach city,Virginia,51810,2829,109,38,1
 2020-07-21,Warren,Virginia,51187,334,0,8,0
 2020-07-21,Washington,Virginia,51191,114,2,4,0
@@ -10037,6 +10037,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-22,Madison,Virginia,51113,52,1,1,0
 2020-07-22,Manassas Park city,Virginia,51685,478,1,7,0
 2020-07-22,Manassas city,Virginia,51683,1544,13,20,0
+2020-07-22,Martinsville city,Virginia,51690,145,2,1,0
 2020-07-22,Mathews,Virginia,51115,9,0,0,0
 2020-07-22,Mecklenburg,Virginia,51117,283,2,30,0
 2020-07-22,Middlesex,Virginia,51119,21,1,1,0
@@ -10082,7 +10083,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-22,Surry,Virginia,51181,30,1,1,0
 2020-07-22,Sussex,Virginia,51183,238,2,7,0
 2020-07-22,Tazewell,Virginia,51185,54,6,0,0
-2020-07-22,Unknown,Virginia,,145,2,1,0
 2020-07-22,Virginia Beach city,Virginia,51810,2968,139,39,1
 2020-07-22,Warren,Virginia,51187,340,6,8,0
 2020-07-22,Washington,Virginia,51191,118,4,4,0
@@ -10170,6 +10170,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-23,Madison,Virginia,51113,51,-1,1,0
 2020-07-23,Manassas Park city,Virginia,51685,479,1,7,0
 2020-07-23,Manassas city,Virginia,51683,1553,9,20,0
+2020-07-23,Martinsville city,Virginia,51690,147,2,1,0
 2020-07-23,Mathews,Virginia,51115,9,0,0,0
 2020-07-23,Mecklenburg,Virginia,51117,286,3,30,0
 2020-07-23,Middlesex,Virginia,51119,21,0,1,0
@@ -10215,7 +10216,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-23,Surry,Virginia,51181,31,1,1,0
 2020-07-23,Sussex,Virginia,51183,245,7,7,0
 2020-07-23,Tazewell,Virginia,51185,55,1,0,0
-2020-07-23,Unknown,Virginia,,147,2,1,0
 2020-07-23,Virginia Beach city,Virginia,51810,3030,62,39,0
 2020-07-23,Warren,Virginia,51187,339,-1,7,-1
 2020-07-23,Washington,Virginia,51191,119,1,4,0
@@ -10303,6 +10303,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-24,Madison,Virginia,51113,51,0,1,0
 2020-07-24,Manassas Park city,Virginia,51685,482,3,7,0
 2020-07-24,Manassas city,Virginia,51683,1559,6,20,0
+2020-07-24,Martinsville city,Virginia,51690,149,2,1,0
 2020-07-24,Mathews,Virginia,51115,11,2,0,0
 2020-07-24,Mecklenburg,Virginia,51117,288,2,30,0
 2020-07-24,Middlesex,Virginia,51119,20,-1,1,0
@@ -10348,7 +10349,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-24,Surry,Virginia,51181,35,4,1,0
 2020-07-24,Sussex,Virginia,51183,253,8,7,0
 2020-07-24,Tazewell,Virginia,51185,57,2,0,0
-2020-07-24,Unknown,Virginia,,149,2,1,0
 2020-07-24,Virginia Beach city,Virginia,51810,3119,89,41,2
 2020-07-24,Warren,Virginia,51187,339,0,7,0
 2020-07-24,Washington,Virginia,51191,131,12,4,0
@@ -10436,6 +10436,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-25,Madison,Virginia,51113,53,2,1,0
 2020-07-25,Manassas Park city,Virginia,51685,482,0,7,0
 2020-07-25,Manassas city,Virginia,51683,1561,2,20,0
+2020-07-25,Martinsville city,Virginia,51690,149,0,2,1
 2020-07-25,Mathews,Virginia,51115,11,0,0,0
 2020-07-25,Mecklenburg,Virginia,51117,293,5,30,0
 2020-07-25,Middlesex,Virginia,51119,22,2,1,0
@@ -10481,7 +10482,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-25,Surry,Virginia,51181,35,0,1,0
 2020-07-25,Sussex,Virginia,51183,256,3,7,0
 2020-07-25,Tazewell,Virginia,51185,65,8,0,0
-2020-07-25,Unknown,Virginia,,149,0,2,1
 2020-07-25,Virginia Beach city,Virginia,51810,3448,329,43,2
 2020-07-25,Warren,Virginia,51187,341,2,7,0
 2020-07-25,Washington,Virginia,51191,136,5,4,0
@@ -10569,6 +10569,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-26,Madison,Virginia,51113,53,0,1,0
 2020-07-26,Manassas Park city,Virginia,51685,483,1,7,0
 2020-07-26,Manassas city,Virginia,51683,1567,6,20,0
+2020-07-26,Martinsville city,Virginia,51690,149,0,2,0
 2020-07-26,Mathews,Virginia,51115,11,0,0,0
 2020-07-26,Mecklenburg,Virginia,51117,294,1,30,0
 2020-07-26,Middlesex,Virginia,51119,22,0,1,0
@@ -10614,7 +10615,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-26,Surry,Virginia,51181,35,0,1,0
 2020-07-26,Sussex,Virginia,51183,259,3,7,0
 2020-07-26,Tazewell,Virginia,51185,67,2,0,0
-2020-07-26,Unknown,Virginia,,149,0,2,0
 2020-07-26,Virginia Beach city,Virginia,51810,3548,100,43,0
 2020-07-26,Warren,Virginia,51187,342,1,7,0
 2020-07-26,Washington,Virginia,51191,142,6,4,0
@@ -10702,6 +10702,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-27,Madison,Virginia,51113,56,3,1,0
 2020-07-27,Manassas Park city,Virginia,51685,486,3,7,0
 2020-07-27,Manassas city,Virginia,51683,1575,8,20,0
+2020-07-27,Martinsville city,Virginia,51690,149,0,2,0
 2020-07-27,Mathews,Virginia,51115,11,0,0,0
 2020-07-27,Mecklenburg,Virginia,51117,295,1,30,0
 2020-07-27,Middlesex,Virginia,51119,22,0,1,0
@@ -10747,7 +10748,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-27,Surry,Virginia,51181,35,0,1,0
 2020-07-27,Sussex,Virginia,51183,264,5,7,0
 2020-07-27,Tazewell,Virginia,51185,68,1,0,0
-2020-07-27,Unknown,Virginia,,149,0,2,0
 2020-07-27,Virginia Beach city,Virginia,51810,3742,194,43,0
 2020-07-27,Warren,Virginia,51187,345,3,7,0
 2020-07-27,Washington,Virginia,51191,146,4,4,0
@@ -10835,6 +10835,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-28,Madison,Virginia,51113,57,1,1,0
 2020-07-28,Manassas Park city,Virginia,51685,488,2,7,0
 2020-07-28,Manassas city,Virginia,51683,1584,9,20,0
+2020-07-28,Martinsville city,Virginia,51690,155,6,2,0
 2020-07-28,Mathews,Virginia,51115,12,1,0,0
 2020-07-28,Mecklenburg,Virginia,51117,297,2,30,0
 2020-07-28,Middlesex,Virginia,51119,25,3,1,0
@@ -10880,7 +10881,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-28,Surry,Virginia,51181,35,0,2,1
 2020-07-28,Sussex,Virginia,51183,270,6,7,0
 2020-07-28,Tazewell,Virginia,51185,77,9,0,0
-2020-07-28,Unknown,Virginia,,155,6,2,0
 2020-07-28,Virginia Beach city,Virginia,51810,3788,46,43,0
 2020-07-28,Warren,Virginia,51187,344,-1,7,0
 2020-07-28,Washington,Virginia,51191,146,0,4,0
@@ -10968,6 +10968,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-29,Madison,Virginia,51113,58,1,1,0
 2020-07-29,Manassas Park city,Virginia,51685,493,5,7,0
 2020-07-29,Manassas city,Virginia,51683,1586,2,20,0
+2020-07-29,Martinsville city,Virginia,51690,156,1,3,1
 2020-07-29,Mathews,Virginia,51115,12,0,0,0
 2020-07-29,Mecklenburg,Virginia,51117,303,6,31,1
 2020-07-29,Middlesex,Virginia,51119,25,0,1,0
@@ -11013,7 +11014,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-29,Surry,Virginia,51181,35,0,2,0
 2020-07-29,Sussex,Virginia,51183,271,1,8,1
 2020-07-29,Tazewell,Virginia,51185,80,3,0,0
-2020-07-29,Unknown,Virginia,,156,1,3,1
 2020-07-29,Virginia Beach city,Virginia,51810,3908,120,43,0
 2020-07-29,Warren,Virginia,51187,344,0,7,0
 2020-07-29,Washington,Virginia,51191,157,11,4,0
@@ -11101,6 +11101,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-30,Madison,Virginia,51113,58,0,1,0
 2020-07-30,Manassas Park city,Virginia,51685,495,2,7,0
 2020-07-30,Manassas city,Virginia,51683,1596,10,20,0
+2020-07-30,Martinsville city,Virginia,51690,159,3,3,0
 2020-07-30,Mathews,Virginia,51115,12,0,0,0
 2020-07-30,Mecklenburg,Virginia,51117,303,0,31,0
 2020-07-30,Middlesex,Virginia,51119,26,1,1,0
@@ -11146,7 +11147,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-30,Surry,Virginia,51181,35,0,2,0
 2020-07-30,Sussex,Virginia,51183,276,5,8,0
 2020-07-30,Tazewell,Virginia,51185,81,1,0,0
-2020-07-30,Unknown,Virginia,,159,3,3,0
 2020-07-30,Virginia Beach city,Virginia,51810,3979,71,43,0
 2020-07-30,Warren,Virginia,51187,345,1,7,0
 2020-07-30,Washington,Virginia,51191,164,7,4,0
@@ -11234,6 +11234,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-31,Madison,Virginia,51113,60,2,1,0
 2020-07-31,Manassas Park city,Virginia,51685,497,2,7,0
 2020-07-31,Manassas city,Virginia,51683,1604,8,20,0
+2020-07-31,Martinsville city,Virginia,51690,159,0,3,0
 2020-07-31,Mathews,Virginia,51115,12,0,0,0
 2020-07-31,Mecklenburg,Virginia,51117,303,0,32,1
 2020-07-31,Middlesex,Virginia,51119,26,0,1,0
@@ -11279,7 +11280,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-31,Surry,Virginia,51181,35,0,2,0
 2020-07-31,Sussex,Virginia,51183,276,0,9,1
 2020-07-31,Tazewell,Virginia,51185,87,6,0,0
-2020-07-31,Unknown,Virginia,,159,0,3,0
 2020-07-31,Virginia Beach city,Virginia,51810,4055,76,45,2
 2020-07-31,Warren,Virginia,51187,348,3,7,0
 2020-07-31,Washington,Virginia,51191,170,6,4,0
@@ -11367,6 +11367,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-01,Madison,Virginia,51113,61,1,1,0
 2020-08-01,Manassas Park city,Virginia,51685,498,1,7,0
 2020-08-01,Manassas city,Virginia,51683,1607,3,20,0
+2020-08-01,Martinsville city,Virginia,51690,168,9,3,0
 2020-08-01,Mathews,Virginia,51115,13,1,0,0
 2020-08-01,Mecklenburg,Virginia,51117,305,2,32,0
 2020-08-01,Middlesex,Virginia,51119,27,1,1,0
@@ -11412,7 +11413,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-01,Surry,Virginia,51181,37,2,2,0
 2020-08-01,Sussex,Virginia,51183,277,1,9,0
 2020-08-01,Tazewell,Virginia,51185,92,5,0,0
-2020-08-01,Unknown,Virginia,,168,9,3,0
 2020-08-01,Virginia Beach city,Virginia,51810,4178,123,46,1
 2020-08-01,Warren,Virginia,51187,348,0,7,0
 2020-08-01,Washington,Virginia,51191,172,2,4,0
@@ -11500,6 +11500,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-02,Madison,Virginia,51113,61,0,1,0
 2020-08-02,Manassas Park city,Virginia,51685,500,2,7,0
 2020-08-02,Manassas city,Virginia,51683,1609,2,20,0
+2020-08-02,Martinsville city,Virginia,51690,169,1,3,0
 2020-08-02,Mathews,Virginia,51115,14,1,0,0
 2020-08-02,Mecklenburg,Virginia,51117,308,3,32,0
 2020-08-02,Middlesex,Virginia,51119,27,0,1,0
@@ -11545,7 +11546,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-02,Surry,Virginia,51181,37,0,2,0
 2020-08-02,Sussex,Virginia,51183,277,0,9,0
 2020-08-02,Tazewell,Virginia,51185,95,3,0,0
-2020-08-02,Unknown,Virginia,,169,1,3,0
 2020-08-02,Virginia Beach city,Virginia,51810,4299,121,47,1
 2020-08-02,Warren,Virginia,51187,348,0,7,0
 2020-08-02,Washington,Virginia,51191,181,9,4,0
@@ -11633,6 +11633,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-03,Madison,Virginia,51113,62,1,1,0
 2020-08-03,Manassas Park city,Virginia,51685,500,0,7,0
 2020-08-03,Manassas city,Virginia,51683,1612,3,20,0
+2020-08-03,Martinsville city,Virginia,51690,171,2,3,0
 2020-08-03,Mathews,Virginia,51115,14,0,0,0
 2020-08-03,Mecklenburg,Virginia,51117,309,1,32,0
 2020-08-03,Middlesex,Virginia,51119,28,1,1,0
@@ -11678,7 +11679,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-03,Surry,Virginia,51181,38,1,2,0
 2020-08-03,Sussex,Virginia,51183,279,2,9,0
 2020-08-03,Tazewell,Virginia,51185,98,3,0,0
-2020-08-03,Unknown,Virginia,,171,2,3,0
 2020-08-03,Virginia Beach city,Virginia,51810,4427,128,47,0
 2020-08-03,Warren,Virginia,51187,348,0,6,-1
 2020-08-03,Washington,Virginia,51191,181,0,4,0
@@ -11766,6 +11766,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-04,Madison,Virginia,51113,62,0,1,0
 2020-08-04,Manassas Park city,Virginia,51685,502,2,7,0
 2020-08-04,Manassas city,Virginia,51683,1614,2,20,0
+2020-08-04,Martinsville city,Virginia,51690,173,2,3,0
 2020-08-04,Mathews,Virginia,51115,15,1,0,0
 2020-08-04,Mecklenburg,Virginia,51117,311,2,32,0
 2020-08-04,Middlesex,Virginia,51119,29,1,1,0
@@ -11811,7 +11812,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-04,Surry,Virginia,51181,39,1,2,0
 2020-08-04,Sussex,Virginia,51183,280,1,9,0
 2020-08-04,Tazewell,Virginia,51185,102,4,0,0
-2020-08-04,Unknown,Virginia,,173,2,3,0
 2020-08-04,Virginia Beach city,Virginia,51810,4529,102,49,2
 2020-08-04,Warren,Virginia,51187,351,3,6,0
 2020-08-04,Washington,Virginia,51191,184,3,4,0
@@ -11899,6 +11899,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-05,Madison,Virginia,51113,64,2,1,0
 2020-08-05,Manassas Park city,Virginia,51685,505,3,7,0
 2020-08-05,Manassas city,Virginia,51683,1620,6,20,0
+2020-08-05,Martinsville city,Virginia,51690,179,6,4,1
 2020-08-05,Mathews,Virginia,51115,15,0,0,0
 2020-08-05,Mecklenburg,Virginia,51117,329,18,32,0
 2020-08-05,Middlesex,Virginia,51119,32,3,1,0
@@ -11944,7 +11945,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-05,Surry,Virginia,51181,42,3,2,0
 2020-08-05,Sussex,Virginia,51183,281,1,9,0
 2020-08-05,Tazewell,Virginia,51185,103,1,0,0
-2020-08-05,Unknown,Virginia,,179,6,4,1
 2020-08-05,Virginia Beach city,Virginia,51810,4583,54,49,0
 2020-08-05,Warren,Virginia,51187,352,1,6,0
 2020-08-05,Washington,Virginia,51191,191,7,5,1
@@ -12032,7 +12032,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-06,Madison,Virginia,51113,64,0,1,0
 2020-08-06,Manassas Park city,Virginia,51685,506,1,7,0
 2020-08-06,Manassas city,Virginia,51683,1625,5,20,0
-2020-08-06,Martinsville city,Virginia,51690,184,184,3,3
+2020-08-06,Martinsville city,Virginia,51690,184,5,3,-1
 2020-08-06,Mathews,Virginia,51115,16,1,0,0
 2020-08-06,Mecklenburg,Virginia,51117,360,31,32,0
 2020-08-06,Middlesex,Virginia,51119,33,1,1,0
