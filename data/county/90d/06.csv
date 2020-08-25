@@ -1,59 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-05-18,Alameda,California,06001,2478,65,85,0
-2020-05-18,Alpine,California,06003,2,0,0,0
-2020-05-18,Amador,California,06005,8,0,0,0
-2020-05-18,Butte,California,06007,24,2,0,0
-2020-05-18,Calaveras,California,06009,13,0,0,0
-2020-05-18,Colusa,California,06011,3,0,0,0
-2020-05-18,Contra Costa,California,06013,1155,9,33,0
-2020-05-18,Del Norte,California,06015,8,0,0,0
-2020-05-18,El Dorado,California,06017,67,2,0,0
-2020-05-18,Fresno,California,06019,1263,71,17,1
-2020-05-18,Glenn,California,06021,12,3,0,0
-2020-05-18,Humboldt,California,06023,81,4,0,0
-2020-05-18,Imperial,California,06025,876,90,14,0
-2020-05-18,Inyo,California,06027,20,0,1,0
-2020-05-18,Kern,California,06029,1562,37,26,1
-2020-05-18,Kings,California,06031,412,13,2,0
-2020-05-18,Lake,California,06033,10,2,0,0
-2020-05-18,Los Angeles,California,06037,38451,477,1839,18
-2020-05-18,Madera,California,06039,78,7,2,0
-2020-05-18,Marin,California,06041,329,12,14,0
-2020-05-18,Mariposa,California,06043,15,0,1,0
-2020-05-18,Mendocino,California,06045,14,0,0,0
-2020-05-18,Merced,California,06047,220,19,6,0
-2020-05-18,Mono,California,06051,34,0,1,0
-2020-05-18,Monterey,California,06053,342,13,8,0
-2020-05-18,Napa,California,06055,93,2,3,0
-2020-05-18,Nevada,California,06057,41,0,1,0
-2020-05-18,Orange,California,06059,4466,70,88,0
-2020-05-18,Placer,California,06061,175,0,9,0
-2020-05-18,Plumas,California,06063,4,0,0,0
-2020-05-18,Riverside,California,06065,5952,319,263,4
-2020-05-18,Sacramento,California,06067,1244,8,56,1
-2020-05-18,San Benito,California,06069,61,0,2,0
-2020-05-18,San Bernardino,California,06071,3593,82,155,0
-2020-05-18,San Diego,California,06073,6009,110,242,7
-2020-05-18,San Francisco,California,06075,2135,38,36,0
-2020-05-18,San Joaquin,California,06077,699,10,32,0
-2020-05-18,San Luis Obispo,California,06079,246,3,1,0
-2020-05-18,San Mateo,California,06081,1680,28,68,0
-2020-05-18,Santa Barbara,California,06083,1489,21,11,0
-2020-05-18,Santa Clara,California,06085,2453,0,137,0
-2020-05-18,Santa Cruz,California,06087,163,9,3,0
-2020-05-18,Shasta,California,06089,34,0,4,0
-2020-05-18,Siskiyou,California,06093,6,0,0,0
-2020-05-18,Solano,California,06095,429,14,16,0
-2020-05-18,Sonoma,California,06097,391,4,4,0
-2020-05-18,Stanislaus,California,06099,571,0,24,0
-2020-05-18,Sutter,California,06101,40,0,2,0
-2020-05-18,Tehama,California,06103,2,0,1,0
-2020-05-18,Trinity,California,06105,2,0,0,0
-2020-05-18,Tulare,California,06107,1436,6,67,0
-2020-05-18,Tuolumne,California,06109,2,0,0,0
-2020-05-18,Ventura,California,06111,838,25,25,0
-2020-05-18,Yolo,California,06113,184,0,22,0
-2020-05-18,Yuba,California,06115,28,2,1,0
 2020-05-19,Alameda,California,06001,2543,65,88,3
 2020-05-19,Alpine,California,06003,2,0,0,0
 2020-05-19,Amador,California,06005,8,0,0,0
@@ -5602,3 +5547,61 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-23,Ventura,California,06111,9959,94,102,0
 2020-08-23,Yolo,California,06113,2205,21,47,0
 2020-08-23,Yuba,California,06115,859,15,4,0
+2020-08-24,Alameda,California,06001,16807,63,234,0
+2020-08-24,Alpine,California,06003,2,0,0,0
+2020-08-24,Amador,California,06005,226,3,14,0
+2020-08-24,Butte,California,06007,1664,46,18,1
+2020-08-24,Calaveras,California,06009,197,0,2,0
+2020-08-24,Colusa,California,06011,426,7,5,0
+2020-08-24,Contra Costa,California,06013,12663,0,169,0
+2020-08-24,Del Norte,California,06015,116,0,1,0
+2020-08-24,El Dorado,California,06017,924,24,2,0
+2020-08-24,Fresno,California,06019,23414,217,226,0
+2020-08-24,Glenn,California,06021,421,0,3,0
+2020-08-24,Humboldt,California,06023,359,14,4,0
+2020-08-24,Imperial,California,06025,10396,3,271,0
+2020-08-24,Inyo,California,06027,144,0,11,0
+2020-08-24,Kern,California,06029,28234,94,240,0
+2020-08-24,Kings,California,06031,5957,36,69,1
+2020-08-24,Lake,California,06033,299,8,3,0
+2020-08-24,Lassen,California,06035,704,0,0,0
+2020-08-24,Los Angeles,California,06037,232893,1198,5558,13
+2020-08-24,Madera,California,06039,3484,145,50,1
+2020-08-24,Marin,California,06041,5942,12,85,0
+2020-08-24,Mariposa,California,06043,70,1,2,0
+2020-08-24,Mendocino,California,06045,645,16,16,0
+2020-08-24,Merced,California,06047,7653,160,106,7
+2020-08-24,Modoc,California,06049,5,0,0,0
+2020-08-24,Mono,California,06051,161,0,2,0
+2020-08-24,Monterey,California,06053,7274,48,52,0
+2020-08-24,Napa,California,06055,1349,20,13,0
+2020-08-24,Nevada,California,06057,423,12,3,0
+2020-08-24,Orange,California,06059,46307,353,897,0
+2020-08-24,Placer,California,06061,2795,18,31,0
+2020-08-24,Plumas,California,06063,37,0,0,0
+2020-08-24,Riverside,California,06065,50744,800,972,45
+2020-08-24,Sacramento,California,06067,16330,815,246,12
+2020-08-24,San Benito,California,06069,978,8,7,0
+2020-08-24,San Bernardino,California,06071,45246,211,692,1
+2020-08-24,San Diego,California,06073,36790,187,660,0
+2020-08-24,San Francisco,California,06075,8939,65,77,0
+2020-08-24,San Joaquin,California,06077,16131,63,297,3
+2020-08-24,San Luis Obispo,California,06079,2735,70,21,0
+2020-08-24,San Mateo,California,06081,7670,135,128,0
+2020-08-24,Santa Barbara,California,06083,7800,115,88,1
+2020-08-24,Santa Clara,California,06085,16151,463,225,0
+2020-08-24,Santa Cruz,California,06087,1636,8,7,0
+2020-08-24,Shasta,California,06089,531,0,11,0
+2020-08-24,Sierra,California,06091,6,0,0,0
+2020-08-24,Siskiyou,California,06093,124,1,0,0
+2020-08-24,Solano,California,06095,5211,158,46,2
+2020-08-24,Sonoma,California,06097,5212,92,73,1
+2020-08-24,Stanislaus,California,06099,13483,103,232,3
+2020-08-24,Sutter,California,06101,1283,23,8,0
+2020-08-24,Tehama,California,06103,381,13,1,0
+2020-08-24,Trinity,California,06105,11,2,0,0
+2020-08-24,Tulare,California,06107,13431,235,216,6
+2020-08-24,Tuolumne,California,06109,177,5,2,0
+2020-08-24,Ventura,California,06111,10126,167,103,1
+2020-08-24,Yolo,California,06113,2239,34,47,0
+2020-08-24,Yuba,California,06115,880,21,4,0
