@@ -56,6 +56,24 @@ function parseCTJson(url: string): Promise<any[]> {
   });
 }
 
+function parseC19APIJson(url: string): Promise<any[]> {
+  return new Promise((resolve, reject) => {
+    request(
+      {
+        url: 'https://api.covid19api.com/all',
+        json: true,
+      },
+      function(error, response, body) {
+        if (!error && response.statusCode === 200) {
+          resolve(body);
+        } else {
+          reject(error);
+        }
+      },
+    );
+  });
+}
+
 async function parseNytUs() {
   const usRows: CsvRowObj[] = [];
 
@@ -150,16 +168,18 @@ async function buildStateFiles() {
   }
 
   // Remove existing files
-  try {
-    fs.unlinkSync(path.resolve(__dirname, './data/state/90d.csv'));
-  } catch (err) {
-    // Ignore missing file
-  }
-  try {
-    fs.unlinkSync(path.resolve(__dirname, './data/state/all.csv'));
-  } catch (err) {
-    // Ignore missing file
-  }
+  [
+    './data/state/90d.csv',
+    './data/state/all.csv',
+    './data/world/90d.csv',
+    './data/world/all.csv',
+  ].forEach(file => {
+    try {
+      fs.unlinkSync(path.resolve(__dirname, file));
+    } catch (err) {
+      // Ignore missing file
+    }
+  });
 
   // Prepend US data
   const nytData = [
@@ -168,7 +188,7 @@ async function buildStateFiles() {
   ];
   const ctData = [...ctUsData, ...ctStateData];
 
-  processData(nytData, row => row.state, ctData);
+  // processData(nytData, row => row.state, ctData);
 
   const columns = [
     'date',
@@ -187,14 +207,24 @@ async function buildStateFiles() {
     'pending',
   ];
 
-  // Write "all" file
-  await writeCsvFile(nytData, columns, './data/state/all.csv');
+  // Then parse world data
+  const worldData = await processWorldData();
 
-  // Write "90d" file
-  const rows90days = nytData.filter((row: any) => {
-    return createDate(row.date as string).getTime() >= (date90DaysAgo as Date).getTime();
-  });
-  await writeCsvFile(rows90days, columns, './data/state/90d.csv');
+  const topLevelGeos: [string, any[]][] = [
+    ['state', nytData],
+    ['world', worldData],
+  ];
+
+  for (const [geo, data] of topLevelGeos) {
+    // Write "all" file
+    await writeCsvFile(data, columns, `./data/${geo}/all.csv`);
+
+    // Write "90d" file
+    const rows90days = data.filter((row: any) => {
+      return createDate(row.date as string).getTime() >= (date90DaysAgo as Date).getTime();
+    });
+    await writeCsvFile(rows90days, columns, `./data/${geo}/90d.csv`);
+  }
 }
 
 async function buildCountyFiles() {
@@ -290,6 +320,80 @@ function processData(data: any[], groupBy: (row: any) => string, testingData?: a
       lastDeaths = Number(row.deaths);
     }
   }
+}
+
+async function processWorldData(worldData: any): any {
+  console.log('[🌎] Downloading country list');
+  const countries = await parseC19APIJson('https://api.covid19api.com/countries');
+
+  const byDate = [];
+
+  for (const country of countries) {
+    /*
+    {
+      "Country": "Maldives",
+      "Slug": "maldives",
+      "ISO2": "MV"
+    }
+    */
+    const slug = country.Slug;
+    console.log(`[🌎][${country.Country}] Downloading...`);
+    const allStatus = await parseC19APIJson(`https://api.covid19api.com/dayone/country/${slug}`);
+    console.log(`[🌎][${country.Country}] Processing...`);
+    allStatus.forEach(row => {
+      if (row.Province) {
+        return;
+      }
+      console.log(JSON.stringify(row));
+      const columns = [
+        'date',
+        'state',
+        'fips',
+        'cases',
+        'newCases',
+        'deaths',
+        'newDeaths',
+        'tests',
+        'newTests',
+        'positive',
+        'newPositive',
+        'negative',
+        'newNegative',
+        'pending',
+      ];
+    });
+  }
+
+  console.log('[🌎] Downloading country list');
+  console.log('World: Downloading country list');
+  const grouped = _.groupBy(worldData, row => {
+    return `${row.CountryCode}-${row.Province}`;
+  });
+  console.log(Object.keys(grouped));
+  console.log(grouped['China-']);
+
+  /*
+  for (const group in grouped) {
+    const groupRows = grouped[group];
+    let lastCases = Number(groupRows[0].cases);
+    let lastDeaths = Number(groupRows[0].deaths);
+
+    // Initialize first row
+    groupRows[0].newCases = lastCases;
+    groupRows[0].newDeaths = lastDeaths;
+
+    // Handle subsequent rows
+    for (let i = 1; i < groupRows.length; i++) {
+      const row = groupRows[i];
+      row.newCases = Number(row.cases) - lastCases;
+      row.newDeaths = Number(row.deaths) - lastDeaths;
+      lastCases = Number(row.cases);
+      lastDeaths = Number(row.deaths);
+    }
+  }
+  */
+
+  return [];
 }
 
 function coerceNumber(value: unknown) {
