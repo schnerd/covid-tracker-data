@@ -118,11 +118,11 @@ async function parseNytCounties(): Promise<Record<string, CsvRowObj[]>> {
 }
 
 async function parseCtUs() {
-  return parseCTJson('https://covidtracking.com/api/v1/us/daily.json');
+  return parseCTJson('https://api.covidtracking.com/v1/us/daily.json');
 }
 
 async function parseCtStates() {
-  return parseCTJson('https://covidtracking.com/api/v1/states/daily.json');
+  return parseCTJson('https://api.covidtracking.com/v1/states/daily.json');
 }
 
 async function buildStateFiles() {
@@ -167,6 +167,7 @@ async function buildStateFiles() {
     ...nytStateData,
   ];
   const ctData = [...ctUsData, ...ctStateData];
+  // const ctData = [...ctStateData];
 
   processData(nytData, row => row.state, ctData);
 
@@ -262,7 +263,7 @@ function processData(data: any[], groupBy: (row: any) => string, testingData?: a
         row.positive = coerceNumber(dataOnDate.positive);
         row.negative = coerceNumber(dataOnDate.negative);
         row.pending = coerceNumber(dataOnDate.pending);
-        row.tests = coerceNumber(dataOnDate.total);
+        row.tests = coerceNumber(dataOnDate.totalTestResults);
         row.newPositive = coerceNumber(dataOnDate.positiveIncrease);
         row.newNegative = coerceNumber(dataOnDate.negativeIncrease);
         row.newTests = coerceNumber(dataOnDate.totalTestResultsIncrease);
