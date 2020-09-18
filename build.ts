@@ -167,7 +167,6 @@ async function buildStateFiles() {
     ...nytStateData,
   ];
   const ctData = [...ctUsData, ...ctStateData];
-  // const ctData = [...ctStateData];
 
   processData(nytData, row => row.state, ctData);
 
