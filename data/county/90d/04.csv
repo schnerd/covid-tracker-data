@@ -1,19 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-06-13,Apache,Arizona,04001,1967,40,56,3
-2020-06-13,Cochise,Arizona,04003,206,28,5,0
-2020-06-13,Coconino,Arizona,04005,1360,15,87,1
-2020-06-13,Gila,Arizona,04007,59,5,3,0
-2020-06-13,Graham,Arizona,04009,48,0,2,0
-2020-06-13,Greenlee,Arizona,04011,11,0,1,0
-2020-06-13,La Paz,Arizona,04012,221,4,2,0
-2020-06-13,Maricopa,Arizona,04013,17791,768,549,13
-2020-06-13,Mohave,Arizona,04015,586,2,66,2
-2020-06-13,Navajo,Arizona,04017,2590,78,86,7
-2020-06-13,Pima,Arizona,04019,3889,261,223,1
-2020-06-13,Pinal,Arizona,04021,1500,137,44,1
-2020-06-13,Santa Cruz,Arizona,04023,1027,79,12,3
-2020-06-13,Yavapai,Arizona,04025,374,7,7,0
-2020-06-13,Yuma,Arizona,04027,3144,182,47,2
 2020-06-14,Apache,Arizona,04001,1972,5,56,0
 2020-06-14,Cochise,Arizona,04003,216,10,5,0
 2020-06-14,Coconino,Arizona,04005,1368,8,87,0
@@ -1469,3 +1454,19 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-18,Santa Cruz,Arizona,04023,2815,14,62,1
 2020-09-18,Yavapai,Arizona,04025,2457,15,80,0
 2020-09-18,Yuma,Arizona,04027,12498,26,342,1
+2020-09-19,Apache,Arizona,04001,3455,15,161,0
+2020-09-19,Cochise,Arizona,04003,1880,0,72,0
+2020-09-19,Coconino,Arizona,04005,3713,-25,133,0
+2020-09-19,Gila,Arizona,04007,1232,15,51,0
+2020-09-19,Graham,Arizona,04009,788,1,24,0
+2020-09-19,Greenlee,Arizona,04011,58,0,2,0
+2020-09-19,La Paz,Arizona,04012,533,-1,15,0
+2020-09-19,Maricopa,Arizona,04013,139586,-377,3260,15
+2020-09-19,Mohave,Arizona,04015,3895,9,222,0
+2020-09-19,Navajo,Arizona,04017,5744,4,231,0
+2020-09-19,Pima,Arizona,04019,24511,198,613,0
+2020-09-19,Pinal,Arizona,04021,10342,5,203,1
+2020-09-19,Santa Cruz,Arizona,04023,2816,1,62,0
+2020-09-19,Unknown,Arizona,,1,1,0,-1
+2020-09-19,Yavapai,Arizona,04025,2466,9,80,0
+2020-09-19,Yuma,Arizona,04027,12531,33,342,0
