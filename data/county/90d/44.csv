@@ -1,10 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-06-17,Bristol,Rhode Island,44001,240,0,13,0
-2020-06-17,Kent,Rhode Island,44003,1128,0,82,0
-2020-06-17,Newport,Rhode Island,44005,277,0,4,0
-2020-06-17,Providence,Rhode Island,44007,12363,0,637,0
-2020-06-17,Unknown,Rhode Island,,1689,49,79,11
-2020-06-17,Washington,Rhode Island,44009,516,0,61,0
 2020-06-18,Bristol,Rhode Island,44001,240,0,13,0
 2020-06-18,Kent,Rhode Island,44003,1128,0,82,0
 2020-06-18,Newport,Rhode Island,44005,277,0,4,0
@@ -587,3 +581,9 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-22,Providence,Rhode Island,44007,17941,0,866,0
 2020-09-22,Unknown,Rhode Island,,2670,112,33,2
 2020-09-22,Washington,Rhode Island,44009,753,0,71,0
+2020-09-23,Bristol,Rhode Island,44001,404,22,16,0
+2020-09-23,Kent,Rhode Island,44003,1867,71,110,3
+2020-09-23,Newport,Rhode Island,44005,518,16,8,2
+2020-09-23,Providence,Rhode Island,44007,18437,496,882,16
+2020-09-23,Unknown,Rhode Island,,2148,-522,15,-18
+2020-09-23,Washington,Rhode Island,44009,803,50,71,0
