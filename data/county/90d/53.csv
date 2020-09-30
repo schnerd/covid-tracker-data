@@ -1,42 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-06-23,Adams,Washington,53001,109,1,0,0
-2020-06-23,Asotin,Washington,53003,20,0,2,0
-2020-06-23,Benton,Washington,53005,1634,26,76,0
-2020-06-23,Chelan,Washington,53007,294,7,7,0
-2020-06-23,Clallam,Washington,53009,33,0,0,0
-2020-06-23,Clark,Washington,53011,719,16,30,0
-2020-06-23,Columbia,Washington,53013,8,6,0,0
-2020-06-23,Cowlitz,Washington,53015,149,4,0,0
-2020-06-23,Douglas,Washington,53017,199,3,3,0
-2020-06-23,Ferry,Washington,53019,1,0,0,0
-2020-06-23,Franklin,Washington,53021,1450,0,30,1
-2020-06-23,Grant,Washington,53025,470,0,5,1
-2020-06-23,Grays Harbor,Washington,53027,23,0,0,0
-2020-06-23,Island,Washington,53029,187,0,12,0
-2020-06-23,Jefferson,Washington,53031,33,0,0,0
-2020-06-23,King,Washington,53033,9371,96,606,2
-2020-06-23,Kitsap,Washington,53035,195,4,2,0
-2020-06-23,Kittitas,Washington,53037,100,1,0,0
-2020-06-23,Klickitat,Washington,53039,53,1,3,0
-2020-06-23,Lewis,Washington,53041,50,1,3,0
-2020-06-23,Lincoln,Washington,53043,2,0,0,0
-2020-06-23,Mason,Washington,53045,43,0,1,0
-2020-06-23,Okanogan,Washington,53047,82,0,2,0
-2020-06-23,Pacific,Washington,53049,13,0,1,0
-2020-06-23,Pend Oreille,Washington,53051,3,0,0,0
-2020-06-23,Pierce,Washington,53053,2625,25,93,1
-2020-06-23,San Juan,Washington,53055,19,0,0,0
-2020-06-23,Skagit,Washington,53057,486,1,15,0
-2020-06-23,Skamania,Washington,53059,4,1,0,0
-2020-06-23,Snohomish,Washington,53061,3813,66,163,0
-2020-06-23,Spokane,Washington,53063,1055,53,38,-1
-2020-06-23,Stevens,Washington,53065,16,-1,1,0
-2020-06-23,Thurston,Washington,53067,221,2,7,0
-2020-06-23,Wahkiakum,Washington,53069,4,0,0,0
-2020-06-23,Walla Walla,Washington,53071,144,1,3,0
-2020-06-23,Whatcom,Washington,53073,521,22,40,0
-2020-06-23,Whitman,Washington,53075,33,-1,0,0
-2020-06-23,Yakima,Washington,53077,6596,0,142,4
 2020-06-24,Adams,Washington,53001,109,0,0,0
 2020-06-24,Asotin,Washington,53003,20,0,2,0
 2020-06-24,Benton,Washington,53005,1692,58,76,0
@@ -3869,3 +3831,43 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-28,Whatcom,Washington,53073,1355,7,52,0
 2020-09-28,Whitman,Washington,53075,1309,37,0,0
 2020-09-28,Yakima,Washington,53077,12279,30,271,0
+2020-09-29,Adams,Washington,53001,864,6,10,0
+2020-09-29,Asotin,Washington,53003,116,5,3,1
+2020-09-29,Benton,Washington,53005,4742,27,136,3
+2020-09-29,Chelan,Washington,53007,2083,19,18,0
+2020-09-29,Clallam,Washington,53009,231,0,1,0
+2020-09-29,Clark,Washington,53011,3459,32,68,4
+2020-09-29,Columbia,Washington,53013,14,0,1,0
+2020-09-29,Cowlitz,Washington,53015,679,18,7,0
+2020-09-29,Douglas,Washington,53017,1307,7,10,0
+2020-09-29,Ferry,Washington,53019,30,0,0,0
+2020-09-29,Franklin,Washington,53021,4447,13,67,0
+2020-09-29,Garfield,Washington,53023,13,2,0,0
+2020-09-29,Grant,Washington,53025,3098,10,20,0
+2020-09-29,Grays Harbor,Washington,53027,501,-1,10,3
+2020-09-29,Island,Washington,53029,319,0,15,0
+2020-09-29,Jefferson,Washington,53031,71,0,0,0
+2020-09-29,King,Washington,53033,22282,51,780,-7
+2020-09-29,Kitsap,Washington,53035,1217,3,13,-1
+2020-09-29,Kittitas,Washington,53037,542,5,22,0
+2020-09-29,Klickitat,Washington,53039,193,0,3,0
+2020-09-29,Lewis,Washington,53041,537,13,5,1
+2020-09-29,Lincoln,Washington,53043,51,3,1,0
+2020-09-29,Mason,Washington,53045,403,2,5,1
+2020-09-29,Okanogan,Washington,53047,1067,1,13,0
+2020-09-29,Pacific,Washington,53049,83,3,3,0
+2020-09-29,Pend Oreille,Washington,53051,65,3,0,0
+2020-09-29,Pierce,Washington,53053,8904,49,227,4
+2020-09-29,San Juan,Washington,53055,30,0,0,0
+2020-09-29,Skagit,Washington,53057,1108,0,24,0
+2020-09-29,Skamania,Washington,53059,65,0,1,0
+2020-09-29,Snohomish,Washington,53061,8127,27,226,3
+2020-09-29,Spokane,Washington,53063,7057,61,172,2
+2020-09-29,Stevens,Washington,53065,167,0,2,0
+2020-09-29,Thurston,Washington,53067,1230,5,20,2
+2020-09-29,Unknown,Washington,,2,0,2,0
+2020-09-29,Wahkiakum,Washington,53069,6,0,0,0
+2020-09-29,Walla Walla,Washington,53071,913,6,6,-1
+2020-09-29,Whatcom,Washington,53073,1363,8,54,2
+2020-09-29,Whitman,Washington,53075,1319,10,0,0
+2020-09-29,Yakima,Washington,53077,12306,27,273,2
