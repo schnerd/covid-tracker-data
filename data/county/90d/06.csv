@@ -1,61 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-07-18,Alameda,California,06001,9131,252,162,1
-2020-07-18,Alpine,California,06003,2,0,0,0
-2020-07-18,Amador,California,06005,49,0,0,0
-2020-07-18,Butte,California,06007,522,0,4,0
-2020-07-18,Calaveras,California,06009,87,0,0,0
-2020-07-18,Colusa,California,06011,173,0,0,0
-2020-07-18,Contra Costa,California,06013,5538,160,98,2
-2020-07-18,Del Norte,California,06015,66,4,0,0
-2020-07-18,El Dorado,California,06017,394,0,0,0
-2020-07-18,Fresno,California,06019,9954,389,100,0
-2020-07-18,Glenn,California,06021,203,13,0,0
-2020-07-18,Humboldt,California,06023,185,1,4,0
-2020-07-18,Imperial,California,06025,8531,134,160,5
-2020-07-18,Inyo,California,06027,38,0,1,0
-2020-07-18,Kern,California,06029,8291,856,105,0
-2020-07-18,Kings,California,06031,3247,38,41,0
-2020-07-18,Lake,California,06033,140,0,1,0
-2020-07-18,Lassen,California,06035,491,0,0,0
-2020-07-18,Los Angeles,California,06037,153041,2722,4084,37
-2020-07-18,Madera,California,06039,1214,22,11,0
-2020-07-18,Marin,California,06041,4198,39,40,0
-2020-07-18,Mariposa,California,06043,36,1,1,0
-2020-07-18,Mendocino,California,06045,194,9,0,0
-2020-07-18,Merced,California,06047,2403,0,15,0
-2020-07-18,Mono,California,06051,76,2,1,0
-2020-07-18,Monterey,California,06053,3162,103,18,0
-2020-07-18,Napa,California,06055,599,16,5,0
-2020-07-18,Nevada,California,06057,204,0,1,0
-2020-07-18,Orange,California,06059,29011,486,494,25
-2020-07-18,Placer,California,06061,1280,45,11,0
-2020-07-18,Plumas,California,06063,16,0,0,0
-2020-07-18,Riverside,California,06065,29639,735,587,0
-2020-07-18,Sacramento,California,06067,6692,182,96,1
-2020-07-18,San Benito,California,06069,437,3,2,0
-2020-07-18,San Bernardino,California,06071,23566,328,328,13
-2020-07-18,San Diego,California,06073,23177,625,478,6
-2020-07-18,San Francisco,California,06075,5119,141,52,0
-2020-07-18,San Joaquin,California,06077,7925,106,83,0
-2020-07-18,San Luis Obispo,California,06079,1213,0,6,0
-2020-07-18,San Mateo,California,06081,4465,62,114,0
-2020-07-18,Santa Barbara,California,06083,5001,129,32,0
-2020-07-18,Santa Clara,California,06085,7300,169,178,0
-2020-07-18,Santa Cruz,California,06087,772,36,3,0
-2020-07-18,Shasta,California,06089,235,8,7,0
-2020-07-18,Sierra,California,06091,1,0,0,0
-2020-07-18,Siskiyou,California,06093,44,0,0,0
-2020-07-18,Solano,California,06095,2559,0,31,0
-2020-07-18,Sonoma,California,06097,2121,53,19,0
-2020-07-18,Stanislaus,California,06099,6220,143,63,0
-2020-07-18,Sutter,California,06101,502,11,4,0
-2020-07-18,Tehama,California,06103,128,2,1,0
-2020-07-18,Trinity,California,06105,3,0,0,0
-2020-07-18,Tulare,California,06107,6683,0,165,0
-2020-07-18,Tuolumne,California,06109,85,0,0,0
-2020-07-18,Ventura,California,06111,5451,220,57,0
-2020-07-18,Yolo,California,06113,1123,22,31,0
-2020-07-18,Yuba,California,06115,257,5,3,0
 2020-07-19,Alameda,California,06001,9258,127,162,0
 2020-07-19,Alpine,California,06003,2,0,0,0
 2020-07-19,Amador,California,06005,52,3,0,0
@@ -5672,3 +5615,61 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-23,Ventura,California,06111,14124,74,164,2
 2020-10-23,Yolo,California,06113,3144,25,58,0
 2020-10-23,Yuba,California,06115,1293,0,10,0
+2020-10-24,Alameda,California,06001,23236,82,460,4
+2020-10-24,Alpine,California,06003,3,0,0,0
+2020-10-24,Amador,California,06005,323,7,16,0
+2020-10-24,Butte,California,06007,3059,12,52,0
+2020-10-24,Calaveras,California,06009,342,0,18,0
+2020-10-24,Colusa,California,06011,550,0,6,0
+2020-10-24,Contra Costa,California,06013,18483,90,241,1
+2020-10-24,Del Norte,California,06015,178,0,1,0
+2020-10-24,El Dorado,California,06017,1310,2,4,0
+2020-10-24,Fresno,California,06019,30731,0,436,0
+2020-10-24,Glenn,California,06021,644,1,3,0
+2020-10-24,Humboldt,California,06023,562,0,9,0
+2020-10-24,Imperial,California,06025,12700,0,335,0
+2020-10-24,Inyo,California,06027,226,6,15,0
+2020-10-24,Kern,California,06029,33813,38,416,0
+2020-10-24,Kings,California,06031,8218,17,83,0
+2020-10-24,Lake,California,06033,689,11,15,0
+2020-10-24,Lassen,California,06035,766,0,1,0
+2020-10-24,Los Angeles,California,06037,298937,2116,6989,15
+2020-10-24,Madera,California,06039,4981,0,74,0
+2020-10-24,Marin,California,06041,7075,18,128,0
+2020-10-24,Mariposa,California,06043,78,0,2,0
+2020-10-24,Mendocino,California,06045,1127,3,21,0
+2020-10-24,Merced,California,06047,9465,0,155,0
+2020-10-24,Modoc,California,06049,28,2,0,0
+2020-10-24,Mono,California,06051,179,2,2,0
+2020-10-24,Monterey,California,06053,11372,51,91,2
+2020-10-24,Napa,California,06055,1943,5,15,0
+2020-10-24,Nevada,California,06057,608,0,8,0
+2020-10-24,Orange,California,06059,60184,316,1444,4
+2020-10-24,Placer,California,06061,4088,0,57,0
+2020-10-24,Plumas,California,06063,63,1,0,0
+2020-10-24,Riverside,California,06065,65757,0,1279,0
+2020-10-24,Sacramento,California,06067,25263,0,484,0
+2020-10-24,San Benito,California,06069,1436,4,15,0
+2020-10-24,San Bernardino,California,06071,62353,627,1072,2
+2020-10-24,San Diego,California,06073,54377,386,868,1
+2020-10-24,San Francisco,California,06075,12072,37,140,0
+2020-10-24,San Joaquin,California,06077,21630,0,489,0
+2020-10-24,San Luis Obispo,California,06079,4141,0,32,0
+2020-10-24,San Mateo,California,06081,11075,73,159,0
+2020-10-24,Santa Barbara,California,06083,9760,0,120,0
+2020-10-24,Santa Clara,California,06085,24014,133,389,0
+2020-10-24,Santa Cruz,California,06087,2788,17,25,0
+2020-10-24,Shasta,California,06089,1846,7,30,0
+2020-10-24,Sierra,California,06091,6,0,0,0
+2020-10-24,Siskiyou,California,06093,193,0,0,0
+2020-10-24,Solano,California,06095,7291,0,74,0
+2020-10-24,Sonoma,California,06097,9245,82,134,0
+2020-10-24,Stanislaus,California,06099,18296,73,396,0
+2020-10-24,Sutter,California,06101,1837,0,12,0
+2020-10-24,Tehama,California,06103,862,10,8,0
+2020-10-24,Trinity,California,06105,27,0,0,0
+2020-10-24,Tulare,California,06107,17495,0,286,0
+2020-10-24,Tuolumne,California,06109,268,0,4,0
+2020-10-24,Ventura,California,06111,14192,68,164,0
+2020-10-24,Yolo,California,06113,3166,22,58,0
+2020-10-24,Yuba,California,06115,1293,0,10,0
