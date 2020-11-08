@@ -184,7 +184,6 @@ async function buildStateFiles() {
     'newPositive',
     'negative',
     'newNegative',
-    'pending',
   ];
 
   // Write "all" file
@@ -261,11 +260,10 @@ function processData(data: any[], groupBy: (row: any) => string, testingData?: a
       if (dataOnDate) {
         row.positive = coerceNumber(dataOnDate.positive);
         row.negative = coerceNumber(dataOnDate.negative);
-        row.pending = coerceNumber(dataOnDate.pending);
-        row.tests = coerceNumber(dataOnDate.totalTestResults);
+        row.tests = row.positive + row.negative;
         row.newPositive = coerceNumber(dataOnDate.positiveIncrease);
         row.newNegative = coerceNumber(dataOnDate.negativeIncrease);
-        row.newTests = coerceNumber(dataOnDate.totalTestResultsIncrease);
+        row.newTests = row.newPositive + row.newNegative;
       }
     });
   }
