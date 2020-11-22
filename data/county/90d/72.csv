@@ -1,83 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-08-15,Adjuntas,Puerto Rico,72001,100,1,0,0
-2020-08-15,Aguada,Puerto Rico,72003,160,5,0,0
-2020-08-15,Aguadilla,Puerto Rico,72005,247,8,0,0
-2020-08-15,Aguas Buenas,Puerto Rico,72007,149,4,0,0
-2020-08-15,Aibonito,Puerto Rico,72009,98,1,0,0
-2020-08-15,Anasco,Puerto Rico,72011,153,2,0,0
-2020-08-15,Arecibo,Puerto Rico,72013,377,11,0,0
-2020-08-15,Arroyo,Puerto Rico,72015,102,2,0,0
-2020-08-15,Barceloneta,Puerto Rico,72017,104,2,0,0
-2020-08-15,Barranquitas,Puerto Rico,72019,273,4,0,0
-2020-08-15,Bayamon,Puerto Rico,72021,1830,47,0,0
-2020-08-15,Cabo Rojo,Puerto Rico,72023,239,3,0,0
-2020-08-15,Caguas,Puerto Rico,72025,842,15,0,0
-2020-08-15,Camuy,Puerto Rico,72027,157,6,0,0
-2020-08-15,Canovanas,Puerto Rico,72029,423,6,0,0
-2020-08-15,Carolina,Puerto Rico,72031,1473,29,0,0
-2020-08-15,Catano,Puerto Rico,72033,225,7,0,0
-2020-08-15,Cayey,Puerto Rico,72035,222,7,0,0
-2020-08-15,Ceiba,Puerto Rico,72037,75,1,0,0
-2020-08-15,Ciales,Puerto Rico,72039,168,3,0,0
-2020-08-15,Cidra,Puerto Rico,72041,194,6,0,0
-2020-08-15,Coamo,Puerto Rico,72043,176,2,0,0
-2020-08-15,Comerio,Puerto Rico,72045,137,5,0,0
-2020-08-15,Corozal,Puerto Rico,72047,275,4,0,0
-2020-08-15,Culebra,Puerto Rico,72049,19,0,0,0
-2020-08-15,Dorado,Puerto Rico,72051,362,8,0,0
-2020-08-15,Fajardo,Puerto Rico,72053,288,7,0,0
-2020-08-15,Florida,Puerto Rico,72054,192,1,0,0
-2020-08-15,Guanica,Puerto Rico,72055,66,1,0,0
-2020-08-15,Guayama,Puerto Rico,72057,185,6,0,0
-2020-08-15,Guayanilla,Puerto Rico,72059,135,1,0,0
-2020-08-15,Guaynabo,Puerto Rico,72061,983,21,0,0
-2020-08-15,Gurabo,Puerto Rico,72063,294,3,0,0
-2020-08-15,Hatillo,Puerto Rico,72065,121,0,0,0
-2020-08-15,Hormigueros,Puerto Rico,72067,108,6,0,0
-2020-08-15,Humacao,Puerto Rico,72069,220,6,0,0
-2020-08-15,Isabela,Puerto Rico,72071,153,3,0,0
-2020-08-15,Jayuya,Puerto Rico,72073,183,1,0,0
-2020-08-15,Juana Diaz,Puerto Rico,72075,216,4,0,0
-2020-08-15,Juncos,Puerto Rico,72077,169,4,0,0
-2020-08-15,Lajas,Puerto Rico,72079,92,1,0,0
-2020-08-15,Lares,Puerto Rico,72081,198,2,0,0
-2020-08-15,Las Marias,Puerto Rico,72083,76,2,0,0
-2020-08-15,Las Piedras,Puerto Rico,72085,184,5,0,0
-2020-08-15,Loiza,Puerto Rico,72087,151,7,0,0
-2020-08-15,Luquillo,Puerto Rico,72089,132,4,0,0
-2020-08-15,Manati,Puerto Rico,72091,287,5,0,0
-2020-08-15,Maricao,Puerto Rico,72093,43,1,0,0
-2020-08-15,Maunabo,Puerto Rico,72095,72,1,0,0
-2020-08-15,Mayaguez,Puerto Rico,72097,549,5,0,0
-2020-08-15,Moca,Puerto Rico,72099,187,0,0,0
-2020-08-15,Morovis,Puerto Rico,72101,300,6,0,0
-2020-08-15,Naguabo,Puerto Rico,72103,102,1,0,0
-2020-08-15,Naranjito,Puerto Rico,72105,342,13,0,0
-2020-08-15,Orocovis,Puerto Rico,72107,238,2,0,0
-2020-08-15,Patillas,Puerto Rico,72109,113,3,0,0
-2020-08-15,Penuelas,Puerto Rico,72111,83,3,0,0
-2020-08-15,Ponce,Puerto Rico,72113,552,11,0,0
-2020-08-15,Quebradillas,Puerto Rico,72115,81,0,0,0
-2020-08-15,Rincon,Puerto Rico,72117,107,1,0,0
-2020-08-15,Rio Grande,Puerto Rico,72119,349,11,0,0
-2020-08-15,Sabana Grande,Puerto Rico,72121,133,0,0,0
-2020-08-15,Salinas,Puerto Rico,72123,222,10,0,0
-2020-08-15,San German,Puerto Rico,72125,159,6,0,0
-2020-08-15,San Juan,Puerto Rico,72127,3933,84,0,0
-2020-08-15,San Lorenzo,Puerto Rico,72129,200,6,0,0
-2020-08-15,San Sebastian,Puerto Rico,72131,251,5,0,0
-2020-08-15,Santa Isabel,Puerto Rico,72133,108,1,0,0
-2020-08-15,Toa Alta,Puerto Rico,72135,678,26,0,0
-2020-08-15,Toa Baja,Puerto Rico,72137,658,26,0,0
-2020-08-15,Trujillo Alto,Puerto Rico,72139,588,9,0,0
-2020-08-15,Unknown,Puerto Rico,,1199,20,0,0
-2020-08-15,Utuado,Puerto Rico,72141,80,0,0,0
-2020-08-15,Vega Alta,Puerto Rico,72143,303,8,0,0
-2020-08-15,Vega Baja,Puerto Rico,72145,478,15,0,0
-2020-08-15,Vieques,Puerto Rico,72147,69,2,0,0
-2020-08-15,Villalba,Puerto Rico,72149,85,1,0,0
-2020-08-15,Yabucoa,Puerto Rico,72151,150,8,0,0
-2020-08-15,Yauco,Puerto Rico,72153,270,3,0,0
 2020-08-16,Adjuntas,Puerto Rico,72001,101,1,0,0
 2020-08-16,Aguada,Puerto Rico,72003,161,1,0,0
 2020-08-16,Aguadilla,Puerto Rico,72005,250,3,0,0
@@ -7741,3 +7662,82 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-20,Villalba,Puerto Rico,72149,431,23,0,0
 2020-11-20,Yabucoa,Puerto Rico,72151,553,5,0,0
 2020-11-20,Yauco,Puerto Rico,72153,699,4,0,0
+2020-11-21,Adjuntas,Puerto Rico,72001,226,3,0,0
+2020-11-21,Aguada,Puerto Rico,72003,590,11,0,0
+2020-11-21,Aguadilla,Puerto Rico,72005,794,6,0,0
+2020-11-21,Aguas Buenas,Puerto Rico,72007,482,7,0,0
+2020-11-21,Aibonito,Puerto Rico,72009,276,6,0,0
+2020-11-21,Anasco,Puerto Rico,72011,448,12,0,0
+2020-11-21,Arecibo,Puerto Rico,72013,1422,20,0,0
+2020-11-21,Arroyo,Puerto Rico,72015,232,4,0,0
+2020-11-21,Barceloneta,Puerto Rico,72017,415,7,0,0
+2020-11-21,Barranquitas,Puerto Rico,72019,775,11,0,0
+2020-11-21,Bayamon,Puerto Rico,72021,6040,70,0,0
+2020-11-21,Cabo Rojo,Puerto Rico,72023,605,4,0,0
+2020-11-21,Caguas,Puerto Rico,72025,2940,54,0,0
+2020-11-21,Camuy,Puerto Rico,72027,564,11,0,0
+2020-11-21,Canovanas,Puerto Rico,72029,1096,12,0,0
+2020-11-21,Carolina,Puerto Rico,72031,4896,64,0,0
+2020-11-21,Catano,Puerto Rico,72033,744,10,0,0
+2020-11-21,Cayey,Puerto Rico,72035,655,15,0,0
+2020-11-21,Ceiba,Puerto Rico,72037,231,3,0,0
+2020-11-21,Ciales,Puerto Rico,72039,456,8,0,0
+2020-11-21,Cidra,Puerto Rico,72041,569,9,0,0
+2020-11-21,Coamo,Puerto Rico,72043,521,10,0,0
+2020-11-21,Comerio,Puerto Rico,72045,369,6,0,0
+2020-11-21,Corozal,Puerto Rico,72047,1082,9,0,0
+2020-11-21,Culebra,Puerto Rico,72049,25,0,0,0
+2020-11-21,Dorado,Puerto Rico,72051,1364,21,0,0
+2020-11-21,Fajardo,Puerto Rico,72053,835,1,0,0
+2020-11-21,Florida,Puerto Rico,72054,480,5,0,0
+2020-11-21,Guanica,Puerto Rico,72055,193,2,0,0
+2020-11-21,Guayama,Puerto Rico,72057,483,8,0,0
+2020-11-21,Guayanilla,Puerto Rico,72059,294,1,0,0
+2020-11-21,Guaynabo,Puerto Rico,72061,2786,41,0,0
+2020-11-21,Gurabo,Puerto Rico,72063,985,20,0,0
+2020-11-21,Hatillo,Puerto Rico,72065,547,16,0,0
+2020-11-21,Hormigueros,Puerto Rico,72067,261,4,0,0
+2020-11-21,Humacao,Puerto Rico,72069,952,8,0,0
+2020-11-21,Isabela,Puerto Rico,72071,552,6,0,0
+2020-11-21,Jayuya,Puerto Rico,72073,343,1,0,0
+2020-11-21,Juana Diaz,Puerto Rico,72075,601,13,0,0
+2020-11-21,Juncos,Puerto Rico,72077,772,12,0,0
+2020-11-21,Lajas,Puerto Rico,72079,249,1,0,0
+2020-11-21,Lares,Puerto Rico,72081,582,11,0,0
+2020-11-21,Las Marias,Puerto Rico,72083,149,0,0,0
+2020-11-21,Las Piedras,Puerto Rico,72085,821,14,0,0
+2020-11-21,Loiza,Puerto Rico,72087,497,7,0,0
+2020-11-21,Luquillo,Puerto Rico,72089,377,6,0,0
+2020-11-21,Manati,Puerto Rico,72091,931,21,0,0
+2020-11-21,Maricao,Puerto Rico,72093,97,0,0,0
+2020-11-21,Maunabo,Puerto Rico,72095,195,0,0,0
+2020-11-21,Mayaguez,Puerto Rico,72097,1223,35,0,0
+2020-11-21,Moca,Puerto Rico,72099,690,24,0,0
+2020-11-21,Morovis,Puerto Rico,72101,750,5,0,0
+2020-11-21,Naguabo,Puerto Rico,72103,453,3,0,0
+2020-11-21,Naranjito,Puerto Rico,72105,969,16,0,0
+2020-11-21,Orocovis,Puerto Rico,72107,509,2,0,0
+2020-11-21,Patillas,Puerto Rico,72109,238,9,0,0
+2020-11-21,Penuelas,Puerto Rico,72111,230,9,0,0
+2020-11-21,Ponce,Puerto Rico,72113,1561,29,0,0
+2020-11-21,Quebradillas,Puerto Rico,72115,369,5,0,0
+2020-11-21,Rincon,Puerto Rico,72117,266,0,0,0
+2020-11-21,Rio Grande,Puerto Rico,72119,1019,11,0,0
+2020-11-21,Sabana Grande,Puerto Rico,72121,262,3,0,0
+2020-11-21,Salinas,Puerto Rico,72123,681,7,0,0
+2020-11-21,San German,Puerto Rico,72125,387,2,0,0
+2020-11-21,San Juan,Puerto Rico,72127,12253,127,0,0
+2020-11-21,San Lorenzo,Puerto Rico,72129,881,14,0,0
+2020-11-21,San Sebastian,Puerto Rico,72131,1075,20,0,0
+2020-11-21,Santa Isabel,Puerto Rico,72133,339,7,0,0
+2020-11-21,Toa Alta,Puerto Rico,72135,2216,25,0,0
+2020-11-21,Toa Baja,Puerto Rico,72137,2435,24,0,0
+2020-11-21,Trujillo Alto,Puerto Rico,72139,1937,18,0,0
+2020-11-21,Unknown,Puerto Rico,,2597,40,0,0
+2020-11-21,Utuado,Puerto Rico,72141,392,10,0,0
+2020-11-21,Vega Alta,Puerto Rico,72143,1171,14,0,0
+2020-11-21,Vega Baja,Puerto Rico,72145,1529,21,0,0
+2020-11-21,Vieques,Puerto Rico,72147,108,1,0,0
+2020-11-21,Villalba,Puerto Rico,72149,444,13,0,0
+2020-11-21,Yabucoa,Puerto Rico,72151,557,4,0,0
+2020-11-21,Yauco,Puerto Rico,72153,709,10,0,0
