@@ -427,7 +427,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-09,Toa Alta,Puerto Rico,72135,57,0,,0
 2020-05-09,Toa Baja,Puerto Rico,72137,54,0,,0
 2020-05-09,Trujillo Alto,Puerto Rico,72139,42,1,,0
-2020-05-09,Unknown,Puerto Rico,,153,0,,-107
+2020-05-09,Unknown,Puerto Rico,,153,0,108,1
 2020-05-09,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-09,Vega Alta,Puerto Rico,72143,28,0,,0
 2020-05-09,Vega Baja,Puerto Rico,72145,29,0,,0
@@ -504,7 +504,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-10,Toa Alta,Puerto Rico,72135,58,1,,0
 2020-05-10,Toa Baja,Puerto Rico,72137,54,0,,0
 2020-05-10,Trujillo Alto,Puerto Rico,72139,43,1,,0
-2020-05-10,Unknown,Puerto Rico,,127,-26,,0
+2020-05-10,Unknown,Puerto Rico,,127,-26,111,3
 2020-05-10,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-10,Vega Alta,Puerto Rico,72143,28,0,,0
 2020-05-10,Vega Baja,Puerto Rico,72145,29,0,,0
@@ -581,7 +581,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-11,Toa Alta,Puerto Rico,72135,62,4,,0
 2020-05-11,Toa Baja,Puerto Rico,72137,59,5,,0
 2020-05-11,Trujillo Alto,Puerto Rico,72139,45,2,,0
-2020-05-11,Unknown,Puerto Rico,,131,4,,0
+2020-05-11,Unknown,Puerto Rico,,131,4,113,2
 2020-05-11,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-11,Vega Alta,Puerto Rico,72143,29,1,,0
 2020-05-11,Vega Baja,Puerto Rico,72145,30,1,,0
@@ -658,7 +658,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-12,Toa Alta,Puerto Rico,72135,63,1,,0
 2020-05-12,Toa Baja,Puerto Rico,72137,61,2,,0
 2020-05-12,Trujillo Alto,Puerto Rico,72139,47,2,,0
-2020-05-12,Unknown,Puerto Rico,,134,3,,0
+2020-05-12,Unknown,Puerto Rico,,134,3,114,1
 2020-05-12,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-12,Vega Alta,Puerto Rico,72143,30,1,,0
 2020-05-12,Vega Baja,Puerto Rico,72145,30,0,,0
@@ -735,7 +735,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-13,Toa Alta,Puerto Rico,72135,64,1,,0
 2020-05-13,Toa Baja,Puerto Rico,72137,61,0,,0
 2020-05-13,Trujillo Alto,Puerto Rico,72139,47,0,,0
-2020-05-13,Unknown,Puerto Rico,,137,3,,0
+2020-05-13,Unknown,Puerto Rico,,137,3,115,1
 2020-05-13,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-13,Vega Alta,Puerto Rico,72143,30,0,,0
 2020-05-13,Vega Baja,Puerto Rico,72145,30,0,,0
@@ -812,7 +812,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-14,Toa Alta,Puerto Rico,72135,65,1,,0
 2020-05-14,Toa Baja,Puerto Rico,72137,65,4,,0
 2020-05-14,Trujillo Alto,Puerto Rico,72139,49,2,,0
-2020-05-14,Unknown,Puerto Rico,,147,10,,0
+2020-05-14,Unknown,Puerto Rico,,147,10,117,2
 2020-05-14,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-14,Vega Alta,Puerto Rico,72143,31,1,,0
 2020-05-14,Vega Baja,Puerto Rico,72145,30,0,,0
@@ -889,7 +889,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-15,Toa Alta,Puerto Rico,72135,67,2,,0
 2020-05-15,Toa Baja,Puerto Rico,72137,67,2,,0
 2020-05-15,Trujillo Alto,Puerto Rico,72139,49,0,,0
-2020-05-15,Unknown,Puerto Rico,,157,10,,0
+2020-05-15,Unknown,Puerto Rico,,157,10,122,5
 2020-05-15,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-15,Vega Alta,Puerto Rico,72143,32,1,,0
 2020-05-15,Vega Baja,Puerto Rico,72145,31,1,,0
@@ -967,7 +967,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-16,Toa Alta,Puerto Rico,72135,67,0,,0
 2020-05-16,Toa Baja,Puerto Rico,72137,67,0,,0
 2020-05-16,Trujillo Alto,Puerto Rico,72139,49,0,,0
-2020-05-16,Unknown,Puerto Rico,,156,-1,,0
+2020-05-16,Unknown,Puerto Rico,,156,-1,122,0
 2020-05-16,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-16,Vega Alta,Puerto Rico,72143,34,2,,0
 2020-05-16,Vega Baja,Puerto Rico,72145,32,1,,0
@@ -1045,7 +1045,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-17,Toa Alta,Puerto Rico,72135,67,0,,0
 2020-05-17,Toa Baja,Puerto Rico,72137,68,1,,0
 2020-05-17,Trujillo Alto,Puerto Rico,72139,49,0,,0
-2020-05-17,Unknown,Puerto Rico,,159,3,,0
+2020-05-17,Unknown,Puerto Rico,,159,3,123,1
 2020-05-17,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-17,Vega Alta,Puerto Rico,72143,35,1,,0
 2020-05-17,Vega Baja,Puerto Rico,72145,32,0,,0
@@ -1123,7 +1123,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-18,Toa Alta,Puerto Rico,72135,68,1,,0
 2020-05-18,Toa Baja,Puerto Rico,72137,69,1,,0
 2020-05-18,Trujillo Alto,Puerto Rico,72139,49,0,,0
-2020-05-18,Unknown,Puerto Rico,,168,9,,0
+2020-05-18,Unknown,Puerto Rico,,168,9,124,1
 2020-05-18,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-18,Vega Alta,Puerto Rico,72143,35,0,,0
 2020-05-18,Vega Baja,Puerto Rico,72145,33,1,,0
@@ -1201,7 +1201,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-19,Toa Alta,Puerto Rico,72135,71,3,,0
 2020-05-19,Toa Baja,Puerto Rico,72137,73,4,,0
 2020-05-19,Trujillo Alto,Puerto Rico,72139,49,0,,0
-2020-05-19,Unknown,Puerto Rico,,172,4,,0
+2020-05-19,Unknown,Puerto Rico,,172,4,124,0
 2020-05-19,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-19,Vega Alta,Puerto Rico,72143,35,0,,0
 2020-05-19,Vega Baja,Puerto Rico,72145,33,0,,0
@@ -1279,7 +1279,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-20,Toa Alta,Puerto Rico,72135,73,2,,0
 2020-05-20,Toa Baja,Puerto Rico,72137,75,2,,0
 2020-05-20,Trujillo Alto,Puerto Rico,72139,50,1,,0
-2020-05-20,Unknown,Puerto Rico,,152,-20,,0
+2020-05-20,Unknown,Puerto Rico,,152,-20,125,1
 2020-05-20,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-20,Vega Alta,Puerto Rico,72143,36,1,,0
 2020-05-20,Vega Baja,Puerto Rico,72145,33,0,,0
@@ -1357,7 +1357,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-21,Toa Alta,Puerto Rico,72135,77,4,,0
 2020-05-21,Toa Baja,Puerto Rico,72137,75,0,,0
 2020-05-21,Trujillo Alto,Puerto Rico,72139,50,0,,0
-2020-05-21,Unknown,Puerto Rico,,142,-10,,0
+2020-05-21,Unknown,Puerto Rico,,142,-10,126,1
 2020-05-21,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-21,Vega Alta,Puerto Rico,72143,36,0,,0
 2020-05-21,Vega Baja,Puerto Rico,72145,33,0,,0
@@ -1435,7 +1435,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-22,Toa Alta,Puerto Rico,72135,77,0,,0
 2020-05-22,Toa Baja,Puerto Rico,72137,76,1,,0
 2020-05-22,Trujillo Alto,Puerto Rico,72139,51,1,,0
-2020-05-22,Unknown,Puerto Rico,,145,3,,0
+2020-05-22,Unknown,Puerto Rico,,145,3,126,0
 2020-05-22,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-22,Vega Alta,Puerto Rico,72143,37,1,,0
 2020-05-22,Vega Baja,Puerto Rico,72145,34,1,,0
@@ -1513,7 +1513,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-23,Toa Alta,Puerto Rico,72135,78,1,,0
 2020-05-23,Toa Baja,Puerto Rico,72137,77,1,,0
 2020-05-23,Trujillo Alto,Puerto Rico,72139,53,2,,0
-2020-05-23,Unknown,Puerto Rico,,121,-24,,0
+2020-05-23,Unknown,Puerto Rico,,121,-24,127,1
 2020-05-23,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-23,Vega Alta,Puerto Rico,72143,38,1,,0
 2020-05-23,Vega Baja,Puerto Rico,72145,35,1,,0
@@ -1591,7 +1591,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-24,Toa Alta,Puerto Rico,72135,80,2,,0
 2020-05-24,Toa Baja,Puerto Rico,72137,81,4,,0
 2020-05-24,Trujillo Alto,Puerto Rico,72139,54,1,,0
-2020-05-24,Unknown,Puerto Rico,,133,12,,0
+2020-05-24,Unknown,Puerto Rico,,133,12,127,0
 2020-05-24,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-24,Vega Alta,Puerto Rico,72143,38,0,,0
 2020-05-24,Vega Baja,Puerto Rico,72145,35,0,,0
@@ -1669,7 +1669,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-25,Toa Alta,Puerto Rico,72135,81,1,,0
 2020-05-25,Toa Baja,Puerto Rico,72137,88,7,,0
 2020-05-25,Trujillo Alto,Puerto Rico,72139,55,1,,0
-2020-05-25,Unknown,Puerto Rico,,107,-26,,0
+2020-05-25,Unknown,Puerto Rico,,107,-26,129,2
 2020-05-25,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-25,Vega Alta,Puerto Rico,72143,38,0,,0
 2020-05-25,Vega Baja,Puerto Rico,72145,36,1,,0
@@ -1747,7 +1747,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-26,Toa Alta,Puerto Rico,72135,82,1,,0
 2020-05-26,Toa Baja,Puerto Rico,72137,89,1,,0
 2020-05-26,Trujillo Alto,Puerto Rico,72139,57,2,,0
-2020-05-26,Unknown,Puerto Rico,,110,3,,0
+2020-05-26,Unknown,Puerto Rico,,110,3,129,0
 2020-05-26,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-26,Vega Alta,Puerto Rico,72143,39,1,,0
 2020-05-26,Vega Baja,Puerto Rico,72145,37,1,,0
@@ -1825,7 +1825,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-27,Toa Alta,Puerto Rico,72135,83,1,,0
 2020-05-27,Toa Baja,Puerto Rico,72137,91,2,,0
 2020-05-27,Trujillo Alto,Puerto Rico,72139,58,1,,0
-2020-05-27,Unknown,Puerto Rico,,115,5,,0
+2020-05-27,Unknown,Puerto Rico,,115,5,129,0
 2020-05-27,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-27,Vega Alta,Puerto Rico,72143,39,0,,0
 2020-05-27,Vega Baja,Puerto Rico,72145,37,0,,0
@@ -1903,7 +1903,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-28,Toa Alta,Puerto Rico,72135,85,2,,0
 2020-05-28,Toa Baja,Puerto Rico,72137,95,4,,0
 2020-05-28,Trujillo Alto,Puerto Rico,72139,59,1,,0
-2020-05-28,Unknown,Puerto Rico,,114,-1,,0
+2020-05-28,Unknown,Puerto Rico,,114,-1,131,2
 2020-05-28,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-28,Vega Alta,Puerto Rico,72143,39,0,,0
 2020-05-28,Vega Baja,Puerto Rico,72145,38,1,,0
@@ -1982,7 +1982,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-29,Toa Alta,Puerto Rico,72135,90,5,,0
 2020-05-29,Toa Baja,Puerto Rico,72137,98,3,,0
 2020-05-29,Trujillo Alto,Puerto Rico,72139,62,3,,0
-2020-05-29,Unknown,Puerto Rico,,118,4,,0
+2020-05-29,Unknown,Puerto Rico,,118,4,132,1
 2020-05-29,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-29,Vega Alta,Puerto Rico,72143,39,0,,0
 2020-05-29,Vega Baja,Puerto Rico,72145,39,1,,0
@@ -2061,7 +2061,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-30,Toa Alta,Puerto Rico,72135,92,2,,0
 2020-05-30,Toa Baja,Puerto Rico,72137,99,1,,0
 2020-05-30,Trujillo Alto,Puerto Rico,72139,62,0,,0
-2020-05-30,Unknown,Puerto Rico,,121,3,,0
+2020-05-30,Unknown,Puerto Rico,,121,3,133,1
 2020-05-30,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-30,Vega Alta,Puerto Rico,72143,39,0,,0
 2020-05-30,Vega Baja,Puerto Rico,72145,41,2,,0
@@ -2140,7 +2140,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-05-31,Toa Alta,Puerto Rico,72135,92,0,,0
 2020-05-31,Toa Baja,Puerto Rico,72137,100,1,,0
 2020-05-31,Trujillo Alto,Puerto Rico,72139,64,2,,0
-2020-05-31,Unknown,Puerto Rico,,122,1,,0
+2020-05-31,Unknown,Puerto Rico,,122,1,136,3
 2020-05-31,Utuado,Puerto Rico,72141,3,0,,0
 2020-05-31,Vega Alta,Puerto Rico,72143,39,0,,0
 2020-05-31,Vega Baja,Puerto Rico,72145,42,1,,0
@@ -2219,7 +2219,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-01,Toa Alta,Puerto Rico,72135,94,2,,0
 2020-06-01,Toa Baja,Puerto Rico,72137,105,5,,0
 2020-06-01,Trujillo Alto,Puerto Rico,72139,68,4,,0
-2020-06-01,Unknown,Puerto Rico,,124,2,,0
+2020-06-01,Unknown,Puerto Rico,,124,2,136,0
 2020-06-01,Utuado,Puerto Rico,72141,3,0,,0
 2020-06-01,Vega Alta,Puerto Rico,72143,40,1,,0
 2020-06-01,Vega Baja,Puerto Rico,72145,43,1,,0
@@ -2298,7 +2298,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-02,Toa Alta,Puerto Rico,72135,94,0,,0
 2020-06-02,Toa Baja,Puerto Rico,72137,105,0,,0
 2020-06-02,Trujillo Alto,Puerto Rico,72139,69,1,,0
-2020-06-02,Unknown,Puerto Rico,,133,9,,0
+2020-06-02,Unknown,Puerto Rico,,133,9,138,2
 2020-06-02,Utuado,Puerto Rico,72141,3,0,,0
 2020-06-02,Vega Alta,Puerto Rico,72143,40,0,,0
 2020-06-02,Vega Baja,Puerto Rico,72145,46,3,,0
@@ -2377,7 +2377,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-03,Toa Alta,Puerto Rico,72135,96,2,,0
 2020-06-03,Toa Baja,Puerto Rico,72137,113,8,,0
 2020-06-03,Trujillo Alto,Puerto Rico,72139,75,6,,0
-2020-06-03,Unknown,Puerto Rico,,135,2,,0
+2020-06-03,Unknown,Puerto Rico,,135,2,140,2
 2020-06-03,Utuado,Puerto Rico,72141,3,0,,0
 2020-06-03,Vega Alta,Puerto Rico,72143,41,1,,0
 2020-06-03,Vega Baja,Puerto Rico,72145,47,1,,0
@@ -2456,7 +2456,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-04,Toa Alta,Puerto Rico,72135,108,12,,0
 2020-06-04,Toa Baja,Puerto Rico,72137,118,5,,0
 2020-06-04,Trujillo Alto,Puerto Rico,72139,84,9,,0
-2020-06-04,Unknown,Puerto Rico,,144,9,,0
+2020-06-04,Unknown,Puerto Rico,,144,9,140,0
 2020-06-04,Utuado,Puerto Rico,72141,7,4,,0
 2020-06-04,Vega Alta,Puerto Rico,72143,48,7,,0
 2020-06-04,Vega Baja,Puerto Rico,72145,55,8,,0
@@ -2535,7 +2535,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-05,Toa Alta,Puerto Rico,72135,111,3,,0
 2020-06-05,Toa Baja,Puerto Rico,72137,126,8,,0
 2020-06-05,Trujillo Alto,Puerto Rico,72139,91,7,,0
-2020-06-05,Unknown,Puerto Rico,,139,-5,,0
+2020-06-05,Unknown,Puerto Rico,,139,-5,141,1
 2020-06-05,Utuado,Puerto Rico,72141,7,0,,0
 2020-06-05,Vega Alta,Puerto Rico,72143,48,0,,0
 2020-06-05,Vega Baja,Puerto Rico,72145,58,3,,0
@@ -2614,7 +2614,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-06,Toa Alta,Puerto Rico,72135,120,9,,0
 2020-06-06,Toa Baja,Puerto Rico,72137,140,14,,0
 2020-06-06,Trujillo Alto,Puerto Rico,72139,99,8,,0
-2020-06-06,Unknown,Puerto Rico,,151,12,,0
+2020-06-06,Unknown,Puerto Rico,,151,12,142,1
 2020-06-06,Utuado,Puerto Rico,72141,8,1,,0
 2020-06-06,Vega Alta,Puerto Rico,72143,50,2,,0
 2020-06-06,Vega Baja,Puerto Rico,72145,59,1,,0
@@ -2693,7 +2693,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-07,Toa Alta,Puerto Rico,72135,123,3,,0
 2020-06-07,Toa Baja,Puerto Rico,72137,144,4,,0
 2020-06-07,Trujillo Alto,Puerto Rico,72139,100,1,,0
-2020-06-07,Unknown,Puerto Rico,,116,-35,,0
+2020-06-07,Unknown,Puerto Rico,,116,-35,142,0
 2020-06-07,Utuado,Puerto Rico,72141,8,0,,0
 2020-06-07,Vega Alta,Puerto Rico,72143,50,0,,0
 2020-06-07,Vega Baja,Puerto Rico,72145,61,2,,0
@@ -2772,7 +2772,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-08,Toa Alta,Puerto Rico,72135,124,1,,0
 2020-06-08,Toa Baja,Puerto Rico,72137,146,2,,0
 2020-06-08,Trujillo Alto,Puerto Rico,72139,101,1,,0
-2020-06-08,Unknown,Puerto Rico,,119,3,,0
+2020-06-08,Unknown,Puerto Rico,,119,3,142,0
 2020-06-08,Utuado,Puerto Rico,72141,8,0,,0
 2020-06-08,Vega Alta,Puerto Rico,72143,50,0,,0
 2020-06-08,Vega Baja,Puerto Rico,72145,63,2,,0
@@ -2851,7 +2851,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-09,Toa Alta,Puerto Rico,72135,126,2,,0
 2020-06-09,Toa Baja,Puerto Rico,72137,147,1,,0
 2020-06-09,Trujillo Alto,Puerto Rico,72139,109,8,,0
-2020-06-09,Unknown,Puerto Rico,,125,6,,0
+2020-06-09,Unknown,Puerto Rico,,125,6,142,0
 2020-06-09,Utuado,Puerto Rico,72141,9,1,,0
 2020-06-09,Vega Alta,Puerto Rico,72143,53,3,,0
 2020-06-09,Vega Baja,Puerto Rico,72145,64,1,,0
@@ -2930,7 +2930,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-10,Toa Alta,Puerto Rico,72135,126,0,,0
 2020-06-10,Toa Baja,Puerto Rico,72137,149,2,,0
 2020-06-10,Trujillo Alto,Puerto Rico,72139,112,3,,0
-2020-06-10,Unknown,Puerto Rico,,121,-4,,0
+2020-06-10,Unknown,Puerto Rico,,121,-4,143,1
 2020-06-10,Utuado,Puerto Rico,72141,9,0,,0
 2020-06-10,Vega Alta,Puerto Rico,72143,54,1,,0
 2020-06-10,Vega Baja,Puerto Rico,72145,64,0,,0
@@ -3009,7 +3009,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-11,Toa Alta,Puerto Rico,72135,126,0,,0
 2020-06-11,Toa Baja,Puerto Rico,72137,147,-2,,0
 2020-06-11,Trujillo Alto,Puerto Rico,72139,112,0,,0
-2020-06-11,Unknown,Puerto Rico,,122,1,,0
+2020-06-11,Unknown,Puerto Rico,,122,1,144,1
 2020-06-11,Utuado,Puerto Rico,72141,9,0,,0
 2020-06-11,Vega Alta,Puerto Rico,72143,54,0,,0
 2020-06-11,Vega Baja,Puerto Rico,72145,65,1,,0
@@ -3088,7 +3088,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-12,Toa Alta,Puerto Rico,72135,128,2,,0
 2020-06-12,Toa Baja,Puerto Rico,72137,151,4,,0
 2020-06-12,Trujillo Alto,Puerto Rico,72139,113,1,,0
-2020-06-12,Unknown,Puerto Rico,,167,45,,0
+2020-06-12,Unknown,Puerto Rico,,167,45,146,2
 2020-06-12,Utuado,Puerto Rico,72141,9,0,,0
 2020-06-12,Vega Alta,Puerto Rico,72143,54,0,,0
 2020-06-12,Vega Baja,Puerto Rico,72145,66,1,,0
@@ -3167,7 +3167,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-13,Toa Alta,Puerto Rico,72135,129,1,,0
 2020-06-13,Toa Baja,Puerto Rico,72137,154,3,,0
 2020-06-13,Trujillo Alto,Puerto Rico,72139,120,7,,0
-2020-06-13,Unknown,Puerto Rico,,210,43,,0
+2020-06-13,Unknown,Puerto Rico,,210,43,146,0
 2020-06-13,Utuado,Puerto Rico,72141,10,1,,0
 2020-06-13,Vega Alta,Puerto Rico,72143,54,0,,0
 2020-06-13,Vega Baja,Puerto Rico,72145,67,1,,0
@@ -3246,7 +3246,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-14,Toa Alta,Puerto Rico,72135,133,4,,0
 2020-06-14,Toa Baja,Puerto Rico,72137,154,0,,0
 2020-06-14,Trujillo Alto,Puerto Rico,72139,122,2,,0
-2020-06-14,Unknown,Puerto Rico,,234,24,,0
+2020-06-14,Unknown,Puerto Rico,,234,24,147,1
 2020-06-14,Utuado,Puerto Rico,72141,10,0,,0
 2020-06-14,Vega Alta,Puerto Rico,72143,55,1,,0
 2020-06-14,Vega Baja,Puerto Rico,72145,68,1,,0
@@ -3325,7 +3325,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-15,Toa Alta,Puerto Rico,72135,133,0,,0
 2020-06-15,Toa Baja,Puerto Rico,72137,159,5,,0
 2020-06-15,Trujillo Alto,Puerto Rico,72139,123,1,,0
-2020-06-15,Unknown,Puerto Rico,,259,25,,0
+2020-06-15,Unknown,Puerto Rico,,259,25,147,0
 2020-06-15,Utuado,Puerto Rico,72141,10,0,,0
 2020-06-15,Vega Alta,Puerto Rico,72143,56,1,,0
 2020-06-15,Vega Baja,Puerto Rico,72145,69,1,,0
@@ -3404,7 +3404,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-16,Toa Alta,Puerto Rico,72135,133,0,,0
 2020-06-16,Toa Baja,Puerto Rico,72137,160,1,,0
 2020-06-16,Trujillo Alto,Puerto Rico,72139,125,2,,0
-2020-06-16,Unknown,Puerto Rico,,270,11,,0
+2020-06-16,Unknown,Puerto Rico,,270,11,147,0
 2020-06-16,Utuado,Puerto Rico,72141,10,0,,0
 2020-06-16,Vega Alta,Puerto Rico,72143,60,4,,0
 2020-06-16,Vega Baja,Puerto Rico,72145,69,0,,0
@@ -3483,7 +3483,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-17,Toa Alta,Puerto Rico,72135,134,1,,0
 2020-06-17,Toa Baja,Puerto Rico,72137,159,-1,,0
 2020-06-17,Trujillo Alto,Puerto Rico,72139,125,0,,0
-2020-06-17,Unknown,Puerto Rico,,284,14,,0
+2020-06-17,Unknown,Puerto Rico,,284,14,147,0
 2020-06-17,Utuado,Puerto Rico,72141,10,0,,0
 2020-06-17,Vega Alta,Puerto Rico,72143,60,0,,0
 2020-06-17,Vega Baja,Puerto Rico,72145,69,0,,0
@@ -3562,7 +3562,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-18,Toa Alta,Puerto Rico,72135,136,2,,0
 2020-06-18,Toa Baja,Puerto Rico,72137,162,3,,0
 2020-06-18,Trujillo Alto,Puerto Rico,72139,129,4,,0
-2020-06-18,Unknown,Puerto Rico,,330,46,,0
+2020-06-18,Unknown,Puerto Rico,,330,46,147,0
 2020-06-18,Utuado,Puerto Rico,72141,10,0,,0
 2020-06-18,Vega Alta,Puerto Rico,72143,63,3,,0
 2020-06-18,Vega Baja,Puerto Rico,72145,70,1,,0
@@ -3641,7 +3641,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-19,Toa Alta,Puerto Rico,72135,136,0,,0
 2020-06-19,Toa Baja,Puerto Rico,72137,167,5,,0
 2020-06-19,Trujillo Alto,Puerto Rico,72139,130,1,,0
-2020-06-19,Unknown,Puerto Rico,,342,12,,0
+2020-06-19,Unknown,Puerto Rico,,342,12,147,0
 2020-06-19,Utuado,Puerto Rico,72141,10,0,,0
 2020-06-19,Vega Alta,Puerto Rico,72143,65,2,,0
 2020-06-19,Vega Baja,Puerto Rico,72145,71,1,,0
@@ -3720,7 +3720,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-20,Toa Alta,Puerto Rico,72135,142,6,,0
 2020-06-20,Toa Baja,Puerto Rico,72137,169,2,,0
 2020-06-20,Trujillo Alto,Puerto Rico,72139,138,8,,0
-2020-06-20,Unknown,Puerto Rico,,419,77,,0
+2020-06-20,Unknown,Puerto Rico,,419,77,147,0
 2020-06-20,Utuado,Puerto Rico,72141,11,1,,0
 2020-06-20,Vega Alta,Puerto Rico,72143,69,4,,0
 2020-06-20,Vega Baja,Puerto Rico,72145,76,5,,0
@@ -3799,7 +3799,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-21,Toa Alta,Puerto Rico,72135,145,3,,0
 2020-06-21,Toa Baja,Puerto Rico,72137,170,1,,0
 2020-06-21,Trujillo Alto,Puerto Rico,72139,140,2,,0
-2020-06-21,Unknown,Puerto Rico,,434,15,,0
+2020-06-21,Unknown,Puerto Rico,,434,15,149,2
 2020-06-21,Utuado,Puerto Rico,72141,12,1,,0
 2020-06-21,Vega Alta,Puerto Rico,72143,69,0,,0
 2020-06-21,Vega Baja,Puerto Rico,72145,75,-1,,0
@@ -3878,7 +3878,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-22,Toa Alta,Puerto Rico,72135,147,2,,0
 2020-06-22,Toa Baja,Puerto Rico,72137,171,1,,0
 2020-06-22,Trujillo Alto,Puerto Rico,72139,141,1,,0
-2020-06-22,Unknown,Puerto Rico,,442,8,,0
+2020-06-22,Unknown,Puerto Rico,,442,8,149,0
 2020-06-22,Utuado,Puerto Rico,72141,12,0,,0
 2020-06-22,Vega Alta,Puerto Rico,72143,69,0,,0
 2020-06-22,Vega Baja,Puerto Rico,72145,75,0,,0
@@ -3957,7 +3957,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-23,Toa Alta,Puerto Rico,72135,147,0,,0
 2020-06-23,Toa Baja,Puerto Rico,72137,171,0,,0
 2020-06-23,Trujillo Alto,Puerto Rico,72139,146,5,,0
-2020-06-23,Unknown,Puerto Rico,,554,112,,0
+2020-06-23,Unknown,Puerto Rico,,554,112,149,0
 2020-06-23,Utuado,Puerto Rico,72141,13,1,,0
 2020-06-23,Vega Alta,Puerto Rico,72143,72,3,,0
 2020-06-23,Vega Baja,Puerto Rico,72145,78,3,,0
@@ -4036,7 +4036,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-24,Toa Alta,Puerto Rico,72135,150,3,,0
 2020-06-24,Toa Baja,Puerto Rico,72137,176,5,,0
 2020-06-24,Trujillo Alto,Puerto Rico,72139,148,2,,0
-2020-06-24,Unknown,Puerto Rico,,560,6,,0
+2020-06-24,Unknown,Puerto Rico,,560,6,149,0
 2020-06-24,Utuado,Puerto Rico,72141,13,0,,0
 2020-06-24,Vega Alta,Puerto Rico,72143,73,1,,0
 2020-06-24,Vega Baja,Puerto Rico,72145,78,0,,0
@@ -4115,7 +4115,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-25,Toa Alta,Puerto Rico,72135,152,2,,0
 2020-06-25,Toa Baja,Puerto Rico,72137,176,0,,0
 2020-06-25,Trujillo Alto,Puerto Rico,72139,151,3,,0
-2020-06-25,Unknown,Puerto Rico,,295,-265,,0
+2020-06-25,Unknown,Puerto Rico,,295,-265,151,2
 2020-06-25,Utuado,Puerto Rico,72141,13,0,,0
 2020-06-25,Vega Alta,Puerto Rico,72143,77,4,,0
 2020-06-25,Vega Baja,Puerto Rico,72145,81,3,,0
@@ -4194,7 +4194,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-26,Toa Alta,Puerto Rico,72135,153,1,,0
 2020-06-26,Toa Baja,Puerto Rico,72137,177,1,,0
 2020-06-26,Trujillo Alto,Puerto Rico,72139,151,0,,0
-2020-06-26,Unknown,Puerto Rico,,302,7,,0
+2020-06-26,Unknown,Puerto Rico,,302,7,151,0
 2020-06-26,Utuado,Puerto Rico,72141,13,0,,0
 2020-06-26,Vega Alta,Puerto Rico,72143,84,7,,0
 2020-06-26,Vega Baja,Puerto Rico,72145,82,1,,0
@@ -4273,7 +4273,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-27,Toa Alta,Puerto Rico,72135,156,3,,0
 2020-06-27,Toa Baja,Puerto Rico,72137,180,3,,0
 2020-06-27,Trujillo Alto,Puerto Rico,72139,163,12,,0
-2020-06-27,Unknown,Puerto Rico,,307,5,,0
+2020-06-27,Unknown,Puerto Rico,,307,5,152,1
 2020-06-27,Utuado,Puerto Rico,72141,13,0,,0
 2020-06-27,Vega Alta,Puerto Rico,72143,83,-1,,0
 2020-06-27,Vega Baja,Puerto Rico,72145,83,1,,0
@@ -4352,7 +4352,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-28,Toa Alta,Puerto Rico,72135,158,2,,0
 2020-06-28,Toa Baja,Puerto Rico,72137,182,2,,0
 2020-06-28,Trujillo Alto,Puerto Rico,72139,167,4,,0
-2020-06-28,Unknown,Puerto Rico,,337,30,,0
+2020-06-28,Unknown,Puerto Rico,,337,30,153,1
 2020-06-28,Utuado,Puerto Rico,72141,13,0,,0
 2020-06-28,Vega Alta,Puerto Rico,72143,84,1,,0
 2020-06-28,Vega Baja,Puerto Rico,72145,84,1,,0
@@ -4431,7 +4431,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-29,Toa Alta,Puerto Rico,72135,158,0,,0
 2020-06-29,Toa Baja,Puerto Rico,72137,185,3,,0
 2020-06-29,Trujillo Alto,Puerto Rico,72139,167,0,,0
-2020-06-29,Unknown,Puerto Rico,,320,-17,,0
+2020-06-29,Unknown,Puerto Rico,,320,-17,153,0
 2020-06-29,Utuado,Puerto Rico,72141,13,0,,0
 2020-06-29,Vega Alta,Puerto Rico,72143,78,-6,,0
 2020-06-29,Vega Baja,Puerto Rico,72145,86,2,,0
@@ -4510,7 +4510,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-06-30,Toa Alta,Puerto Rico,72135,165,7,,0
 2020-06-30,Toa Baja,Puerto Rico,72137,191,6,,0
 2020-06-30,Trujillo Alto,Puerto Rico,72139,170,3,,0
-2020-06-30,Unknown,Puerto Rico,,353,33,,0
+2020-06-30,Unknown,Puerto Rico,,353,33,153,0
 2020-06-30,Utuado,Puerto Rico,72141,13,0,,0
 2020-06-30,Vega Alta,Puerto Rico,72143,78,0,,0
 2020-06-30,Vega Baja,Puerto Rico,72145,89,3,,0
@@ -4589,7 +4589,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-01,Toa Alta,Puerto Rico,72135,170,5,,0
 2020-07-01,Toa Baja,Puerto Rico,72137,192,1,,0
 2020-07-01,Trujillo Alto,Puerto Rico,72139,174,4,,0
-2020-07-01,Unknown,Puerto Rico,,351,-2,,0
+2020-07-01,Unknown,Puerto Rico,,351,-2,153,0
 2020-07-01,Utuado,Puerto Rico,72141,13,0,,0
 2020-07-01,Vega Alta,Puerto Rico,72143,78,0,,0
 2020-07-01,Vega Baja,Puerto Rico,72145,89,0,,0
@@ -4668,7 +4668,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-02,Toa Alta,Puerto Rico,72135,171,1,,0
 2020-07-02,Toa Baja,Puerto Rico,72137,195,3,,0
 2020-07-02,Trujillo Alto,Puerto Rico,72139,176,2,,0
-2020-07-02,Unknown,Puerto Rico,,296,-55,,0
+2020-07-02,Unknown,Puerto Rico,,296,-55,153,0
 2020-07-02,Utuado,Puerto Rico,72141,13,0,,0
 2020-07-02,Vega Alta,Puerto Rico,72143,79,1,,0
 2020-07-02,Vega Baja,Puerto Rico,72145,89,0,,0
@@ -4747,7 +4747,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-03,Toa Alta,Puerto Rico,72135,174,3,,0
 2020-07-03,Toa Baja,Puerto Rico,72137,196,1,,0
 2020-07-03,Trujillo Alto,Puerto Rico,72139,178,2,,0
-2020-07-03,Unknown,Puerto Rico,,268,-28,,0
+2020-07-03,Unknown,Puerto Rico,,268,-28,154,1
 2020-07-03,Utuado,Puerto Rico,72141,14,1,,0
 2020-07-03,Vega Alta,Puerto Rico,72143,77,-2,,0
 2020-07-03,Vega Baja,Puerto Rico,72145,90,1,,0
@@ -4826,7 +4826,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-04,Toa Alta,Puerto Rico,72135,176,2,,0
 2020-07-04,Toa Baja,Puerto Rico,72137,200,4,,0
 2020-07-04,Trujillo Alto,Puerto Rico,72139,179,1,,0
-2020-07-04,Unknown,Puerto Rico,,274,6,,0
+2020-07-04,Unknown,Puerto Rico,,274,6,155,1
 2020-07-04,Utuado,Puerto Rico,72141,15,1,,0
 2020-07-04,Vega Alta,Puerto Rico,72143,77,0,,0
 2020-07-04,Vega Baja,Puerto Rico,72145,92,2,,0
@@ -4905,7 +4905,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-05,Toa Alta,Puerto Rico,72135,176,0,,0
 2020-07-05,Toa Baja,Puerto Rico,72137,200,0,,0
 2020-07-05,Trujillo Alto,Puerto Rico,72139,184,5,,0
-2020-07-05,Unknown,Puerto Rico,,301,27,,0
+2020-07-05,Unknown,Puerto Rico,,301,27,155,0
 2020-07-05,Utuado,Puerto Rico,72141,15,0,,0
 2020-07-05,Vega Alta,Puerto Rico,72143,77,0,,0
 2020-07-05,Vega Baja,Puerto Rico,72145,92,0,,0
@@ -4984,7 +4984,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-06,Toa Alta,Puerto Rico,72135,187,11,,0
 2020-07-06,Toa Baja,Puerto Rico,72137,210,10,,0
 2020-07-06,Trujillo Alto,Puerto Rico,72139,192,8,,0
-2020-07-06,Unknown,Puerto Rico,,432,131,,0
+2020-07-06,Unknown,Puerto Rico,,432,131,155,0
 2020-07-06,Utuado,Puerto Rico,72141,17,2,,0
 2020-07-06,Vega Alta,Puerto Rico,72143,81,4,,0
 2020-07-06,Vega Baja,Puerto Rico,72145,99,7,,0
@@ -5063,7 +5063,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-07,Toa Alta,Puerto Rico,72135,189,2,,0
 2020-07-07,Toa Baja,Puerto Rico,72137,213,3,,0
 2020-07-07,Trujillo Alto,Puerto Rico,72139,194,2,,0
-2020-07-07,Unknown,Puerto Rico,,455,23,,0
+2020-07-07,Unknown,Puerto Rico,,455,23,157,2
 2020-07-07,Utuado,Puerto Rico,72141,19,2,,0
 2020-07-07,Vega Alta,Puerto Rico,72143,82,1,,0
 2020-07-07,Vega Baja,Puerto Rico,72145,100,1,,0
@@ -5142,7 +5142,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-08,Toa Alta,Puerto Rico,72135,189,0,,0
 2020-07-08,Toa Baja,Puerto Rico,72137,213,0,,0
 2020-07-08,Trujillo Alto,Puerto Rico,72139,196,2,,0
-2020-07-08,Unknown,Puerto Rico,,433,-22,,0
+2020-07-08,Unknown,Puerto Rico,,433,-22,159,2
 2020-07-08,Utuado,Puerto Rico,72141,19,0,,0
 2020-07-08,Vega Alta,Puerto Rico,72143,82,0,,0
 2020-07-08,Vega Baja,Puerto Rico,72145,102,2,,0
@@ -5221,7 +5221,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-09,Toa Alta,Puerto Rico,72135,191,2,,0
 2020-07-09,Toa Baja,Puerto Rico,72137,214,1,,0
 2020-07-09,Trujillo Alto,Puerto Rico,72139,200,4,,0
-2020-07-09,Unknown,Puerto Rico,,396,-37,,0
+2020-07-09,Unknown,Puerto Rico,,396,-37,159,0
 2020-07-09,Utuado,Puerto Rico,72141,22,3,,0
 2020-07-09,Vega Alta,Puerto Rico,72143,88,6,,0
 2020-07-09,Vega Baja,Puerto Rico,72145,105,3,,0
@@ -5300,7 +5300,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-10,Toa Alta,Puerto Rico,72135,198,7,,0
 2020-07-10,Toa Baja,Puerto Rico,72137,224,10,,0
 2020-07-10,Trujillo Alto,Puerto Rico,72139,204,4,,0
-2020-07-10,Unknown,Puerto Rico,,383,-13,,0
+2020-07-10,Unknown,Puerto Rico,,383,-13,159,0
 2020-07-10,Utuado,Puerto Rico,72141,23,1,,0
 2020-07-10,Vega Alta,Puerto Rico,72143,89,1,,0
 2020-07-10,Vega Baja,Puerto Rico,72145,114,9,,0
@@ -5379,7 +5379,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-11,Toa Alta,Puerto Rico,72135,201,3,,0
 2020-07-11,Toa Baja,Puerto Rico,72137,225,1,,0
 2020-07-11,Trujillo Alto,Puerto Rico,72139,207,3,,0
-2020-07-11,Unknown,Puerto Rico,,411,28,,0
+2020-07-11,Unknown,Puerto Rico,,411,28,167,8
 2020-07-11,Utuado,Puerto Rico,72141,24,1,,0
 2020-07-11,Vega Alta,Puerto Rico,72143,92,3,,0
 2020-07-11,Vega Baja,Puerto Rico,72145,117,3,,0
@@ -5458,7 +5458,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-12,Toa Alta,Puerto Rico,72135,205,4,,0
 2020-07-12,Toa Baja,Puerto Rico,72137,232,7,,0
 2020-07-12,Trujillo Alto,Puerto Rico,72139,215,8,,0
-2020-07-12,Unknown,Puerto Rico,,448,37,,0
+2020-07-12,Unknown,Puerto Rico,,448,37,167,0
 2020-07-12,Utuado,Puerto Rico,72141,24,0,,0
 2020-07-12,Vega Alta,Puerto Rico,72143,95,3,,0
 2020-07-12,Vega Baja,Puerto Rico,72145,125,8,,0
@@ -5537,7 +5537,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-13,Toa Alta,Puerto Rico,72135,211,6,,0
 2020-07-13,Toa Baja,Puerto Rico,72137,239,7,,0
 2020-07-13,Trujillo Alto,Puerto Rico,72139,220,5,,0
-2020-07-13,Unknown,Puerto Rico,,449,1,,0
+2020-07-13,Unknown,Puerto Rico,,449,1,167,0
 2020-07-13,Utuado,Puerto Rico,72141,28,4,,0
 2020-07-13,Vega Alta,Puerto Rico,72143,99,4,,0
 2020-07-13,Vega Baja,Puerto Rico,72145,132,7,,0
@@ -5616,7 +5616,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-14,Toa Alta,Puerto Rico,72135,214,3,,0
 2020-07-14,Toa Baja,Puerto Rico,72137,240,1,,0
 2020-07-14,Trujillo Alto,Puerto Rico,72139,221,1,,0
-2020-07-14,Unknown,Puerto Rico,,467,18,,0
+2020-07-14,Unknown,Puerto Rico,,467,18,169,2
 2020-07-14,Utuado,Puerto Rico,72141,28,0,,0
 2020-07-14,Vega Alta,Puerto Rico,72143,102,3,,0
 2020-07-14,Vega Baja,Puerto Rico,72145,137,5,,0
@@ -5695,7 +5695,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-15,Toa Alta,Puerto Rico,72135,220,6,,0
 2020-07-15,Toa Baja,Puerto Rico,72137,245,5,,0
 2020-07-15,Trujillo Alto,Puerto Rico,72139,236,15,,0
-2020-07-15,Unknown,Puerto Rico,,477,10,,0
+2020-07-15,Unknown,Puerto Rico,,477,10,171,2
 2020-07-15,Utuado,Puerto Rico,72141,28,0,,0
 2020-07-15,Vega Alta,Puerto Rico,72143,104,2,,0
 2020-07-15,Vega Baja,Puerto Rico,72145,142,5,,0
@@ -5774,7 +5774,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-16,Toa Alta,Puerto Rico,72135,226,6,,0
 2020-07-16,Toa Baja,Puerto Rico,72137,247,2,,0
 2020-07-16,Trujillo Alto,Puerto Rico,72139,238,2,,0
-2020-07-16,Unknown,Puerto Rico,,509,32,,0
+2020-07-16,Unknown,Puerto Rico,,509,32,172,1
 2020-07-16,Utuado,Puerto Rico,72141,34,6,,0
 2020-07-16,Vega Alta,Puerto Rico,72143,108,4,,0
 2020-07-16,Vega Baja,Puerto Rico,72145,149,7,,0
@@ -5853,7 +5853,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-17,Toa Alta,Puerto Rico,72135,236,10,,0
 2020-07-17,Toa Baja,Puerto Rico,72137,251,4,,0
 2020-07-17,Trujillo Alto,Puerto Rico,72139,248,10,,0
-2020-07-17,Unknown,Puerto Rico,,622,113,,0
+2020-07-17,Unknown,Puerto Rico,,622,113,177,5
 2020-07-17,Utuado,Puerto Rico,72141,35,1,,0
 2020-07-17,Vega Alta,Puerto Rico,72143,109,1,,0
 2020-07-17,Vega Baja,Puerto Rico,72145,157,8,,0
@@ -5932,7 +5932,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-18,Toa Alta,Puerto Rico,72135,246,10,,0
 2020-07-18,Toa Baja,Puerto Rico,72137,254,3,,0
 2020-07-18,Trujillo Alto,Puerto Rico,72139,251,3,,0
-2020-07-18,Unknown,Puerto Rico,,669,47,,0
+2020-07-18,Unknown,Puerto Rico,,669,47,178,1
 2020-07-18,Utuado,Puerto Rico,72141,39,4,,0
 2020-07-18,Vega Alta,Puerto Rico,72143,115,6,,0
 2020-07-18,Vega Baja,Puerto Rico,72145,167,10,,0
@@ -6011,7 +6011,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-19,Toa Alta,Puerto Rico,72135,267,21,,0
 2020-07-19,Toa Baja,Puerto Rico,72137,266,12,,0
 2020-07-19,Trujillo Alto,Puerto Rico,72139,258,7,,0
-2020-07-19,Unknown,Puerto Rico,,742,73,,0
+2020-07-19,Unknown,Puerto Rico,,742,73,178,0
 2020-07-19,Utuado,Puerto Rico,72141,39,0,,0
 2020-07-19,Vega Alta,Puerto Rico,72143,117,2,,0
 2020-07-19,Vega Baja,Puerto Rico,72145,181,14,,0
@@ -6090,7 +6090,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-20,Toa Alta,Puerto Rico,72135,279,12,,0
 2020-07-20,Toa Baja,Puerto Rico,72137,276,10,,0
 2020-07-20,Trujillo Alto,Puerto Rico,72139,263,5,,0
-2020-07-20,Unknown,Puerto Rico,,790,48,,0
+2020-07-20,Unknown,Puerto Rico,,790,48,180,2
 2020-07-20,Utuado,Puerto Rico,72141,41,2,,0
 2020-07-20,Vega Alta,Puerto Rico,72143,124,7,,0
 2020-07-20,Vega Baja,Puerto Rico,72145,191,10,,0
@@ -6169,7 +6169,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-21,Toa Alta,Puerto Rico,72135,288,9,,0
 2020-07-21,Toa Baja,Puerto Rico,72137,287,11,,0
 2020-07-21,Trujillo Alto,Puerto Rico,72139,275,12,,0
-2020-07-21,Unknown,Puerto Rico,,827,37,,0
+2020-07-21,Unknown,Puerto Rico,,827,37,180,0
 2020-07-21,Utuado,Puerto Rico,72141,41,0,,0
 2020-07-21,Vega Alta,Puerto Rico,72143,129,5,,0
 2020-07-21,Vega Baja,Puerto Rico,72145,210,19,,0
@@ -6248,7 +6248,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-22,Toa Alta,Puerto Rico,72135,292,4,,0
 2020-07-22,Toa Baja,Puerto Rico,72137,287,0,,0
 2020-07-22,Trujillo Alto,Puerto Rico,72139,281,6,,0
-2020-07-22,Unknown,Puerto Rico,,798,-29,,0
+2020-07-22,Unknown,Puerto Rico,,798,-29,185,5
 2020-07-22,Utuado,Puerto Rico,72141,43,2,,0
 2020-07-22,Vega Alta,Puerto Rico,72143,129,0,,0
 2020-07-22,Vega Baja,Puerto Rico,72145,216,6,,0
@@ -6327,7 +6327,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-23,Toa Alta,Puerto Rico,72135,301,9,,0
 2020-07-23,Toa Baja,Puerto Rico,72137,296,9,,0
 2020-07-23,Trujillo Alto,Puerto Rico,72139,304,23,,0
-2020-07-23,Unknown,Puerto Rico,,780,-18,,0
+2020-07-23,Unknown,Puerto Rico,,780,-18,188,3
 2020-07-23,Utuado,Puerto Rico,72141,45,2,,0
 2020-07-23,Vega Alta,Puerto Rico,72143,130,1,,0
 2020-07-23,Vega Baja,Puerto Rico,72145,224,8,,0
@@ -6406,7 +6406,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-24,Toa Alta,Puerto Rico,72135,307,6,,0
 2020-07-24,Toa Baja,Puerto Rico,72137,308,12,,0
 2020-07-24,Trujillo Alto,Puerto Rico,72139,314,10,,0
-2020-07-24,Unknown,Puerto Rico,,827,47,,0
+2020-07-24,Unknown,Puerto Rico,,827,47,191,3
 2020-07-24,Utuado,Puerto Rico,72141,47,2,,0
 2020-07-24,Vega Alta,Puerto Rico,72143,136,6,,0
 2020-07-24,Vega Baja,Puerto Rico,72145,239,15,,0
@@ -6485,7 +6485,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-25,Toa Alta,Puerto Rico,72135,335,28,,0
 2020-07-25,Toa Baja,Puerto Rico,72137,316,8,,0
 2020-07-25,Trujillo Alto,Puerto Rico,72139,324,10,,0
-2020-07-25,Unknown,Puerto Rico,,833,6,,0
+2020-07-25,Unknown,Puerto Rico,,833,6,201,10
 2020-07-25,Utuado,Puerto Rico,72141,51,4,,0
 2020-07-25,Vega Alta,Puerto Rico,72143,145,9,,0
 2020-07-25,Vega Baja,Puerto Rico,72145,250,11,,0
@@ -6564,7 +6564,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-26,Toa Alta,Puerto Rico,72135,351,16,,0
 2020-07-26,Toa Baja,Puerto Rico,72137,330,14,,0
 2020-07-26,Trujillo Alto,Puerto Rico,72139,338,14,,0
-2020-07-26,Unknown,Puerto Rico,,893,60,,0
+2020-07-26,Unknown,Puerto Rico,,893,60,201,0
 2020-07-26,Utuado,Puerto Rico,72141,52,1,,0
 2020-07-26,Vega Alta,Puerto Rico,72143,149,4,,0
 2020-07-26,Vega Baja,Puerto Rico,72145,260,10,,0
@@ -6643,7 +6643,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-27,Toa Alta,Puerto Rico,72135,363,12,,0
 2020-07-27,Toa Baja,Puerto Rico,72137,344,14,,0
 2020-07-27,Trujillo Alto,Puerto Rico,72139,338,0,,0
-2020-07-27,Unknown,Puerto Rico,,927,34,,0
+2020-07-27,Unknown,Puerto Rico,,927,34,201,0
 2020-07-27,Utuado,Puerto Rico,72141,53,1,,0
 2020-07-27,Vega Alta,Puerto Rico,72143,155,6,,0
 2020-07-27,Vega Baja,Puerto Rico,72145,263,3,,0
@@ -6722,7 +6722,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-28,Toa Alta,Puerto Rico,72135,378,15,,0
 2020-07-28,Toa Baja,Puerto Rico,72137,354,10,,0
 2020-07-28,Trujillo Alto,Puerto Rico,72139,344,6,,0
-2020-07-28,Unknown,Puerto Rico,,969,42,,0
+2020-07-28,Unknown,Puerto Rico,,969,42,209,8
 2020-07-28,Utuado,Puerto Rico,72141,53,0,,0
 2020-07-28,Vega Alta,Puerto Rico,72143,157,2,,0
 2020-07-28,Vega Baja,Puerto Rico,72145,266,3,,0
@@ -6801,7 +6801,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-29,Toa Alta,Puerto Rico,72135,384,6,,0
 2020-07-29,Toa Baja,Puerto Rico,72137,364,10,,0
 2020-07-29,Trujillo Alto,Puerto Rico,72139,353,9,,0
-2020-07-29,Unknown,Puerto Rico,,986,17,,0
+2020-07-29,Unknown,Puerto Rico,,986,17,211,2
 2020-07-29,Utuado,Puerto Rico,72141,54,1,,0
 2020-07-29,Vega Alta,Puerto Rico,72143,163,6,,0
 2020-07-29,Vega Baja,Puerto Rico,72145,269,3,,0
@@ -6880,7 +6880,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-30,Toa Alta,Puerto Rico,72135,398,14,,0
 2020-07-30,Toa Baja,Puerto Rico,72137,388,24,,0
 2020-07-30,Trujillo Alto,Puerto Rico,72139,367,14,,0
-2020-07-30,Unknown,Puerto Rico,,990,4,,0
+2020-07-30,Unknown,Puerto Rico,,990,4,214,3
 2020-07-30,Utuado,Puerto Rico,72141,54,0,,0
 2020-07-30,Vega Alta,Puerto Rico,72143,165,2,,0
 2020-07-30,Vega Baja,Puerto Rico,72145,282,13,,0
@@ -6959,7 +6959,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-07-31,Toa Alta,Puerto Rico,72135,410,12,,0
 2020-07-31,Toa Baja,Puerto Rico,72137,395,7,,0
 2020-07-31,Trujillo Alto,Puerto Rico,72139,372,5,,0
-2020-07-31,Unknown,Puerto Rico,,970,-20,,0
+2020-07-31,Unknown,Puerto Rico,,970,-20,219,5
 2020-07-31,Utuado,Puerto Rico,72141,57,3,,0
 2020-07-31,Vega Alta,Puerto Rico,72143,167,2,,0
 2020-07-31,Vega Baja,Puerto Rico,72145,290,8,,0
@@ -7038,7 +7038,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-01,Toa Alta,Puerto Rico,72135,458,48,,0
 2020-08-01,Toa Baja,Puerto Rico,72137,419,24,,0
 2020-08-01,Trujillo Alto,Puerto Rico,72139,411,39,,0
-2020-08-01,Unknown,Puerto Rico,,1070,100,,0
+2020-08-01,Unknown,Puerto Rico,,1070,100,225,6
 2020-08-01,Utuado,Puerto Rico,72141,57,0,,0
 2020-08-01,Vega Alta,Puerto Rico,72143,176,9,,0
 2020-08-01,Vega Baja,Puerto Rico,72145,303,13,,0
@@ -7117,7 +7117,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-02,Toa Alta,Puerto Rico,72135,472,14,,0
 2020-08-02,Toa Baja,Puerto Rico,72137,440,21,,0
 2020-08-02,Trujillo Alto,Puerto Rico,72139,418,7,,0
-2020-08-02,Unknown,Puerto Rico,,1142,72,,0
+2020-08-02,Unknown,Puerto Rico,,1142,72,230,5
 2020-08-02,Utuado,Puerto Rico,72141,57,0,,0
 2020-08-02,Vega Alta,Puerto Rico,72143,181,5,,0
 2020-08-02,Vega Baja,Puerto Rico,72145,308,5,,0
@@ -7196,7 +7196,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-03,Toa Alta,Puerto Rico,72135,479,7,,0
 2020-08-03,Toa Baja,Puerto Rico,72137,445,5,,0
 2020-08-03,Trujillo Alto,Puerto Rico,72139,427,9,,0
-2020-08-03,Unknown,Puerto Rico,,1159,17,,0
+2020-08-03,Unknown,Puerto Rico,,1159,17,230,0
 2020-08-03,Utuado,Puerto Rico,72141,57,0,,0
 2020-08-03,Vega Alta,Puerto Rico,72143,186,5,,0
 2020-08-03,Vega Baja,Puerto Rico,72145,313,5,,0
@@ -7275,7 +7275,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-04,Toa Alta,Puerto Rico,72135,498,19,,0
 2020-08-04,Toa Baja,Puerto Rico,72137,456,11,,0
 2020-08-04,Trujillo Alto,Puerto Rico,72139,438,11,,0
-2020-08-04,Unknown,Puerto Rico,,1199,40,,0
+2020-08-04,Unknown,Puerto Rico,,1199,40,237,7
 2020-08-04,Utuado,Puerto Rico,72141,57,0,,0
 2020-08-04,Vega Alta,Puerto Rico,72143,186,0,,0
 2020-08-04,Vega Baja,Puerto Rico,72145,321,8,,0
@@ -7354,7 +7354,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-05,Toa Alta,Puerto Rico,72135,504,6,,0
 2020-08-05,Toa Baja,Puerto Rico,72137,464,8,,0
 2020-08-05,Trujillo Alto,Puerto Rico,72139,442,4,,0
-2020-08-05,Unknown,Puerto Rico,,1149,-50,,0
+2020-08-05,Unknown,Puerto Rico,,1149,-50,246,9
 2020-08-05,Utuado,Puerto Rico,72141,57,0,,0
 2020-08-05,Vega Alta,Puerto Rico,72143,195,9,,0
 2020-08-05,Vega Baja,Puerto Rico,72145,349,28,,0
@@ -7433,7 +7433,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-06,Toa Alta,Puerto Rico,72135,511,7,,0
 2020-08-06,Toa Baja,Puerto Rico,72137,470,6,,0
 2020-08-06,Trujillo Alto,Puerto Rico,72139,446,4,,0
-2020-08-06,Unknown,Puerto Rico,,1117,-32,,0
+2020-08-06,Unknown,Puerto Rico,,1117,-32,258,12
 2020-08-06,Utuado,Puerto Rico,72141,57,0,,0
 2020-08-06,Vega Alta,Puerto Rico,72143,198,3,,0
 2020-08-06,Vega Baja,Puerto Rico,72145,356,7,,0
@@ -7512,7 +7512,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-07,Toa Alta,Puerto Rico,72135,540,29,,0
 2020-08-07,Toa Baja,Puerto Rico,72137,494,24,,0
 2020-08-07,Trujillo Alto,Puerto Rico,72139,464,18,,0
-2020-08-07,Unknown,Puerto Rico,,1118,1,,0
+2020-08-07,Unknown,Puerto Rico,,1118,1,265,7
 2020-08-07,Utuado,Puerto Rico,72141,58,1,,0
 2020-08-07,Vega Alta,Puerto Rico,72143,212,14,,0
 2020-08-07,Vega Baja,Puerto Rico,72145,373,17,,0
@@ -7591,7 +7591,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-08,Toa Alta,Puerto Rico,72135,563,23,,0
 2020-08-08,Toa Baja,Puerto Rico,72137,511,17,,0
 2020-08-08,Trujillo Alto,Puerto Rico,72139,481,17,,0
-2020-08-08,Unknown,Puerto Rico,,1166,48,,0
+2020-08-08,Unknown,Puerto Rico,,1166,48,274,9
 2020-08-08,Utuado,Puerto Rico,72141,60,2,,0
 2020-08-08,Vega Alta,Puerto Rico,72143,224,12,,0
 2020-08-08,Vega Baja,Puerto Rico,72145,393,20,,0
@@ -7670,7 +7670,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-09,Toa Alta,Puerto Rico,72135,578,15,,0
 2020-08-09,Toa Baja,Puerto Rico,72137,520,9,,0
 2020-08-09,Trujillo Alto,Puerto Rico,72139,501,20,,0
-2020-08-09,Unknown,Puerto Rico,,1165,-1,,0
+2020-08-09,Unknown,Puerto Rico,,1165,-1,279,5
 2020-08-09,Utuado,Puerto Rico,72141,68,8,,0
 2020-08-09,Vega Alta,Puerto Rico,72143,242,18,,0
 2020-08-09,Vega Baja,Puerto Rico,72145,406,13,,0
@@ -7749,7 +7749,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-10,Toa Alta,Puerto Rico,72135,595,17,,0
 2020-08-10,Toa Baja,Puerto Rico,72137,543,23,,0
 2020-08-10,Trujillo Alto,Puerto Rico,72139,514,13,,0
-2020-08-10,Unknown,Puerto Rico,,1204,39,,0
+2020-08-10,Unknown,Puerto Rico,,1204,39,279,0
 2020-08-10,Utuado,Puerto Rico,72141,75,7,,0
 2020-08-10,Vega Alta,Puerto Rico,72143,250,8,,0
 2020-08-10,Vega Baja,Puerto Rico,72145,418,12,,0
@@ -7828,7 +7828,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-11,Toa Alta,Puerto Rico,72135,613,18,,0
 2020-08-11,Toa Baja,Puerto Rico,72137,558,15,,0
 2020-08-11,Trujillo Alto,Puerto Rico,72139,543,29,,0
-2020-08-11,Unknown,Puerto Rico,,1198,-6,,0
+2020-08-11,Unknown,Puerto Rico,,1198,-6,287,8
 2020-08-11,Utuado,Puerto Rico,72141,76,1,,0
 2020-08-11,Vega Alta,Puerto Rico,72143,258,8,,0
 2020-08-11,Vega Baja,Puerto Rico,72145,429,11,,0
@@ -7907,7 +7907,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-12,Toa Alta,Puerto Rico,72135,627,14,,0
 2020-08-12,Toa Baja,Puerto Rico,72137,580,22,,0
 2020-08-12,Trujillo Alto,Puerto Rico,72139,562,19,,0
-2020-08-12,Unknown,Puerto Rico,,1233,35,,0
+2020-08-12,Unknown,Puerto Rico,,1233,35,295,8
 2020-08-12,Utuado,Puerto Rico,72141,78,2,,0
 2020-08-12,Vega Alta,Puerto Rico,72143,266,8,,0
 2020-08-12,Vega Baja,Puerto Rico,72145,443,14,,0
@@ -7986,7 +7986,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-13,Toa Alta,Puerto Rico,72135,637,10,,0
 2020-08-13,Toa Baja,Puerto Rico,72137,605,25,,0
 2020-08-13,Trujillo Alto,Puerto Rico,72139,567,5,,0
-2020-08-13,Unknown,Puerto Rico,,1192,-41,,0
+2020-08-13,Unknown,Puerto Rico,,1192,-41,306,11
 2020-08-13,Utuado,Puerto Rico,72141,79,1,,0
 2020-08-13,Vega Alta,Puerto Rico,72143,279,13,,0
 2020-08-13,Vega Baja,Puerto Rico,72145,445,2,,0
@@ -8065,7 +8065,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-14,Toa Alta,Puerto Rico,72135,652,15,,0
 2020-08-14,Toa Baja,Puerto Rico,72137,632,27,,0
 2020-08-14,Trujillo Alto,Puerto Rico,72139,579,12,,0
-2020-08-14,Unknown,Puerto Rico,,1179,-13,,0
+2020-08-14,Unknown,Puerto Rico,,1179,-13,317,11
 2020-08-14,Utuado,Puerto Rico,72141,80,1,,0
 2020-08-14,Vega Alta,Puerto Rico,72143,295,16,,0
 2020-08-14,Vega Baja,Puerto Rico,72145,463,18,,0
@@ -8144,7 +8144,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-15,Toa Alta,Puerto Rico,72135,678,26,,0
 2020-08-15,Toa Baja,Puerto Rico,72137,658,26,,0
 2020-08-15,Trujillo Alto,Puerto Rico,72139,588,9,,0
-2020-08-15,Unknown,Puerto Rico,,1199,20,,0
+2020-08-15,Unknown,Puerto Rico,,1199,20,329,12
 2020-08-15,Utuado,Puerto Rico,72141,80,0,,0
 2020-08-15,Vega Alta,Puerto Rico,72143,303,8,,0
 2020-08-15,Vega Baja,Puerto Rico,72145,478,15,,0
@@ -8223,7 +8223,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-16,Toa Alta,Puerto Rico,72135,679,1,,0
 2020-08-16,Toa Baja,Puerto Rico,72137,663,5,,0
 2020-08-16,Trujillo Alto,Puerto Rico,72139,591,3,,0
-2020-08-16,Unknown,Puerto Rico,,1198,-1,,0
+2020-08-16,Unknown,Puerto Rico,,1198,-1,335,6
 2020-08-16,Utuado,Puerto Rico,72141,81,1,,0
 2020-08-16,Vega Alta,Puerto Rico,72143,314,11,,0
 2020-08-16,Vega Baja,Puerto Rico,72145,484,6,,0
@@ -8302,7 +8302,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-17,Toa Alta,Puerto Rico,72135,709,30,,0
 2020-08-17,Toa Baja,Puerto Rico,72137,687,24,,0
 2020-08-17,Trujillo Alto,Puerto Rico,72139,605,14,,0
-2020-08-17,Unknown,Puerto Rico,,1274,76,,0
+2020-08-17,Unknown,Puerto Rico,,1274,76,335,0
 2020-08-17,Utuado,Puerto Rico,72141,81,0,,0
 2020-08-17,Vega Alta,Puerto Rico,72143,329,15,,0
 2020-08-17,Vega Baja,Puerto Rico,72145,503,19,,0
@@ -8381,7 +8381,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-18,Toa Alta,Puerto Rico,72135,741,32,,0
 2020-08-18,Toa Baja,Puerto Rico,72137,716,29,,0
 2020-08-18,Trujillo Alto,Puerto Rico,72139,631,26,,0
-2020-08-18,Unknown,Puerto Rico,,1401,127,,0
+2020-08-18,Unknown,Puerto Rico,,1401,127,346,11
 2020-08-18,Utuado,Puerto Rico,72141,89,8,,0
 2020-08-18,Vega Alta,Puerto Rico,72143,342,13,,0
 2020-08-18,Vega Baja,Puerto Rico,72145,528,25,,0
@@ -8460,7 +8460,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-19,Toa Alta,Puerto Rico,72135,749,8,,0
 2020-08-19,Toa Baja,Puerto Rico,72137,725,9,,0
 2020-08-19,Trujillo Alto,Puerto Rico,72139,636,5,,0
-2020-08-19,Unknown,Puerto Rico,,1366,-35,,0
+2020-08-19,Unknown,Puerto Rico,,1366,-35,356,10
 2020-08-19,Utuado,Puerto Rico,72141,90,1,,0
 2020-08-19,Vega Alta,Puerto Rico,72143,345,3,,0
 2020-08-19,Vega Baja,Puerto Rico,72145,542,14,,0
@@ -8539,7 +8539,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-20,Toa Alta,Puerto Rico,72135,755,6,,0
 2020-08-20,Toa Baja,Puerto Rico,72137,738,13,,0
 2020-08-20,Trujillo Alto,Puerto Rico,72139,643,7,,0
-2020-08-20,Unknown,Puerto Rico,,1305,-61,,0
+2020-08-20,Unknown,Puerto Rico,,1305,-61,367,11
 2020-08-20,Utuado,Puerto Rico,72141,90,0,,0
 2020-08-20,Vega Alta,Puerto Rico,72143,351,6,,0
 2020-08-20,Vega Baja,Puerto Rico,72145,551,9,,0
@@ -8618,7 +8618,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-21,Toa Alta,Puerto Rico,72135,780,25,,0
 2020-08-21,Toa Baja,Puerto Rico,72137,761,23,,0
 2020-08-21,Trujillo Alto,Puerto Rico,72139,658,15,,0
-2020-08-21,Unknown,Puerto Rico,,1303,-2,,0
+2020-08-21,Unknown,Puerto Rico,,1303,-2,374,7
 2020-08-21,Utuado,Puerto Rico,72141,92,2,,0
 2020-08-21,Vega Alta,Puerto Rico,72143,361,10,,0
 2020-08-21,Vega Baja,Puerto Rico,72145,578,27,,0
@@ -8697,7 +8697,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-22,Toa Alta,Puerto Rico,72135,798,18,,0
 2020-08-22,Toa Baja,Puerto Rico,72137,783,22,,0
 2020-08-22,Trujillo Alto,Puerto Rico,72139,669,11,,0
-2020-08-22,Unknown,Puerto Rico,,1348,45,,0
+2020-08-22,Unknown,Puerto Rico,,1348,45,381,7
 2020-08-22,Utuado,Puerto Rico,72141,92,0,,0
 2020-08-22,Vega Alta,Puerto Rico,72143,375,14,,0
 2020-08-22,Vega Baja,Puerto Rico,72145,583,5,,0
@@ -8776,7 +8776,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-23,Toa Alta,Puerto Rico,72135,807,9,,0
 2020-08-23,Toa Baja,Puerto Rico,72137,788,5,,0
 2020-08-23,Trujillo Alto,Puerto Rico,72139,677,8,,0
-2020-08-23,Unknown,Puerto Rico,,1296,-52,,0
+2020-08-23,Unknown,Puerto Rico,,1296,-52,390,9
 2020-08-23,Utuado,Puerto Rico,72141,93,1,,0
 2020-08-23,Vega Alta,Puerto Rico,72143,385,10,,0
 2020-08-23,Vega Baja,Puerto Rico,72145,593,10,,0
@@ -8855,7 +8855,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-24,Toa Alta,Puerto Rico,72135,828,21,,0
 2020-08-24,Toa Baja,Puerto Rico,72137,819,31,,0
 2020-08-24,Trujillo Alto,Puerto Rico,72139,692,15,,0
-2020-08-24,Unknown,Puerto Rico,,1376,80,,0
+2020-08-24,Unknown,Puerto Rico,,1376,80,390,0
 2020-08-24,Utuado,Puerto Rico,72141,94,1,,0
 2020-08-24,Vega Alta,Puerto Rico,72143,392,7,,0
 2020-08-24,Vega Baja,Puerto Rico,72145,606,13,,0
@@ -8934,7 +8934,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-25,Toa Alta,Puerto Rico,72135,831,3,,0
 2020-08-25,Toa Baja,Puerto Rico,72137,822,3,,0
 2020-08-25,Trujillo Alto,Puerto Rico,72139,693,1,,0
-2020-08-25,Unknown,Puerto Rico,,1383,7,,0
+2020-08-25,Unknown,Puerto Rico,,1383,7,395,5
 2020-08-25,Utuado,Puerto Rico,72141,94,0,,0
 2020-08-25,Vega Alta,Puerto Rico,72143,397,5,,0
 2020-08-25,Vega Baja,Puerto Rico,72145,615,9,,0
@@ -9013,7 +9013,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-26,Toa Alta,Puerto Rico,72135,833,2,,0
 2020-08-26,Toa Baja,Puerto Rico,72137,827,5,,0
 2020-08-26,Trujillo Alto,Puerto Rico,72139,696,3,,0
-2020-08-26,Unknown,Puerto Rico,,1306,-77,,0
+2020-08-26,Unknown,Puerto Rico,,1306,-77,404,9
 2020-08-26,Utuado,Puerto Rico,72141,94,0,,0
 2020-08-26,Vega Alta,Puerto Rico,72143,397,0,,0
 2020-08-26,Vega Baja,Puerto Rico,72145,616,1,,0
@@ -9092,7 +9092,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-27,Toa Alta,Puerto Rico,72135,858,25,,0
 2020-08-27,Toa Baja,Puerto Rico,72137,844,17,,0
 2020-08-27,Trujillo Alto,Puerto Rico,72139,712,16,,0
-2020-08-27,Unknown,Puerto Rico,,1329,23,,0
+2020-08-27,Unknown,Puerto Rico,,1329,23,412,8
 2020-08-27,Utuado,Puerto Rico,72141,98,4,,0
 2020-08-27,Vega Alta,Puerto Rico,72143,415,18,,0
 2020-08-27,Vega Baja,Puerto Rico,72145,623,7,,0
@@ -9171,7 +9171,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-28,Toa Alta,Puerto Rico,72135,873,15,,0
 2020-08-28,Toa Baja,Puerto Rico,72137,863,19,,0
 2020-08-28,Trujillo Alto,Puerto Rico,72139,721,9,,0
-2020-08-28,Unknown,Puerto Rico,,1328,-1,,0
+2020-08-28,Unknown,Puerto Rico,,1328,-1,424,12
 2020-08-28,Utuado,Puerto Rico,72141,98,0,,0
 2020-08-28,Vega Alta,Puerto Rico,72143,430,15,,0
 2020-08-28,Vega Baja,Puerto Rico,72145,635,12,,0
@@ -9250,7 +9250,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-29,Toa Alta,Puerto Rico,72135,891,18,,0
 2020-08-29,Toa Baja,Puerto Rico,72137,879,16,,0
 2020-08-29,Trujillo Alto,Puerto Rico,72139,735,14,,0
-2020-08-29,Unknown,Puerto Rico,,1313,-15,,0
+2020-08-29,Unknown,Puerto Rico,,1313,-15,428,4
 2020-08-29,Utuado,Puerto Rico,72141,98,0,,0
 2020-08-29,Vega Alta,Puerto Rico,72143,454,24,,0
 2020-08-29,Vega Baja,Puerto Rico,72145,642,7,,0
@@ -9329,7 +9329,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-30,Toa Alta,Puerto Rico,72135,909,18,,0
 2020-08-30,Toa Baja,Puerto Rico,72137,885,6,,0
 2020-08-30,Trujillo Alto,Puerto Rico,72139,737,2,,0
-2020-08-30,Unknown,Puerto Rico,,1294,-19,,0
+2020-08-30,Unknown,Puerto Rico,,1294,-19,434,6
 2020-08-30,Utuado,Puerto Rico,72141,98,0,,0
 2020-08-30,Vega Alta,Puerto Rico,72143,458,4,,0
 2020-08-30,Vega Baja,Puerto Rico,72145,644,2,,0
@@ -9408,7 +9408,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-08-31,Toa Alta,Puerto Rico,72135,920,11,,0
 2020-08-31,Toa Baja,Puerto Rico,72137,895,10,,0
 2020-08-31,Trujillo Alto,Puerto Rico,72139,746,9,,0
-2020-08-31,Unknown,Puerto Rico,,1320,26,,0
+2020-08-31,Unknown,Puerto Rico,,1320,26,434,0
 2020-08-31,Utuado,Puerto Rico,72141,100,2,,0
 2020-08-31,Vega Alta,Puerto Rico,72143,475,17,,0
 2020-08-31,Vega Baja,Puerto Rico,72145,655,11,,0
@@ -9487,7 +9487,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-01,Toa Alta,Puerto Rico,72135,929,9,,0
 2020-09-01,Toa Baja,Puerto Rico,72137,905,10,,0
 2020-09-01,Trujillo Alto,Puerto Rico,72139,748,2,,0
-2020-09-01,Unknown,Puerto Rico,,1336,16,,0
+2020-09-01,Unknown,Puerto Rico,,1336,16,435,1
 2020-09-01,Utuado,Puerto Rico,72141,101,1,,0
 2020-09-01,Vega Alta,Puerto Rico,72143,479,4,,0
 2020-09-01,Vega Baja,Puerto Rico,72145,657,2,,0
@@ -9566,7 +9566,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-02,Toa Alta,Puerto Rico,72135,947,18,,0
 2020-09-02,Toa Baja,Puerto Rico,72137,920,15,,0
 2020-09-02,Trujillo Alto,Puerto Rico,72139,764,16,,0
-2020-09-02,Unknown,Puerto Rico,,1356,20,,0
+2020-09-02,Unknown,Puerto Rico,,1356,20,443,8
 2020-09-02,Utuado,Puerto Rico,72141,103,2,,0
 2020-09-02,Vega Alta,Puerto Rico,72143,482,3,,0
 2020-09-02,Vega Baja,Puerto Rico,72145,669,12,,0
@@ -9645,7 +9645,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-03,Toa Alta,Puerto Rico,72135,953,6,,0
 2020-09-03,Toa Baja,Puerto Rico,72137,933,13,,0
 2020-09-03,Trujillo Alto,Puerto Rico,72139,767,3,,0
-2020-09-03,Unknown,Puerto Rico,,1296,-60,,0
+2020-09-03,Unknown,Puerto Rico,,1296,-60,448,5
 2020-09-03,Utuado,Puerto Rico,72141,103,0,,0
 2020-09-03,Vega Alta,Puerto Rico,72143,484,2,,0
 2020-09-03,Vega Baja,Puerto Rico,72145,676,7,,0
@@ -9724,7 +9724,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-04,Toa Alta,Puerto Rico,72135,956,3,,0
 2020-09-04,Toa Baja,Puerto Rico,72137,935,2,,0
 2020-09-04,Trujillo Alto,Puerto Rico,72139,766,-1,,0
-2020-09-04,Unknown,Puerto Rico,,1283,-13,,0
+2020-09-04,Unknown,Puerto Rico,,1283,-13,455,7
 2020-09-04,Utuado,Puerto Rico,72141,104,1,,0
 2020-09-04,Vega Alta,Puerto Rico,72143,487,3,,0
 2020-09-04,Vega Baja,Puerto Rico,72145,678,2,,0
@@ -9803,7 +9803,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-05,Toa Alta,Puerto Rico,72135,971,15,,0
 2020-09-05,Toa Baja,Puerto Rico,72137,945,10,,0
 2020-09-05,Trujillo Alto,Puerto Rico,72139,771,5,,0
-2020-09-05,Unknown,Puerto Rico,,1291,8,,0
+2020-09-05,Unknown,Puerto Rico,,1291,8,464,9
 2020-09-05,Utuado,Puerto Rico,72141,106,2,,0
 2020-09-05,Vega Alta,Puerto Rico,72143,491,4,,0
 2020-09-05,Vega Baja,Puerto Rico,72145,684,6,,0
@@ -9882,7 +9882,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-06,Toa Alta,Puerto Rico,72135,972,1,,0
 2020-09-06,Toa Baja,Puerto Rico,72137,949,4,,0
 2020-09-06,Trujillo Alto,Puerto Rico,72139,772,1,,0
-2020-09-06,Unknown,Puerto Rico,,1255,-36,,0
+2020-09-06,Unknown,Puerto Rico,,1255,-36,477,13
 2020-09-06,Utuado,Puerto Rico,72141,106,0,,0
 2020-09-06,Vega Alta,Puerto Rico,72143,490,-1,,0
 2020-09-06,Vega Baja,Puerto Rico,72145,689,5,,0
@@ -9961,7 +9961,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-07,Toa Alta,Puerto Rico,72135,991,19,,0
 2020-09-07,Toa Baja,Puerto Rico,72137,967,18,,0
 2020-09-07,Trujillo Alto,Puerto Rico,72139,796,24,,0
-2020-09-07,Unknown,Puerto Rico,,1298,43,,0
+2020-09-07,Unknown,Puerto Rico,,1298,43,477,0
 2020-09-07,Utuado,Puerto Rico,72141,106,0,,0
 2020-09-07,Vega Alta,Puerto Rico,72143,500,10,,0
 2020-09-07,Vega Baja,Puerto Rico,72145,704,15,,0
@@ -10040,7 +10040,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-08,Toa Alta,Puerto Rico,72135,997,6,,0
 2020-09-08,Toa Baja,Puerto Rico,72137,971,4,,0
 2020-09-08,Trujillo Alto,Puerto Rico,72139,797,1,,0
-2020-09-08,Unknown,Puerto Rico,,1299,1,,0
+2020-09-08,Unknown,Puerto Rico,,1299,1,482,5
 2020-09-08,Utuado,Puerto Rico,72141,106,0,,0
 2020-09-08,Vega Alta,Puerto Rico,72143,503,3,,0
 2020-09-08,Vega Baja,Puerto Rico,72145,707,3,,0
@@ -10119,7 +10119,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-09,Toa Alta,Puerto Rico,72135,997,0,,0
 2020-09-09,Toa Baja,Puerto Rico,72137,971,0,,0
 2020-09-09,Trujillo Alto,Puerto Rico,72139,797,0,,0
-2020-09-09,Unknown,Puerto Rico,,1299,0,,0
+2020-09-09,Unknown,Puerto Rico,,1299,0,500,18
 2020-09-09,Utuado,Puerto Rico,72141,106,0,,0
 2020-09-09,Vega Alta,Puerto Rico,72143,503,0,,0
 2020-09-09,Vega Baja,Puerto Rico,72145,707,0,,0
@@ -10198,7 +10198,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-10,Toa Alta,Puerto Rico,72135,1020,23,,0
 2020-09-10,Toa Baja,Puerto Rico,72137,995,24,,0
 2020-09-10,Trujillo Alto,Puerto Rico,72139,818,21,,0
-2020-09-10,Unknown,Puerto Rico,,1325,26,,0
+2020-09-10,Unknown,Puerto Rico,,1325,26,512,12
 2020-09-10,Utuado,Puerto Rico,72141,109,3,,0
 2020-09-10,Vega Alta,Puerto Rico,72143,507,4,,0
 2020-09-10,Vega Baja,Puerto Rico,72145,721,14,,0
@@ -10277,7 +10277,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-11,Toa Alta,Puerto Rico,72135,1029,9,,0
 2020-09-11,Toa Baja,Puerto Rico,72137,1004,9,,0
 2020-09-11,Trujillo Alto,Puerto Rico,72139,824,6,,0
-2020-09-11,Unknown,Puerto Rico,,1275,-50,,0
+2020-09-11,Unknown,Puerto Rico,,1275,-50,523,11
 2020-09-11,Utuado,Puerto Rico,72141,112,3,,0
 2020-09-11,Vega Alta,Puerto Rico,72143,516,9,,0
 2020-09-11,Vega Baja,Puerto Rico,72145,739,18,,0
@@ -10356,7 +10356,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-12,Toa Alta,Puerto Rico,72135,1045,16,,0
 2020-09-12,Toa Baja,Puerto Rico,72137,1020,16,,0
 2020-09-12,Trujillo Alto,Puerto Rico,72139,835,11,,0
-2020-09-12,Unknown,Puerto Rico,,1281,6,,0
+2020-09-12,Unknown,Puerto Rico,,1281,6,535,12
 2020-09-12,Utuado,Puerto Rico,72141,113,1,,0
 2020-09-12,Vega Alta,Puerto Rico,72143,526,10,,0
 2020-09-12,Vega Baja,Puerto Rico,72145,746,7,,0
@@ -10435,7 +10435,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-13,Toa Alta,Puerto Rico,72135,1050,5,,0
 2020-09-13,Toa Baja,Puerto Rico,72137,1028,8,,0
 2020-09-13,Trujillo Alto,Puerto Rico,72139,843,8,,0
-2020-09-13,Unknown,Puerto Rico,,1266,-15,,0
+2020-09-13,Unknown,Puerto Rico,,1266,-15,539,4
 2020-09-13,Utuado,Puerto Rico,72141,115,2,,0
 2020-09-13,Vega Alta,Puerto Rico,72143,544,18,,0
 2020-09-13,Vega Baja,Puerto Rico,72145,755,9,,0
@@ -10514,7 +10514,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-14,Toa Alta,Puerto Rico,72135,1061,11,,0
 2020-09-14,Toa Baja,Puerto Rico,72137,1044,16,,0
 2020-09-14,Trujillo Alto,Puerto Rico,72139,852,9,,0
-2020-09-14,Unknown,Puerto Rico,,1270,4,,0
+2020-09-14,Unknown,Puerto Rico,,1270,4,542,3
 2020-09-14,Utuado,Puerto Rico,72141,115,0,,0
 2020-09-14,Vega Alta,Puerto Rico,72143,554,10,,0
 2020-09-14,Vega Baja,Puerto Rico,72145,770,15,,0
@@ -10593,7 +10593,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-15,Toa Alta,Puerto Rico,72135,1076,15,,0
 2020-09-15,Toa Baja,Puerto Rico,72137,1055,11,,0
 2020-09-15,Trujillo Alto,Puerto Rico,72139,863,11,,0
-2020-09-15,Unknown,Puerto Rico,,1277,7,,0
+2020-09-15,Unknown,Puerto Rico,,1277,7,551,9
 2020-09-15,Utuado,Puerto Rico,72141,116,1,,0
 2020-09-15,Vega Alta,Puerto Rico,72143,563,9,,0
 2020-09-15,Vega Baja,Puerto Rico,72145,786,16,,0
@@ -10672,7 +10672,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-16,Toa Alta,Puerto Rico,72135,1080,4,,0
 2020-09-16,Toa Baja,Puerto Rico,72137,1055,0,,0
 2020-09-16,Trujillo Alto,Puerto Rico,72139,868,5,,0
-2020-09-16,Unknown,Puerto Rico,,1252,-25,,0
+2020-09-16,Unknown,Puerto Rico,,1252,-25,570,19
 2020-09-16,Utuado,Puerto Rico,72141,118,2,,0
 2020-09-16,Vega Alta,Puerto Rico,72143,565,2,,0
 2020-09-16,Vega Baja,Puerto Rico,72145,792,6,,0
@@ -10751,7 +10751,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-17,Toa Alta,Puerto Rico,72135,1094,14,,0
 2020-09-17,Toa Baja,Puerto Rico,72137,1069,14,,0
 2020-09-17,Trujillo Alto,Puerto Rico,72139,874,6,,0
-2020-09-17,Unknown,Puerto Rico,,1244,-8,,0
+2020-09-17,Unknown,Puerto Rico,,1244,-8,588,18
 2020-09-17,Utuado,Puerto Rico,72141,122,4,,0
 2020-09-17,Vega Alta,Puerto Rico,72143,576,11,,0
 2020-09-17,Vega Baja,Puerto Rico,72145,811,19,,0
@@ -10830,7 +10830,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-18,Toa Alta,Puerto Rico,72135,1123,29,,0
 2020-09-18,Toa Baja,Puerto Rico,72137,1090,21,,0
 2020-09-18,Trujillo Alto,Puerto Rico,72139,897,23,,0
-2020-09-18,Unknown,Puerto Rico,,1305,61,,0
+2020-09-18,Unknown,Puerto Rico,,1305,61,599,11
 2020-09-18,Utuado,Puerto Rico,72141,125,3,,0
 2020-09-18,Vega Alta,Puerto Rico,72143,587,11,,0
 2020-09-18,Vega Baja,Puerto Rico,72145,822,11,,0
@@ -10909,7 +10909,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-19,Toa Alta,Puerto Rico,72135,1149,26,,0
 2020-09-19,Toa Baja,Puerto Rico,72137,1127,37,,0
 2020-09-19,Trujillo Alto,Puerto Rico,72139,929,32,,0
-2020-09-19,Unknown,Puerto Rico,,1333,28,,0
+2020-09-19,Unknown,Puerto Rico,,1333,28,605,6
 2020-09-19,Utuado,Puerto Rico,72141,127,2,,0
 2020-09-19,Vega Alta,Puerto Rico,72143,607,20,,0
 2020-09-19,Vega Baja,Puerto Rico,72145,844,22,,0
@@ -10988,7 +10988,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-20,Toa Alta,Puerto Rico,72135,1165,16,,0
 2020-09-20,Toa Baja,Puerto Rico,72137,1177,50,,0
 2020-09-20,Trujillo Alto,Puerto Rico,72139,952,23,,0
-2020-09-20,Unknown,Puerto Rico,,1334,1,,0
+2020-09-20,Unknown,Puerto Rico,,1334,1,608,3
 2020-09-20,Utuado,Puerto Rico,72141,127,0,,0
 2020-09-20,Vega Alta,Puerto Rico,72143,635,28,,0
 2020-09-20,Vega Baja,Puerto Rico,72145,864,20,,0
@@ -11067,7 +11067,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-21,Toa Alta,Puerto Rico,72135,1182,17,,0
 2020-09-21,Toa Baja,Puerto Rico,72137,1212,35,,0
 2020-09-21,Trujillo Alto,Puerto Rico,72139,966,14,,0
-2020-09-21,Unknown,Puerto Rico,,1352,18,,0
+2020-09-21,Unknown,Puerto Rico,,1352,18,609,1
 2020-09-21,Utuado,Puerto Rico,72141,129,2,,0
 2020-09-21,Vega Alta,Puerto Rico,72143,678,43,,0
 2020-09-21,Vega Baja,Puerto Rico,72145,891,27,,0
@@ -11146,7 +11146,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-22,Toa Alta,Puerto Rico,72135,1185,3,,0
 2020-09-22,Toa Baja,Puerto Rico,72137,1216,4,,0
 2020-09-22,Trujillo Alto,Puerto Rico,72139,969,3,,0
-2020-09-22,Unknown,Puerto Rico,,1352,0,,0
+2020-09-22,Unknown,Puerto Rico,,1352,0,613,4
 2020-09-22,Utuado,Puerto Rico,72141,129,0,,0
 2020-09-22,Vega Alta,Puerto Rico,72143,681,3,,0
 2020-09-22,Vega Baja,Puerto Rico,72145,893,2,,0
@@ -11225,7 +11225,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-23,Toa Alta,Puerto Rico,72135,1187,2,,0
 2020-09-23,Toa Baja,Puerto Rico,72137,1228,12,,0
 2020-09-23,Trujillo Alto,Puerto Rico,72139,969,0,,0
-2020-09-23,Unknown,Puerto Rico,,1315,-37,,0
+2020-09-23,Unknown,Puerto Rico,,1315,-37,617,4
 2020-09-23,Utuado,Puerto Rico,72141,129,0,,0
 2020-09-23,Vega Alta,Puerto Rico,72143,683,2,,0
 2020-09-23,Vega Baja,Puerto Rico,72145,895,2,,0
@@ -11304,7 +11304,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-24,Toa Alta,Puerto Rico,72135,1214,27,,0
 2020-09-24,Toa Baja,Puerto Rico,72137,1258,30,,0
 2020-09-24,Trujillo Alto,Puerto Rico,72139,993,24,,0
-2020-09-24,Unknown,Puerto Rico,,1332,17,,0
+2020-09-24,Unknown,Puerto Rico,,1332,17,627,10
 2020-09-24,Utuado,Puerto Rico,72141,132,3,,0
 2020-09-24,Vega Alta,Puerto Rico,72143,707,24,,0
 2020-09-24,Vega Baja,Puerto Rico,72145,919,24,,0
@@ -11383,7 +11383,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-25,Toa Alta,Puerto Rico,72135,1237,23,,0
 2020-09-25,Toa Baja,Puerto Rico,72137,1295,37,,0
 2020-09-25,Trujillo Alto,Puerto Rico,72139,1026,33,,0
-2020-09-25,Unknown,Puerto Rico,,1326,-6,,0
+2020-09-25,Unknown,Puerto Rico,,1326,-6,635,8
 2020-09-25,Utuado,Puerto Rico,72141,136,4,,0
 2020-09-25,Vega Alta,Puerto Rico,72143,741,34,,0
 2020-09-25,Vega Baja,Puerto Rico,72145,933,14,,0
@@ -11462,7 +11462,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-26,Toa Alta,Puerto Rico,72135,1244,7,,0
 2020-09-26,Toa Baja,Puerto Rico,72137,1306,11,,0
 2020-09-26,Trujillo Alto,Puerto Rico,72139,1039,13,,0
-2020-09-26,Unknown,Puerto Rico,,1310,-16,,0
+2020-09-26,Unknown,Puerto Rico,,1310,-16,642,7
 2020-09-26,Utuado,Puerto Rico,72141,138,2,,0
 2020-09-26,Vega Alta,Puerto Rico,72143,745,4,,0
 2020-09-26,Vega Baja,Puerto Rico,72145,945,12,,0
@@ -11541,7 +11541,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-27,Toa Alta,Puerto Rico,72135,1266,22,,0
 2020-09-27,Toa Baja,Puerto Rico,72137,1349,43,,0
 2020-09-27,Trujillo Alto,Puerto Rico,72139,1070,31,,0
-2020-09-27,Unknown,Puerto Rico,,1311,1,,0
+2020-09-27,Unknown,Puerto Rico,,1311,1,644,2
 2020-09-27,Utuado,Puerto Rico,72141,143,5,,0
 2020-09-27,Vega Alta,Puerto Rico,72143,761,16,,0
 2020-09-27,Vega Baja,Puerto Rico,72145,959,14,,0
@@ -11620,7 +11620,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-28,Toa Alta,Puerto Rico,72135,1281,15,,0
 2020-09-28,Toa Baja,Puerto Rico,72137,1387,38,,0
 2020-09-28,Trujillo Alto,Puerto Rico,72139,1103,33,,0
-2020-09-28,Unknown,Puerto Rico,,1344,33,,0
+2020-09-28,Unknown,Puerto Rico,,1344,33,648,4
 2020-09-28,Utuado,Puerto Rico,72141,145,2,,0
 2020-09-28,Vega Alta,Puerto Rico,72143,771,10,,0
 2020-09-28,Vega Baja,Puerto Rico,72145,959,0,,0
@@ -11699,7 +11699,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-29,Toa Alta,Puerto Rico,72135,1309,28,,0
 2020-09-29,Toa Baja,Puerto Rico,72137,1431,44,,0
 2020-09-29,Trujillo Alto,Puerto Rico,72139,1129,26,,0
-2020-09-29,Unknown,Puerto Rico,,1393,49,,0
+2020-09-29,Unknown,Puerto Rico,,1393,49,654,6
 2020-09-29,Utuado,Puerto Rico,72141,152,7,,0
 2020-09-29,Vega Alta,Puerto Rico,72143,779,8,,0
 2020-09-29,Vega Baja,Puerto Rico,72145,985,26,,0
@@ -11778,7 +11778,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-09-30,Toa Alta,Puerto Rico,72135,1321,12,,0
 2020-09-30,Toa Baja,Puerto Rico,72137,1444,13,,0
 2020-09-30,Trujillo Alto,Puerto Rico,72139,1136,7,,0
-2020-09-30,Unknown,Puerto Rico,,1425,32,,0
+2020-09-30,Unknown,Puerto Rico,,1425,32,661,7
 2020-09-30,Utuado,Puerto Rico,72141,153,1,,0
 2020-09-30,Vega Alta,Puerto Rico,72143,780,1,,0
 2020-09-30,Vega Baja,Puerto Rico,72145,999,14,,0
@@ -11857,7 +11857,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-01,Toa Alta,Puerto Rico,72135,1326,5,,0
 2020-10-01,Toa Baja,Puerto Rico,72137,1450,6,,0
 2020-10-01,Trujillo Alto,Puerto Rico,72139,1144,8,,0
-2020-10-01,Unknown,Puerto Rico,,1389,-36,,0
+2020-10-01,Unknown,Puerto Rico,,1389,-36,665,4
 2020-10-01,Utuado,Puerto Rico,72141,155,2,,0
 2020-10-01,Vega Alta,Puerto Rico,72143,779,-1,,0
 2020-10-01,Vega Baja,Puerto Rico,72145,1005,6,,0
@@ -11936,7 +11936,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-02,Toa Alta,Puerto Rico,72135,1346,20,,0
 2020-10-02,Toa Baja,Puerto Rico,72137,1470,20,,0
 2020-10-02,Trujillo Alto,Puerto Rico,72139,1165,21,,0
-2020-10-02,Unknown,Puerto Rico,,1343,-46,,0
+2020-10-02,Unknown,Puerto Rico,,1343,-46,673,8
 2020-10-02,Utuado,Puerto Rico,72141,164,9,,0
 2020-10-02,Vega Alta,Puerto Rico,72143,790,11,,0
 2020-10-02,Vega Baja,Puerto Rico,72145,1013,8,,0
@@ -12015,7 +12015,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-03,Toa Alta,Puerto Rico,72135,1371,25,,0
 2020-10-03,Toa Baja,Puerto Rico,72137,1493,23,,0
 2020-10-03,Trujillo Alto,Puerto Rico,72139,1171,6,,0
-2020-10-03,Unknown,Puerto Rico,,1394,51,,0
+2020-10-03,Unknown,Puerto Rico,,1394,51,681,8
 2020-10-03,Utuado,Puerto Rico,72141,167,3,,0
 2020-10-03,Vega Alta,Puerto Rico,72143,796,6,,0
 2020-10-03,Vega Baja,Puerto Rico,72145,1019,6,,0
@@ -12094,7 +12094,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-04,Toa Alta,Puerto Rico,72135,1378,7,,0
 2020-10-04,Toa Baja,Puerto Rico,72137,1505,12,,0
 2020-10-04,Trujillo Alto,Puerto Rico,72139,1178,7,,0
-2020-10-04,Unknown,Puerto Rico,,1396,2,,0
+2020-10-04,Unknown,Puerto Rico,,1396,2,686,5
 2020-10-04,Utuado,Puerto Rico,72141,168,1,,0
 2020-10-04,Vega Alta,Puerto Rico,72143,797,1,,0
 2020-10-04,Vega Baja,Puerto Rico,72145,1022,3,,0
@@ -12173,7 +12173,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-05,Toa Alta,Puerto Rico,72135,1396,18,,0
 2020-10-05,Toa Baja,Puerto Rico,72137,1543,38,,0
 2020-10-05,Trujillo Alto,Puerto Rico,72139,1189,11,,0
-2020-10-05,Unknown,Puerto Rico,,1426,30,,0
+2020-10-05,Unknown,Puerto Rico,,1426,30,695,9
 2020-10-05,Utuado,Puerto Rico,72141,168,0,,0
 2020-10-05,Vega Alta,Puerto Rico,72143,808,11,,0
 2020-10-05,Vega Baja,Puerto Rico,72145,1033,11,,0
@@ -12252,7 +12252,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-06,Toa Alta,Puerto Rico,72135,1405,9,,0
 2020-10-06,Toa Baja,Puerto Rico,72137,1554,11,,0
 2020-10-06,Trujillo Alto,Puerto Rico,72139,1202,13,,0
-2020-10-06,Unknown,Puerto Rico,,1439,13,,0
+2020-10-06,Unknown,Puerto Rico,,1439,13,696,1
 2020-10-06,Utuado,Puerto Rico,72141,170,2,,0
 2020-10-06,Vega Alta,Puerto Rico,72143,816,8,,0
 2020-10-06,Vega Baja,Puerto Rico,72145,1040,7,,0
@@ -12331,7 +12331,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-07,Toa Alta,Puerto Rico,72135,1405,0,,0
 2020-10-07,Toa Baja,Puerto Rico,72137,1554,0,,0
 2020-10-07,Trujillo Alto,Puerto Rico,72139,1202,0,,0
-2020-10-07,Unknown,Puerto Rico,,1439,0,,0
+2020-10-07,Unknown,Puerto Rico,,1439,0,705,9
 2020-10-07,Utuado,Puerto Rico,72141,171,1,,0
 2020-10-07,Vega Alta,Puerto Rico,72143,816,0,,0
 2020-10-07,Vega Baja,Puerto Rico,72145,1040,0,,0
@@ -12410,7 +12410,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-08,Toa Alta,Puerto Rico,72135,1417,12,,0
 2020-10-08,Toa Baja,Puerto Rico,72137,1572,18,,0
 2020-10-08,Trujillo Alto,Puerto Rico,72139,1223,21,,0
-2020-10-08,Unknown,Puerto Rico,,1455,16,,0
+2020-10-08,Unknown,Puerto Rico,,1455,16,715,10
 2020-10-08,Utuado,Puerto Rico,72141,172,1,,0
 2020-10-08,Vega Alta,Puerto Rico,72143,819,3,,0
 2020-10-08,Vega Baja,Puerto Rico,72145,1045,5,,0
@@ -12489,7 +12489,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-09,Toa Alta,Puerto Rico,72135,1427,10,,0
 2020-10-09,Toa Baja,Puerto Rico,72137,1589,17,,0
 2020-10-09,Trujillo Alto,Puerto Rico,72139,1238,15,,0
-2020-10-09,Unknown,Puerto Rico,,1470,15,,0
+2020-10-09,Unknown,Puerto Rico,,1470,15,720,5
 2020-10-09,Utuado,Puerto Rico,72141,176,4,,0
 2020-10-09,Vega Alta,Puerto Rico,72143,825,6,,0
 2020-10-09,Vega Baja,Puerto Rico,72145,1059,14,,0
@@ -12568,7 +12568,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-10,Toa Alta,Puerto Rico,72135,1442,15,,0
 2020-10-10,Toa Baja,Puerto Rico,72137,1612,23,,0
 2020-10-10,Trujillo Alto,Puerto Rico,72139,1242,4,,0
-2020-10-10,Unknown,Puerto Rico,,1511,41,,0
+2020-10-10,Unknown,Puerto Rico,,1511,41,728,8
 2020-10-10,Utuado,Puerto Rico,72141,178,2,,0
 2020-10-10,Vega Alta,Puerto Rico,72143,829,4,,0
 2020-10-10,Vega Baja,Puerto Rico,72145,1063,4,,0
@@ -12647,7 +12647,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-11,Toa Alta,Puerto Rico,72135,1450,8,,0
 2020-10-11,Toa Baja,Puerto Rico,72137,1628,16,,0
 2020-10-11,Trujillo Alto,Puerto Rico,72139,1245,3,,0
-2020-10-11,Unknown,Puerto Rico,,1528,17,,0
+2020-10-11,Unknown,Puerto Rico,,1528,17,730,2
 2020-10-11,Utuado,Puerto Rico,72141,179,1,,0
 2020-10-11,Vega Alta,Puerto Rico,72143,831,2,,0
 2020-10-11,Vega Baja,Puerto Rico,72145,1064,1,,0
@@ -12726,7 +12726,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-12,Toa Alta,Puerto Rico,72135,1462,12,,0
 2020-10-12,Toa Baja,Puerto Rico,72137,1661,33,,0
 2020-10-12,Trujillo Alto,Puerto Rico,72139,1257,12,,0
-2020-10-12,Unknown,Puerto Rico,,1557,29,,0
+2020-10-12,Unknown,Puerto Rico,,1557,29,735,5
 2020-10-12,Utuado,Puerto Rico,72141,181,2,,0
 2020-10-12,Vega Alta,Puerto Rico,72143,849,18,,0
 2020-10-12,Vega Baja,Puerto Rico,72145,1068,4,,0
@@ -12805,7 +12805,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-13,Toa Alta,Puerto Rico,72135,1469,7,,0
 2020-10-13,Toa Baja,Puerto Rico,72137,1678,17,,0
 2020-10-13,Trujillo Alto,Puerto Rico,72139,1261,4,,0
-2020-10-13,Unknown,Puerto Rico,,1566,9,,0
+2020-10-13,Unknown,Puerto Rico,,1566,9,738,3
 2020-10-13,Utuado,Puerto Rico,72141,182,1,,0
 2020-10-13,Vega Alta,Puerto Rico,72143,859,10,,0
 2020-10-13,Vega Baja,Puerto Rico,72145,1073,5,,0
@@ -12884,7 +12884,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-14,Toa Alta,Puerto Rico,72135,1483,14,,0
 2020-10-14,Toa Baja,Puerto Rico,72137,1709,31,,0
 2020-10-14,Trujillo Alto,Puerto Rico,72139,1293,32,,0
-2020-10-14,Unknown,Puerto Rico,,1634,68,,0
+2020-10-14,Unknown,Puerto Rico,,1634,68,742,4
 2020-10-14,Utuado,Puerto Rico,72141,186,4,,0
 2020-10-14,Vega Alta,Puerto Rico,72143,870,11,,0
 2020-10-14,Vega Baja,Puerto Rico,72145,1080,7,,0
@@ -12963,7 +12963,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-15,Toa Alta,Puerto Rico,72135,1505,22,,0
 2020-10-15,Toa Baja,Puerto Rico,72137,1734,25,,0
 2020-10-15,Trujillo Alto,Puerto Rico,72139,1309,16,,0
-2020-10-15,Unknown,Puerto Rico,,1650,16,,0
+2020-10-15,Unknown,Puerto Rico,,1650,16,743,1
 2020-10-15,Utuado,Puerto Rico,72141,190,4,,0
 2020-10-15,Vega Alta,Puerto Rico,72143,881,11,,0
 2020-10-15,Vega Baja,Puerto Rico,72145,1096,16,,0
@@ -13042,7 +13042,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-16,Toa Alta,Puerto Rico,72135,1522,17,,0
 2020-10-16,Toa Baja,Puerto Rico,72137,1742,8,,0
 2020-10-16,Trujillo Alto,Puerto Rico,72139,1318,9,,0
-2020-10-16,Unknown,Puerto Rico,,1651,1,,0
+2020-10-16,Unknown,Puerto Rico,,1651,1,758,15
 2020-10-16,Utuado,Puerto Rico,72141,191,1,,0
 2020-10-16,Vega Alta,Puerto Rico,72143,883,2,,0
 2020-10-16,Vega Baja,Puerto Rico,72145,1099,3,,0
@@ -13121,7 +13121,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-17,Toa Alta,Puerto Rico,72135,1530,8,,0
 2020-10-17,Toa Baja,Puerto Rico,72137,1748,6,,0
 2020-10-17,Trujillo Alto,Puerto Rico,72139,1322,4,,0
-2020-10-17,Unknown,Puerto Rico,,1651,0,,0
+2020-10-17,Unknown,Puerto Rico,,1651,0,761,3
 2020-10-17,Utuado,Puerto Rico,72141,193,2,,0
 2020-10-17,Vega Alta,Puerto Rico,72143,885,2,,0
 2020-10-17,Vega Baja,Puerto Rico,72145,1102,3,,0
@@ -13200,7 +13200,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-18,Toa Alta,Puerto Rico,72135,1555,25,,0
 2020-10-18,Toa Baja,Puerto Rico,72137,1768,20,,0
 2020-10-18,Trujillo Alto,Puerto Rico,72139,1336,14,,0
-2020-10-18,Unknown,Puerto Rico,,1679,28,,0
+2020-10-18,Unknown,Puerto Rico,,1679,28,766,5
 2020-10-18,Utuado,Puerto Rico,72141,195,2,,0
 2020-10-18,Vega Alta,Puerto Rico,72143,896,11,,0
 2020-10-18,Vega Baja,Puerto Rico,72145,1112,10,,0
@@ -13279,7 +13279,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-19,Toa Alta,Puerto Rico,72135,1567,12,,0
 2020-10-19,Toa Baja,Puerto Rico,72137,1782,14,,0
 2020-10-19,Trujillo Alto,Puerto Rico,72139,1347,11,,0
-2020-10-19,Unknown,Puerto Rico,,1706,27,,0
+2020-10-19,Unknown,Puerto Rico,,1706,27,768,2
 2020-10-19,Utuado,Puerto Rico,72141,196,1,,0
 2020-10-19,Vega Alta,Puerto Rico,72143,899,3,,0
 2020-10-19,Vega Baja,Puerto Rico,72145,1119,7,,0
@@ -13358,7 +13358,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-20,Toa Alta,Puerto Rico,72135,1578,11,,0
 2020-10-20,Toa Baja,Puerto Rico,72137,1799,17,,0
 2020-10-20,Trujillo Alto,Puerto Rico,72139,1362,15,,0
-2020-10-20,Unknown,Puerto Rico,,1715,9,,0
+2020-10-20,Unknown,Puerto Rico,,1715,9,769,1
 2020-10-20,Utuado,Puerto Rico,72141,196,0,,0
 2020-10-20,Vega Alta,Puerto Rico,72143,909,10,,0
 2020-10-20,Vega Baja,Puerto Rico,72145,1128,9,,0
@@ -13437,7 +13437,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-21,Toa Alta,Puerto Rico,72135,1585,7,,0
 2020-10-21,Toa Baja,Puerto Rico,72137,1799,0,,0
 2020-10-21,Trujillo Alto,Puerto Rico,72139,1368,6,,0
-2020-10-21,Unknown,Puerto Rico,,1721,6,,0
+2020-10-21,Unknown,Puerto Rico,,1721,6,774,5
 2020-10-21,Utuado,Puerto Rico,72141,196,0,,0
 2020-10-21,Vega Alta,Puerto Rico,72143,913,4,,0
 2020-10-21,Vega Baja,Puerto Rico,72145,1131,3,,0
@@ -13516,7 +13516,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-22,Toa Alta,Puerto Rico,72135,1595,10,,0
 2020-10-22,Toa Baja,Puerto Rico,72137,1799,0,,0
 2020-10-22,Trujillo Alto,Puerto Rico,72139,1373,5,,0
-2020-10-22,Unknown,Puerto Rico,,1721,0,,0
+2020-10-22,Unknown,Puerto Rico,,1721,0,783,9
 2020-10-22,Utuado,Puerto Rico,72141,198,2,,0
 2020-10-22,Vega Alta,Puerto Rico,72143,917,4,,0
 2020-10-22,Vega Baja,Puerto Rico,72145,1136,5,,0
@@ -13595,7 +13595,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-23,Toa Alta,Puerto Rico,72135,1646,51,,0
 2020-10-23,Toa Baja,Puerto Rico,72137,1859,60,,0
 2020-10-23,Trujillo Alto,Puerto Rico,72139,1445,72,,0
-2020-10-23,Unknown,Puerto Rico,,1834,113,,0
+2020-10-23,Unknown,Puerto Rico,,1834,113,791,8
 2020-10-23,Utuado,Puerto Rico,72141,224,26,,0
 2020-10-23,Vega Alta,Puerto Rico,72143,937,20,,0
 2020-10-23,Vega Baja,Puerto Rico,72145,1156,20,,0
@@ -13674,7 +13674,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-24,Toa Alta,Puerto Rico,72135,1652,6,,0
 2020-10-24,Toa Baja,Puerto Rico,72137,1873,14,,0
 2020-10-24,Trujillo Alto,Puerto Rico,72139,1452,7,,0
-2020-10-24,Unknown,Puerto Rico,,1833,-1,,0
+2020-10-24,Unknown,Puerto Rico,,1833,-1,794,3
 2020-10-24,Utuado,Puerto Rico,72141,226,2,,0
 2020-10-24,Vega Alta,Puerto Rico,72143,942,5,,0
 2020-10-24,Vega Baja,Puerto Rico,72145,1162,6,,0
@@ -13753,7 +13753,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-25,Toa Alta,Puerto Rico,72135,1676,24,,0
 2020-10-25,Toa Baja,Puerto Rico,72137,1914,41,,0
 2020-10-25,Trujillo Alto,Puerto Rico,72139,1492,40,,0
-2020-10-25,Unknown,Puerto Rico,,1903,70,,0
+2020-10-25,Unknown,Puerto Rico,,1903,70,801,7
 2020-10-25,Utuado,Puerto Rico,72141,244,18,,0
 2020-10-25,Vega Alta,Puerto Rico,72143,962,20,,0
 2020-10-25,Vega Baja,Puerto Rico,72145,1186,24,,0
@@ -13832,7 +13832,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-26,Toa Alta,Puerto Rico,72135,1692,16,,0
 2020-10-26,Toa Baja,Puerto Rico,72137,1929,15,,0
 2020-10-26,Trujillo Alto,Puerto Rico,72139,1514,22,,0
-2020-10-26,Unknown,Puerto Rico,,1914,11,,0
+2020-10-26,Unknown,Puerto Rico,,1914,11,804,3
 2020-10-26,Utuado,Puerto Rico,72141,247,3,,0
 2020-10-26,Vega Alta,Puerto Rico,72143,969,7,,0
 2020-10-26,Vega Baja,Puerto Rico,72145,1205,19,,0
@@ -13911,7 +13911,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-27,Toa Alta,Puerto Rico,72135,1701,9,,0
 2020-10-27,Toa Baja,Puerto Rico,72137,1934,5,,0
 2020-10-27,Trujillo Alto,Puerto Rico,72139,1530,16,,0
-2020-10-27,Unknown,Puerto Rico,,1945,31,,0
+2020-10-27,Unknown,Puerto Rico,,1945,31,808,4
 2020-10-27,Utuado,Puerto Rico,72141,248,1,,0
 2020-10-27,Vega Alta,Puerto Rico,72143,971,2,,0
 2020-10-27,Vega Baja,Puerto Rico,72145,1213,8,,0
@@ -13990,7 +13990,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-28,Toa Alta,Puerto Rico,72135,1701,0,,0
 2020-10-28,Toa Baja,Puerto Rico,72137,1933,-1,,0
 2020-10-28,Trujillo Alto,Puerto Rico,72139,1532,2,,0
-2020-10-28,Unknown,Puerto Rico,,1964,19,,0
+2020-10-28,Unknown,Puerto Rico,,1964,19,813,5
 2020-10-28,Utuado,Puerto Rico,72141,248,0,,0
 2020-10-28,Vega Alta,Puerto Rico,72143,974,3,,0
 2020-10-28,Vega Baja,Puerto Rico,72145,1214,1,,0
@@ -14069,7 +14069,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-29,Toa Alta,Puerto Rico,72135,1725,24,,0
 2020-10-29,Toa Baja,Puerto Rico,72137,1976,43,,0
 2020-10-29,Trujillo Alto,Puerto Rico,72139,1572,40,,0
-2020-10-29,Unknown,Puerto Rico,,2052,88,,0
+2020-10-29,Unknown,Puerto Rico,,2052,88,814,1
 2020-10-29,Utuado,Puerto Rico,72141,259,11,,0
 2020-10-29,Vega Alta,Puerto Rico,72143,977,3,,0
 2020-10-29,Vega Baja,Puerto Rico,72145,1225,11,,0
@@ -14148,7 +14148,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-30,Toa Alta,Puerto Rico,72135,1766,41,,0
 2020-10-30,Toa Baja,Puerto Rico,72137,2009,33,,0
 2020-10-30,Trujillo Alto,Puerto Rico,72139,1606,34,,0
-2020-10-30,Unknown,Puerto Rico,,2089,37,,0
+2020-10-30,Unknown,Puerto Rico,,2089,37,820,6
 2020-10-30,Utuado,Puerto Rico,72141,266,7,,0
 2020-10-30,Vega Alta,Puerto Rico,72143,986,9,,0
 2020-10-30,Vega Baja,Puerto Rico,72145,1240,15,,0
@@ -14227,7 +14227,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-10-31,Toa Alta,Puerto Rico,72135,1786,20,,0
 2020-10-31,Toa Baja,Puerto Rico,72137,2020,11,,0
 2020-10-31,Trujillo Alto,Puerto Rico,72139,1613,7,,0
-2020-10-31,Unknown,Puerto Rico,,2097,8,,0
+2020-10-31,Unknown,Puerto Rico,,2097,8,822,2
 2020-10-31,Utuado,Puerto Rico,72141,268,2,,0
 2020-10-31,Vega Alta,Puerto Rico,72143,989,3,,0
 2020-10-31,Vega Baja,Puerto Rico,72145,1249,9,,0
@@ -14306,7 +14306,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-01,Toa Alta,Puerto Rico,72135,1811,25,,0
 2020-11-01,Toa Baja,Puerto Rico,72137,2043,23,,0
 2020-11-01,Trujillo Alto,Puerto Rico,72139,1619,6,,0
-2020-11-01,Unknown,Puerto Rico,,2115,18,,0
+2020-11-01,Unknown,Puerto Rico,,2115,18,832,10
 2020-11-01,Utuado,Puerto Rico,72141,271,3,,0
 2020-11-01,Vega Alta,Puerto Rico,72143,996,7,,0
 2020-11-01,Vega Baja,Puerto Rico,72145,1250,1,,0
@@ -14385,7 +14385,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-02,Toa Alta,Puerto Rico,72135,1862,51,,0
 2020-11-02,Toa Baja,Puerto Rico,72137,2082,39,,0
 2020-11-02,Trujillo Alto,Puerto Rico,72139,1681,62,,0
-2020-11-02,Unknown,Puerto Rico,,2164,49,,0
+2020-11-02,Unknown,Puerto Rico,,2164,49,839,7
 2020-11-02,Utuado,Puerto Rico,72141,289,18,,0
 2020-11-02,Vega Alta,Puerto Rico,72143,1007,11,,0
 2020-11-02,Vega Baja,Puerto Rico,72145,1275,25,,0
@@ -14464,7 +14464,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-03,Toa Alta,Puerto Rico,72135,1885,23,,0
 2020-11-03,Toa Baja,Puerto Rico,72137,2122,40,,0
 2020-11-03,Trujillo Alto,Puerto Rico,72139,1687,6,,0
-2020-11-03,Unknown,Puerto Rico,,2180,16,,0
+2020-11-03,Unknown,Puerto Rico,,2180,16,842,3
 2020-11-03,Utuado,Puerto Rico,72141,289,0,,0
 2020-11-03,Vega Alta,Puerto Rico,72143,1039,32,,0
 2020-11-03,Vega Baja,Puerto Rico,72145,1293,18,,0
@@ -14543,7 +14543,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-04,Toa Alta,Puerto Rico,72135,1890,5,,0
 2020-11-04,Toa Baja,Puerto Rico,72137,2123,1,,0
 2020-11-04,Trujillo Alto,Puerto Rico,72139,1693,6,,0
-2020-11-04,Unknown,Puerto Rico,,2182,2,,0
+2020-11-04,Unknown,Puerto Rico,,2182,2,850,8
 2020-11-04,Utuado,Puerto Rico,72141,290,1,,0
 2020-11-04,Vega Alta,Puerto Rico,72143,1040,1,,0
 2020-11-04,Vega Baja,Puerto Rico,72145,1293,0,,0
@@ -14622,7 +14622,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-05,Toa Alta,Puerto Rico,72135,1906,16,,0
 2020-11-05,Toa Baja,Puerto Rico,72137,2129,6,,0
 2020-11-05,Trujillo Alto,Puerto Rico,72139,1699,6,,0
-2020-11-05,Unknown,Puerto Rico,,2190,8,,0
+2020-11-05,Unknown,Puerto Rico,,2190,8,855,5
 2020-11-05,Utuado,Puerto Rico,72141,293,3,,0
 2020-11-05,Vega Alta,Puerto Rico,72143,1043,3,,0
 2020-11-05,Vega Baja,Puerto Rico,72145,1300,7,,0
@@ -14701,7 +14701,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-06,Toa Alta,Puerto Rico,72135,1928,22,,0
 2020-11-06,Toa Baja,Puerto Rico,72137,2162,33,,0
 2020-11-06,Trujillo Alto,Puerto Rico,72139,1743,44,,0
-2020-11-06,Unknown,Puerto Rico,,2264,74,,0
+2020-11-06,Unknown,Puerto Rico,,2264,74,862,7
 2020-11-06,Utuado,Puerto Rico,72141,314,21,,0
 2020-11-06,Vega Alta,Puerto Rico,72143,1052,9,,0
 2020-11-06,Vega Baja,Puerto Rico,72145,1328,28,,0
@@ -14780,7 +14780,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-07,Toa Alta,Puerto Rico,72135,1928,0,,0
 2020-11-07,Toa Baja,Puerto Rico,72137,2162,0,,0
 2020-11-07,Trujillo Alto,Puerto Rico,72139,1743,0,,0
-2020-11-07,Unknown,Puerto Rico,,3277,1013,,0
+2020-11-07,Unknown,Puerto Rico,,3277,1013,862,0
 2020-11-07,Utuado,Puerto Rico,72141,314,0,,0
 2020-11-07,Vega Alta,Puerto Rico,72143,1052,0,,0
 2020-11-07,Vega Baja,Puerto Rico,72145,1328,0,,0
@@ -14859,7 +14859,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-08,Toa Alta,Puerto Rico,72135,1981,53,,0
 2020-11-08,Toa Baja,Puerto Rico,72137,2194,32,,0
 2020-11-08,Trujillo Alto,Puerto Rico,72139,1765,22,,0
-2020-11-08,Unknown,Puerto Rico,,2319,-958,,0
+2020-11-08,Unknown,Puerto Rico,,2319,-958,872,10
 2020-11-08,Utuado,Puerto Rico,72141,331,17,,0
 2020-11-08,Vega Alta,Puerto Rico,72143,1058,6,,0
 2020-11-08,Vega Baja,Puerto Rico,72145,1347,19,,0
@@ -14938,7 +14938,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-09,Toa Alta,Puerto Rico,72135,1993,12,,0
 2020-11-09,Toa Baja,Puerto Rico,72137,2208,14,,0
 2020-11-09,Trujillo Alto,Puerto Rico,72139,1777,12,,0
-2020-11-09,Unknown,Puerto Rico,,2345,26,,0
+2020-11-09,Unknown,Puerto Rico,,2345,26,882,10
 2020-11-09,Utuado,Puerto Rico,72141,332,1,,0
 2020-11-09,Vega Alta,Puerto Rico,72143,1064,6,,0
 2020-11-09,Vega Baja,Puerto Rico,72145,1356,9,,0
@@ -15017,7 +15017,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-10,Toa Alta,Puerto Rico,72135,2005,12,,0
 2020-11-10,Toa Baja,Puerto Rico,72137,2216,8,,0
 2020-11-10,Trujillo Alto,Puerto Rico,72139,1781,4,,0
-2020-11-10,Unknown,Puerto Rico,,2353,8,,0
+2020-11-10,Unknown,Puerto Rico,,2353,8,889,7
 2020-11-10,Utuado,Puerto Rico,72141,332,0,,0
 2020-11-10,Vega Alta,Puerto Rico,72143,1070,6,,0
 2020-11-10,Vega Baja,Puerto Rico,72145,1359,3,,0
@@ -15096,7 +15096,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-11,Toa Alta,Puerto Rico,72135,2014,9,,0
 2020-11-11,Toa Baja,Puerto Rico,72137,2228,12,,0
 2020-11-11,Trujillo Alto,Puerto Rico,72139,1785,4,,0
-2020-11-11,Unknown,Puerto Rico,,2367,14,,0
+2020-11-11,Unknown,Puerto Rico,,2367,14,901,12
 2020-11-11,Utuado,Puerto Rico,72141,332,0,,0
 2020-11-11,Vega Alta,Puerto Rico,72143,1076,6,,0
 2020-11-11,Vega Baja,Puerto Rico,72145,1368,9,,0
@@ -15175,7 +15175,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-12,Toa Alta,Puerto Rico,72135,2040,26,,0
 2020-11-12,Toa Baja,Puerto Rico,72137,2275,47,,0
 2020-11-12,Trujillo Alto,Puerto Rico,72139,1821,36,,0
-2020-11-12,Unknown,Puerto Rico,,2420,53,,0
+2020-11-12,Unknown,Puerto Rico,,2420,53,909,8
 2020-11-12,Utuado,Puerto Rico,72141,342,10,,0
 2020-11-12,Vega Alta,Puerto Rico,72143,1094,18,,0
 2020-11-12,Vega Baja,Puerto Rico,72145,1397,29,,0
@@ -15254,7 +15254,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-13,Toa Alta,Puerto Rico,72135,2062,22,,0
 2020-11-13,Toa Baja,Puerto Rico,72137,2287,12,,0
 2020-11-13,Trujillo Alto,Puerto Rico,72139,1836,15,,0
-2020-11-13,Unknown,Puerto Rico,,2438,18,,0
+2020-11-13,Unknown,Puerto Rico,,2438,18,914,5
 2020-11-13,Utuado,Puerto Rico,72141,345,3,,0
 2020-11-13,Vega Alta,Puerto Rico,72143,1100,6,,0
 2020-11-13,Vega Baja,Puerto Rico,72145,1407,10,,0
@@ -15333,7 +15333,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-14,Toa Alta,Puerto Rico,72135,2085,23,,0
 2020-11-14,Toa Baja,Puerto Rico,72137,2305,18,,0
 2020-11-14,Trujillo Alto,Puerto Rico,72139,1849,13,,0
-2020-11-14,Unknown,Puerto Rico,,2453,15,,0
+2020-11-14,Unknown,Puerto Rico,,2453,15,921,7
 2020-11-14,Utuado,Puerto Rico,72141,350,5,,0
 2020-11-14,Vega Alta,Puerto Rico,72143,1111,11,,0
 2020-11-14,Vega Baja,Puerto Rico,72145,1418,11,,0
@@ -15412,7 +15412,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-15,Toa Alta,Puerto Rico,72135,2102,17,,0
 2020-11-15,Toa Baja,Puerto Rico,72137,2330,25,,0
 2020-11-15,Trujillo Alto,Puerto Rico,72139,1870,21,,0
-2020-11-15,Unknown,Puerto Rico,,2476,23,,0
+2020-11-15,Unknown,Puerto Rico,,2476,23,935,14
 2020-11-15,Utuado,Puerto Rico,72141,351,1,,0
 2020-11-15,Vega Alta,Puerto Rico,72143,1120,9,,0
 2020-11-15,Vega Baja,Puerto Rico,72145,1442,24,,0
@@ -15491,7 +15491,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-16,Toa Alta,Puerto Rico,72135,2135,33,,0
 2020-11-16,Toa Baja,Puerto Rico,72137,2354,24,,0
 2020-11-16,Trujillo Alto,Puerto Rico,72139,1879,9,,0
-2020-11-16,Unknown,Puerto Rico,,2488,12,,0
+2020-11-16,Unknown,Puerto Rico,,2488,12,942,7
 2020-11-16,Utuado,Puerto Rico,72141,352,1,,0
 2020-11-16,Vega Alta,Puerto Rico,72143,1126,6,,0
 2020-11-16,Vega Baja,Puerto Rico,72145,1463,21,,0
@@ -15570,7 +15570,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-17,Toa Alta,Puerto Rico,72135,2146,11,,0
 2020-11-17,Toa Baja,Puerto Rico,72137,2374,20,,0
 2020-11-17,Trujillo Alto,Puerto Rico,72139,1893,14,,0
-2020-11-17,Unknown,Puerto Rico,,2505,17,,0
+2020-11-17,Unknown,Puerto Rico,,2505,17,951,9
 2020-11-17,Utuado,Puerto Rico,72141,363,11,,0
 2020-11-17,Vega Alta,Puerto Rico,72143,1131,5,,0
 2020-11-17,Vega Baja,Puerto Rico,72145,1474,11,,0
@@ -15649,7 +15649,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-18,Toa Alta,Puerto Rico,72135,2157,11,,0
 2020-11-18,Toa Baja,Puerto Rico,72137,2380,6,,0
 2020-11-18,Trujillo Alto,Puerto Rico,72139,1894,1,,0
-2020-11-18,Unknown,Puerto Rico,,2513,8,,0
+2020-11-18,Unknown,Puerto Rico,,2513,8,971,20
 2020-11-18,Utuado,Puerto Rico,72141,371,8,,0
 2020-11-18,Vega Alta,Puerto Rico,72143,1135,4,,0
 2020-11-18,Vega Baja,Puerto Rico,72145,1486,12,,0
@@ -15728,7 +15728,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-19,Toa Alta,Puerto Rico,72135,2167,10,,0
 2020-11-19,Toa Baja,Puerto Rico,72137,2390,10,,0
 2020-11-19,Trujillo Alto,Puerto Rico,72139,1899,5,,0
-2020-11-19,Unknown,Puerto Rico,,2519,6,,0
+2020-11-19,Unknown,Puerto Rico,,2519,6,982,11
 2020-11-19,Utuado,Puerto Rico,72141,374,3,,0
 2020-11-19,Vega Alta,Puerto Rico,72143,1147,12,,0
 2020-11-19,Vega Baja,Puerto Rico,72145,1496,10,,0
@@ -15807,7 +15807,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-20,Toa Alta,Puerto Rico,72135,2191,24,,0
 2020-11-20,Toa Baja,Puerto Rico,72137,2411,21,,0
 2020-11-20,Trujillo Alto,Puerto Rico,72139,1919,20,,0
-2020-11-20,Unknown,Puerto Rico,,2557,38,,0
+2020-11-20,Unknown,Puerto Rico,,2557,38,991,9
 2020-11-20,Utuado,Puerto Rico,72141,382,8,,0
 2020-11-20,Vega Alta,Puerto Rico,72143,1157,10,,0
 2020-11-20,Vega Baja,Puerto Rico,72145,1508,12,,0
@@ -15886,7 +15886,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-21,Toa Alta,Puerto Rico,72135,2216,25,,0
 2020-11-21,Toa Baja,Puerto Rico,72137,2435,24,,0
 2020-11-21,Trujillo Alto,Puerto Rico,72139,1937,18,,0
-2020-11-21,Unknown,Puerto Rico,,2597,40,,0
+2020-11-21,Unknown,Puerto Rico,,2597,40,1012,21
 2020-11-21,Utuado,Puerto Rico,72141,392,10,,0
 2020-11-21,Vega Alta,Puerto Rico,72143,1171,14,,0
 2020-11-21,Vega Baja,Puerto Rico,72145,1529,21,,0
@@ -15965,7 +15965,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-22,Toa Alta,Puerto Rico,72135,2244,28,,0
 2020-11-22,Toa Baja,Puerto Rico,72137,2474,39,,0
 2020-11-22,Trujillo Alto,Puerto Rico,72139,1954,17,,0
-2020-11-22,Unknown,Puerto Rico,,2641,44,,0
+2020-11-22,Unknown,Puerto Rico,,2641,44,1017,5
 2020-11-22,Utuado,Puerto Rico,72141,402,10,,0
 2020-11-22,Vega Alta,Puerto Rico,72143,1186,15,,0
 2020-11-22,Vega Baja,Puerto Rico,72145,1551,22,,0
@@ -16044,7 +16044,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-23,Toa Alta,Puerto Rico,72135,2262,18,,0
 2020-11-23,Toa Baja,Puerto Rico,72137,2497,23,,0
 2020-11-23,Trujillo Alto,Puerto Rico,72139,1974,20,,0
-2020-11-23,Unknown,Puerto Rico,,2681,40,,0
+2020-11-23,Unknown,Puerto Rico,,2681,40,1032,15
 2020-11-23,Utuado,Puerto Rico,72141,404,2,,0
 2020-11-23,Vega Alta,Puerto Rico,72143,1200,14,,0
 2020-11-23,Vega Baja,Puerto Rico,72145,1575,24,,0
@@ -16123,7 +16123,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-24,Toa Alta,Puerto Rico,72135,2279,17,,0
 2020-11-24,Toa Baja,Puerto Rico,72137,2516,19,,0
 2020-11-24,Trujillo Alto,Puerto Rico,72139,1978,4,,0
-2020-11-24,Unknown,Puerto Rico,,2682,1,,0
+2020-11-24,Unknown,Puerto Rico,,2682,1,1038,6
 2020-11-24,Utuado,Puerto Rico,72141,406,2,,0
 2020-11-24,Vega Alta,Puerto Rico,72143,1210,10,,0
 2020-11-24,Vega Baja,Puerto Rico,72145,1593,18,,0
@@ -16202,7 +16202,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-25,Toa Alta,Puerto Rico,72135,2281,2,,0
 2020-11-25,Toa Baja,Puerto Rico,72137,2522,6,,0
 2020-11-25,Trujillo Alto,Puerto Rico,72139,1978,0,,0
-2020-11-25,Unknown,Puerto Rico,,2691,9,,0
+2020-11-25,Unknown,Puerto Rico,,2691,9,1052,14
 2020-11-25,Utuado,Puerto Rico,72141,407,1,,0
 2020-11-25,Vega Alta,Puerto Rico,72143,1215,5,,0
 2020-11-25,Vega Baja,Puerto Rico,72145,1600,7,,0
@@ -16281,7 +16281,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-26,Toa Alta,Puerto Rico,72135,2295,14,,0
 2020-11-26,Toa Baja,Puerto Rico,72137,2530,8,,0
 2020-11-26,Trujillo Alto,Puerto Rico,72139,1982,4,,0
-2020-11-26,Unknown,Puerto Rico,,2718,27,,0
+2020-11-26,Unknown,Puerto Rico,,2718,27,1069,17
 2020-11-26,Utuado,Puerto Rico,72141,411,4,,0
 2020-11-26,Vega Alta,Puerto Rico,72143,1218,3,,0
 2020-11-26,Vega Baja,Puerto Rico,72145,1609,9,,0
@@ -16360,7 +16360,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-27,Toa Alta,Puerto Rico,72135,2335,40,,0
 2020-11-27,Toa Baja,Puerto Rico,72137,2553,23,,0
 2020-11-27,Trujillo Alto,Puerto Rico,72139,2010,28,,0
-2020-11-27,Unknown,Puerto Rico,,2792,74,,0
+2020-11-27,Unknown,Puerto Rico,,2792,74,1076,7
 2020-11-27,Utuado,Puerto Rico,72141,436,25,,0
 2020-11-27,Vega Alta,Puerto Rico,72143,1246,28,,0
 2020-11-27,Vega Baja,Puerto Rico,72145,1654,45,,0
@@ -16439,7 +16439,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-28,Toa Alta,Puerto Rico,72135,2365,30,,0
 2020-11-28,Toa Baja,Puerto Rico,72137,2586,33,,0
 2020-11-28,Trujillo Alto,Puerto Rico,72139,2025,15,,0
-2020-11-28,Unknown,Puerto Rico,,2824,32,,0
+2020-11-28,Unknown,Puerto Rico,,2824,32,1083,7
 2020-11-28,Utuado,Puerto Rico,72141,447,11,,0
 2020-11-28,Vega Alta,Puerto Rico,72143,1259,13,,0
 2020-11-28,Vega Baja,Puerto Rico,72145,1675,21,,0
@@ -16518,7 +16518,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-29,Toa Alta,Puerto Rico,72135,2367,2,,0
 2020-11-29,Toa Baja,Puerto Rico,72137,2585,-1,,0
 2020-11-29,Trujillo Alto,Puerto Rico,72139,2030,5,,0
-2020-11-29,Unknown,Puerto Rico,,2822,-2,,0
+2020-11-29,Unknown,Puerto Rico,,2822,-2,1094,11
 2020-11-29,Utuado,Puerto Rico,72141,448,1,,0
 2020-11-29,Vega Alta,Puerto Rico,72143,1262,3,,0
 2020-11-29,Vega Baja,Puerto Rico,72145,1681,6,,0
