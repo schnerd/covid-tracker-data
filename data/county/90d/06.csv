@@ -1,62 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-08-23,Alameda,California,06001,16744,30,234,0
-2020-08-23,Alpine,California,06003,2,0,0,0
-2020-08-23,Amador,California,06005,223,1,14,0
-2020-08-23,Butte,California,06007,1618,36,17,0
-2020-08-23,Calaveras,California,06009,197,0,2,0
-2020-08-23,Colusa,California,06011,419,0,5,0
-2020-08-23,Contra Costa,California,06013,12663,136,169,1
-2020-08-23,Del Norte,California,06015,116,0,1,0
-2020-08-23,El Dorado,California,06017,900,4,2,0
-2020-08-23,Fresno,California,06019,23197,357,226,0
-2020-08-23,Glenn,California,06021,421,3,3,0
-2020-08-23,Humboldt,California,06023,345,0,4,0
-2020-08-23,Imperial,California,06025,10393,0,271,0
-2020-08-23,Inyo,California,06027,144,0,11,0
-2020-08-23,Kern,California,06029,28140,225,240,0
-2020-08-23,Kings,California,06031,5921,28,68,0
-2020-08-23,Lake,California,06033,291,10,3,0
-2020-08-23,Lassen,California,06035,704,0,0,0
-2020-08-23,Los Angeles,California,06037,231695,1033,5545,8
-2020-08-23,Madera,California,06039,3339,0,49,0
-2020-08-23,Marin,California,06041,5930,42,85,0
-2020-08-23,Mariposa,California,06043,69,0,2,0
-2020-08-23,Mendocino,California,06045,629,5,16,0
-2020-08-23,Merced,California,06047,7493,65,99,0
-2020-08-23,Modoc,California,06049,5,0,0,0
-2020-08-23,Mono,California,06051,161,0,2,0
-2020-08-23,Monterey,California,06053,7226,203,52,0
-2020-08-23,Napa,California,06055,1329,11,13,0
-2020-08-23,Nevada,California,06057,411,5,3,0
-2020-08-23,Orange,California,06059,45954,153,897,1
-2020-08-23,Placer,California,06061,2777,37,31,0
-2020-08-23,Plumas,California,06063,37,1,0,0
-2020-08-23,Riverside,California,06065,49944,462,927,0
-2020-08-23,Sacramento,California,06067,15515,269,234,0
-2020-08-23,San Benito,California,06069,970,23,7,0
-2020-08-23,San Bernardino,California,06071,45035,432,691,0
-2020-08-23,San Diego,California,06073,36603,337,660,0
-2020-08-23,San Francisco,California,06075,8874,80,77,3
-2020-08-23,San Joaquin,California,06077,16068,180,294,0
-2020-08-23,San Luis Obispo,California,06079,2665,0,21,0
-2020-08-23,San Mateo,California,06081,7535,0,128,0
-2020-08-23,Santa Barbara,California,06083,7685,32,87,0
-2020-08-23,Santa Clara,California,06085,15688,0,225,0
-2020-08-23,Santa Cruz,California,06087,1628,11,7,0
-2020-08-23,Shasta,California,06089,531,0,11,0
-2020-08-23,Sierra,California,06091,6,0,0,0
-2020-08-23,Siskiyou,California,06093,123,0,0,0
-2020-08-23,Solano,California,06095,5053,0,44,0
-2020-08-23,Sonoma,California,06097,5120,53,72,0
-2020-08-23,Stanislaus,California,06099,13380,98,229,1
-2020-08-23,Sutter,California,06101,1260,37,8,1
-2020-08-23,Tehama,California,06103,368,11,1,0
-2020-08-23,Trinity,California,06105,9,0,0,0
-2020-08-23,Tulare,California,06107,13196,79,210,0
-2020-08-23,Tuolumne,California,06109,172,0,2,0
-2020-08-23,Ventura,California,06111,9959,94,102,0
-2020-08-23,Yolo,California,06113,2205,21,47,0
-2020-08-23,Yuba,California,06115,859,15,4,0
 2020-08-24,Alameda,California,06001,16807,63,234,0
 2020-08-24,Alpine,California,06003,2,0,0,0
 2020-08-24,Amador,California,06005,226,3,14,0
@@ -5683,3 +5625,61 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-28,Ventura,California,06111,19379,321,175,0
 2020-11-28,Yolo,California,06113,4737,111,75,0
 2020-11-28,Yuba,California,06115,2036,55,10,0
+2020-11-29,Alameda,California,06001,29497,360,512,1
+2020-11-29,Alpine,California,06003,41,0,0,0
+2020-11-29,Amador,California,06005,535,38,16,0
+2020-11-29,Butte,California,06007,3894,0,59,0
+2020-11-29,Calaveras,California,06009,478,0,22,0
+2020-11-29,Colusa,California,06011,711,17,6,0
+2020-11-29,Contra Costa,California,06013,24275,380,261,0
+2020-11-29,Del Norte,California,06015,328,15,1,0
+2020-11-29,El Dorado,California,06017,2415,177,4,0
+2020-11-29,Fresno,California,06019,38288,294,481,0
+2020-11-29,Glenn,California,06021,925,34,8,0
+2020-11-29,Humboldt,California,06023,850,0,9,0
+2020-11-29,Imperial,California,06025,16019,59,355,0
+2020-11-29,Inyo,California,06027,289,0,16,0
+2020-11-29,Kern,California,06029,41827,499,448,0
+2020-11-29,Kings,California,06031,11270,177,87,0
+2020-11-29,Lake,California,06033,920,11,19,0
+2020-11-29,Lassen,California,06035,1773,0,2,0
+2020-11-29,Los Angeles,California,06037,395957,4953,7639,16
+2020-11-29,Madera,California,06039,6119,69,85,0
+2020-11-29,Marin,California,06041,7775,22,129,0
+2020-11-29,Mariposa,California,06043,131,1,2,0
+2020-11-29,Mendocino,California,06045,1580,10,23,0
+2020-11-29,Merced,California,06047,11688,138,179,0
+2020-11-29,Modoc,California,06049,103,3,0,0
+2020-11-29,Mono,California,06051,544,0,3,0
+2020-11-29,Monterey,California,06053,15328,537,122,1
+2020-11-29,Napa,California,06055,3034,45,17,0
+2020-11-29,Nevada,California,06057,1272,88,9,0
+2020-11-29,Orange,California,06059,80107,1058,1577,0
+2020-11-29,Placer,California,06061,6497,143,68,0
+2020-11-29,Plumas,California,06063,188,0,0,0
+2020-11-29,Riverside,California,06065,86854,1085,1437,0
+2020-11-29,Sacramento,California,06067,36904,275,576,0
+2020-11-29,San Benito,California,06069,1880,15,16,0
+2020-11-29,San Bernardino,California,06071,93019,855,1129,0
+2020-11-29,San Diego,California,06073,80083,2,997,0
+2020-11-29,San Francisco,California,06075,15453,73,160,0
+2020-11-29,San Joaquin,California,06077,25742,1,502,0
+2020-11-29,San Luis Obispo,California,06079,6129,0,36,0
+2020-11-29,San Mateo,California,06081,14148,0,170,0
+2020-11-29,Santa Barbara,California,06083,11481,141,135,0
+2020-11-29,Santa Clara,California,06085,34292,560,477,0
+2020-11-29,Santa Cruz,California,06087,4426,2,28,0
+2020-11-29,Shasta,California,06089,4882,164,47,0
+2020-11-29,Sierra,California,06091,16,0,0,0
+2020-11-29,Siskiyou,California,06093,624,0,2,0
+2020-11-29,Solano,California,06095,10257,208,81,0
+2020-11-29,Sonoma,California,06097,12198,149,157,0
+2020-11-29,Stanislaus,California,06099,23173,183,424,0
+2020-11-29,Sutter,California,06101,3332,0,16,0
+2020-11-29,Tehama,California,06103,1678,29,25,0
+2020-11-29,Trinity,California,06105,158,6,0,0
+2020-11-29,Tulare,California,06107,20701,67,308,0
+2020-11-29,Tuolumne,California,06109,1035,54,8,0
+2020-11-29,Ventura,California,06111,19510,131,175,0
+2020-11-29,Yolo,California,06113,4827,90,76,1
+2020-11-29,Yuba,California,06115,2036,0,10,0
