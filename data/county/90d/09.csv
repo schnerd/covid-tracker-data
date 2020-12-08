@@ -1,13 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-08-31,Fairfield,Connecticut,09001,18903,129,1414,1
-2020-08-31,Hartford,Connecticut,09003,13504,112,1425,-1
-2020-08-31,Litchfield,Connecticut,09005,1709,21,138,-1
-2020-08-31,Middlesex,Connecticut,09007,1455,9,192,0
-2020-08-31,New Haven,Connecticut,09009,13675,53,1109,0
-2020-08-31,New London,Connecticut,09011,1577,23,107,1
-2020-08-31,Tolland,Connecticut,09013,1145,19,65,0
-2020-08-31,Unknown,Connecticut,,110,6,0,0
-2020-08-31,Windham,Connecticut,09015,801,12,15,0
 2020-09-01,Fairfield,Connecticut,09001,18939,36,1415,1
 2020-09-01,Hartford,Connecticut,09003,13529,25,1425,0
 2020-09-01,Litchfield,Connecticut,09005,1713,4,138,0
@@ -881,3 +872,12 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-06,Tolland,Connecticut,09013,3225,0,81,0
 2020-12-06,Unknown,Connecticut,,810,0,1,0
 2020-12-06,Windham,Connecticut,09015,2837,0,34,0
+2020-12-07,Fairfield,Connecticut,09001,43840,2305,1566,21
+2020-12-07,Hartford,Connecticut,09003,33035,2156,1647,17
+2020-12-07,Litchfield,Connecticut,09005,5358,427,179,5
+2020-12-07,Middlesex,Connecticut,09007,4319,312,214,4
+2020-12-07,New Haven,Connecticut,09009,34777,1934,1313,22
+2020-12-07,New London,Connecticut,09011,7064,416,185,5
+2020-12-07,Tolland,Connecticut,09013,3418,193,85,4
+2020-12-07,Unknown,Connecticut,,907,97,0,-1
+2020-12-07,Windham,Connecticut,09015,3126,289,35,1
