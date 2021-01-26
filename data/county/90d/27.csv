@@ -1,92 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-10-19,Aitkin,Minnesota,27001,154,3,2,1
-2020-10-19,Anoka,Minnesota,27003,8093,138,148,0
-2020-10-19,Becker,Minnesota,27005,489,6,3,0
-2020-10-19,Beltrami,Minnesota,27007,768,15,7,0
-2020-10-19,Benton,Minnesota,27009,841,15,5,0
-2020-10-19,Big Stone,Minnesota,27011,127,0,0,0
-2020-10-19,Blue Earth,Minnesota,27013,1970,12,7,0
-2020-10-19,Brown,Minnesota,27015,298,8,3,0
-2020-10-19,Carlton,Minnesota,27017,378,6,1,0
-2020-10-19,Carver,Minnesota,27019,1695,9,7,0
-2020-10-19,Cass,Minnesota,27021,311,7,5,0
-2020-10-19,Chippewa,Minnesota,27023,379,6,3,0
-2020-10-19,Chisago,Minnesota,27025,855,24,2,0
-2020-10-19,Clay,Minnesota,27027,2032,24,43,0
-2020-10-19,Clearwater,Minnesota,27029,76,2,0,0
-2020-10-19,Cook,Minnesota,27031,11,0,0,0
-2020-10-19,Cottonwood,Minnesota,27033,262,1,0,0
-2020-10-19,Crow Wing,Minnesota,27035,879,11,21,0
-2020-10-19,Dakota,Minnesota,27037,9251,105,133,0
-2020-10-19,Dodge,Minnesota,27039,362,2,0,0
-2020-10-19,Douglas,Minnesota,27041,604,12,3,0
-2020-10-19,Faribault,Minnesota,27043,209,1,0,0
-2020-10-19,Fillmore,Minnesota,27045,238,3,0,0
-2020-10-19,Freeborn,Minnesota,27047,632,1,4,0
-2020-10-19,Goodhue,Minnesota,27049,511,14,11,0
-2020-10-19,Grant,Minnesota,27051,89,3,4,0
-2020-10-19,Hennepin,Minnesota,27053,32336,286,965,0
-2020-10-19,Houston,Minnesota,27055,181,1,1,0
-2020-10-19,Hubbard,Minnesota,27057,309,8,2,0
-2020-10-19,Isanti,Minnesota,27059,487,7,3,0
-2020-10-19,Itasca,Minnesota,27061,676,5,17,0
-2020-10-19,Jackson,Minnesota,27063,195,6,1,0
-2020-10-19,Kanabec,Minnesota,27065,186,-1,10,0
-2020-10-19,Kandiyohi,Minnesota,27067,1549,30,4,0
-2020-10-19,Kittson,Minnesota,27069,27,0,0,0
-2020-10-19,Koochiching,Minnesota,27071,162,2,4,0
-2020-10-19,Lac qui Parle,Minnesota,27073,123,1,2,0
-2020-10-19,Lake,Minnesota,27075,103,3,0,0
-2020-10-19,Lake of the Woods,Minnesota,27077,42,2,1,0
-2020-10-19,Le Sueur,Minnesota,27079,585,3,5,0
-2020-10-19,Lincoln,Minnesota,27081,165,1,0,0
-2020-10-19,Lyon,Minnesota,27083,925,11,6,0
-2020-10-19,Mahnomen,Minnesota,27087,94,3,1,0
-2020-10-19,Marshall,Minnesota,27089,87,1,1,0
-2020-10-19,Martin,Minnesota,27091,586,2,16,0
-2020-10-19,McLeod,Minnesota,27085,570,4,3,0
-2020-10-19,Meeker,Minnesota,27093,307,3,3,0
-2020-10-19,Mille Lacs,Minnesota,27095,352,6,8,1
-2020-10-19,Morrison,Minnesota,27097,607,30,6,0
-2020-10-19,Mower,Minnesota,27099,1489,0,12,0
-2020-10-19,Murray,Minnesota,27101,248,4,3,0
-2020-10-19,Nicollet,Minnesota,27103,673,9,17,0
-2020-10-19,Nobles,Minnesota,27105,2140,23,16,0
-2020-10-19,Norman,Minnesota,27107,94,1,0,0
-2020-10-19,Olmsted,Minnesota,27109,3070,20,29,0
-2020-10-19,Otter Tail,Minnesota,27111,743,23,6,0
-2020-10-19,Pennington,Minnesota,27113,163,1,1,0
-2020-10-19,Pine,Minnesota,27115,509,5,0,0
-2020-10-19,Pipestone,Minnesota,27117,326,2,16,0
-2020-10-19,Polk,Minnesota,27119,492,3,4,0
-2020-10-19,Pope,Minnesota,27121,148,6,0,0
-2020-10-19,Ramsey,Minnesota,27123,13342,157,347,1
-2020-10-19,Red Lake,Minnesota,27125,60,4,2,0
-2020-10-19,Redwood,Minnesota,27127,250,2,11,1
-2020-10-19,Renville,Minnesota,27129,229,4,11,0
-2020-10-19,Rice,Minnesota,27131,1578,16,9,0
-2020-10-19,Rock,Minnesota,27133,297,11,1,0
-2020-10-19,Roseau,Minnesota,27135,193,4,0,0
-2020-10-19,Scott,Minnesota,27139,3185,29,34,0
-2020-10-19,Sherburne,Minnesota,27141,1562,30,21,0
-2020-10-19,Sibley,Minnesota,27143,238,3,3,0
-2020-10-19,St. Louis,Minnesota,27137,2647,62,63,0
-2020-10-19,Stearns,Minnesota,27145,5370,115,35,1
-2020-10-19,Steele,Minnesota,27147,721,5,2,0
-2020-10-19,Stevens,Minnesota,27149,168,5,1,0
-2020-10-19,Swift,Minnesota,27151,192,1,1,0
-2020-10-19,Todd,Minnesota,27153,723,31,2,0
-2020-10-19,Traverse,Minnesota,27155,53,4,0,0
-2020-10-19,Unknown,Minnesota,,318,45,53,0
-2020-10-19,Wabasha,Minnesota,27157,323,3,0,0
-2020-10-19,Wadena,Minnesota,27159,188,9,0,0
-2020-10-19,Waseca,Minnesota,27161,912,4,9,0
-2020-10-19,Washington,Minnesota,27163,5259,87,67,0
-2020-10-19,Watonwan,Minnesota,27165,567,4,4,0
-2020-10-19,Wilkin,Minnesota,27167,124,2,4,0
-2020-10-19,Winona,Minnesota,27169,1189,22,18,0
-2020-10-19,Wright,Minnesota,27171,2276,29,14,0
-2020-10-19,Yellow Medicine,Minnesota,27173,265,0,5,0
 2020-10-20,Aitkin,Minnesota,27001,156,2,2,0
 2020-10-20,Anoka,Minnesota,27003,8154,61,148,0
 2020-10-20,Becker,Minnesota,27005,503,14,3,0
@@ -8623,3 +8535,91 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-24,Winona,Minnesota,27169,3945,3,48,0
 2021-01-24,Wright,Minnesota,27171,11791,35,107,0
 2021-01-24,Yellow Medicine,Minnesota,27173,949,0,16,0
+2021-01-25,Aitkin,Minnesota,27001,1115,1,33,0
+2021-01-25,Anoka,Minnesota,27003,31398,41,368,0
+2021-01-25,Becker,Minnesota,27005,2894,5,39,0
+2021-01-25,Beltrami,Minnesota,27007,3161,4,48,0
+2021-01-25,Benton,Minnesota,27009,4237,1,88,0
+2021-01-25,Big Stone,Minnesota,27011,470,1,3,0
+2021-01-25,Blue Earth,Minnesota,27013,5495,15,33,0
+2021-01-25,Brown,Minnesota,27015,2186,6,34,0
+2021-01-25,Carlton,Minnesota,27017,2844,4,43,0
+2021-01-25,Carver,Minnesota,27019,7056,12,39,0
+2021-01-25,Cass,Minnesota,27021,2108,1,24,0
+2021-01-25,Chippewa,Minnesota,27023,1332,2,32,0
+2021-01-25,Chisago,Minnesota,27025,4604,9,38,0
+2021-01-25,Clay,Minnesota,27027,6606,18,84,0
+2021-01-25,Clearwater,Minnesota,27029,688,0,14,0
+2021-01-25,Cook,Minnesota,27031,116,0,0,0
+2021-01-25,Cottonwood,Minnesota,27033,1291,1,18,0
+2021-01-25,Crow Wing,Minnesota,27035,4906,2,78,0
+2021-01-25,Dakota,Minnesota,27037,33623,83,354,0
+2021-01-25,Dodge,Minnesota,27039,1397,4,4,0
+2021-01-25,Douglas,Minnesota,27041,3797,4,66,0
+2021-01-25,Faribault,Minnesota,27043,1101,7,16,0
+2021-01-25,Fillmore,Minnesota,27045,1277,8,8,0
+2021-01-25,Freeborn,Minnesota,27047,2547,6,23,0
+2021-01-25,Goodhue,Minnesota,27049,3581,13,63,0
+2021-01-25,Grant,Minnesota,27051,438,0,8,0
+2021-01-25,Hennepin,Minnesota,27053,94544,166,1502,0
+2021-01-25,Houston,Minnesota,27055,1403,3,14,0
+2021-01-25,Hubbard,Minnesota,27057,1511,4,38,0
+2021-01-25,Isanti,Minnesota,27059,2861,5,43,0
+2021-01-25,Itasca,Minnesota,27061,2878,5,43,0
+2021-01-25,Jackson,Minnesota,27063,873,0,10,0
+2021-01-25,Kanabec,Minnesota,27065,998,2,18,0
+2021-01-25,Kandiyohi,Minnesota,27067,5587,7,72,0
+2021-01-25,Kittson,Minnesota,27069,374,0,20,0
+2021-01-25,Koochiching,Minnesota,27071,608,2,10,0
+2021-01-25,Lac qui Parle,Minnesota,27073,661,0,16,0
+2021-01-25,Lake,Minnesota,27075,664,1,15,0
+2021-01-25,Lake of the Woods,Minnesota,27077,198,2,1,0
+2021-01-25,Le Sueur,Minnesota,27079,2144,2,16,0
+2021-01-25,Lincoln,Minnesota,27081,491,0,2,0
+2021-01-25,Lyon,Minnesota,27083,3061,6,39,0
+2021-01-25,Mahnomen,Minnesota,27087,416,0,7,0
+2021-01-25,Marshall,Minnesota,27089,704,1,15,0
+2021-01-25,Martin,Minnesota,27091,1720,1,26,0
+2021-01-25,McLeod,Minnesota,27085,3286,5,47,0
+2021-01-25,Meeker,Minnesota,27093,2015,2,33,0
+2021-01-25,Mille Lacs,Minnesota,27095,2157,1,45,0
+2021-01-25,Morrison,Minnesota,27097,3146,1,45,0
+2021-01-25,Mower,Minnesota,27099,3744,7,29,0
+2021-01-25,Murray,Minnesota,27101,913,2,7,0
+2021-01-25,Nicollet,Minnesota,27103,2305,11,38,0
+2021-01-25,Nobles,Minnesota,27105,3748,2,47,0
+2021-01-25,Norman,Minnesota,27107,426,1,8,0
+2021-01-25,Olmsted,Minnesota,27109,10830,50,75,0
+2021-01-25,Otter Tail,Minnesota,27111,4649,7,68,0
+2021-01-25,Pennington,Minnesota,27113,1010,0,16,0
+2021-01-25,Pine,Minnesota,27115,2705,2,15,0
+2021-01-25,Pipestone,Minnesota,27117,972,4,23,0
+2021-01-25,Polk,Minnesota,27119,3307,0,60,0
+2021-01-25,Pope,Minnesota,27121,748,1,5,0
+2021-01-25,Ramsey,Minnesota,27123,40698,74,749,1
+2021-01-25,Red Lake,Minnesota,27125,320,0,4,0
+2021-01-25,Redwood,Minnesota,27127,1413,2,27,0
+2021-01-25,Renville,Minnesota,27129,1385,1,40,0
+2021-01-25,Rice,Minnesota,27131,6247,5,74,0
+2021-01-25,Rock,Minnesota,27133,1120,0,12,0
+2021-01-25,Roseau,Minnesota,27135,1665,1,17,0
+2021-01-25,Scott,Minnesota,27139,12211,34,99,0
+2021-01-25,Sherburne,Minnesota,27141,8312,16,70,1
+2021-01-25,Sibley,Minnesota,27143,1101,2,7,0
+2021-01-25,St. Louis,Minnesota,27137,14006,36,251,1
+2021-01-25,Stearns,Minnesota,27145,18111,20,190,0
+2021-01-25,Steele,Minnesota,27147,2795,6,10,0
+2021-01-25,Stevens,Minnesota,27149,707,0,8,0
+2021-01-25,Swift,Minnesota,27151,847,2,18,0
+2021-01-25,Todd,Minnesota,27153,2337,0,30,0
+2021-01-25,Traverse,Minnesota,27155,262,1,3,0
+2021-01-25,Unknown,Minnesota,,507,-34,68,-1
+2021-01-25,Wabasha,Minnesota,27157,1748,2,3,0
+2021-01-25,Wadena,Minnesota,27159,1208,0,18,0
+2021-01-25,Waseca,Minnesota,27161,1933,1,16,0
+2021-01-25,Washington,Minnesota,27163,20579,46,237,0
+2021-01-25,Watonwan,Minnesota,27165,1069,1,8,0
+2021-01-25,Wilkin,Minnesota,27167,635,2,10,1
+2021-01-25,Winona,Minnesota,27169,3949,4,48,0
+2021-01-25,Wright,Minnesota,27171,11811,20,107,0
+2021-01-25,Yellow Medicine,Minnesota,27173,950,1,16,0
