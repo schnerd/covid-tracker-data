@@ -3,7 +3,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-03,Aleutians West Census Area,Alaska,02016,101,1,0,0
 2020-11-03,Anchorage,Alaska,02020,8871,188,50,0
 2020-11-03,Bethel Census Area,Alaska,02050,523,25,1,0
-2020-11-03,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-03,Bristol Bay plus Lake and Peninsula,Alaska,02997,115,2,0,0
 2020-11-03,Denali Borough,Alaska,02068,32,1,0,0
 2020-11-03,Dillingham Census Area,Alaska,02070,62,1,0,0
 2020-11-03,Fairbanks North Star Borough,Alaska,02090,2382,42,16,0
@@ -13,7 +13,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-03,Ketchikan Gateway Borough,Alaska,02130,91,0,0,0
 2020-11-03,Kodiak Island Borough,Alaska,02150,124,0,0,0
 2020-11-03,Kusilvak Census Area,Alaska,02158,278,19,0,0
-2020-11-03,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-03,Matanuska-Susitna Borough,Alaska,02170,1621,44,3,0
 2020-11-03,Nome Census Area,Alaska,02180,142,1,0,0
 2020-11-03,North Slope Borough,Alaska,02185,281,5,0,0
@@ -23,15 +22,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-03,Sitka City and Borough,Alaska,02220,82,1,0,0
 2020-11-03,Skagway Municipality,Alaska,02230,7,-1,0,0
 2020-11-03,Southeast Fairbanks Census Area,Alaska,02240,91,2,1,0
-2020-11-03,Unknown,Alaska,,142,4,0,0
+2020-11-03,Unknown,Alaska,,71,2,0,0
 2020-11-03,Valdez-Cordova Census Area,Alaska,02261,178,2,1,0
 2020-11-03,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-03,Yakutat plus Hoonah-Angoon,Alaska,02998,37,0,0,0
 2020-11-03,Yukon-Koyukuk Census Area,Alaska,02290,124,2,2,0
 2020-11-04,Aleutians East Borough,Alaska,02013,17,1,0,0
 2020-11-04,Aleutians West Census Area,Alaska,02016,101,0,0,0
 2020-11-04,Anchorage,Alaska,02020,9036,165,50,0
 2020-11-04,Bethel Census Area,Alaska,02050,544,21,1,0
-2020-11-04,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-04,Bristol Bay plus Lake and Peninsula,Alaska,02997,115,0,0,0
 2020-11-04,Denali Borough,Alaska,02068,33,1,0,0
 2020-11-04,Dillingham Census Area,Alaska,02070,62,0,0,0
 2020-11-04,Fairbanks North Star Borough,Alaska,02090,2435,53,16,0
@@ -41,7 +41,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-04,Ketchikan Gateway Borough,Alaska,02130,92,1,0,0
 2020-11-04,Kodiak Island Borough,Alaska,02150,130,6,0,0
 2020-11-04,Kusilvak Census Area,Alaska,02158,279,1,0,0
-2020-11-04,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-04,Matanuska-Susitna Borough,Alaska,02170,1704,83,3,0
 2020-11-04,Nome Census Area,Alaska,02180,144,2,0,0
 2020-11-04,North Slope Borough,Alaska,02185,283,2,0,0
@@ -51,15 +50,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-04,Sitka City and Borough,Alaska,02220,87,5,0,0
 2020-11-04,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-04,Southeast Fairbanks Census Area,Alaska,02240,93,2,1,0
-2020-11-04,Unknown,Alaska,,144,2,0,0
+2020-11-04,Unknown,Alaska,,73,2,0,0
 2020-11-04,Valdez-Cordova Census Area,Alaska,02261,180,2,1,0
 2020-11-04,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-04,Yakutat plus Hoonah-Angoon,Alaska,02998,37,0,0,0
 2020-11-04,Yukon-Koyukuk Census Area,Alaska,02290,125,1,2,0
 2020-11-05,Aleutians East Borough,Alaska,02013,17,0,0,0
 2020-11-05,Aleutians West Census Area,Alaska,02016,102,1,0,0
 2020-11-05,Anchorage,Alaska,02020,9201,165,50,0
 2020-11-05,Bethel Census Area,Alaska,02050,584,40,1,0
-2020-11-05,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-05,Bristol Bay plus Lake and Peninsula,Alaska,02997,115,0,0,0
 2020-11-05,Denali Borough,Alaska,02068,33,0,0,0
 2020-11-05,Dillingham Census Area,Alaska,02070,62,0,0,0
 2020-11-05,Fairbanks North Star Borough,Alaska,02090,2459,24,16,0
@@ -69,7 +69,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-05,Ketchikan Gateway Borough,Alaska,02130,97,5,0,0
 2020-11-05,Kodiak Island Borough,Alaska,02150,131,1,0,0
 2020-11-05,Kusilvak Census Area,Alaska,02158,284,5,0,0
-2020-11-05,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-05,Matanuska-Susitna Borough,Alaska,02170,1740,36,3,0
 2020-11-05,Nome Census Area,Alaska,02180,146,2,0,0
 2020-11-05,North Slope Borough,Alaska,02185,291,8,0,0
@@ -79,15 +78,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-05,Sitka City and Borough,Alaska,02220,88,1,0,0
 2020-11-05,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-05,Southeast Fairbanks Census Area,Alaska,02240,94,1,1,0
-2020-11-05,Unknown,Alaska,,148,4,0,0
+2020-11-05,Unknown,Alaska,,77,4,0,0
 2020-11-05,Valdez-Cordova Census Area,Alaska,02261,183,3,1,0
 2020-11-05,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-05,Yakutat plus Hoonah-Angoon,Alaska,02998,37,0,0,0
 2020-11-05,Yukon-Koyukuk Census Area,Alaska,02290,126,1,2,0
 2020-11-06,Aleutians East Borough,Alaska,02013,18,1,0,0
 2020-11-06,Aleutians West Census Area,Alaska,02016,102,0,0,0
 2020-11-06,Anchorage,Alaska,02020,9522,321,50,0
 2020-11-06,Bethel Census Area,Alaska,02050,616,32,1,0
-2020-11-06,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-06,Bristol Bay plus Lake and Peninsula,Alaska,02997,116,1,0,0
 2020-11-06,Denali Borough,Alaska,02068,33,0,0,0
 2020-11-06,Dillingham Census Area,Alaska,02070,62,0,0,0
 2020-11-06,Fairbanks North Star Borough,Alaska,02090,2464,5,16,0
@@ -97,7 +97,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-06,Ketchikan Gateway Borough,Alaska,02130,104,7,0,0
 2020-11-06,Kodiak Island Borough,Alaska,02150,131,0,0,0
 2020-11-06,Kusilvak Census Area,Alaska,02158,296,12,0,0
-2020-11-06,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-06,Matanuska-Susitna Borough,Alaska,02170,1812,72,3,0
 2020-11-06,Nome Census Area,Alaska,02180,148,2,0,0
 2020-11-06,North Slope Borough,Alaska,02185,300,9,0,0
@@ -107,15 +106,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-06,Sitka City and Borough,Alaska,02220,92,4,0,0
 2020-11-06,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-06,Southeast Fairbanks Census Area,Alaska,02240,96,2,1,0
-2020-11-06,Unknown,Alaska,,151,3,0,0
+2020-11-06,Unknown,Alaska,,79,2,0,0
 2020-11-06,Valdez-Cordova Census Area,Alaska,02261,185,2,1,0
 2020-11-06,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-06,Yakutat plus Hoonah-Angoon,Alaska,02998,37,0,0,0
 2020-11-06,Yukon-Koyukuk Census Area,Alaska,02290,127,1,2,0
 2020-11-07,Aleutians East Borough,Alaska,02013,18,0,0,0
 2020-11-07,Aleutians West Census Area,Alaska,02016,103,1,0,0
 2020-11-07,Anchorage,Alaska,02020,9861,339,50,0
 2020-11-07,Bethel Census Area,Alaska,02050,643,27,1,0
-2020-11-07,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-07,Bristol Bay plus Lake and Peninsula,Alaska,02997,116,0,0,0
 2020-11-07,Denali Borough,Alaska,02068,33,0,0,0
 2020-11-07,Dillingham Census Area,Alaska,02070,66,4,0,0
 2020-11-07,Fairbanks North Star Borough,Alaska,02090,2493,29,16,0
@@ -125,7 +125,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-07,Ketchikan Gateway Borough,Alaska,02130,116,12,0,0
 2020-11-07,Kodiak Island Borough,Alaska,02150,137,6,0,0
 2020-11-07,Kusilvak Census Area,Alaska,02158,318,22,0,0
-2020-11-07,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-07,Matanuska-Susitna Borough,Alaska,02170,1885,73,3,0
 2020-11-07,Nome Census Area,Alaska,02180,151,3,0,0
 2020-11-07,North Slope Borough,Alaska,02185,307,7,0,0
@@ -135,15 +134,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-07,Sitka City and Borough,Alaska,02220,96,4,0,0
 2020-11-07,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-07,Southeast Fairbanks Census Area,Alaska,02240,100,4,1,0
-2020-11-07,Unknown,Alaska,,152,1,0,0
+2020-11-07,Unknown,Alaska,,80,1,0,0
 2020-11-07,Valdez-Cordova Census Area,Alaska,02261,192,7,1,0
 2020-11-07,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-07,Yakutat plus Hoonah-Angoon,Alaska,02998,37,0,0,0
 2020-11-07,Yukon-Koyukuk Census Area,Alaska,02290,127,0,2,0
 2020-11-08,Aleutians East Borough,Alaska,02013,18,0,0,0
 2020-11-08,Aleutians West Census Area,Alaska,02016,103,0,0,0
 2020-11-08,Anchorage,Alaska,02020,10156,295,50,0
 2020-11-08,Bethel Census Area,Alaska,02050,671,28,1,0
-2020-11-08,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-08,Bristol Bay plus Lake and Peninsula,Alaska,02997,117,1,0,0
 2020-11-08,Denali Borough,Alaska,02068,33,0,0,0
 2020-11-08,Dillingham Census Area,Alaska,02070,69,3,0,0
 2020-11-08,Fairbanks North Star Borough,Alaska,02090,2520,27,16,0
@@ -153,7 +153,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-08,Ketchikan Gateway Borough,Alaska,02130,133,17,0,0
 2020-11-08,Kodiak Island Borough,Alaska,02150,143,6,0,0
 2020-11-08,Kusilvak Census Area,Alaska,02158,327,9,0,0
-2020-11-08,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-08,Matanuska-Susitna Borough,Alaska,02170,1934,49,3,0
 2020-11-08,Nome Census Area,Alaska,02180,153,2,0,0
 2020-11-08,North Slope Borough,Alaska,02185,314,7,0,0
@@ -163,15 +162,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-08,Sitka City and Borough,Alaska,02220,97,1,0,0
 2020-11-08,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-08,Southeast Fairbanks Census Area,Alaska,02240,104,4,1,0
-2020-11-08,Unknown,Alaska,,155,3,0,0
+2020-11-08,Unknown,Alaska,,81,1,0,0
 2020-11-08,Valdez-Cordova Census Area,Alaska,02261,196,4,1,0
 2020-11-08,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-08,Yakutat plus Hoonah-Angoon,Alaska,02998,38,1,0,0
 2020-11-08,Yukon-Koyukuk Census Area,Alaska,02290,127,0,2,0
 2020-11-09,Aleutians East Borough,Alaska,02013,18,0,0,0
 2020-11-09,Aleutians West Census Area,Alaska,02016,103,0,0,0
 2020-11-09,Anchorage,Alaska,02020,10392,236,50,0
 2020-11-09,Bethel Census Area,Alaska,02050,713,42,1,0
-2020-11-09,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-09,Bristol Bay plus Lake and Peninsula,Alaska,02997,122,5,0,0
 2020-11-09,Denali Borough,Alaska,02068,33,0,0,0
 2020-11-09,Dillingham Census Area,Alaska,02070,69,0,0,0
 2020-11-09,Fairbanks North Star Borough,Alaska,02090,2566,46,16,0
@@ -181,7 +181,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-09,Ketchikan Gateway Borough,Alaska,02130,141,8,0,0
 2020-11-09,Kodiak Island Borough,Alaska,02150,143,0,0,0
 2020-11-09,Kusilvak Census Area,Alaska,02158,339,12,0,0
-2020-11-09,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-09,Matanuska-Susitna Borough,Alaska,02170,1993,59,3,0
 2020-11-09,Nome Census Area,Alaska,02180,154,1,0,0
 2020-11-09,North Slope Borough,Alaska,02185,320,6,0,0
@@ -191,15 +190,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-09,Sitka City and Borough,Alaska,02220,102,5,0,0
 2020-11-09,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-09,Southeast Fairbanks Census Area,Alaska,02240,108,4,1,0
-2020-11-09,Unknown,Alaska,,161,6,0,0
+2020-11-09,Unknown,Alaska,,82,1,0,0
 2020-11-09,Valdez-Cordova Census Area,Alaska,02261,200,4,1,0
 2020-11-09,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-09,Yakutat plus Hoonah-Angoon,Alaska,02998,38,0,0,0
 2020-11-09,Yukon-Koyukuk Census Area,Alaska,02290,130,3,2,0
 2020-11-10,Aleutians East Borough,Alaska,02013,18,0,0,0
 2020-11-10,Aleutians West Census Area,Alaska,02016,103,0,0,0
 2020-11-10,Anchorage,Alaska,02020,10632,240,55,5
 2020-11-10,Bethel Census Area,Alaska,02050,781,68,1,0
-2020-11-10,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-10,Bristol Bay plus Lake and Peninsula,Alaska,02997,122,0,0,0
 2020-11-10,Denali Borough,Alaska,02068,36,3,0,0
 2020-11-10,Dillingham Census Area,Alaska,02070,71,2,0,0
 2020-11-10,Fairbanks North Star Borough,Alaska,02090,2607,41,16,0
@@ -209,7 +209,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-10,Ketchikan Gateway Borough,Alaska,02130,150,9,0,0
 2020-11-10,Kodiak Island Borough,Alaska,02150,145,2,0,0
 2020-11-10,Kusilvak Census Area,Alaska,02158,348,9,0,0
-2020-11-10,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-10,Matanuska-Susitna Borough,Alaska,02170,2046,53,5,2
 2020-11-10,Nome Census Area,Alaska,02180,155,1,0,0
 2020-11-10,North Slope Borough,Alaska,02185,336,16,0,0
@@ -219,15 +218,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-10,Sitka City and Borough,Alaska,02220,102,0,0,0
 2020-11-10,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-10,Southeast Fairbanks Census Area,Alaska,02240,111,3,1,0
-2020-11-10,Unknown,Alaska,,164,3,0,0
+2020-11-10,Unknown,Alaska,,84,2,0,0
 2020-11-10,Valdez-Cordova Census Area,Alaska,02261,204,4,1,0
 2020-11-10,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-10,Yakutat plus Hoonah-Angoon,Alaska,02998,39,1,0,0
 2020-11-10,Yukon-Koyukuk Census Area,Alaska,02290,132,2,2,0
 2020-11-11,Aleutians East Borough,Alaska,02013,19,1,0,0
 2020-11-11,Aleutians West Census Area,Alaska,02016,104,1,0,0
 2020-11-11,Anchorage,Alaska,02020,10867,235,57,2
 2020-11-11,Bethel Census Area,Alaska,02050,828,47,1,0
-2020-11-11,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-11,Bristol Bay plus Lake and Peninsula,Alaska,02997,122,0,0,0
 2020-11-11,Denali Borough,Alaska,02068,37,1,0,0
 2020-11-11,Dillingham Census Area,Alaska,02070,76,5,0,0
 2020-11-11,Fairbanks North Star Borough,Alaska,02090,2622,15,17,1
@@ -237,7 +237,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-11,Ketchikan Gateway Borough,Alaska,02130,150,0,0,0
 2020-11-11,Kodiak Island Borough,Alaska,02150,150,5,0,0
 2020-11-11,Kusilvak Census Area,Alaska,02158,349,1,0,0
-2020-11-11,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-11,Matanuska-Susitna Borough,Alaska,02170,2116,70,5,0
 2020-11-11,Nome Census Area,Alaska,02180,156,1,0,0
 2020-11-11,North Slope Borough,Alaska,02185,350,14,0,0
@@ -247,15 +246,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-11,Sitka City and Borough,Alaska,02220,106,4,0,0
 2020-11-11,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-11,Southeast Fairbanks Census Area,Alaska,02240,124,13,1,0
-2020-11-11,Unknown,Alaska,,161,-3,0,0
+2020-11-11,Unknown,Alaska,,81,-3,0,0
 2020-11-11,Valdez-Cordova Census Area,Alaska,02261,206,2,1,0
 2020-11-11,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-11,Yakutat plus Hoonah-Angoon,Alaska,02998,39,0,0,0
 2020-11-11,Yukon-Koyukuk Census Area,Alaska,02290,132,0,2,0
 2020-11-12,Aleutians East Borough,Alaska,02013,19,0,0,0
 2020-11-12,Aleutians West Census Area,Alaska,02016,105,1,0,0
 2020-11-12,Anchorage,Alaska,02020,11163,296,57,0
 2020-11-12,Bethel Census Area,Alaska,02050,854,26,1,0
-2020-11-12,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-12,Bristol Bay plus Lake and Peninsula,Alaska,02997,124,2,0,0
 2020-11-12,Denali Borough,Alaska,02068,37,0,0,0
 2020-11-12,Dillingham Census Area,Alaska,02070,77,1,0,0
 2020-11-12,Fairbanks North Star Borough,Alaska,02090,2662,40,17,0
@@ -265,7 +265,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-12,Ketchikan Gateway Borough,Alaska,02130,150,0,0,0
 2020-11-12,Kodiak Island Borough,Alaska,02150,153,3,0,0
 2020-11-12,Kusilvak Census Area,Alaska,02158,351,2,0,0
-2020-11-12,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-12,Matanuska-Susitna Borough,Alaska,02170,2156,40,5,0
 2020-11-12,Nome Census Area,Alaska,02180,157,1,0,0
 2020-11-12,North Slope Borough,Alaska,02185,356,6,0,0
@@ -275,15 +274,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-12,Sitka City and Borough,Alaska,02220,109,3,0,0
 2020-11-12,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-12,Southeast Fairbanks Census Area,Alaska,02240,126,2,1,0
-2020-11-12,Unknown,Alaska,,164,3,0,0
+2020-11-12,Unknown,Alaska,,82,1,0,0
 2020-11-12,Valdez-Cordova Census Area,Alaska,02261,206,0,1,0
 2020-11-12,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-12,Yakutat plus Hoonah-Angoon,Alaska,02998,39,0,0,0
 2020-11-12,Yukon-Koyukuk Census Area,Alaska,02290,132,0,2,0
 2020-11-13,Aleutians East Borough,Alaska,02013,19,0,0,0
 2020-11-13,Aleutians West Census Area,Alaska,02016,105,0,0,0
 2020-11-13,Anchorage,Alaska,02020,11431,268,58,1
 2020-11-13,Bethel Census Area,Alaska,02050,863,9,1,0
-2020-11-13,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-13,Bristol Bay plus Lake and Peninsula,Alaska,02997,124,0,0,0
 2020-11-13,Denali Borough,Alaska,02068,37,0,0,0
 2020-11-13,Dillingham Census Area,Alaska,02070,79,2,0,0
 2020-11-13,Fairbanks North Star Borough,Alaska,02090,2725,63,17,0
@@ -293,7 +293,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-13,Ketchikan Gateway Borough,Alaska,02130,150,0,0,0
 2020-11-13,Kodiak Island Borough,Alaska,02150,157,4,0,0
 2020-11-13,Kusilvak Census Area,Alaska,02158,351,0,0,0
-2020-11-13,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-13,Matanuska-Susitna Borough,Alaska,02170,2238,82,5,0
 2020-11-13,Nome Census Area,Alaska,02180,161,4,0,0
 2020-11-13,North Slope Borough,Alaska,02185,365,9,0,0
@@ -303,15 +302,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-13,Sitka City and Borough,Alaska,02220,117,8,0,0
 2020-11-13,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-13,Southeast Fairbanks Census Area,Alaska,02240,140,14,1,0
-2020-11-13,Unknown,Alaska,,172,8,0,0
+2020-11-13,Unknown,Alaska,,90,8,0,0
 2020-11-13,Valdez-Cordova Census Area,Alaska,02261,209,3,1,0
 2020-11-13,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-13,Yakutat plus Hoonah-Angoon,Alaska,02998,39,0,0,0
 2020-11-13,Yukon-Koyukuk Census Area,Alaska,02290,132,0,2,0
 2020-11-14,Aleutians East Borough,Alaska,02013,19,0,0,0
 2020-11-14,Aleutians West Census Area,Alaska,02016,105,0,0,0
 2020-11-14,Anchorage,Alaska,02020,11924,493,59,1
 2020-11-14,Bethel Census Area,Alaska,02050,888,25,1,0
-2020-11-14,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-14,Bristol Bay plus Lake and Peninsula,Alaska,02997,128,4,0,0
 2020-11-14,Denali Borough,Alaska,02068,38,1,0,0
 2020-11-14,Dillingham Census Area,Alaska,02070,79,0,0,0
 2020-11-14,Fairbanks North Star Borough,Alaska,02090,2805,80,17,0
@@ -321,7 +321,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-14,Ketchikan Gateway Borough,Alaska,02130,162,12,0,0
 2020-11-14,Kodiak Island Borough,Alaska,02150,158,1,0,0
 2020-11-14,Kusilvak Census Area,Alaska,02158,352,1,0,0
-2020-11-14,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-14,Matanuska-Susitna Borough,Alaska,02170,2274,36,5,0
 2020-11-14,Nome Census Area,Alaska,02180,162,1,0,0
 2020-11-14,North Slope Borough,Alaska,02185,370,5,0,0
@@ -331,15 +330,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-14,Sitka City and Borough,Alaska,02220,118,1,0,0
 2020-11-14,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-14,Southeast Fairbanks Census Area,Alaska,02240,150,10,1,0
-2020-11-14,Unknown,Alaska,,186,14,0,0
+2020-11-14,Unknown,Alaska,,100,10,0,0
 2020-11-14,Valdez-Cordova Census Area,Alaska,02261,213,4,1,0
 2020-11-14,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-14,Yakutat plus Hoonah-Angoon,Alaska,02998,39,0,0,0
 2020-11-14,Yukon-Koyukuk Census Area,Alaska,02290,134,2,2,0
 2020-11-15,Aleutians East Borough,Alaska,02013,21,2,0,0
 2020-11-15,Aleutians West Census Area,Alaska,02016,105,0,0,0
 2020-11-15,Anchorage,Alaska,02020,12305,381,59,0
 2020-11-15,Bethel Census Area,Alaska,02050,906,18,1,0
-2020-11-15,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-15,Bristol Bay plus Lake and Peninsula,Alaska,02997,133,5,0,0
 2020-11-15,Denali Borough,Alaska,02068,38,0,0,0
 2020-11-15,Dillingham Census Area,Alaska,02070,80,1,0,0
 2020-11-15,Fairbanks North Star Borough,Alaska,02090,2877,72,17,0
@@ -349,7 +349,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-15,Ketchikan Gateway Borough,Alaska,02130,171,9,0,0
 2020-11-15,Kodiak Island Borough,Alaska,02150,170,12,0,0
 2020-11-15,Kusilvak Census Area,Alaska,02158,353,1,0,0
-2020-11-15,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-15,Matanuska-Susitna Borough,Alaska,02170,2316,42,5,0
 2020-11-15,Nome Census Area,Alaska,02180,165,3,0,0
 2020-11-15,North Slope Borough,Alaska,02185,375,5,0,0
@@ -359,15 +358,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-15,Sitka City and Borough,Alaska,02220,131,13,0,0
 2020-11-15,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-15,Southeast Fairbanks Census Area,Alaska,02240,155,5,1,0
-2020-11-15,Unknown,Alaska,,197,11,0,0
+2020-11-15,Unknown,Alaska,,104,4,0,0
 2020-11-15,Valdez-Cordova Census Area,Alaska,02261,216,3,1,0
 2020-11-15,Wrangell City and Borough,Alaska,02275,20,1,0,0
+2020-11-15,Yakutat plus Hoonah-Angoon,Alaska,02998,41,2,0,0
 2020-11-15,Yukon-Koyukuk Census Area,Alaska,02290,137,3,2,0
 2020-11-16,Aleutians East Borough,Alaska,02013,21,0,0,0
 2020-11-16,Aleutians West Census Area,Alaska,02016,105,0,0,0
 2020-11-16,Anchorage,Alaska,02020,12713,408,59,0
 2020-11-16,Bethel Census Area,Alaska,02050,956,50,1,0
-2020-11-16,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-16,Bristol Bay plus Lake and Peninsula,Alaska,02997,133,0,0,0
 2020-11-16,Denali Borough,Alaska,02068,38,0,0,0
 2020-11-16,Dillingham Census Area,Alaska,02070,80,0,0,0
 2020-11-16,Fairbanks North Star Borough,Alaska,02090,2895,18,17,0
@@ -377,7 +377,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-16,Ketchikan Gateway Borough,Alaska,02130,178,7,0,0
 2020-11-16,Kodiak Island Borough,Alaska,02150,171,1,0,0
 2020-11-16,Kusilvak Census Area,Alaska,02158,357,4,0,0
-2020-11-16,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-16,Matanuska-Susitna Borough,Alaska,02170,2346,30,5,0
 2020-11-16,Nome Census Area,Alaska,02180,168,3,0,0
 2020-11-16,North Slope Borough,Alaska,02185,375,0,0,0
@@ -387,15 +386,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-16,Sitka City and Borough,Alaska,02220,132,1,0,0
 2020-11-16,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-16,Southeast Fairbanks Census Area,Alaska,02240,163,8,1,0
-2020-11-16,Unknown,Alaska,,199,2,0,0
+2020-11-16,Unknown,Alaska,,106,2,0,0
 2020-11-16,Valdez-Cordova Census Area,Alaska,02261,216,0,1,0
 2020-11-16,Wrangell City and Borough,Alaska,02275,20,0,0,0
+2020-11-16,Yakutat plus Hoonah-Angoon,Alaska,02998,41,0,0,0
 2020-11-16,Yukon-Koyukuk Census Area,Alaska,02290,138,1,2,0
 2020-11-17,Aleutians East Borough,Alaska,02013,21,0,0,0
 2020-11-17,Aleutians West Census Area,Alaska,02016,106,1,0,0
 2020-11-17,Anchorage,Alaska,02020,13216,503,60,1
 2020-11-17,Bethel Census Area,Alaska,02050,966,10,1,0
-2020-11-17,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-17,Bristol Bay plus Lake and Peninsula,Alaska,02997,133,0,0,0
 2020-11-17,Denali Borough,Alaska,02068,39,1,0,0
 2020-11-17,Dillingham Census Area,Alaska,02070,84,4,0,0
 2020-11-17,Fairbanks North Star Borough,Alaska,02090,2918,23,17,0
@@ -405,7 +405,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-17,Ketchikan Gateway Borough,Alaska,02130,178,0,0,0
 2020-11-17,Kodiak Island Borough,Alaska,02150,174,3,0,0
 2020-11-17,Kusilvak Census Area,Alaska,02158,359,2,0,0
-2020-11-17,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-17,Matanuska-Susitna Borough,Alaska,02170,2372,26,5,0
 2020-11-17,Nome Census Area,Alaska,02180,170,2,0,0
 2020-11-17,North Slope Borough,Alaska,02185,378,3,0,0
@@ -415,15 +414,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-17,Sitka City and Borough,Alaska,02220,134,2,0,0
 2020-11-17,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-17,Southeast Fairbanks Census Area,Alaska,02240,162,-1,1,0
-2020-11-17,Unknown,Alaska,,208,9,0,0
+2020-11-17,Unknown,Alaska,,115,9,0,0
 2020-11-17,Valdez-Cordova Census Area,Alaska,02261,220,4,1,0
 2020-11-17,Wrangell City and Borough,Alaska,02275,19,-1,0,0
+2020-11-17,Yakutat plus Hoonah-Angoon,Alaska,02998,41,0,0,0
 2020-11-17,Yukon-Koyukuk Census Area,Alaska,02290,140,2,2,0
 2020-11-18,Aleutians East Borough,Alaska,02013,21,0,0,0
 2020-11-18,Aleutians West Census Area,Alaska,02016,106,0,0,0
 2020-11-18,Anchorage,Alaska,02020,13501,285,60,0
 2020-11-18,Bethel Census Area,Alaska,02050,1023,57,1,0
-2020-11-18,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-18,Bristol Bay plus Lake and Peninsula,Alaska,02997,137,4,0,0
 2020-11-18,Denali Borough,Alaska,02068,39,0,0,0
 2020-11-18,Dillingham Census Area,Alaska,02070,84,0,0,0
 2020-11-18,Fairbanks North Star Borough,Alaska,02090,2954,36,17,0
@@ -433,7 +433,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-18,Ketchikan Gateway Borough,Alaska,02130,179,1,0,0
 2020-11-18,Kodiak Island Borough,Alaska,02150,185,11,0,0
 2020-11-18,Kusilvak Census Area,Alaska,02158,369,10,0,0
-2020-11-18,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-18,Matanuska-Susitna Borough,Alaska,02170,2414,42,5,0
 2020-11-18,Nome Census Area,Alaska,02180,170,0,0,0
 2020-11-18,North Slope Borough,Alaska,02185,385,7,0,0
@@ -443,15 +442,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-18,Sitka City and Borough,Alaska,02220,135,1,0,0
 2020-11-18,Skagway Municipality,Alaska,02230,7,0,0,0
 2020-11-18,Southeast Fairbanks Census Area,Alaska,02240,171,9,1,0
-2020-11-18,Unknown,Alaska,,212,4,0,0
+2020-11-18,Unknown,Alaska,,116,1,0,0
 2020-11-18,Valdez-Cordova Census Area,Alaska,02261,224,4,1,0
 2020-11-18,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-18,Yakutat plus Hoonah-Angoon,Alaska,02998,40,-1,0,0
 2020-11-18,Yukon-Koyukuk Census Area,Alaska,02290,142,2,2,0
 2020-11-19,Aleutians East Borough,Alaska,02013,20,-1,0,0
 2020-11-19,Aleutians West Census Area,Alaska,02016,106,0,0,0
 2020-11-19,Anchorage,Alaska,02020,13750,249,61,1
 2020-11-19,Bethel Census Area,Alaska,02050,1060,37,1,0
-2020-11-19,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-19,Bristol Bay plus Lake and Peninsula,Alaska,02997,140,3,0,0
 2020-11-19,Denali Borough,Alaska,02068,40,1,0,0
 2020-11-19,Dillingham Census Area,Alaska,02070,84,0,0,0
 2020-11-19,Fairbanks North Star Borough,Alaska,02090,2987,33,17,0
@@ -461,7 +461,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-19,Ketchikan Gateway Borough,Alaska,02130,181,2,0,0
 2020-11-19,Kodiak Island Borough,Alaska,02150,191,6,0,0
 2020-11-19,Kusilvak Census Area,Alaska,02158,370,1,0,0
-2020-11-19,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-19,Matanuska-Susitna Borough,Alaska,02170,2446,32,5,0
 2020-11-19,Nome Census Area,Alaska,02180,175,5,0,0
 2020-11-19,North Slope Borough,Alaska,02185,391,6,0,0
@@ -471,15 +470,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-19,Sitka City and Borough,Alaska,02220,141,6,0,0
 2020-11-19,Skagway Municipality,Alaska,02230,8,1,0,0
 2020-11-19,Southeast Fairbanks Census Area,Alaska,02240,190,19,1,0
-2020-11-19,Unknown,Alaska,,218,6,0,0
+2020-11-19,Unknown,Alaska,,115,-1,0,0
 2020-11-19,Valdez-Cordova Census Area,Alaska,02261,227,3,1,0
 2020-11-19,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-19,Yakutat plus Hoonah-Angoon,Alaska,02998,44,4,0,0
 2020-11-19,Yukon-Koyukuk Census Area,Alaska,02290,145,3,2,0
 2020-11-20,Aleutians East Borough,Alaska,02013,20,0,0,0
 2020-11-20,Aleutians West Census Area,Alaska,02016,106,0,0,0
 2020-11-20,Anchorage,Alaska,02020,13999,249,61,0
 2020-11-20,Bethel Census Area,Alaska,02050,1084,24,1,0
-2020-11-20,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-20,Bristol Bay plus Lake and Peninsula,Alaska,02997,141,1,0,0
 2020-11-20,Denali Borough,Alaska,02068,40,0,0,0
 2020-11-20,Dillingham Census Area,Alaska,02070,89,5,0,0
 2020-11-20,Fairbanks North Star Borough,Alaska,02090,3020,33,17,0
@@ -489,7 +489,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-20,Ketchikan Gateway Borough,Alaska,02130,180,-1,0,0
 2020-11-20,Kodiak Island Borough,Alaska,02150,202,11,0,0
 2020-11-20,Kusilvak Census Area,Alaska,02158,374,4,0,0
-2020-11-20,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-20,Matanuska-Susitna Borough,Alaska,02170,2488,42,5,0
 2020-11-20,Nome Census Area,Alaska,02180,178,3,0,0
 2020-11-20,North Slope Borough,Alaska,02185,398,7,0,0
@@ -499,15 +498,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-20,Sitka City and Borough,Alaska,02220,144,3,0,0
 2020-11-20,Skagway Municipality,Alaska,02230,8,0,0,0
 2020-11-20,Southeast Fairbanks Census Area,Alaska,02240,205,15,1,0
-2020-11-20,Unknown,Alaska,,222,4,0,0
+2020-11-20,Unknown,Alaska,,118,3,0,0
 2020-11-20,Valdez-Cordova Census Area,Alaska,02261,231,4,1,0
 2020-11-20,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-20,Yakutat plus Hoonah-Angoon,Alaska,02998,44,0,0,0
 2020-11-20,Yukon-Koyukuk Census Area,Alaska,02290,150,5,2,0
 2020-11-21,Aleutians East Borough,Alaska,02013,20,0,0,0
 2020-11-21,Aleutians West Census Area,Alaska,02016,106,0,0,0
 2020-11-21,Anchorage,Alaska,02020,14331,332,61,0
 2020-11-21,Bethel Census Area,Alaska,02050,1126,42,1,0
-2020-11-21,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-21,Bristol Bay plus Lake and Peninsula,Alaska,02997,141,0,0,0
 2020-11-21,Denali Borough,Alaska,02068,40,0,0,0
 2020-11-21,Dillingham Census Area,Alaska,02070,93,4,0,0
 2020-11-21,Fairbanks North Star Borough,Alaska,02090,3122,102,17,0
@@ -517,7 +517,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-21,Ketchikan Gateway Borough,Alaska,02130,182,2,0,0
 2020-11-21,Kodiak Island Borough,Alaska,02150,214,12,0,0
 2020-11-21,Kusilvak Census Area,Alaska,02158,381,7,0,0
-2020-11-21,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-21,Matanuska-Susitna Borough,Alaska,02170,2521,33,5,0
 2020-11-21,Nome Census Area,Alaska,02180,182,4,0,0
 2020-11-21,North Slope Borough,Alaska,02185,400,2,0,0
@@ -527,15 +526,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-21,Sitka City and Borough,Alaska,02220,152,8,0,0
 2020-11-21,Skagway Municipality,Alaska,02230,9,1,0,0
 2020-11-21,Southeast Fairbanks Census Area,Alaska,02240,220,15,1,0
-2020-11-21,Unknown,Alaska,,226,4,0,0
+2020-11-21,Unknown,Alaska,,122,4,0,0
 2020-11-21,Valdez-Cordova Census Area,Alaska,02261,233,2,1,0
 2020-11-21,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-21,Yakutat plus Hoonah-Angoon,Alaska,02998,44,0,0,0
 2020-11-21,Yukon-Koyukuk Census Area,Alaska,02290,150,0,2,0
 2020-11-22,Aleutians East Borough,Alaska,02013,21,1,0,0
 2020-11-22,Aleutians West Census Area,Alaska,02016,106,0,0,0
 2020-11-22,Anchorage,Alaska,02020,14637,306,63,2
 2020-11-22,Bethel Census Area,Alaska,02050,1148,22,1,0
-2020-11-22,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-22,Bristol Bay plus Lake and Peninsula,Alaska,02997,143,2,0,0
 2020-11-22,Denali Borough,Alaska,02068,41,1,0,0
 2020-11-22,Dillingham Census Area,Alaska,02070,94,1,0,0
 2020-11-22,Fairbanks North Star Borough,Alaska,02090,3192,70,17,0
@@ -545,7 +545,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-22,Ketchikan Gateway Borough,Alaska,02130,182,0,0,0
 2020-11-22,Kodiak Island Borough,Alaska,02150,216,2,0,0
 2020-11-22,Kusilvak Census Area,Alaska,02158,387,6,0,0
-2020-11-22,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-22,Matanuska-Susitna Borough,Alaska,02170,2559,38,5,0
 2020-11-22,Nome Census Area,Alaska,02180,185,3,0,0
 2020-11-22,North Slope Borough,Alaska,02185,402,2,0,0
@@ -555,15 +554,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-22,Sitka City and Borough,Alaska,02220,156,4,0,0
 2020-11-22,Skagway Municipality,Alaska,02230,9,0,0,0
 2020-11-22,Southeast Fairbanks Census Area,Alaska,02240,235,15,1,0
-2020-11-22,Unknown,Alaska,,235,9,0,0
+2020-11-22,Unknown,Alaska,,129,7,0,0
 2020-11-22,Valdez-Cordova Census Area,Alaska,02261,236,3,1,0
 2020-11-22,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-22,Yakutat plus Hoonah-Angoon,Alaska,02998,44,0,0,0
 2020-11-22,Yukon-Koyukuk Census Area,Alaska,02290,154,4,2,0
 2020-11-23,Aleutians East Borough,Alaska,02013,24,3,0,0
 2020-11-23,Aleutians West Census Area,Alaska,02016,106,0,0,0
 2020-11-23,Anchorage,Alaska,02020,14932,295,63,0
 2020-11-23,Bethel Census Area,Alaska,02050,1222,74,1,0
-2020-11-23,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-23,Bristol Bay plus Lake and Peninsula,Alaska,02997,143,0,0,0
 2020-11-23,Denali Borough,Alaska,02068,41,0,0,0
 2020-11-23,Dillingham Census Area,Alaska,02070,95,1,0,0
 2020-11-23,Fairbanks North Star Borough,Alaska,02090,3231,39,17,0
@@ -573,7 +573,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-23,Ketchikan Gateway Borough,Alaska,02130,183,1,0,0
 2020-11-23,Kodiak Island Borough,Alaska,02150,222,6,0,0
 2020-11-23,Kusilvak Census Area,Alaska,02158,391,4,0,0
-2020-11-23,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-23,Matanuska-Susitna Borough,Alaska,02170,2581,22,5,0
 2020-11-23,Nome Census Area,Alaska,02180,190,5,0,0
 2020-11-23,North Slope Borough,Alaska,02185,403,1,0,0
@@ -583,15 +582,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-23,Sitka City and Borough,Alaska,02220,161,5,0,0
 2020-11-23,Skagway Municipality,Alaska,02230,9,0,0,0
 2020-11-23,Southeast Fairbanks Census Area,Alaska,02240,235,0,1,0
-2020-11-23,Unknown,Alaska,,237,2,0,0
+2020-11-23,Unknown,Alaska,,129,0,0,0
 2020-11-23,Valdez-Cordova Census Area,Alaska,02261,242,6,1,0
 2020-11-23,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-23,Yakutat plus Hoonah-Angoon,Alaska,02998,46,2,0,0
 2020-11-23,Yukon-Koyukuk Census Area,Alaska,02290,158,4,2,0
 2020-11-24,Aleutians East Borough,Alaska,02013,26,2,0,0
 2020-11-24,Aleutians West Census Area,Alaska,02016,107,1,0,0
 2020-11-24,Anchorage,Alaska,02020,15305,373,65,2
 2020-11-24,Bethel Census Area,Alaska,02050,1244,22,5,4
-2020-11-24,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-24,Bristol Bay plus Lake and Peninsula,Alaska,02997,143,0,0,0
 2020-11-24,Denali Borough,Alaska,02068,41,0,0,0
 2020-11-24,Dillingham Census Area,Alaska,02070,95,0,1,1
 2020-11-24,Fairbanks North Star Borough,Alaska,02090,3250,19,17,0
@@ -601,7 +601,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-24,Ketchikan Gateway Borough,Alaska,02130,183,0,0,0
 2020-11-24,Kodiak Island Borough,Alaska,02150,237,15,0,0
 2020-11-24,Kusilvak Census Area,Alaska,02158,392,1,1,1
-2020-11-24,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-24,Matanuska-Susitna Borough,Alaska,02170,2618,37,6,1
 2020-11-24,Nome Census Area,Alaska,02180,205,15,0,0
 2020-11-24,North Slope Borough,Alaska,02185,415,12,0,0
@@ -611,15 +610,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-24,Sitka City and Borough,Alaska,02220,163,2,0,0
 2020-11-24,Skagway Municipality,Alaska,02230,9,0,0,0
 2020-11-24,Southeast Fairbanks Census Area,Alaska,02240,241,6,1,0
-2020-11-24,Unknown,Alaska,,240,3,0,0
+2020-11-24,Unknown,Alaska,,132,3,0,0
 2020-11-24,Valdez-Cordova Census Area,Alaska,02261,247,5,1,0
 2020-11-24,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-24,Yakutat plus Hoonah-Angoon,Alaska,02998,46,0,0,0
 2020-11-24,Yukon-Koyukuk Census Area,Alaska,02290,162,4,3,1
 2020-11-25,Aleutians East Borough,Alaska,02013,33,7,0,0
 2020-11-25,Aleutians West Census Area,Alaska,02016,107,0,0,0
 2020-11-25,Anchorage,Alaska,02020,15699,394,65,0
 2020-11-25,Bethel Census Area,Alaska,02050,1323,79,5,0
-2020-11-25,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-25,Bristol Bay plus Lake and Peninsula,Alaska,02997,143,0,0,0
 2020-11-25,Denali Borough,Alaska,02068,42,1,0,0
 2020-11-25,Dillingham Census Area,Alaska,02070,98,3,1,0
 2020-11-25,Fairbanks North Star Borough,Alaska,02090,3274,24,17,0
@@ -629,7 +629,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-25,Ketchikan Gateway Borough,Alaska,02130,184,1,0,0
 2020-11-25,Kodiak Island Borough,Alaska,02150,246,9,0,0
 2020-11-25,Kusilvak Census Area,Alaska,02158,397,5,1,0
-2020-11-25,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-25,Matanuska-Susitna Borough,Alaska,02170,2655,37,6,0
 2020-11-25,Nome Census Area,Alaska,02180,209,4,0,0
 2020-11-25,North Slope Borough,Alaska,02185,433,18,0,0
@@ -639,15 +638,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-25,Sitka City and Borough,Alaska,02220,172,9,0,0
 2020-11-25,Skagway Municipality,Alaska,02230,9,0,0,0
 2020-11-25,Southeast Fairbanks Census Area,Alaska,02240,253,12,1,0
-2020-11-25,Unknown,Alaska,,247,7,0,0
+2020-11-25,Unknown,Alaska,,139,7,0,0
 2020-11-25,Valdez-Cordova Census Area,Alaska,02261,248,1,1,0
 2020-11-25,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-25,Yakutat plus Hoonah-Angoon,Alaska,02998,46,0,0,0
 2020-11-25,Yukon-Koyukuk Census Area,Alaska,02290,163,1,3,0
 2020-11-26,Aleutians East Borough,Alaska,02013,33,0,0,0
 2020-11-26,Aleutians West Census Area,Alaska,02016,107,0,0,0
 2020-11-26,Anchorage,Alaska,02020,15944,245,65,0
 2020-11-26,Bethel Census Area,Alaska,02050,1346,23,5,0
-2020-11-26,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-26,Bristol Bay plus Lake and Peninsula,Alaska,02997,144,1,0,0
 2020-11-26,Denali Borough,Alaska,02068,42,0,0,0
 2020-11-26,Dillingham Census Area,Alaska,02070,98,0,1,0
 2020-11-26,Fairbanks North Star Borough,Alaska,02090,3296,22,17,0
@@ -657,7 +657,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-26,Ketchikan Gateway Borough,Alaska,02130,191,7,0,0
 2020-11-26,Kodiak Island Borough,Alaska,02150,256,10,0,0
 2020-11-26,Kusilvak Census Area,Alaska,02158,402,5,1,0
-2020-11-26,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-26,Matanuska-Susitna Borough,Alaska,02170,2713,58,6,0
 2020-11-26,Nome Census Area,Alaska,02180,210,1,0,0
 2020-11-26,North Slope Borough,Alaska,02185,437,4,0,0
@@ -667,15 +666,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-26,Sitka City and Borough,Alaska,02220,173,1,0,0
 2020-11-26,Skagway Municipality,Alaska,02230,9,0,0,0
 2020-11-26,Southeast Fairbanks Census Area,Alaska,02240,267,14,2,1
-2020-11-26,Unknown,Alaska,,253,6,0,0
+2020-11-26,Unknown,Alaska,,144,5,0,0
 2020-11-26,Valdez-Cordova Census Area,Alaska,02261,249,1,2,1
 2020-11-26,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-26,Yakutat plus Hoonah-Angoon,Alaska,02998,46,0,0,0
 2020-11-26,Yukon-Koyukuk Census Area,Alaska,02290,164,1,3,0
 2020-11-27,Aleutians East Borough,Alaska,02013,33,0,0,0
 2020-11-27,Aleutians West Census Area,Alaska,02016,107,0,0,0
 2020-11-27,Anchorage,Alaska,02020,16069,125,65,0
 2020-11-27,Bethel Census Area,Alaska,02050,1376,30,5,0
-2020-11-27,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-27,Bristol Bay plus Lake and Peninsula,Alaska,02997,144,0,0,0
 2020-11-27,Denali Borough,Alaska,02068,41,-1,0,0
 2020-11-27,Dillingham Census Area,Alaska,02070,96,-2,1,0
 2020-11-27,Fairbanks North Star Borough,Alaska,02090,3337,41,17,0
@@ -685,7 +685,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-27,Ketchikan Gateway Borough,Alaska,02130,191,0,0,0
 2020-11-27,Kodiak Island Borough,Alaska,02150,257,1,0,0
 2020-11-27,Kusilvak Census Area,Alaska,02158,401,-1,1,0
-2020-11-27,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-27,Matanuska-Susitna Borough,Alaska,02170,3077,364,6,0
 2020-11-27,Nome Census Area,Alaska,02180,213,3,0,0
 2020-11-27,North Slope Borough,Alaska,02185,439,2,0,0
@@ -695,15 +694,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-27,Sitka City and Borough,Alaska,02220,175,2,0,0
 2020-11-27,Skagway Municipality,Alaska,02230,9,0,0,0
 2020-11-27,Southeast Fairbanks Census Area,Alaska,02240,275,8,2,0
-2020-11-27,Unknown,Alaska,,261,8,0,0
+2020-11-27,Unknown,Alaska,,151,7,0,0
 2020-11-27,Valdez-Cordova Census Area,Alaska,02261,249,0,2,0
 2020-11-27,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-27,Yakutat plus Hoonah-Angoon,Alaska,02998,47,1,0,0
 2020-11-27,Yukon-Koyukuk Census Area,Alaska,02290,167,3,3,0
 2020-11-28,Aleutians East Borough,Alaska,02013,33,0,0,0
 2020-11-28,Aleutians West Census Area,Alaska,02016,108,1,0,0
 2020-11-28,Anchorage,Alaska,02020,16356,287,67,2
 2020-11-28,Bethel Census Area,Alaska,02050,1436,60,5,0
-2020-11-28,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-28,Bristol Bay plus Lake and Peninsula,Alaska,02997,144,0,0,0
 2020-11-28,Denali Borough,Alaska,02068,42,1,0,0
 2020-11-28,Dillingham Census Area,Alaska,02070,98,2,1,0
 2020-11-28,Fairbanks North Star Borough,Alaska,02090,3379,42,17,0
@@ -713,7 +713,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-28,Ketchikan Gateway Borough,Alaska,02130,192,1,0,0
 2020-11-28,Kodiak Island Borough,Alaska,02150,268,11,0,0
 2020-11-28,Kusilvak Census Area,Alaska,02158,413,12,1,0
-2020-11-28,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-28,Matanuska-Susitna Borough,Alaska,02170,3235,158,6,0
 2020-11-28,Nome Census Area,Alaska,02180,224,11,0,0
 2020-11-28,North Slope Borough,Alaska,02185,447,8,0,0
@@ -723,15 +722,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-28,Sitka City and Borough,Alaska,02220,182,7,0,0
 2020-11-28,Skagway Municipality,Alaska,02230,9,0,0,0
 2020-11-28,Southeast Fairbanks Census Area,Alaska,02240,279,4,2,0
-2020-11-28,Unknown,Alaska,,265,4,0,0
+2020-11-28,Unknown,Alaska,,155,4,0,0
 2020-11-28,Valdez-Cordova Census Area,Alaska,02261,250,1,2,0
 2020-11-28,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-28,Yakutat plus Hoonah-Angoon,Alaska,02998,47,0,0,0
 2020-11-28,Yukon-Koyukuk Census Area,Alaska,02290,171,4,3,0
 2020-11-29,Aleutians East Borough,Alaska,02013,37,4,0,0
 2020-11-29,Aleutians West Census Area,Alaska,02016,108,0,0,0
 2020-11-29,Anchorage,Alaska,02020,16588,232,67,0
 2020-11-29,Bethel Census Area,Alaska,02050,1528,92,5,0
-2020-11-29,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-29,Bristol Bay plus Lake and Peninsula,Alaska,02997,144,0,0,0
 2020-11-29,Denali Borough,Alaska,02068,43,1,0,0
 2020-11-29,Dillingham Census Area,Alaska,02070,99,1,1,0
 2020-11-29,Fairbanks North Star Borough,Alaska,02090,3452,73,17,0
@@ -741,7 +741,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-29,Ketchikan Gateway Borough,Alaska,02130,193,1,0,0
 2020-11-29,Kodiak Island Borough,Alaska,02150,276,8,0,0
 2020-11-29,Kusilvak Census Area,Alaska,02158,421,8,1,0
-2020-11-29,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-29,Matanuska-Susitna Borough,Alaska,02170,3366,131,6,0
 2020-11-29,Nome Census Area,Alaska,02180,228,4,0,0
 2020-11-29,North Slope Borough,Alaska,02185,448,1,0,0
@@ -751,15 +750,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-29,Sitka City and Borough,Alaska,02220,188,6,0,0
 2020-11-29,Skagway Municipality,Alaska,02230,9,0,0,0
 2020-11-29,Southeast Fairbanks Census Area,Alaska,02240,283,4,2,0
-2020-11-29,Unknown,Alaska,,267,2,0,0
+2020-11-29,Unknown,Alaska,,156,1,0,0
 2020-11-29,Valdez-Cordova Census Area,Alaska,02261,254,4,2,0
 2020-11-29,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-29,Yakutat plus Hoonah-Angoon,Alaska,02998,48,1,0,0
 2020-11-29,Yukon-Koyukuk Census Area,Alaska,02290,171,0,3,0
 2020-11-30,Aleutians East Borough,Alaska,02013,37,0,0,0
 2020-11-30,Aleutians West Census Area,Alaska,02016,108,0,0,0
 2020-11-30,Anchorage,Alaska,02020,16781,193,67,0
 2020-11-30,Bethel Census Area,Alaska,02050,1577,49,5,0
-2020-11-30,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-11-30,Bristol Bay plus Lake and Peninsula,Alaska,02997,144,0,0,0
 2020-11-30,Denali Borough,Alaska,02068,43,0,0,0
 2020-11-30,Dillingham Census Area,Alaska,02070,100,1,1,0
 2020-11-30,Fairbanks North Star Borough,Alaska,02090,3467,15,17,0
@@ -769,7 +769,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-30,Ketchikan Gateway Borough,Alaska,02130,193,0,0,0
 2020-11-30,Kodiak Island Borough,Alaska,02150,283,7,0,0
 2020-11-30,Kusilvak Census Area,Alaska,02158,424,3,1,0
-2020-11-30,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-11-30,Matanuska-Susitna Borough,Alaska,02170,3544,178,6,0
 2020-11-30,Nome Census Area,Alaska,02180,229,1,0,0
 2020-11-30,North Slope Borough,Alaska,02185,463,15,0,0
@@ -779,15 +778,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-11-30,Sitka City and Borough,Alaska,02220,195,7,0,0
 2020-11-30,Skagway Municipality,Alaska,02230,10,1,0,0
 2020-11-30,Southeast Fairbanks Census Area,Alaska,02240,283,0,2,0
-2020-11-30,Unknown,Alaska,,269,2,0,0
+2020-11-30,Unknown,Alaska,,158,2,0,0
 2020-11-30,Valdez-Cordova Census Area,Alaska,02261,255,1,2,0
 2020-11-30,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-11-30,Yakutat plus Hoonah-Angoon,Alaska,02998,48,0,0,0
 2020-11-30,Yukon-Koyukuk Census Area,Alaska,02290,171,0,3,0
 2020-12-01,Aleutians East Borough,Alaska,02013,37,0,0,0
 2020-12-01,Aleutians West Census Area,Alaska,02016,108,0,0,0
 2020-12-01,Anchorage,Alaska,02020,16951,170,68,1
 2020-12-01,Bethel Census Area,Alaska,02050,1595,18,5,0
-2020-12-01,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-01,Bristol Bay plus Lake and Peninsula,Alaska,02997,144,0,0,0
 2020-12-01,Denali Borough,Alaska,02068,43,0,0,0
 2020-12-01,Dillingham Census Area,Alaska,02070,100,0,1,0
 2020-12-01,Fairbanks North Star Borough,Alaska,02090,3477,10,17,0
@@ -797,7 +797,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-01,Ketchikan Gateway Borough,Alaska,02130,194,1,0,0
 2020-12-01,Kodiak Island Borough,Alaska,02150,295,12,0,0
 2020-12-01,Kusilvak Census Area,Alaska,02158,426,2,1,0
-2020-12-01,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-01,Matanuska-Susitna Borough,Alaska,02170,3745,201,6,0
 2020-12-01,Nome Census Area,Alaska,02180,233,4,0,0
 2020-12-01,North Slope Borough,Alaska,02185,470,7,0,0
@@ -807,15 +806,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-01,Sitka City and Borough,Alaska,02220,199,4,0,0
 2020-12-01,Skagway Municipality,Alaska,02230,11,1,0,0
 2020-12-01,Southeast Fairbanks Census Area,Alaska,02240,287,4,2,0
-2020-12-01,Unknown,Alaska,,269,0,0,0
+2020-12-01,Unknown,Alaska,,158,0,0,0
 2020-12-01,Valdez-Cordova Census Area,Alaska,02261,256,1,2,0
 2020-12-01,Wrangell City and Borough,Alaska,02275,19,0,0,0
+2020-12-01,Yakutat plus Hoonah-Angoon,Alaska,02998,48,0,0,0
 2020-12-01,Yukon-Koyukuk Census Area,Alaska,02290,173,2,3,0
 2020-12-02,Aleutians East Borough,Alaska,02013,39,2,0,0
 2020-12-02,Aleutians West Census Area,Alaska,02016,111,3,0,0
 2020-12-02,Anchorage,Alaska,02020,17195,244,68,0
 2020-12-02,Bethel Census Area,Alaska,02050,1607,12,5,0
-2020-12-02,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-02,Bristol Bay plus Lake and Peninsula,Alaska,02997,145,1,0,0
 2020-12-02,Denali Borough,Alaska,02068,44,1,0,0
 2020-12-02,Dillingham Census Area,Alaska,02070,101,1,1,0
 2020-12-02,Fairbanks North Star Borough,Alaska,02090,3491,14,17,0
@@ -825,7 +825,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-02,Ketchikan Gateway Borough,Alaska,02130,195,1,0,0
 2020-12-02,Kodiak Island Borough,Alaska,02150,318,23,0,0
 2020-12-02,Kusilvak Census Area,Alaska,02158,426,0,1,0
-2020-12-02,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-02,Matanuska-Susitna Borough,Alaska,02170,4001,256,6,0
 2020-12-02,Nome Census Area,Alaska,02180,238,5,0,0
 2020-12-02,North Slope Borough,Alaska,02185,500,30,0,0
@@ -835,15 +834,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-02,Sitka City and Borough,Alaska,02220,206,7,0,0
 2020-12-02,Skagway Municipality,Alaska,02230,11,0,0,0
 2020-12-02,Southeast Fairbanks Census Area,Alaska,02240,296,9,2,0
-2020-12-02,Unknown,Alaska,,276,7,0,0
+2020-12-02,Unknown,Alaska,,164,6,0,0
 2020-12-02,Valdez-Cordova Census Area,Alaska,02261,257,1,2,0
 2020-12-02,Wrangell City and Borough,Alaska,02275,20,1,0,0
+2020-12-02,Yakutat plus Hoonah-Angoon,Alaska,02998,48,0,0,0
 2020-12-02,Yukon-Koyukuk Census Area,Alaska,02290,173,0,3,0
 2020-12-03,Aleutians East Borough,Alaska,02013,41,2,0,0
 2020-12-03,Aleutians West Census Area,Alaska,02016,111,0,0,0
 2020-12-03,Anchorage,Alaska,02020,17515,320,73,5
 2020-12-03,Bethel Census Area,Alaska,02050,1626,19,7,2
-2020-12-03,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-03,Bristol Bay plus Lake and Peninsula,Alaska,02997,145,0,0,0
 2020-12-03,Denali Borough,Alaska,02068,45,1,0,0
 2020-12-03,Dillingham Census Area,Alaska,02070,101,0,1,0
 2020-12-03,Fairbanks North Star Borough,Alaska,02090,3521,30,17,0
@@ -853,7 +853,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-03,Ketchikan Gateway Borough,Alaska,02130,203,8,0,0
 2020-12-03,Kodiak Island Borough,Alaska,02150,377,59,0,0
 2020-12-03,Kusilvak Census Area,Alaska,02158,429,3,2,1
-2020-12-03,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-03,Matanuska-Susitna Borough,Alaska,02170,4207,206,6,0
 2020-12-03,Nome Census Area,Alaska,02180,244,6,0,0
 2020-12-03,North Slope Borough,Alaska,02185,512,12,0,0
@@ -863,15 +862,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-03,Sitka City and Borough,Alaska,02220,213,7,0,0
 2020-12-03,Skagway Municipality,Alaska,02230,11,0,0,0
 2020-12-03,Southeast Fairbanks Census Area,Alaska,02240,304,8,2,0
-2020-12-03,Unknown,Alaska,,279,3,0,0
+2020-12-03,Unknown,Alaska,,167,3,0,0
 2020-12-03,Valdez-Cordova Census Area,Alaska,02261,261,4,2,0
 2020-12-03,Wrangell City and Borough,Alaska,02275,20,0,0,0
+2020-12-03,Yakutat plus Hoonah-Angoon,Alaska,02998,48,0,0,0
 2020-12-03,Yukon-Koyukuk Census Area,Alaska,02290,174,1,3,0
 2020-12-04,Aleutians East Borough,Alaska,02013,41,0,0,0
 2020-12-04,Aleutians West Census Area,Alaska,02016,111,0,0,0
 2020-12-04,Anchorage,Alaska,02020,17774,259,77,4
 2020-12-04,Bethel Census Area,Alaska,02050,1640,14,7,0
-2020-12-04,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-04,Bristol Bay plus Lake and Peninsula,Alaska,02997,147,2,0,0
 2020-12-04,Denali Borough,Alaska,02068,45,0,0,0
 2020-12-04,Dillingham Census Area,Alaska,02070,102,1,1,0
 2020-12-04,Fairbanks North Star Borough,Alaska,02090,3561,40,17,0
@@ -881,7 +881,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-04,Ketchikan Gateway Borough,Alaska,02130,205,2,0,0
 2020-12-04,Kodiak Island Borough,Alaska,02150,412,35,1,1
 2020-12-04,Kusilvak Census Area,Alaska,02158,433,4,2,0
-2020-12-04,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-04,Matanuska-Susitna Borough,Alaska,02170,4469,262,8,2
 2020-12-04,Nome Census Area,Alaska,02180,245,1,0,0
 2020-12-04,North Slope Borough,Alaska,02185,530,18,1,1
@@ -891,15 +890,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-04,Sitka City and Borough,Alaska,02220,217,4,0,0
 2020-12-04,Skagway Municipality,Alaska,02230,11,0,0,0
 2020-12-04,Southeast Fairbanks Census Area,Alaska,02240,314,10,2,0
-2020-12-04,Unknown,Alaska,,285,6,0,0
+2020-12-04,Unknown,Alaska,,170,3,0,0
 2020-12-04,Valdez-Cordova Census Area,Alaska,02261,268,7,3,1
 2020-12-04,Wrangell City and Borough,Alaska,02275,21,1,0,0
+2020-12-04,Yakutat plus Hoonah-Angoon,Alaska,02998,49,1,0,0
 2020-12-04,Yukon-Koyukuk Census Area,Alaska,02290,181,7,3,0
 2020-12-05,Aleutians East Borough,Alaska,02013,41,0,0,0
 2020-12-05,Aleutians West Census Area,Alaska,02016,112,1,0,0
 2020-12-05,Anchorage,Alaska,02020,18105,331,78,1
 2020-12-05,Bethel Census Area,Alaska,02050,1689,49,7,0
-2020-12-05,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-05,Bristol Bay plus Lake and Peninsula,Alaska,02997,148,1,0,0
 2020-12-05,Denali Borough,Alaska,02068,46,1,0,0
 2020-12-05,Dillingham Census Area,Alaska,02070,105,3,1,0
 2020-12-05,Fairbanks North Star Borough,Alaska,02090,3705,144,17,0
@@ -909,7 +909,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-05,Ketchikan Gateway Borough,Alaska,02130,209,4,0,0
 2020-12-05,Kodiak Island Borough,Alaska,02150,431,19,1,0
 2020-12-05,Kusilvak Census Area,Alaska,02158,458,25,2,0
-2020-12-05,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-05,Matanuska-Susitna Borough,Alaska,02170,4699,230,8,0
 2020-12-05,Nome Census Area,Alaska,02180,245,0,0,0
 2020-12-05,North Slope Borough,Alaska,02185,539,9,1,0
@@ -919,15 +918,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-05,Sitka City and Borough,Alaska,02220,222,5,0,0
 2020-12-05,Skagway Municipality,Alaska,02230,11,0,0,0
 2020-12-05,Southeast Fairbanks Census Area,Alaska,02240,326,12,2,0
-2020-12-05,Unknown,Alaska,,295,10,0,0
+2020-12-05,Unknown,Alaska,,179,9,0,0
 2020-12-05,Valdez-Cordova Census Area,Alaska,02261,275,7,3,0
 2020-12-05,Wrangell City and Borough,Alaska,02275,21,0,0,0
+2020-12-05,Yakutat plus Hoonah-Angoon,Alaska,02998,49,0,0,0
 2020-12-05,Yukon-Koyukuk Census Area,Alaska,02290,182,1,3,0
 2020-12-06,Aleutians East Borough,Alaska,02013,41,0,0,0
 2020-12-06,Aleutians West Census Area,Alaska,02016,115,3,0,0
 2020-12-06,Anchorage,Alaska,02020,18478,373,78,0
 2020-12-06,Bethel Census Area,Alaska,02050,1708,19,7,0
-2020-12-06,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-06,Bristol Bay plus Lake and Peninsula,Alaska,02997,150,2,0,0
 2020-12-06,Denali Borough,Alaska,02068,47,1,0,0
 2020-12-06,Dillingham Census Area,Alaska,02070,105,0,1,0
 2020-12-06,Fairbanks North Star Borough,Alaska,02090,3739,34,17,0
@@ -937,7 +937,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-06,Ketchikan Gateway Borough,Alaska,02130,210,1,0,0
 2020-12-06,Kodiak Island Borough,Alaska,02150,461,30,1,0
 2020-12-06,Kusilvak Census Area,Alaska,02158,461,3,2,0
-2020-12-06,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-06,Matanuska-Susitna Borough,Alaska,02170,4909,210,8,0
 2020-12-06,Nome Census Area,Alaska,02180,246,1,0,0
 2020-12-06,North Slope Borough,Alaska,02185,561,22,1,0
@@ -947,15 +946,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-06,Sitka City and Borough,Alaska,02220,223,1,0,0
 2020-12-06,Skagway Municipality,Alaska,02230,11,0,0,0
 2020-12-06,Southeast Fairbanks Census Area,Alaska,02240,327,1,2,0
-2020-12-06,Unknown,Alaska,,298,3,0,0
+2020-12-06,Unknown,Alaska,,180,1,0,0
 2020-12-06,Valdez-Cordova Census Area,Alaska,02261,279,4,3,0
 2020-12-06,Wrangell City and Borough,Alaska,02275,21,0,0,0
+2020-12-06,Yakutat plus Hoonah-Angoon,Alaska,02998,49,0,0,0
 2020-12-06,Yukon-Koyukuk Census Area,Alaska,02290,182,0,3,0
 2020-12-07,Aleutians East Borough,Alaska,02013,40,-1,0,0
 2020-12-07,Aleutians West Census Area,Alaska,02016,136,21,0,0
 2020-12-07,Anchorage,Alaska,02020,18726,248,80,2
 2020-12-07,Bethel Census Area,Alaska,02050,1731,23,7,0
-2020-12-07,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-07,Bristol Bay plus Lake and Peninsula,Alaska,02997,150,0,0,0
 2020-12-07,Denali Borough,Alaska,02068,47,0,0,0
 2020-12-07,Dillingham Census Area,Alaska,02070,105,0,1,0
 2020-12-07,Fairbanks North Star Borough,Alaska,02090,3781,42,17,0
@@ -965,7 +965,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-07,Ketchikan Gateway Borough,Alaska,02130,210,0,0,0
 2020-12-07,Kodiak Island Borough,Alaska,02150,500,39,1,0
 2020-12-07,Kusilvak Census Area,Alaska,02158,472,11,2,0
-2020-12-07,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-07,Matanuska-Susitna Borough,Alaska,02170,4996,87,8,0
 2020-12-07,Nome Census Area,Alaska,02180,248,2,0,0
 2020-12-07,North Slope Borough,Alaska,02185,562,1,1,0
@@ -975,15 +974,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-07,Sitka City and Borough,Alaska,02220,224,1,0,0
 2020-12-07,Skagway Municipality,Alaska,02230,11,0,0,0
 2020-12-07,Southeast Fairbanks Census Area,Alaska,02240,333,6,2,0
-2020-12-07,Unknown,Alaska,,302,4,0,0
+2020-12-07,Unknown,Alaska,,184,4,0,0
 2020-12-07,Valdez-Cordova Census Area,Alaska,02261,283,4,3,0
 2020-12-07,Wrangell City and Borough,Alaska,02275,22,1,0,0
+2020-12-07,Yakutat plus Hoonah-Angoon,Alaska,02998,49,0,0,0
 2020-12-07,Yukon-Koyukuk Census Area,Alaska,02290,183,1,3,0
 2020-12-08,Aleutians East Borough,Alaska,02013,42,2,0,0
 2020-12-08,Aleutians West Census Area,Alaska,02016,146,10,0,0
 2020-12-08,Anchorage,Alaska,02020,18960,234,80,0
 2020-12-08,Bethel Census Area,Alaska,02050,1806,75,7,0
-2020-12-08,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-08,Bristol Bay plus Lake and Peninsula,Alaska,02997,151,1,0,0
 2020-12-08,Denali Borough,Alaska,02068,48,1,0,0
 2020-12-08,Dillingham Census Area,Alaska,02070,105,0,1,0
 2020-12-08,Fairbanks North Star Borough,Alaska,02090,3859,78,17,0
@@ -993,7 +993,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-08,Ketchikan Gateway Borough,Alaska,02130,212,2,0,0
 2020-12-08,Kodiak Island Borough,Alaska,02150,528,28,1,0
 2020-12-08,Kusilvak Census Area,Alaska,02158,496,24,2,0
-2020-12-08,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-08,Matanuska-Susitna Borough,Alaska,02170,5042,46,8,0
 2020-12-08,Nome Census Area,Alaska,02180,249,1,0,0
 2020-12-08,North Slope Borough,Alaska,02185,572,10,1,0
@@ -1003,15 +1002,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-08,Sitka City and Borough,Alaska,02220,227,3,0,0
 2020-12-08,Skagway Municipality,Alaska,02230,11,0,0,0
 2020-12-08,Southeast Fairbanks Census Area,Alaska,02240,338,5,2,0
-2020-12-08,Unknown,Alaska,,311,9,0,0
+2020-12-08,Unknown,Alaska,,192,8,0,0
 2020-12-08,Valdez-Cordova Census Area,Alaska,02261,283,0,3,0
 2020-12-08,Wrangell City and Borough,Alaska,02275,22,0,0,0
+2020-12-08,Yakutat plus Hoonah-Angoon,Alaska,02998,49,0,0,0
 2020-12-08,Yukon-Koyukuk Census Area,Alaska,02290,184,1,3,0
 2020-12-09,Aleutians East Borough,Alaska,02013,42,0,0,0
 2020-12-09,Aleutians West Census Area,Alaska,02016,148,2,0,0
 2020-12-09,Anchorage,Alaska,02020,19187,227,81,1
 2020-12-09,Bethel Census Area,Alaska,02050,1832,26,7,0
-2020-12-09,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-09,Bristol Bay plus Lake and Peninsula,Alaska,02997,151,0,0,0
 2020-12-09,Denali Borough,Alaska,02068,53,5,0,0
 2020-12-09,Dillingham Census Area,Alaska,02070,105,0,1,0
 2020-12-09,Fairbanks North Star Borough,Alaska,02090,3934,75,17,0
@@ -1021,7 +1021,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-09,Ketchikan Gateway Borough,Alaska,02130,214,2,0,0
 2020-12-09,Kodiak Island Borough,Alaska,02150,559,31,1,0
 2020-12-09,Kusilvak Census Area,Alaska,02158,537,41,2,0
-2020-12-09,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-09,Matanuska-Susitna Borough,Alaska,02170,5128,86,8,0
 2020-12-09,Nome Census Area,Alaska,02180,249,0,0,0
 2020-12-09,North Slope Borough,Alaska,02185,602,30,1,0
@@ -1031,15 +1030,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-09,Sitka City and Borough,Alaska,02220,227,0,0,0
 2020-12-09,Skagway Municipality,Alaska,02230,11,0,0,0
 2020-12-09,Southeast Fairbanks Census Area,Alaska,02240,345,7,2,0
-2020-12-09,Unknown,Alaska,,311,0,1,1
+2020-12-09,Unknown,Alaska,,192,0,0,0
 2020-12-09,Valdez-Cordova Census Area,Alaska,02261,284,1,3,0
 2020-12-09,Wrangell City and Borough,Alaska,02275,21,-1,0,0
+2020-12-09,Yakutat plus Hoonah-Angoon,Alaska,02998,49,0,1,1
 2020-12-09,Yukon-Koyukuk Census Area,Alaska,02290,185,1,3,0
 2020-12-10,Aleutians East Borough,Alaska,02013,40,-2,0,0
 2020-12-10,Aleutians West Census Area,Alaska,02016,150,2,0,0
 2020-12-10,Anchorage,Alaska,02020,19461,274,85,4
 2020-12-10,Bethel Census Area,Alaska,02050,1846,14,7,0
-2020-12-10,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-10,Bristol Bay plus Lake and Peninsula,Alaska,02997,152,1,0,0
 2020-12-10,Denali Borough,Alaska,02068,53,0,0,0
 2020-12-10,Dillingham Census Area,Alaska,02070,107,2,1,0
 2020-12-10,Fairbanks North Star Borough,Alaska,02090,4061,127,18,1
@@ -1049,7 +1049,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-10,Ketchikan Gateway Borough,Alaska,02130,215,1,0,0
 2020-12-10,Kodiak Island Borough,Alaska,02150,603,44,1,0
 2020-12-10,Kusilvak Census Area,Alaska,02158,549,12,2,0
-2020-12-10,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-10,Matanuska-Susitna Borough,Alaska,02170,5186,58,8,0
 2020-12-10,Nome Census Area,Alaska,02180,249,0,0,0
 2020-12-10,North Slope Borough,Alaska,02185,615,13,1,0
@@ -1059,15 +1058,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-10,Sitka City and Borough,Alaska,02220,228,1,0,0
 2020-12-10,Skagway Municipality,Alaska,02230,11,0,0,0
 2020-12-10,Southeast Fairbanks Census Area,Alaska,02240,350,5,2,0
-2020-12-10,Unknown,Alaska,,323,12,1,0
+2020-12-10,Unknown,Alaska,,203,11,0,0
 2020-12-10,Valdez-Cordova Census Area,Alaska,02261,289,5,3,0
 2020-12-10,Wrangell City and Borough,Alaska,02275,22,1,0,0
+2020-12-10,Yakutat plus Hoonah-Angoon,Alaska,02998,49,0,1,0
 2020-12-10,Yukon-Koyukuk Census Area,Alaska,02290,187,2,3,0
 2020-12-11,Aleutians East Borough,Alaska,02013,39,-1,0,0
 2020-12-11,Aleutians West Census Area,Alaska,02016,156,6,0,0
 2020-12-11,Anchorage,Alaska,02020,19737,276,86,1
 2020-12-11,Bethel Census Area,Alaska,02050,1873,27,7,0
-2020-12-11,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-11,Bristol Bay plus Lake and Peninsula,Alaska,02997,152,0,0,0
 2020-12-11,Denali Borough,Alaska,02068,53,0,0,0
 2020-12-11,Dillingham Census Area,Alaska,02070,107,0,1,0
 2020-12-11,Fairbanks North Star Borough,Alaska,02090,4150,89,19,1
@@ -1077,7 +1077,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-11,Ketchikan Gateway Borough,Alaska,02130,217,2,0,0
 2020-12-11,Kodiak Island Borough,Alaska,02150,635,32,1,0
 2020-12-11,Kusilvak Census Area,Alaska,02158,586,37,2,0
-2020-12-11,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-11,Matanuska-Susitna Borough,Alaska,02170,5266,80,10,2
 2020-12-11,Nome Census Area,Alaska,02180,249,0,0,0
 2020-12-11,North Slope Borough,Alaska,02185,624,9,1,0
@@ -1087,15 +1086,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-11,Sitka City and Borough,Alaska,02220,228,0,0,0
 2020-12-11,Skagway Municipality,Alaska,02230,11,0,0,0
 2020-12-11,Southeast Fairbanks Census Area,Alaska,02240,356,6,2,0
-2020-12-11,Unknown,Alaska,,326,3,1,0
+2020-12-11,Unknown,Alaska,,206,3,0,0
 2020-12-11,Valdez-Cordova Census Area,Alaska,02261,294,5,3,0
 2020-12-11,Wrangell City and Borough,Alaska,02275,22,0,0,0
+2020-12-11,Yakutat plus Hoonah-Angoon,Alaska,02998,49,0,1,0
 2020-12-11,Yukon-Koyukuk Census Area,Alaska,02290,189,2,3,0
 2020-12-12,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-12,Aleutians West Census Area,Alaska,02016,158,2,0,0
 2020-12-12,Anchorage,Alaska,02020,19961,224,96,10
 2020-12-12,Bethel Census Area,Alaska,02050,1932,59,8,1
-2020-12-12,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-12,Bristol Bay plus Lake and Peninsula,Alaska,02997,153,1,0,0
 2020-12-12,Denali Borough,Alaska,02068,53,0,0,0
 2020-12-12,Dillingham Census Area,Alaska,02070,107,0,1,0
 2020-12-12,Fairbanks North Star Borough,Alaska,02090,4217,67,19,0
@@ -1105,7 +1105,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-12,Ketchikan Gateway Borough,Alaska,02130,218,1,0,0
 2020-12-12,Kodiak Island Borough,Alaska,02150,660,25,1,0
 2020-12-12,Kusilvak Census Area,Alaska,02158,604,18,3,1
-2020-12-12,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-12,Matanuska-Susitna Borough,Alaska,02170,5327,61,11,1
 2020-12-12,Nome Census Area,Alaska,02180,251,2,0,0
 2020-12-12,North Slope Borough,Alaska,02185,637,13,2,1
@@ -1115,15 +1114,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-12,Sitka City and Borough,Alaska,02220,231,3,0,0
 2020-12-12,Skagway Municipality,Alaska,02230,11,0,0,0
 2020-12-12,Southeast Fairbanks Census Area,Alaska,02240,356,0,3,1
-2020-12-12,Unknown,Alaska,,330,4,1,0
+2020-12-12,Unknown,Alaska,,207,1,0,0
 2020-12-12,Valdez-Cordova Census Area,Alaska,02261,295,1,3,0
 2020-12-12,Wrangell City and Borough,Alaska,02275,22,0,0,0
+2020-12-12,Yakutat plus Hoonah-Angoon,Alaska,02998,51,2,1,0
 2020-12-12,Yukon-Koyukuk Census Area,Alaska,02290,189,0,4,1
 2020-12-13,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-13,Aleutians West Census Area,Alaska,02016,161,3,0,0
 2020-12-13,Anchorage,Alaska,02020,20259,298,96,0
 2020-12-13,Bethel Census Area,Alaska,02050,1959,27,8,0
-2020-12-13,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-13,Bristol Bay plus Lake and Peninsula,Alaska,02997,153,0,0,0
 2020-12-13,Denali Borough,Alaska,02068,55,2,0,0
 2020-12-13,Dillingham Census Area,Alaska,02070,108,1,1,0
 2020-12-13,Fairbanks North Star Borough,Alaska,02090,4264,47,19,0
@@ -1133,7 +1133,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-13,Ketchikan Gateway Borough,Alaska,02130,219,1,0,0
 2020-12-13,Kodiak Island Borough,Alaska,02150,695,35,1,0
 2020-12-13,Kusilvak Census Area,Alaska,02158,626,22,3,0
-2020-12-13,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-13,Matanuska-Susitna Borough,Alaska,02170,5444,117,11,0
 2020-12-13,Nome Census Area,Alaska,02180,254,3,0,0
 2020-12-13,North Slope Borough,Alaska,02185,654,17,2,0
@@ -1143,15 +1142,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-13,Sitka City and Borough,Alaska,02220,235,4,0,0
 2020-12-13,Skagway Municipality,Alaska,02230,14,3,0,0
 2020-12-13,Southeast Fairbanks Census Area,Alaska,02240,357,1,3,0
-2020-12-13,Unknown,Alaska,,333,3,1,0
+2020-12-13,Unknown,Alaska,,210,3,0,0
 2020-12-13,Valdez-Cordova Census Area,Alaska,02261,295,0,3,0
 2020-12-13,Wrangell City and Borough,Alaska,02275,22,0,0,0
+2020-12-13,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-13,Yukon-Koyukuk Census Area,Alaska,02290,190,1,4,0
 2020-12-14,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-14,Aleutians West Census Area,Alaska,02016,161,0,0,0
 2020-12-14,Anchorage,Alaska,02020,20474,215,96,0
 2020-12-14,Bethel Census Area,Alaska,02050,1978,19,8,0
-2020-12-14,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-14,Bristol Bay plus Lake and Peninsula,Alaska,02997,154,1,0,0
 2020-12-14,Denali Borough,Alaska,02068,56,1,0,0
 2020-12-14,Dillingham Census Area,Alaska,02070,110,2,1,0
 2020-12-14,Fairbanks North Star Borough,Alaska,02090,4347,83,19,0
@@ -1161,7 +1161,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-14,Ketchikan Gateway Borough,Alaska,02130,220,1,0,0
 2020-12-14,Kodiak Island Borough,Alaska,02150,706,11,1,0
 2020-12-14,Kusilvak Census Area,Alaska,02158,643,17,3,0
-2020-12-14,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-14,Matanuska-Susitna Borough,Alaska,02170,5462,18,11,0
 2020-12-14,Nome Census Area,Alaska,02180,256,2,0,0
 2020-12-14,North Slope Borough,Alaska,02185,677,23,2,0
@@ -1171,15 +1170,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-14,Sitka City and Borough,Alaska,02220,237,2,0,0
 2020-12-14,Skagway Municipality,Alaska,02230,14,0,0,0
 2020-12-14,Southeast Fairbanks Census Area,Alaska,02240,366,9,3,0
-2020-12-14,Unknown,Alaska,,336,3,1,0
+2020-12-14,Unknown,Alaska,,212,2,0,0
 2020-12-14,Valdez-Cordova Census Area,Alaska,02261,297,2,3,0
 2020-12-14,Wrangell City and Borough,Alaska,02275,22,0,0,0
+2020-12-14,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-14,Yukon-Koyukuk Census Area,Alaska,02290,191,1,4,0
 2020-12-15,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-15,Aleutians West Census Area,Alaska,02016,161,0,0,0
 2020-12-15,Anchorage,Alaska,02020,20616,142,99,3
 2020-12-15,Bethel Census Area,Alaska,02050,1977,-1,8,0
-2020-12-15,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-15,Bristol Bay plus Lake and Peninsula,Alaska,02997,155,1,0,0
 2020-12-15,Denali Borough,Alaska,02068,56,0,0,0
 2020-12-15,Dillingham Census Area,Alaska,02070,111,1,1,0
 2020-12-15,Fairbanks North Star Borough,Alaska,02090,4374,27,19,0
@@ -1189,7 +1189,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-15,Ketchikan Gateway Borough,Alaska,02130,221,1,0,0
 2020-12-15,Kodiak Island Borough,Alaska,02150,730,24,1,0
 2020-12-15,Kusilvak Census Area,Alaska,02158,651,8,3,0
-2020-12-15,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-15,Matanuska-Susitna Borough,Alaska,02170,5497,35,11,0
 2020-12-15,Nome Census Area,Alaska,02180,257,1,0,0
 2020-12-15,North Slope Borough,Alaska,02185,688,11,2,0
@@ -1199,15 +1198,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-15,Sitka City and Borough,Alaska,02220,242,5,0,0
 2020-12-15,Skagway Municipality,Alaska,02230,15,1,0,0
 2020-12-15,Southeast Fairbanks Census Area,Alaska,02240,369,3,3,0
-2020-12-15,Unknown,Alaska,,340,4,1,0
+2020-12-15,Unknown,Alaska,,215,3,0,0
 2020-12-15,Valdez-Cordova Census Area,Alaska,02261,298,1,3,0
 2020-12-15,Wrangell City and Borough,Alaska,02275,22,0,0,0
+2020-12-15,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-15,Yukon-Koyukuk Census Area,Alaska,02290,191,0,4,0
 2020-12-16,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-16,Aleutians West Census Area,Alaska,02016,165,4,0,0
 2020-12-16,Anchorage,Alaska,02020,20883,267,101,2
 2020-12-16,Bethel Census Area,Alaska,02050,2000,23,8,0
-2020-12-16,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-16,Bristol Bay plus Lake and Peninsula,Alaska,02997,154,-1,0,0
 2020-12-16,Denali Borough,Alaska,02068,57,1,0,0
 2020-12-16,Dillingham Census Area,Alaska,02070,111,0,1,0
 2020-12-16,Fairbanks North Star Borough,Alaska,02090,4424,50,19,0
@@ -1217,7 +1217,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-16,Ketchikan Gateway Borough,Alaska,02130,221,0,0,0
 2020-12-16,Kodiak Island Borough,Alaska,02150,761,31,1,0
 2020-12-16,Kusilvak Census Area,Alaska,02158,662,11,3,0
-2020-12-16,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-16,Matanuska-Susitna Borough,Alaska,02170,5620,123,11,0
 2020-12-16,Nome Census Area,Alaska,02180,262,5,0,0
 2020-12-16,North Slope Borough,Alaska,02185,702,14,2,0
@@ -1227,15 +1226,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-16,Sitka City and Borough,Alaska,02220,244,2,0,0
 2020-12-16,Skagway Municipality,Alaska,02230,15,0,0,0
 2020-12-16,Southeast Fairbanks Census Area,Alaska,02240,372,3,3,0
-2020-12-16,Unknown,Alaska,,342,2,1,0
+2020-12-16,Unknown,Alaska,,218,3,0,0
 2020-12-16,Valdez-Cordova Census Area,Alaska,02261,306,8,3,0
 2020-12-16,Wrangell City and Borough,Alaska,02275,22,0,0,0
+2020-12-16,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-16,Yukon-Koyukuk Census Area,Alaska,02290,198,7,4,0
 2020-12-17,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-17,Aleutians West Census Area,Alaska,02016,167,2,0,0
 2020-12-17,Anchorage,Alaska,02020,21084,201,103,2
 2020-12-17,Bethel Census Area,Alaska,02050,2022,22,8,0
-2020-12-17,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-17,Bristol Bay plus Lake and Peninsula,Alaska,02997,155,1,0,0
 2020-12-17,Denali Borough,Alaska,02068,57,0,0,0
 2020-12-17,Dillingham Census Area,Alaska,02070,111,0,1,0
 2020-12-17,Fairbanks North Star Borough,Alaska,02090,4455,31,19,0
@@ -1245,7 +1245,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-17,Ketchikan Gateway Borough,Alaska,02130,222,1,0,0
 2020-12-17,Kodiak Island Borough,Alaska,02150,772,11,1,0
 2020-12-17,Kusilvak Census Area,Alaska,02158,669,7,3,0
-2020-12-17,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-17,Matanuska-Susitna Borough,Alaska,02170,5687,67,11,0
 2020-12-17,Nome Census Area,Alaska,02180,264,2,0,0
 2020-12-17,North Slope Borough,Alaska,02185,716,14,2,0
@@ -1255,15 +1254,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-17,Sitka City and Borough,Alaska,02220,246,2,0,0
 2020-12-17,Skagway Municipality,Alaska,02230,15,0,0,0
 2020-12-17,Southeast Fairbanks Census Area,Alaska,02240,371,-1,3,0
-2020-12-17,Unknown,Alaska,,340,-2,1,0
+2020-12-17,Unknown,Alaska,,215,-3,0,0
 2020-12-17,Valdez-Cordova Census Area,Alaska,02261,306,0,3,0
 2020-12-17,Wrangell City and Borough,Alaska,02275,22,0,0,0
+2020-12-17,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-17,Yukon-Koyukuk Census Area,Alaska,02290,199,1,4,0
 2020-12-18,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-18,Aleutians West Census Area,Alaska,02016,169,2,0,0
 2020-12-18,Anchorage,Alaska,02020,21283,199,103,0
 2020-12-18,Bethel Census Area,Alaska,02050,2028,6,8,0
-2020-12-18,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-18,Bristol Bay plus Lake and Peninsula,Alaska,02997,155,0,0,0
 2020-12-18,Denali Borough,Alaska,02068,59,2,0,0
 2020-12-18,Dillingham Census Area,Alaska,02070,110,-1,1,0
 2020-12-18,Fairbanks North Star Borough,Alaska,02090,4546,91,19,0
@@ -1273,7 +1273,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-18,Ketchikan Gateway Borough,Alaska,02130,223,1,0,0
 2020-12-18,Kodiak Island Borough,Alaska,02150,790,18,1,0
 2020-12-18,Kusilvak Census Area,Alaska,02158,670,1,3,0
-2020-12-18,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-18,Matanuska-Susitna Borough,Alaska,02170,5751,64,11,0
 2020-12-18,Nome Census Area,Alaska,02180,264,0,0,0
 2020-12-18,North Slope Borough,Alaska,02185,732,16,2,0
@@ -1283,15 +1282,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-18,Sitka City and Borough,Alaska,02220,252,6,0,0
 2020-12-18,Skagway Municipality,Alaska,02230,15,0,0,0
 2020-12-18,Southeast Fairbanks Census Area,Alaska,02240,374,3,3,0
-2020-12-18,Unknown,Alaska,,348,8,1,0
+2020-12-18,Unknown,Alaska,,223,8,0,0
 2020-12-18,Valdez-Cordova Census Area,Alaska,02261,308,2,3,0
 2020-12-18,Wrangell City and Borough,Alaska,02275,23,1,0,0
+2020-12-18,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-18,Yukon-Koyukuk Census Area,Alaska,02290,201,2,4,0
 2020-12-19,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-19,Aleutians West Census Area,Alaska,02016,169,0,0,0
 2020-12-19,Anchorage,Alaska,02020,21429,146,104,1
 2020-12-19,Bethel Census Area,Alaska,02050,2066,38,8,0
-2020-12-19,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-19,Bristol Bay plus Lake and Peninsula,Alaska,02997,157,2,0,0
 2020-12-19,Denali Borough,Alaska,02068,59,0,0,0
 2020-12-19,Dillingham Census Area,Alaska,02070,110,0,1,0
 2020-12-19,Fairbanks North Star Borough,Alaska,02090,4569,23,19,0
@@ -1301,7 +1301,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-19,Ketchikan Gateway Borough,Alaska,02130,226,3,0,0
 2020-12-19,Kodiak Island Borough,Alaska,02150,799,9,1,0
 2020-12-19,Kusilvak Census Area,Alaska,02158,672,2,3,0
-2020-12-19,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-19,Matanuska-Susitna Borough,Alaska,02170,5803,52,11,0
 2020-12-19,Nome Census Area,Alaska,02180,264,0,0,0
 2020-12-19,North Slope Borough,Alaska,02185,743,11,2,0
@@ -1311,15 +1310,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-19,Sitka City and Borough,Alaska,02220,253,1,0,0
 2020-12-19,Skagway Municipality,Alaska,02230,15,0,0,0
 2020-12-19,Southeast Fairbanks Census Area,Alaska,02240,380,6,3,0
-2020-12-19,Unknown,Alaska,,353,5,1,0
+2020-12-19,Unknown,Alaska,,226,3,0,0
 2020-12-19,Valdez-Cordova Census Area,Alaska,02261,308,0,3,0
 2020-12-19,Wrangell City and Borough,Alaska,02275,23,0,0,0
+2020-12-19,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-19,Yukon-Koyukuk Census Area,Alaska,02290,206,5,4,0
 2020-12-20,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-20,Aleutians West Census Area,Alaska,02016,169,0,0,0
 2020-12-20,Anchorage,Alaska,02020,21554,125,104,0
 2020-12-20,Bethel Census Area,Alaska,02050,2080,14,8,0
-2020-12-20,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-20,Bristol Bay plus Lake and Peninsula,Alaska,02997,156,-1,0,0
 2020-12-20,Denali Borough,Alaska,02068,59,0,0,0
 2020-12-20,Dillingham Census Area,Alaska,02070,110,0,1,0
 2020-12-20,Fairbanks North Star Borough,Alaska,02090,4581,12,19,0
@@ -1329,7 +1329,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-20,Ketchikan Gateway Borough,Alaska,02130,226,0,0,0
 2020-12-20,Kodiak Island Borough,Alaska,02150,801,2,1,0
 2020-12-20,Kusilvak Census Area,Alaska,02158,672,0,3,0
-2020-12-20,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-20,Matanuska-Susitna Borough,Alaska,02170,5815,12,11,0
 2020-12-20,Nome Census Area,Alaska,02180,264,0,0,0
 2020-12-20,North Slope Borough,Alaska,02185,749,6,2,0
@@ -1339,15 +1338,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-20,Sitka City and Borough,Alaska,02220,254,1,0,0
 2020-12-20,Skagway Municipality,Alaska,02230,15,0,0,0
 2020-12-20,Southeast Fairbanks Census Area,Alaska,02240,380,0,3,0
-2020-12-20,Unknown,Alaska,,335,-18,1,0
+2020-12-20,Unknown,Alaska,,209,-17,0,0
 2020-12-20,Valdez-Cordova Census Area,Alaska,02261,307,-1,2,-1
 2020-12-20,Wrangell City and Borough,Alaska,02275,24,1,0,0
+2020-12-20,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-20,Yukon-Koyukuk Census Area,Alaska,02290,204,-2,4,0
 2020-12-21,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-21,Aleutians West Census Area,Alaska,02016,169,0,0,0
 2020-12-21,Anchorage,Alaska,02020,21645,91,104,0
 2020-12-21,Bethel Census Area,Alaska,02050,2088,8,8,0
-2020-12-21,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-21,Bristol Bay plus Lake and Peninsula,Alaska,02997,156,0,0,0
 2020-12-21,Denali Borough,Alaska,02068,59,0,0,0
 2020-12-21,Dillingham Census Area,Alaska,02070,110,0,1,0
 2020-12-21,Fairbanks North Star Borough,Alaska,02090,4597,16,19,0
@@ -1357,7 +1357,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-21,Ketchikan Gateway Borough,Alaska,02130,226,0,0,0
 2020-12-21,Kodiak Island Borough,Alaska,02150,804,3,1,0
 2020-12-21,Kusilvak Census Area,Alaska,02158,686,14,3,0
-2020-12-21,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-21,Matanuska-Susitna Borough,Alaska,02170,5825,10,11,0
 2020-12-21,Nome Census Area,Alaska,02180,265,1,0,0
 2020-12-21,North Slope Borough,Alaska,02185,750,1,2,0
@@ -1367,15 +1366,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-21,Sitka City and Borough,Alaska,02220,255,1,0,0
 2020-12-21,Skagway Municipality,Alaska,02230,15,0,0,0
 2020-12-21,Southeast Fairbanks Census Area,Alaska,02240,382,2,3,0
-2020-12-21,Unknown,Alaska,,330,-5,1,0
+2020-12-21,Unknown,Alaska,,204,-5,0,0
 2020-12-21,Valdez-Cordova Census Area,Alaska,02261,307,0,2,0
 2020-12-21,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2020-12-21,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-21,Yukon-Koyukuk Census Area,Alaska,02290,204,0,4,0
 2020-12-22,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-22,Aleutians West Census Area,Alaska,02016,169,0,0,0
 2020-12-22,Anchorage,Alaska,02020,21857,212,112,8
 2020-12-22,Bethel Census Area,Alaska,02050,2108,20,8,0
-2020-12-22,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-22,Bristol Bay plus Lake and Peninsula,Alaska,02997,157,1,0,0
 2020-12-22,Denali Borough,Alaska,02068,59,0,0,0
 2020-12-22,Dillingham Census Area,Alaska,02070,111,1,1,0
 2020-12-22,Fairbanks North Star Borough,Alaska,02090,4614,17,19,0
@@ -1385,7 +1385,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-22,Ketchikan Gateway Borough,Alaska,02130,226,0,0,0
 2020-12-22,Kodiak Island Borough,Alaska,02150,831,27,1,0
 2020-12-22,Kusilvak Census Area,Alaska,02158,688,2,3,0
-2020-12-22,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-22,Matanuska-Susitna Borough,Alaska,02170,5930,105,13,2
 2020-12-22,Nome Census Area,Alaska,02180,265,0,0,0
 2020-12-22,North Slope Borough,Alaska,02185,753,3,2,0
@@ -1395,15 +1394,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-22,Sitka City and Borough,Alaska,02220,255,0,0,0
 2020-12-22,Skagway Municipality,Alaska,02230,15,0,0,0
 2020-12-22,Southeast Fairbanks Census Area,Alaska,02240,383,1,3,0
-2020-12-22,Unknown,Alaska,,331,1,1,0
+2020-12-22,Unknown,Alaska,,204,0,0,0
 2020-12-22,Valdez-Cordova Census Area,Alaska,02261,315,8,2,0
 2020-12-22,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2020-12-22,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-22,Yukon-Koyukuk Census Area,Alaska,02290,205,1,4,0
 2020-12-23,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-23,Aleutians West Census Area,Alaska,02016,173,4,0,0
 2020-12-23,Anchorage,Alaska,02020,22013,156,115,3
 2020-12-23,Bethel Census Area,Alaska,02050,2126,18,8,0
-2020-12-23,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-23,Bristol Bay plus Lake and Peninsula,Alaska,02997,157,0,0,0
 2020-12-23,Denali Borough,Alaska,02068,59,0,0,0
 2020-12-23,Dillingham Census Area,Alaska,02070,113,2,1,0
 2020-12-23,Fairbanks North Star Borough,Alaska,02090,4655,41,19,0
@@ -1413,7 +1413,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-23,Ketchikan Gateway Borough,Alaska,02130,227,1,0,0
 2020-12-23,Kodiak Island Borough,Alaska,02150,851,20,1,0
 2020-12-23,Kusilvak Census Area,Alaska,02158,689,1,3,0
-2020-12-23,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-23,Matanuska-Susitna Borough,Alaska,02170,5997,67,13,0
 2020-12-23,Nome Census Area,Alaska,02180,265,0,0,0
 2020-12-23,North Slope Borough,Alaska,02185,761,8,2,0
@@ -1423,15 +1422,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-23,Sitka City and Borough,Alaska,02220,259,4,0,0
 2020-12-23,Skagway Municipality,Alaska,02230,15,0,0,0
 2020-12-23,Southeast Fairbanks Census Area,Alaska,02240,396,13,3,0
-2020-12-23,Unknown,Alaska,,332,1,1,0
+2020-12-23,Unknown,Alaska,,205,1,0,0
 2020-12-23,Valdez-Cordova Census Area,Alaska,02261,318,3,2,0
 2020-12-23,Wrangell City and Borough,Alaska,02275,23,-1,0,0
+2020-12-23,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-23,Yukon-Koyukuk Census Area,Alaska,02290,205,0,4,0
 2020-12-24,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-24,Aleutians West Census Area,Alaska,02016,178,5,0,0
 2020-12-24,Anchorage,Alaska,02020,22124,111,116,1
 2020-12-24,Bethel Census Area,Alaska,02050,2131,5,8,0
-2020-12-24,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-24,Bristol Bay plus Lake and Peninsula,Alaska,02997,157,0,0,0
 2020-12-24,Denali Borough,Alaska,02068,59,0,0,0
 2020-12-24,Dillingham Census Area,Alaska,02070,113,0,1,0
 2020-12-24,Fairbanks North Star Borough,Alaska,02090,4689,34,19,0
@@ -1441,7 +1441,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-24,Ketchikan Gateway Borough,Alaska,02130,227,0,0,0
 2020-12-24,Kodiak Island Borough,Alaska,02150,864,13,1,0
 2020-12-24,Kusilvak Census Area,Alaska,02158,689,0,3,0
-2020-12-24,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-24,Matanuska-Susitna Borough,Alaska,02170,6047,50,13,0
 2020-12-24,Nome Census Area,Alaska,02180,268,3,0,0
 2020-12-24,North Slope Borough,Alaska,02185,768,7,2,0
@@ -1451,15 +1450,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-24,Sitka City and Borough,Alaska,02220,262,3,0,0
 2020-12-24,Skagway Municipality,Alaska,02230,15,0,0,0
 2020-12-24,Southeast Fairbanks Census Area,Alaska,02240,398,2,3,0
-2020-12-24,Unknown,Alaska,,334,2,1,0
+2020-12-24,Unknown,Alaska,,207,2,0,0
 2020-12-24,Valdez-Cordova Census Area,Alaska,02261,324,6,2,0
 2020-12-24,Wrangell City and Borough,Alaska,02275,23,0,0,0
+2020-12-24,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-24,Yukon-Koyukuk Census Area,Alaska,02290,206,1,4,0
 2020-12-25,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-25,Aleutians West Census Area,Alaska,02016,178,0,0,0
 2020-12-25,Anchorage,Alaska,02020,22124,0,116,0
 2020-12-25,Bethel Census Area,Alaska,02050,2131,0,8,0
-2020-12-25,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-25,Bristol Bay plus Lake and Peninsula,Alaska,02997,157,0,0,0
 2020-12-25,Denali Borough,Alaska,02068,59,0,0,0
 2020-12-25,Dillingham Census Area,Alaska,02070,113,0,1,0
 2020-12-25,Fairbanks North Star Borough,Alaska,02090,4689,0,19,0
@@ -1469,7 +1469,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-25,Ketchikan Gateway Borough,Alaska,02130,227,0,0,0
 2020-12-25,Kodiak Island Borough,Alaska,02150,864,0,1,0
 2020-12-25,Kusilvak Census Area,Alaska,02158,689,0,3,0
-2020-12-25,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-25,Matanuska-Susitna Borough,Alaska,02170,6047,0,13,0
 2020-12-25,Nome Census Area,Alaska,02180,268,0,0,0
 2020-12-25,North Slope Borough,Alaska,02185,768,0,2,0
@@ -1479,15 +1478,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-25,Sitka City and Borough,Alaska,02220,262,0,0,0
 2020-12-25,Skagway Municipality,Alaska,02230,15,0,0,0
 2020-12-25,Southeast Fairbanks Census Area,Alaska,02240,398,0,3,0
-2020-12-25,Unknown,Alaska,,334,0,1,0
+2020-12-25,Unknown,Alaska,,207,0,0,0
 2020-12-25,Valdez-Cordova Census Area,Alaska,02261,324,0,2,0
 2020-12-25,Wrangell City and Borough,Alaska,02275,23,0,0,0
+2020-12-25,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-25,Yukon-Koyukuk Census Area,Alaska,02290,206,0,4,0
 2020-12-26,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-26,Aleutians West Census Area,Alaska,02016,184,6,0,0
 2020-12-26,Anchorage,Alaska,02020,22268,144,116,0
 2020-12-26,Bethel Census Area,Alaska,02050,2157,26,9,1
-2020-12-26,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-26,Bristol Bay plus Lake and Peninsula,Alaska,02997,157,0,0,0
 2020-12-26,Denali Borough,Alaska,02068,59,0,0,0
 2020-12-26,Dillingham Census Area,Alaska,02070,114,1,1,0
 2020-12-26,Fairbanks North Star Borough,Alaska,02090,4748,59,19,0
@@ -1497,7 +1497,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-26,Ketchikan Gateway Borough,Alaska,02130,229,2,0,0
 2020-12-26,Kodiak Island Borough,Alaska,02150,888,24,1,0
 2020-12-26,Kusilvak Census Area,Alaska,02158,691,2,2,-1
-2020-12-26,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-26,Matanuska-Susitna Borough,Alaska,02170,6077,30,14,1
 2020-12-26,Nome Census Area,Alaska,02180,270,2,0,0
 2020-12-26,North Slope Borough,Alaska,02185,787,19,2,0
@@ -1507,15 +1506,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-26,Sitka City and Borough,Alaska,02220,266,4,0,0
 2020-12-26,Skagway Municipality,Alaska,02230,15,0,0,0
 2020-12-26,Southeast Fairbanks Census Area,Alaska,02240,398,0,3,0
-2020-12-26,Unknown,Alaska,,337,3,1,0
+2020-12-26,Unknown,Alaska,,210,3,0,0
 2020-12-26,Valdez-Cordova Census Area,Alaska,02261,324,0,2,0
 2020-12-26,Wrangell City and Borough,Alaska,02275,23,0,0,0
+2020-12-26,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-26,Yukon-Koyukuk Census Area,Alaska,02290,206,0,4,0
 2020-12-27,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-27,Aleutians West Census Area,Alaska,02016,188,4,0,0
 2020-12-27,Anchorage,Alaska,02020,22370,102,116,0
 2020-12-27,Bethel Census Area,Alaska,02050,2187,30,9,0
-2020-12-27,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-27,Bristol Bay plus Lake and Peninsula,Alaska,02997,157,0,0,0
 2020-12-27,Denali Borough,Alaska,02068,59,0,0,0
 2020-12-27,Dillingham Census Area,Alaska,02070,114,0,1,0
 2020-12-27,Fairbanks North Star Borough,Alaska,02090,4803,55,19,0
@@ -1525,7 +1525,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-27,Ketchikan Gateway Borough,Alaska,02130,229,0,0,0
 2020-12-27,Kodiak Island Borough,Alaska,02150,890,2,1,0
 2020-12-27,Kusilvak Census Area,Alaska,02158,692,1,2,0
-2020-12-27,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-27,Matanuska-Susitna Borough,Alaska,02170,6152,75,14,0
 2020-12-27,Nome Census Area,Alaska,02180,271,1,0,0
 2020-12-27,North Slope Borough,Alaska,02185,788,1,2,0
@@ -1535,15 +1534,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-27,Sitka City and Borough,Alaska,02220,266,0,0,0
 2020-12-27,Skagway Municipality,Alaska,02230,16,1,0,0
 2020-12-27,Southeast Fairbanks Census Area,Alaska,02240,400,2,3,0
-2020-12-27,Unknown,Alaska,,341,4,1,0
+2020-12-27,Unknown,Alaska,,214,4,0,0
 2020-12-27,Valdez-Cordova Census Area,Alaska,02261,324,0,2,0
 2020-12-27,Wrangell City and Borough,Alaska,02275,23,0,0,0
+2020-12-27,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-27,Yukon-Koyukuk Census Area,Alaska,02290,206,0,4,0
 2020-12-28,Aleutians East Borough,Alaska,02013,39,0,0,0
 2020-12-28,Aleutians West Census Area,Alaska,02016,188,0,0,0
 2020-12-28,Anchorage,Alaska,02020,22441,71,116,0
 2020-12-28,Bethel Census Area,Alaska,02050,2189,2,9,0
-2020-12-28,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-28,Bristol Bay plus Lake and Peninsula,Alaska,02997,157,0,0,0
 2020-12-28,Denali Borough,Alaska,02068,59,0,0,0
 2020-12-28,Dillingham Census Area,Alaska,02070,114,0,1,0
 2020-12-28,Fairbanks North Star Borough,Alaska,02090,4809,6,19,0
@@ -1553,7 +1553,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-28,Ketchikan Gateway Borough,Alaska,02130,229,0,0,0
 2020-12-28,Kodiak Island Borough,Alaska,02150,892,2,1,0
 2020-12-28,Kusilvak Census Area,Alaska,02158,693,1,2,0
-2020-12-28,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-28,Matanuska-Susitna Borough,Alaska,02170,6184,32,14,0
 2020-12-28,Nome Census Area,Alaska,02180,272,1,0,0
 2020-12-28,North Slope Borough,Alaska,02185,791,3,2,0
@@ -1563,15 +1562,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-28,Sitka City and Borough,Alaska,02220,266,0,0,0
 2020-12-28,Skagway Municipality,Alaska,02230,16,0,0,0
 2020-12-28,Southeast Fairbanks Census Area,Alaska,02240,400,0,3,0
-2020-12-28,Unknown,Alaska,,343,2,1,0
+2020-12-28,Unknown,Alaska,,216,2,0,0
 2020-12-28,Valdez-Cordova Census Area,Alaska,02261,325,1,2,0
 2020-12-28,Wrangell City and Borough,Alaska,02275,23,0,0,0
+2020-12-28,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-28,Yukon-Koyukuk Census Area,Alaska,02290,207,1,4,0
 2020-12-29,Aleutians East Borough,Alaska,02013,38,-1,0,0
 2020-12-29,Aleutians West Census Area,Alaska,02016,188,0,0,0
 2020-12-29,Anchorage,Alaska,02020,22538,97,117,1
 2020-12-29,Bethel Census Area,Alaska,02050,2190,1,9,0
-2020-12-29,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-29,Bristol Bay plus Lake and Peninsula,Alaska,02997,157,0,0,0
 2020-12-29,Denali Borough,Alaska,02068,59,0,0,0
 2020-12-29,Dillingham Census Area,Alaska,02070,119,5,1,0
 2020-12-29,Fairbanks North Star Borough,Alaska,02090,4837,28,19,0
@@ -1581,7 +1581,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-29,Ketchikan Gateway Borough,Alaska,02130,232,3,0,0
 2020-12-29,Kodiak Island Borough,Alaska,02150,895,3,1,0
 2020-12-29,Kusilvak Census Area,Alaska,02158,691,-2,2,0
-2020-12-29,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-29,Matanuska-Susitna Borough,Alaska,02170,6225,41,14,0
 2020-12-29,Nome Census Area,Alaska,02180,273,1,0,0
 2020-12-29,North Slope Borough,Alaska,02185,787,-4,2,0
@@ -1591,15 +1590,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-29,Sitka City and Borough,Alaska,02220,266,0,0,0
 2020-12-29,Skagway Municipality,Alaska,02230,16,0,0,0
 2020-12-29,Southeast Fairbanks Census Area,Alaska,02240,402,2,3,0
-2020-12-29,Unknown,Alaska,,346,3,1,0
+2020-12-29,Unknown,Alaska,,219,3,0,0
 2020-12-29,Valdez-Cordova Census Area,Alaska,02261,327,2,2,0
 2020-12-29,Wrangell City and Borough,Alaska,02275,23,0,0,0
+2020-12-29,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-29,Yukon-Koyukuk Census Area,Alaska,02290,207,0,4,0
 2020-12-30,Aleutians East Borough,Alaska,02013,38,0,0,0
 2020-12-30,Aleutians West Census Area,Alaska,02016,190,2,0,0
 2020-12-30,Anchorage,Alaska,02020,22677,139,117,0
 2020-12-30,Bethel Census Area,Alaska,02050,2256,66,9,0
-2020-12-30,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-30,Bristol Bay plus Lake and Peninsula,Alaska,02997,157,0,0,0
 2020-12-30,Denali Borough,Alaska,02068,59,0,0,0
 2020-12-30,Dillingham Census Area,Alaska,02070,121,2,1,0
 2020-12-30,Fairbanks North Star Borough,Alaska,02090,4864,27,19,0
@@ -1609,7 +1609,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-30,Ketchikan Gateway Borough,Alaska,02130,235,3,0,0
 2020-12-30,Kodiak Island Borough,Alaska,02150,906,11,2,1
 2020-12-30,Kusilvak Census Area,Alaska,02158,695,4,2,0
-2020-12-30,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-30,Matanuska-Susitna Borough,Alaska,02170,6321,96,14,0
 2020-12-30,Nome Census Area,Alaska,02180,275,2,0,0
 2020-12-30,North Slope Borough,Alaska,02185,794,7,2,0
@@ -1619,15 +1618,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-30,Sitka City and Borough,Alaska,02220,266,0,0,0
 2020-12-30,Skagway Municipality,Alaska,02230,16,0,0,0
 2020-12-30,Southeast Fairbanks Census Area,Alaska,02240,404,2,3,0
-2020-12-30,Unknown,Alaska,,348,2,1,0
+2020-12-30,Unknown,Alaska,,221,2,0,0
 2020-12-30,Valdez-Cordova Census Area,Alaska,02261,339,12,2,0
 2020-12-30,Wrangell City and Borough,Alaska,02275,24,1,0,0
+2020-12-30,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-30,Yukon-Koyukuk Census Area,Alaska,02290,208,1,4,0
 2020-12-31,Aleutians East Borough,Alaska,02013,38,0,0,0
 2020-12-31,Aleutians West Census Area,Alaska,02016,197,7,0,0
 2020-12-31,Anchorage,Alaska,02020,22820,143,118,1
 2020-12-31,Bethel Census Area,Alaska,02050,2427,171,9,0
-2020-12-31,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2020-12-31,Bristol Bay plus Lake and Peninsula,Alaska,02997,157,0,0,0
 2020-12-31,Denali Borough,Alaska,02068,59,0,0,0
 2020-12-31,Dillingham Census Area,Alaska,02070,121,0,1,0
 2020-12-31,Fairbanks North Star Borough,Alaska,02090,4900,36,19,0
@@ -1637,7 +1637,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-31,Ketchikan Gateway Borough,Alaska,02130,236,1,0,0
 2020-12-31,Kodiak Island Borough,Alaska,02150,912,6,2,0
 2020-12-31,Kusilvak Census Area,Alaska,02158,767,72,2,0
-2020-12-31,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2020-12-31,Matanuska-Susitna Borough,Alaska,02170,6353,32,16,2
 2020-12-31,Nome Census Area,Alaska,02180,275,0,0,0
 2020-12-31,North Slope Borough,Alaska,02185,798,4,2,0
@@ -1647,15 +1646,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2020-12-31,Sitka City and Borough,Alaska,02220,266,0,0,0
 2020-12-31,Skagway Municipality,Alaska,02230,16,0,0,0
 2020-12-31,Southeast Fairbanks Census Area,Alaska,02240,406,2,3,0
-2020-12-31,Unknown,Alaska,,345,-3,1,0
+2020-12-31,Unknown,Alaska,,218,-3,0,0
 2020-12-31,Valdez-Cordova Census Area,Alaska,02261,341,2,2,0
 2020-12-31,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2020-12-31,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2020-12-31,Yukon-Koyukuk Census Area,Alaska,02290,209,1,4,0
 2021-01-01,Aleutians East Borough,Alaska,02013,38,0,0,0
 2021-01-01,Aleutians West Census Area,Alaska,02016,197,0,0,0
 2021-01-01,Anchorage,Alaska,02020,22820,0,118,0
 2021-01-01,Bethel Census Area,Alaska,02050,2427,0,9,0
-2021-01-01,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-01,Bristol Bay plus Lake and Peninsula,Alaska,02997,157,0,0,0
 2021-01-01,Denali Borough,Alaska,02068,59,0,0,0
 2021-01-01,Dillingham Census Area,Alaska,02070,121,0,1,0
 2021-01-01,Fairbanks North Star Borough,Alaska,02090,4900,0,19,0
@@ -1665,7 +1665,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-01,Ketchikan Gateway Borough,Alaska,02130,236,0,0,0
 2021-01-01,Kodiak Island Borough,Alaska,02150,912,0,2,0
 2021-01-01,Kusilvak Census Area,Alaska,02158,767,0,2,0
-2021-01-01,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-01,Matanuska-Susitna Borough,Alaska,02170,6353,0,16,0
 2021-01-01,Nome Census Area,Alaska,02180,275,0,0,0
 2021-01-01,North Slope Borough,Alaska,02185,798,0,2,0
@@ -1675,15 +1674,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-01,Sitka City and Borough,Alaska,02220,266,0,0,0
 2021-01-01,Skagway Municipality,Alaska,02230,16,0,0,0
 2021-01-01,Southeast Fairbanks Census Area,Alaska,02240,406,0,3,0
-2021-01-01,Unknown,Alaska,,345,0,1,0
+2021-01-01,Unknown,Alaska,,218,0,0,0
 2021-01-01,Valdez-Cordova Census Area,Alaska,02261,341,0,2,0
 2021-01-01,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-01,Yakutat plus Hoonah-Angoon,Alaska,02998,51,0,1,0
 2021-01-01,Yukon-Koyukuk Census Area,Alaska,02290,209,0,4,0
 2021-01-02,Aleutians East Borough,Alaska,02013,38,0,0,0
 2021-01-02,Aleutians West Census Area,Alaska,02016,204,7,0,0
 2021-01-02,Anchorage,Alaska,02020,23131,311,121,3
 2021-01-02,Bethel Census Area,Alaska,02050,2529,102,9,0
-2021-01-02,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-02,Bristol Bay plus Lake and Peninsula,Alaska,02997,159,2,0,0
 2021-01-02,Denali Borough,Alaska,02068,59,0,0,0
 2021-01-02,Dillingham Census Area,Alaska,02070,125,4,1,0
 2021-01-02,Fairbanks North Star Borough,Alaska,02090,5007,107,20,1
@@ -1693,7 +1693,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-02,Ketchikan Gateway Borough,Alaska,02130,241,5,1,1
 2021-01-02,Kodiak Island Borough,Alaska,02150,926,14,2,0
 2021-01-02,Kusilvak Census Area,Alaska,02158,837,70,2,0
-2021-01-02,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-02,Matanuska-Susitna Borough,Alaska,02170,6461,108,18,2
 2021-01-02,Nome Census Area,Alaska,02180,279,4,0,0
 2021-01-02,North Slope Borough,Alaska,02185,811,13,3,1
@@ -1703,15 +1702,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-02,Sitka City and Borough,Alaska,02220,265,-1,0,0
 2021-01-02,Skagway Municipality,Alaska,02230,16,0,0,0
 2021-01-02,Southeast Fairbanks Census Area,Alaska,02240,405,-1,3,0
-2021-01-02,Unknown,Alaska,,356,11,1,0
+2021-01-02,Unknown,Alaska,,225,7,0,0
 2021-01-02,Valdez-Cordova Census Area,Alaska,02261,355,14,2,0
 2021-01-02,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-02,Yakutat plus Hoonah-Angoon,Alaska,02998,53,2,1,0
 2021-01-02,Yukon-Koyukuk Census Area,Alaska,02290,209,0,4,0
 2021-01-03,Aleutians East Borough,Alaska,02013,38,0,0,0
 2021-01-03,Aleutians West Census Area,Alaska,02016,208,4,0,0
 2021-01-03,Anchorage,Alaska,02020,23179,48,121,0
 2021-01-03,Bethel Census Area,Alaska,02050,2675,146,9,0
-2021-01-03,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-03,Bristol Bay plus Lake and Peninsula,Alaska,02997,159,0,0,0
 2021-01-03,Denali Borough,Alaska,02068,59,0,0,0
 2021-01-03,Dillingham Census Area,Alaska,02070,125,0,1,0
 2021-01-03,Fairbanks North Star Borough,Alaska,02090,5016,9,20,0
@@ -1721,7 +1721,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-03,Ketchikan Gateway Borough,Alaska,02130,241,0,1,0
 2021-01-03,Kodiak Island Borough,Alaska,02150,929,3,2,0
 2021-01-03,Kusilvak Census Area,Alaska,02158,877,40,2,0
-2021-01-03,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-03,Matanuska-Susitna Borough,Alaska,02170,6498,37,18,0
 2021-01-03,Nome Census Area,Alaska,02180,280,1,0,0
 2021-01-03,North Slope Borough,Alaska,02185,816,5,3,0
@@ -1731,15 +1730,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-03,Sitka City and Borough,Alaska,02220,266,1,0,0
 2021-01-03,Skagway Municipality,Alaska,02230,16,0,0,0
 2021-01-03,Southeast Fairbanks Census Area,Alaska,02240,405,0,3,0
-2021-01-03,Unknown,Alaska,,357,1,1,0
+2021-01-03,Unknown,Alaska,,226,1,0,0
 2021-01-03,Valdez-Cordova Census Area,Alaska,02261,356,1,2,0
 2021-01-03,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-03,Yakutat plus Hoonah-Angoon,Alaska,02998,53,0,1,0
 2021-01-03,Yukon-Koyukuk Census Area,Alaska,02290,209,0,4,0
 2021-01-04,Aleutians East Borough,Alaska,02013,38,0,0,0
 2021-01-04,Aleutians West Census Area,Alaska,02016,208,0,0,0
 2021-01-04,Anchorage,Alaska,02020,23276,97,121,0
 2021-01-04,Bethel Census Area,Alaska,02050,2725,50,11,2
-2021-01-04,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-04,Bristol Bay plus Lake and Peninsula,Alaska,02997,159,0,0,0
 2021-01-04,Denali Borough,Alaska,02068,59,0,0,0
 2021-01-04,Dillingham Census Area,Alaska,02070,125,0,1,0
 2021-01-04,Fairbanks North Star Borough,Alaska,02090,5034,18,20,0
@@ -1749,7 +1749,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-04,Ketchikan Gateway Borough,Alaska,02130,241,0,1,0
 2021-01-04,Kodiak Island Borough,Alaska,02150,930,1,2,0
 2021-01-04,Kusilvak Census Area,Alaska,02158,897,20,2,0
-2021-01-04,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-04,Matanuska-Susitna Borough,Alaska,02170,6543,45,18,0
 2021-01-04,Nome Census Area,Alaska,02180,282,2,0,0
 2021-01-04,North Slope Borough,Alaska,02185,818,2,3,0
@@ -1759,15 +1758,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-04,Sitka City and Borough,Alaska,02220,266,0,0,0
 2021-01-04,Skagway Municipality,Alaska,02230,16,0,0,0
 2021-01-04,Southeast Fairbanks Census Area,Alaska,02240,405,0,3,0
-2021-01-04,Unknown,Alaska,,360,3,1,0
+2021-01-04,Unknown,Alaska,,229,3,0,0
 2021-01-04,Valdez-Cordova Census Area,Alaska,02261,357,1,2,0
 2021-01-04,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-04,Yakutat plus Hoonah-Angoon,Alaska,02998,53,0,1,0
 2021-01-04,Yukon-Koyukuk Census Area,Alaska,02290,216,7,4,0
 2021-01-05,Aleutians East Borough,Alaska,02013,38,0,0,0
 2021-01-05,Aleutians West Census Area,Alaska,02016,210,2,0,0
 2021-01-05,Anchorage,Alaska,02020,23328,52,121,0
 2021-01-05,Bethel Census Area,Alaska,02050,2753,28,11,0
-2021-01-05,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-05,Bristol Bay plus Lake and Peninsula,Alaska,02997,159,0,0,0
 2021-01-05,Denali Borough,Alaska,02068,59,0,0,0
 2021-01-05,Dillingham Census Area,Alaska,02070,125,0,1,0
 2021-01-05,Fairbanks North Star Borough,Alaska,02090,5076,42,20,0
@@ -1777,7 +1777,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-05,Ketchikan Gateway Borough,Alaska,02130,243,2,1,0
 2021-01-05,Kodiak Island Borough,Alaska,02150,933,3,2,0
 2021-01-05,Kusilvak Census Area,Alaska,02158,900,3,2,0
-2021-01-05,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-05,Matanuska-Susitna Borough,Alaska,02170,6577,34,18,0
 2021-01-05,Nome Census Area,Alaska,02180,282,0,0,0
 2021-01-05,North Slope Borough,Alaska,02185,824,6,3,0
@@ -1787,15 +1786,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-05,Sitka City and Borough,Alaska,02220,268,2,0,0
 2021-01-05,Skagway Municipality,Alaska,02230,15,-1,0,0
 2021-01-05,Southeast Fairbanks Census Area,Alaska,02240,406,1,3,0
-2021-01-05,Unknown,Alaska,,363,3,1,0
+2021-01-05,Unknown,Alaska,,231,2,0,0
 2021-01-05,Valdez-Cordova Census Area,Alaska,02261,357,0,2,0
 2021-01-05,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-05,Yakutat plus Hoonah-Angoon,Alaska,02998,54,1,1,0
 2021-01-05,Yukon-Koyukuk Census Area,Alaska,02290,216,0,4,0
 2021-01-06,Aleutians East Borough,Alaska,02013,38,0,0,0
 2021-01-06,Aleutians West Census Area,Alaska,02016,216,6,0,0
 2021-01-06,Anchorage,Alaska,02020,23463,135,123,2
 2021-01-06,Bethel Census Area,Alaska,02050,2743,-10,11,0
-2021-01-06,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-06,Bristol Bay plus Lake and Peninsula,Alaska,02997,158,-1,0,0
 2021-01-06,Denali Borough,Alaska,02068,59,0,0,0
 2021-01-06,Dillingham Census Area,Alaska,02070,126,1,1,0
 2021-01-06,Fairbanks North Star Borough,Alaska,02090,5143,67,20,0
@@ -1805,7 +1805,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-06,Ketchikan Gateway Borough,Alaska,02130,248,5,1,0
 2021-01-06,Kodiak Island Borough,Alaska,02150,940,7,2,0
 2021-01-06,Kusilvak Census Area,Alaska,02158,901,1,2,0
-2021-01-06,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-06,Matanuska-Susitna Borough,Alaska,02170,6638,61,18,0
 2021-01-06,Nome Census Area,Alaska,02180,282,0,0,0
 2021-01-06,North Slope Borough,Alaska,02185,835,11,3,0
@@ -1815,15 +1814,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-06,Sitka City and Borough,Alaska,02220,268,0,0,0
 2021-01-06,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-06,Southeast Fairbanks Census Area,Alaska,02240,408,2,3,0
-2021-01-06,Unknown,Alaska,,372,9,1,0
+2021-01-06,Unknown,Alaska,,237,6,0,0
 2021-01-06,Valdez-Cordova Census Area,Alaska,02261,360,3,2,0
 2021-01-06,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-06,Yakutat plus Hoonah-Angoon,Alaska,02998,58,4,1,0
 2021-01-06,Yukon-Koyukuk Census Area,Alaska,02290,218,2,4,0
 2021-01-07,Aleutians East Borough,Alaska,02013,38,0,0,0
 2021-01-07,Aleutians West Census Area,Alaska,02016,217,1,0,0
 2021-01-07,Anchorage,Alaska,02020,23622,159,124,1
 2021-01-07,Bethel Census Area,Alaska,02050,2743,0,12,1
-2021-01-07,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-07,Bristol Bay plus Lake and Peninsula,Alaska,02997,158,0,0,0
 2021-01-07,Denali Borough,Alaska,02068,59,0,0,0
 2021-01-07,Dillingham Census Area,Alaska,02070,128,2,1,0
 2021-01-07,Fairbanks North Star Borough,Alaska,02090,5182,39,20,0
@@ -1833,7 +1833,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-07,Ketchikan Gateway Borough,Alaska,02130,249,1,1,0
 2021-01-07,Kodiak Island Borough,Alaska,02150,946,6,2,0
 2021-01-07,Kusilvak Census Area,Alaska,02158,907,6,3,1
-2021-01-07,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-07,Matanuska-Susitna Borough,Alaska,02170,6701,63,18,0
 2021-01-07,Nome Census Area,Alaska,02180,282,0,0,0
 2021-01-07,North Slope Borough,Alaska,02185,835,0,3,0
@@ -1843,15 +1842,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-07,Sitka City and Borough,Alaska,02220,268,0,0,0
 2021-01-07,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-07,Southeast Fairbanks Census Area,Alaska,02240,408,0,3,0
-2021-01-07,Unknown,Alaska,,372,0,1,0
+2021-01-07,Unknown,Alaska,,237,0,0,0
 2021-01-07,Valdez-Cordova Census Area,Alaska,02261,364,4,2,0
 2021-01-07,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-07,Yakutat plus Hoonah-Angoon,Alaska,02998,58,0,1,0
 2021-01-07,Yukon-Koyukuk Census Area,Alaska,02290,220,2,4,0
 2021-01-08,Aleutians East Borough,Alaska,02013,38,0,0,0
 2021-01-08,Aleutians West Census Area,Alaska,02016,221,4,0,0
 2021-01-08,Anchorage,Alaska,02020,23751,129,124,0
 2021-01-08,Bethel Census Area,Alaska,02050,2780,37,12,0
-2021-01-08,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-08,Bristol Bay plus Lake and Peninsula,Alaska,02997,158,0,0,0
 2021-01-08,Denali Borough,Alaska,02068,59,0,0,0
 2021-01-08,Dillingham Census Area,Alaska,02070,145,17,1,0
 2021-01-08,Fairbanks North Star Borough,Alaska,02090,5225,43,20,0
@@ -1861,7 +1861,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-08,Ketchikan Gateway Borough,Alaska,02130,250,1,1,0
 2021-01-08,Kodiak Island Borough,Alaska,02150,956,10,2,0
 2021-01-08,Kusilvak Census Area,Alaska,02158,919,12,3,0
-2021-01-08,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-08,Matanuska-Susitna Borough,Alaska,02170,6776,75,18,0
 2021-01-08,Nome Census Area,Alaska,02180,282,0,0,0
 2021-01-08,North Slope Borough,Alaska,02185,841,6,3,0
@@ -1871,15 +1870,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-08,Sitka City and Borough,Alaska,02220,271,3,0,0
 2021-01-08,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-08,Southeast Fairbanks Census Area,Alaska,02240,411,3,3,0
-2021-01-08,Unknown,Alaska,,380,8,1,0
+2021-01-08,Unknown,Alaska,,245,8,0,0
 2021-01-08,Valdez-Cordova Census Area,Alaska,02261,372,8,2,0
 2021-01-08,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-08,Yakutat plus Hoonah-Angoon,Alaska,02998,58,0,1,0
 2021-01-08,Yukon-Koyukuk Census Area,Alaska,02290,234,14,4,0
 2021-01-09,Aleutians East Borough,Alaska,02013,38,0,0,0
 2021-01-09,Aleutians West Census Area,Alaska,02016,223,2,0,0
 2021-01-09,Anchorage,Alaska,02020,23885,134,124,0
 2021-01-09,Bethel Census Area,Alaska,02050,2766,-14,12,0
-2021-01-09,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-09,Bristol Bay plus Lake and Peninsula,Alaska,02997,161,3,0,0
 2021-01-09,Denali Borough,Alaska,02068,59,0,0,0
 2021-01-09,Dillingham Census Area,Alaska,02070,147,2,1,0
 2021-01-09,Fairbanks North Star Borough,Alaska,02090,5297,72,21,1
@@ -1889,7 +1889,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-09,Ketchikan Gateway Borough,Alaska,02130,253,3,1,0
 2021-01-09,Kodiak Island Borough,Alaska,02150,960,4,2,0
 2021-01-09,Kusilvak Census Area,Alaska,02158,918,-1,3,0
-2021-01-09,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-09,Matanuska-Susitna Borough,Alaska,02170,6829,53,18,0
 2021-01-09,Nome Census Area,Alaska,02180,283,1,0,0
 2021-01-09,North Slope Borough,Alaska,02185,847,6,3,0
@@ -1899,15 +1898,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-09,Sitka City and Borough,Alaska,02220,272,1,0,0
 2021-01-09,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-09,Southeast Fairbanks Census Area,Alaska,02240,412,1,3,0
-2021-01-09,Unknown,Alaska,,387,7,1,0
+2021-01-09,Unknown,Alaska,,248,3,0,0
 2021-01-09,Valdez-Cordova Census Area,Alaska,02261,374,2,2,0
 2021-01-09,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-09,Yakutat plus Hoonah-Angoon,Alaska,02998,59,1,1,0
 2021-01-09,Yukon-Koyukuk Census Area,Alaska,02290,235,1,4,0
 2021-01-10,Aleutians East Borough,Alaska,02013,38,0,0,0
 2021-01-10,Aleutians West Census Area,Alaska,02016,223,0,0,0
 2021-01-10,Anchorage,Alaska,02020,23980,95,124,0
 2021-01-10,Bethel Census Area,Alaska,02050,2795,29,12,0
-2021-01-10,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-10,Bristol Bay plus Lake and Peninsula,Alaska,02997,159,-2,0,0
 2021-01-10,Denali Borough,Alaska,02068,60,1,0,0
 2021-01-10,Dillingham Census Area,Alaska,02070,146,-1,1,0
 2021-01-10,Fairbanks North Star Borough,Alaska,02090,5328,31,21,0
@@ -1917,7 +1917,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-10,Ketchikan Gateway Borough,Alaska,02130,254,1,1,0
 2021-01-10,Kodiak Island Borough,Alaska,02150,967,7,2,0
 2021-01-10,Kusilvak Census Area,Alaska,02158,921,3,3,0
-2021-01-10,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-10,Matanuska-Susitna Borough,Alaska,02170,6880,51,18,0
 2021-01-10,Nome Census Area,Alaska,02180,283,0,0,0
 2021-01-10,North Slope Borough,Alaska,02185,862,15,3,0
@@ -1927,15 +1926,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-10,Sitka City and Borough,Alaska,02220,273,1,0,0
 2021-01-10,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-10,Southeast Fairbanks Census Area,Alaska,02240,412,0,3,0
-2021-01-10,Unknown,Alaska,,389,2,1,0
+2021-01-10,Unknown,Alaska,,253,5,0,0
 2021-01-10,Valdez-Cordova Census Area,Alaska,02261,376,2,2,0
 2021-01-10,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-10,Yakutat plus Hoonah-Angoon,Alaska,02998,58,-1,1,0
 2021-01-10,Yukon-Koyukuk Census Area,Alaska,02290,237,2,4,0
 2021-01-11,Aleutians East Borough,Alaska,02013,38,0,0,0
 2021-01-11,Aleutians West Census Area,Alaska,02016,228,5,0,0
 2021-01-11,Anchorage,Alaska,02020,24066,86,124,0
 2021-01-11,Bethel Census Area,Alaska,02050,2809,14,12,0
-2021-01-11,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-11,Bristol Bay plus Lake and Peninsula,Alaska,02997,160,1,0,0
 2021-01-11,Denali Borough,Alaska,02068,61,1,0,0
 2021-01-11,Dillingham Census Area,Alaska,02070,146,0,1,0
 2021-01-11,Fairbanks North Star Borough,Alaska,02090,5363,35,21,0
@@ -1945,7 +1945,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-11,Ketchikan Gateway Borough,Alaska,02130,255,1,1,0
 2021-01-11,Kodiak Island Borough,Alaska,02150,974,7,2,0
 2021-01-11,Kusilvak Census Area,Alaska,02158,922,1,3,0
-2021-01-11,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-11,Matanuska-Susitna Borough,Alaska,02170,6906,26,18,0
 2021-01-11,Nome Census Area,Alaska,02180,285,2,0,0
 2021-01-11,North Slope Borough,Alaska,02185,875,13,3,0
@@ -1955,15 +1954,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-11,Sitka City and Borough,Alaska,02220,276,3,0,0
 2021-01-11,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-11,Southeast Fairbanks Census Area,Alaska,02240,412,0,3,0
-2021-01-11,Unknown,Alaska,,348,-41,1,0
+2021-01-11,Unknown,Alaska,,211,-42,0,0
 2021-01-11,Valdez-Cordova Census Area,Alaska,02261,377,1,2,0
 2021-01-11,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-11,Yakutat plus Hoonah-Angoon,Alaska,02998,58,0,1,0
 2021-01-11,Yukon-Koyukuk Census Area,Alaska,02290,238,1,4,0
 2021-01-12,Aleutians East Borough,Alaska,02013,38,0,0,0
 2021-01-12,Aleutians West Census Area,Alaska,02016,228,0,0,0
 2021-01-12,Anchorage,Alaska,02020,24066,0,125,1
 2021-01-12,Bethel Census Area,Alaska,02050,2809,0,12,0
-2021-01-12,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-12,Bristol Bay plus Lake and Peninsula,Alaska,02997,160,0,0,0
 2021-01-12,Denali Borough,Alaska,02068,61,0,0,0
 2021-01-12,Dillingham Census Area,Alaska,02070,146,0,1,0
 2021-01-12,Fairbanks North Star Borough,Alaska,02090,5363,0,21,0
@@ -1973,7 +1973,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-12,Ketchikan Gateway Borough,Alaska,02130,255,0,1,0
 2021-01-12,Kodiak Island Borough,Alaska,02150,974,0,2,0
 2021-01-12,Kusilvak Census Area,Alaska,02158,922,0,3,0
-2021-01-12,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-12,Matanuska-Susitna Borough,Alaska,02170,6906,0,18,0
 2021-01-12,Nome Census Area,Alaska,02180,285,0,0,0
 2021-01-12,North Slope Borough,Alaska,02185,875,0,3,0
@@ -1983,15 +1982,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-12,Sitka City and Borough,Alaska,02220,276,0,0,0
 2021-01-12,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-12,Southeast Fairbanks Census Area,Alaska,02240,412,0,3,0
-2021-01-12,Unknown,Alaska,,480,132,1,0
+2021-01-12,Unknown,Alaska,,343,132,0,0
 2021-01-12,Valdez-Cordova Census Area,Alaska,02261,377,0,2,0
 2021-01-12,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-12,Yakutat plus Hoonah-Angoon,Alaska,02998,58,0,1,0
 2021-01-12,Yukon-Koyukuk Census Area,Alaska,02290,238,0,4,0
 2021-01-13,Aleutians East Borough,Alaska,02013,38,0,0,0
 2021-01-13,Aleutians West Census Area,Alaska,02016,234,6,0,0
 2021-01-13,Anchorage,Alaska,02020,24193,127,126,1
 2021-01-13,Bethel Census Area,Alaska,02050,2859,50,12,0
-2021-01-13,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-13,Bristol Bay plus Lake and Peninsula,Alaska,02997,159,-1,0,0
 2021-01-13,Denali Borough,Alaska,02068,62,1,0,0
 2021-01-13,Dillingham Census Area,Alaska,02070,146,0,1,0
 2021-01-13,Fairbanks North Star Borough,Alaska,02090,5442,79,21,0
@@ -2001,7 +2001,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-13,Ketchikan Gateway Borough,Alaska,02130,263,8,1,0
 2021-01-13,Kodiak Island Borough,Alaska,02150,978,4,2,0
 2021-01-13,Kusilvak Census Area,Alaska,02158,935,13,3,0
-2021-01-13,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-13,Matanuska-Susitna Borough,Alaska,02170,6954,48,18,0
 2021-01-13,Nome Census Area,Alaska,02180,289,4,0,0
 2021-01-13,North Slope Borough,Alaska,02185,895,20,3,0
@@ -2011,15 +2010,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-13,Sitka City and Borough,Alaska,02220,281,5,0,0
 2021-01-13,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-13,Southeast Fairbanks Census Area,Alaska,02240,408,-4,3,0
-2021-01-13,Unknown,Alaska,,348,-132,1,0
+2021-01-13,Unknown,Alaska,,212,-131,0,0
 2021-01-13,Valdez-Cordova Census Area,Alaska,02261,379,2,2,0
 2021-01-13,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-13,Yakutat plus Hoonah-Angoon,Alaska,02998,58,0,1,0
 2021-01-13,Yukon-Koyukuk Census Area,Alaska,02290,243,5,4,0
 2021-01-14,Aleutians East Borough,Alaska,02013,38,0,0,0
 2021-01-14,Aleutians West Census Area,Alaska,02016,238,4,0,0
 2021-01-14,Anchorage,Alaska,02020,24319,126,127,1
 2021-01-14,Bethel Census Area,Alaska,02050,2883,24,12,0
-2021-01-14,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-14,Bristol Bay plus Lake and Peninsula,Alaska,02997,160,1,0,0
 2021-01-14,Denali Borough,Alaska,02068,62,0,0,0
 2021-01-14,Dillingham Census Area,Alaska,02070,148,2,1,0
 2021-01-14,Fairbanks North Star Borough,Alaska,02090,5492,50,22,1
@@ -2029,7 +2029,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-14,Ketchikan Gateway Borough,Alaska,02130,263,0,1,0
 2021-01-14,Kodiak Island Borough,Alaska,02150,982,4,2,0
 2021-01-14,Kusilvak Census Area,Alaska,02158,944,9,3,0
-2021-01-14,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-14,Matanuska-Susitna Borough,Alaska,02170,7007,53,18,0
 2021-01-14,Nome Census Area,Alaska,02180,293,4,0,0
 2021-01-14,North Slope Borough,Alaska,02185,918,23,3,0
@@ -2039,15 +2038,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-14,Sitka City and Borough,Alaska,02220,281,0,0,0
 2021-01-14,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-14,Southeast Fairbanks Census Area,Alaska,02240,408,0,3,0
-2021-01-14,Unknown,Alaska,,354,6,1,0
+2021-01-14,Unknown,Alaska,,217,5,0,0
 2021-01-14,Valdez-Cordova Census Area,Alaska,02261,383,4,2,0
 2021-01-14,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-14,Yakutat plus Hoonah-Angoon,Alaska,02998,58,0,1,0
 2021-01-14,Yukon-Koyukuk Census Area,Alaska,02290,246,3,4,0
 2021-01-15,Aleutians East Borough,Alaska,02013,39,1,0,0
 2021-01-15,Aleutians West Census Area,Alaska,02016,241,3,0,0
 2021-01-15,Anchorage,Alaska,02020,24408,89,127,0
 2021-01-15,Bethel Census Area,Alaska,02050,2909,26,12,0
-2021-01-15,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-15,Bristol Bay plus Lake and Peninsula,Alaska,02997,161,1,0,0
 2021-01-15,Denali Borough,Alaska,02068,62,0,0,0
 2021-01-15,Dillingham Census Area,Alaska,02070,149,1,1,0
 2021-01-15,Fairbanks North Star Borough,Alaska,02090,5538,46,23,1
@@ -2057,7 +2057,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-15,Ketchikan Gateway Borough,Alaska,02130,264,1,1,0
 2021-01-15,Kodiak Island Borough,Alaska,02150,990,8,2,0
 2021-01-15,Kusilvak Census Area,Alaska,02158,957,13,3,0
-2021-01-15,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-15,Matanuska-Susitna Borough,Alaska,02170,7057,50,18,0
 2021-01-15,Nome Census Area,Alaska,02180,293,0,0,0
 2021-01-15,North Slope Borough,Alaska,02185,935,17,3,0
@@ -2067,15 +2066,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-15,Sitka City and Borough,Alaska,02220,285,4,0,0
 2021-01-15,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-15,Southeast Fairbanks Census Area,Alaska,02240,408,0,3,0
-2021-01-15,Unknown,Alaska,,359,5,1,0
+2021-01-15,Unknown,Alaska,,221,4,0,0
 2021-01-15,Valdez-Cordova Census Area,Alaska,02261,393,10,2,0
 2021-01-15,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-15,Yakutat plus Hoonah-Angoon,Alaska,02998,58,0,1,0
 2021-01-15,Yukon-Koyukuk Census Area,Alaska,02290,248,2,4,0
 2021-01-16,Aleutians East Borough,Alaska,02013,39,0,0,0
 2021-01-16,Aleutians West Census Area,Alaska,02016,244,3,0,0
 2021-01-16,Anchorage,Alaska,02020,24467,59,127,0
 2021-01-16,Bethel Census Area,Alaska,02050,2929,20,12,0
-2021-01-16,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-16,Bristol Bay plus Lake and Peninsula,Alaska,02997,161,0,0,0
 2021-01-16,Denali Borough,Alaska,02068,62,0,0,0
 2021-01-16,Dillingham Census Area,Alaska,02070,149,0,1,0
 2021-01-16,Fairbanks North Star Borough,Alaska,02090,5558,20,23,0
@@ -2085,7 +2085,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-16,Ketchikan Gateway Borough,Alaska,02130,264,0,1,0
 2021-01-16,Kodiak Island Borough,Alaska,02150,994,4,2,0
 2021-01-16,Kusilvak Census Area,Alaska,02158,972,15,3,0
-2021-01-16,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-16,Matanuska-Susitna Borough,Alaska,02170,7094,37,18,0
 2021-01-16,Nome Census Area,Alaska,02180,294,1,0,0
 2021-01-16,North Slope Borough,Alaska,02185,947,12,3,0
@@ -2095,15 +2094,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-16,Sitka City and Borough,Alaska,02220,285,0,0,0
 2021-01-16,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-16,Southeast Fairbanks Census Area,Alaska,02240,408,0,3,0
-2021-01-16,Unknown,Alaska,,361,2,1,0
+2021-01-16,Unknown,Alaska,,222,1,0,0
 2021-01-16,Valdez-Cordova Census Area,Alaska,02261,392,-1,2,0
 2021-01-16,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-16,Yakutat plus Hoonah-Angoon,Alaska,02998,59,1,1,0
 2021-01-16,Yukon-Koyukuk Census Area,Alaska,02290,250,2,4,0
 2021-01-17,Aleutians East Borough,Alaska,02013,39,0,0,0
 2021-01-17,Aleutians West Census Area,Alaska,02016,268,24,0,0
 2021-01-17,Anchorage,Alaska,02020,24533,66,127,0
 2021-01-17,Bethel Census Area,Alaska,02050,2983,54,12,0
-2021-01-17,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-17,Bristol Bay plus Lake and Peninsula,Alaska,02997,165,4,0,0
 2021-01-17,Denali Borough,Alaska,02068,62,0,0,0
 2021-01-17,Dillingham Census Area,Alaska,02070,153,4,1,0
 2021-01-17,Fairbanks North Star Borough,Alaska,02090,5594,36,23,0
@@ -2113,7 +2113,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-17,Ketchikan Gateway Borough,Alaska,02130,264,0,1,0
 2021-01-17,Kodiak Island Borough,Alaska,02150,998,4,2,0
 2021-01-17,Kusilvak Census Area,Alaska,02158,993,21,3,0
-2021-01-17,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-17,Matanuska-Susitna Borough,Alaska,02170,7125,31,18,0
 2021-01-17,Nome Census Area,Alaska,02180,296,2,0,0
 2021-01-17,North Slope Borough,Alaska,02185,957,10,3,0
@@ -2123,15 +2122,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-17,Sitka City and Borough,Alaska,02220,289,4,0,0
 2021-01-17,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-17,Southeast Fairbanks Census Area,Alaska,02240,409,1,3,0
-2021-01-17,Unknown,Alaska,,369,8,1,0
+2021-01-17,Unknown,Alaska,,225,3,0,0
 2021-01-17,Valdez-Cordova Census Area,Alaska,02261,397,5,2,0
 2021-01-17,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-17,Yakutat plus Hoonah-Angoon,Alaska,02998,60,1,1,0
 2021-01-17,Yukon-Koyukuk Census Area,Alaska,02290,253,3,4,0
 2021-01-18,Aleutians East Borough,Alaska,02013,39,0,0,0
 2021-01-18,Aleutians West Census Area,Alaska,02016,268,0,0,0
 2021-01-18,Anchorage,Alaska,02020,24587,54,127,0
 2021-01-18,Bethel Census Area,Alaska,02050,2998,15,12,0
-2021-01-18,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-18,Bristol Bay plus Lake and Peninsula,Alaska,02997,166,1,0,0
 2021-01-18,Denali Borough,Alaska,02068,62,0,0,0
 2021-01-18,Dillingham Census Area,Alaska,02070,153,0,1,0
 2021-01-18,Fairbanks North Star Borough,Alaska,02090,5607,13,23,0
@@ -2141,7 +2141,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-18,Ketchikan Gateway Borough,Alaska,02130,264,0,1,0
 2021-01-18,Kodiak Island Borough,Alaska,02150,1003,5,2,0
 2021-01-18,Kusilvak Census Area,Alaska,02158,1003,10,3,0
-2021-01-18,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-18,Matanuska-Susitna Borough,Alaska,02170,7141,16,18,0
 2021-01-18,Nome Census Area,Alaska,02180,298,2,0,0
 2021-01-18,North Slope Borough,Alaska,02185,962,5,3,0
@@ -2151,15 +2150,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-18,Sitka City and Borough,Alaska,02220,290,1,0,0
 2021-01-18,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-18,Southeast Fairbanks Census Area,Alaska,02240,411,2,3,0
-2021-01-18,Unknown,Alaska,,370,1,1,0
+2021-01-18,Unknown,Alaska,,225,0,0,0
 2021-01-18,Valdez-Cordova Census Area,Alaska,02261,398,1,2,0
 2021-01-18,Wrangell City and Borough,Alaska,02275,25,1,0,0
+2021-01-18,Yakutat plus Hoonah-Angoon,Alaska,02998,60,0,1,0
 2021-01-18,Yukon-Koyukuk Census Area,Alaska,02290,253,0,4,0
 2021-01-19,Aleutians East Borough,Alaska,02013,39,0,0,0
 2021-01-19,Aleutians West Census Area,Alaska,02016,270,2,0,0
 2021-01-19,Anchorage,Alaska,02020,24618,31,127,0
 2021-01-19,Bethel Census Area,Alaska,02050,3024,26,12,0
-2021-01-19,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-19,Bristol Bay plus Lake and Peninsula,Alaska,02997,166,0,0,0
 2021-01-19,Denali Borough,Alaska,02068,62,0,0,0
 2021-01-19,Dillingham Census Area,Alaska,02070,153,0,1,0
 2021-01-19,Fairbanks North Star Borough,Alaska,02090,5616,9,24,1
@@ -2169,7 +2169,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-19,Ketchikan Gateway Borough,Alaska,02130,264,0,1,0
 2021-01-19,Kodiak Island Borough,Alaska,02150,1007,4,2,0
 2021-01-19,Kusilvak Census Area,Alaska,02158,1017,14,3,0
-2021-01-19,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-19,Matanuska-Susitna Borough,Alaska,02170,7171,30,18,0
 2021-01-19,Nome Census Area,Alaska,02180,299,1,0,0
 2021-01-19,North Slope Borough,Alaska,02185,960,-2,3,0
@@ -2179,15 +2178,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-19,Sitka City and Borough,Alaska,02220,291,1,0,0
 2021-01-19,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-19,Southeast Fairbanks Census Area,Alaska,02240,411,0,3,0
-2021-01-19,Unknown,Alaska,,371,1,1,0
+2021-01-19,Unknown,Alaska,,226,1,0,0
 2021-01-19,Valdez-Cordova Census Area,Alaska,02261,398,0,2,0
 2021-01-19,Wrangell City and Borough,Alaska,02275,25,0,0,0
+2021-01-19,Yakutat plus Hoonah-Angoon,Alaska,02998,60,0,1,0
 2021-01-19,Yukon-Koyukuk Census Area,Alaska,02290,256,3,4,0
 2021-01-20,Aleutians East Borough,Alaska,02013,39,0,0,0
 2021-01-20,Aleutians West Census Area,Alaska,02016,273,3,0,0
 2021-01-20,Anchorage,Alaska,02020,24676,58,137,10
 2021-01-20,Bethel Census Area,Alaska,02050,3029,5,14,2
-2021-01-20,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-20,Bristol Bay plus Lake and Peninsula,Alaska,02997,166,0,0,0
 2021-01-20,Denali Borough,Alaska,02068,62,0,0,0
 2021-01-20,Dillingham Census Area,Alaska,02070,155,2,1,0
 2021-01-20,Fairbanks North Star Borough,Alaska,02090,5642,26,25,1
@@ -2197,7 +2197,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-20,Ketchikan Gateway Borough,Alaska,02130,264,0,1,0
 2021-01-20,Kodiak Island Borough,Alaska,02150,1010,3,5,3
 2021-01-20,Kusilvak Census Area,Alaska,02158,1028,11,3,0
-2021-01-20,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-20,Matanuska-Susitna Borough,Alaska,02170,7205,34,23,5
 2021-01-20,Nome Census Area,Alaska,02180,299,0,0,0
 2021-01-20,North Slope Borough,Alaska,02185,963,3,3,0
@@ -2207,15 +2206,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-20,Sitka City and Borough,Alaska,02220,291,0,0,0
 2021-01-20,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-20,Southeast Fairbanks Census Area,Alaska,02240,414,3,3,0
-2021-01-20,Unknown,Alaska,,375,4,1,0
+2021-01-20,Unknown,Alaska,,230,4,0,0
 2021-01-20,Valdez-Cordova Census Area,Alaska,02261,399,1,2,0
 2021-01-20,Wrangell City and Borough,Alaska,02275,25,0,0,0
+2021-01-20,Yakutat plus Hoonah-Angoon,Alaska,02998,60,0,1,0
 2021-01-20,Yukon-Koyukuk Census Area,Alaska,02290,256,0,4,0
 2021-01-21,Aleutians East Borough,Alaska,02013,40,1,0,0
 2021-01-21,Aleutians West Census Area,Alaska,02016,280,7,0,0
 2021-01-21,Anchorage,Alaska,02020,24729,53,138,1
 2021-01-21,Bethel Census Area,Alaska,02050,3040,11,14,0
-2021-01-21,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-21,Bristol Bay plus Lake and Peninsula,Alaska,02997,166,0,0,0
 2021-01-21,Denali Borough,Alaska,02068,62,0,0,0
 2021-01-21,Dillingham Census Area,Alaska,02070,156,1,1,0
 2021-01-21,Fairbanks North Star Borough,Alaska,02090,5668,26,25,0
@@ -2225,7 +2225,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-21,Ketchikan Gateway Borough,Alaska,02130,265,1,1,0
 2021-01-21,Kodiak Island Borough,Alaska,02150,1013,3,5,0
 2021-01-21,Kusilvak Census Area,Alaska,02158,1058,30,3,0
-2021-01-21,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-21,Matanuska-Susitna Borough,Alaska,02170,7239,34,23,0
 2021-01-21,Nome Census Area,Alaska,02180,299,0,0,0
 2021-01-21,North Slope Borough,Alaska,02185,964,1,3,0
@@ -2235,15 +2234,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-21,Sitka City and Borough,Alaska,02220,291,0,0,0
 2021-01-21,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-21,Southeast Fairbanks Census Area,Alaska,02240,415,1,3,0
-2021-01-21,Unknown,Alaska,,377,2,1,0
+2021-01-21,Unknown,Alaska,,232,2,0,0
 2021-01-21,Valdez-Cordova Census Area,Alaska,02261,397,-2,2,0
 2021-01-21,Wrangell City and Borough,Alaska,02275,24,-1,0,0
+2021-01-21,Yakutat plus Hoonah-Angoon,Alaska,02998,60,0,1,0
 2021-01-21,Yukon-Koyukuk Census Area,Alaska,02290,257,1,4,0
 2021-01-22,Aleutians East Borough,Alaska,02013,63,23,0,0
 2021-01-22,Aleutians West Census Area,Alaska,02016,290,10,0,0
 2021-01-22,Anchorage,Alaska,02020,24838,109,138,0
 2021-01-22,Bethel Census Area,Alaska,02050,3057,17,14,0
-2021-01-22,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-22,Bristol Bay plus Lake and Peninsula,Alaska,02997,167,1,0,0
 2021-01-22,Denali Borough,Alaska,02068,63,1,0,0
 2021-01-22,Dillingham Census Area,Alaska,02070,160,4,1,0
 2021-01-22,Fairbanks North Star Borough,Alaska,02090,5702,34,25,0
@@ -2253,7 +2253,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-22,Ketchikan Gateway Borough,Alaska,02130,268,3,1,0
 2021-01-22,Kodiak Island Borough,Alaska,02150,1019,6,5,0
 2021-01-22,Kusilvak Census Area,Alaska,02158,1060,2,3,0
-2021-01-22,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-22,Matanuska-Susitna Borough,Alaska,02170,7278,39,23,0
 2021-01-22,Nome Census Area,Alaska,02180,304,5,0,0
 2021-01-22,North Slope Borough,Alaska,02185,966,2,3,0
@@ -2263,15 +2262,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-22,Sitka City and Borough,Alaska,02220,291,0,0,0
 2021-01-22,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-22,Southeast Fairbanks Census Area,Alaska,02240,418,3,3,0
-2021-01-22,Unknown,Alaska,,380,3,1,0
+2021-01-22,Unknown,Alaska,,232,0,0,0
 2021-01-22,Valdez-Cordova Census Area,Alaska,02261,398,1,2,0
 2021-01-22,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-22,Yakutat plus Hoonah-Angoon,Alaska,02998,62,2,1,0
 2021-01-22,Yukon-Koyukuk Census Area,Alaska,02290,259,2,4,0
 2021-01-23,Aleutians East Borough,Alaska,02013,70,7,0,0
 2021-01-23,Aleutians West Census Area,Alaska,02016,292,2,0,0
 2021-01-23,Anchorage,Alaska,02020,24911,73,139,1
 2021-01-23,Bethel Census Area,Alaska,02050,3137,80,14,0
-2021-01-23,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-23,Bristol Bay plus Lake and Peninsula,Alaska,02997,168,1,0,0
 2021-01-23,Denali Borough,Alaska,02068,63,0,0,0
 2021-01-23,Dillingham Census Area,Alaska,02070,162,2,1,0
 2021-01-23,Fairbanks North Star Borough,Alaska,02090,5729,27,25,0
@@ -2281,7 +2281,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-23,Ketchikan Gateway Borough,Alaska,02130,268,0,1,0
 2021-01-23,Kodiak Island Borough,Alaska,02150,1018,-1,5,0
 2021-01-23,Kusilvak Census Area,Alaska,02158,1073,13,3,0
-2021-01-23,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-23,Matanuska-Susitna Borough,Alaska,02170,7307,29,27,4
 2021-01-23,Nome Census Area,Alaska,02180,305,1,0,0
 2021-01-23,North Slope Borough,Alaska,02185,966,0,3,0
@@ -2291,15 +2290,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-23,Sitka City and Borough,Alaska,02220,291,0,0,0
 2021-01-23,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-23,Southeast Fairbanks Census Area,Alaska,02240,420,2,3,0
-2021-01-23,Unknown,Alaska,,381,1,1,0
+2021-01-23,Unknown,Alaska,,232,0,0,0
 2021-01-23,Valdez-Cordova Census Area,Alaska,02261,402,4,2,0
 2021-01-23,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-23,Yakutat plus Hoonah-Angoon,Alaska,02998,62,0,1,0
 2021-01-23,Yukon-Koyukuk Census Area,Alaska,02290,259,0,4,0
 2021-01-24,Aleutians East Borough,Alaska,02013,70,0,0,0
 2021-01-24,Aleutians West Census Area,Alaska,02016,292,0,0,0
 2021-01-24,Anchorage,Alaska,02020,24959,48,139,0
 2021-01-24,Bethel Census Area,Alaska,02050,3182,45,14,0
-2021-01-24,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-24,Bristol Bay plus Lake and Peninsula,Alaska,02997,168,0,0,0
 2021-01-24,Denali Borough,Alaska,02068,66,3,0,0
 2021-01-24,Dillingham Census Area,Alaska,02070,163,1,1,0
 2021-01-24,Fairbanks North Star Borough,Alaska,02090,5747,18,25,0
@@ -2309,7 +2309,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-24,Ketchikan Gateway Borough,Alaska,02130,269,1,1,0
 2021-01-24,Kodiak Island Borough,Alaska,02150,1018,0,5,0
 2021-01-24,Kusilvak Census Area,Alaska,02158,1082,9,3,0
-2021-01-24,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-24,Matanuska-Susitna Borough,Alaska,02170,7327,20,27,0
 2021-01-24,Nome Census Area,Alaska,02180,305,0,0,0
 2021-01-24,North Slope Borough,Alaska,02185,969,3,3,0
@@ -2319,15 +2318,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-24,Sitka City and Borough,Alaska,02220,292,1,0,0
 2021-01-24,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-24,Southeast Fairbanks Census Area,Alaska,02240,420,0,3,0
-2021-01-24,Unknown,Alaska,,381,0,1,0
+2021-01-24,Unknown,Alaska,,232,0,0,0
 2021-01-24,Valdez-Cordova Census Area,Alaska,02261,406,4,2,0
 2021-01-24,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-24,Yakutat plus Hoonah-Angoon,Alaska,02998,62,0,1,0
 2021-01-24,Yukon-Koyukuk Census Area,Alaska,02290,261,2,4,0
 2021-01-25,Aleutians East Borough,Alaska,02013,70,0,0,0
 2021-01-25,Aleutians West Census Area,Alaska,02016,292,0,0,0
 2021-01-25,Anchorage,Alaska,02020,25012,53,139,0
 2021-01-25,Bethel Census Area,Alaska,02050,3186,4,14,0
-2021-01-25,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-25,Bristol Bay plus Lake and Peninsula,Alaska,02997,168,0,0,0
 2021-01-25,Denali Borough,Alaska,02068,66,0,0,0
 2021-01-25,Dillingham Census Area,Alaska,02070,163,0,1,0
 2021-01-25,Fairbanks North Star Borough,Alaska,02090,5752,5,25,0
@@ -2337,7 +2337,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-25,Ketchikan Gateway Borough,Alaska,02130,269,0,1,0
 2021-01-25,Kodiak Island Borough,Alaska,02150,1019,1,5,0
 2021-01-25,Kusilvak Census Area,Alaska,02158,1082,0,3,0
-2021-01-25,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-25,Matanuska-Susitna Borough,Alaska,02170,7334,7,27,0
 2021-01-25,Nome Census Area,Alaska,02180,305,0,0,0
 2021-01-25,North Slope Borough,Alaska,02185,969,0,3,0
@@ -2347,15 +2346,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-25,Sitka City and Borough,Alaska,02220,292,0,0,0
 2021-01-25,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-25,Southeast Fairbanks Census Area,Alaska,02240,420,0,3,0
-2021-01-25,Unknown,Alaska,,382,1,1,0
+2021-01-25,Unknown,Alaska,,233,1,0,0
 2021-01-25,Valdez-Cordova Census Area,Alaska,02261,406,0,2,0
 2021-01-25,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-25,Yakutat plus Hoonah-Angoon,Alaska,02998,62,0,1,0
 2021-01-25,Yukon-Koyukuk Census Area,Alaska,02290,261,0,4,0
 2021-01-26,Aleutians East Borough,Alaska,02013,70,0,0,0
 2021-01-26,Aleutians West Census Area,Alaska,02016,297,5,0,0
 2021-01-26,Anchorage,Alaska,02020,25034,22,139,0
 2021-01-26,Bethel Census Area,Alaska,02050,3198,12,14,0
-2021-01-26,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-26,Bristol Bay plus Lake and Peninsula,Alaska,02997,168,0,0,0
 2021-01-26,Denali Borough,Alaska,02068,66,0,0,0
 2021-01-26,Dillingham Census Area,Alaska,02070,163,0,1,0
 2021-01-26,Fairbanks North Star Borough,Alaska,02090,5759,7,25,0
@@ -2365,7 +2365,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-26,Ketchikan Gateway Borough,Alaska,02130,269,0,1,0
 2021-01-26,Kodiak Island Borough,Alaska,02150,1019,0,5,0
 2021-01-26,Kusilvak Census Area,Alaska,02158,1087,5,3,0
-2021-01-26,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-26,Matanuska-Susitna Borough,Alaska,02170,7354,20,27,0
 2021-01-26,Nome Census Area,Alaska,02180,306,1,0,0
 2021-01-26,North Slope Borough,Alaska,02185,969,0,3,0
@@ -2375,15 +2374,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-26,Sitka City and Borough,Alaska,02220,292,0,0,0
 2021-01-26,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-26,Southeast Fairbanks Census Area,Alaska,02240,420,0,3,0
-2021-01-26,Unknown,Alaska,,382,0,1,0
+2021-01-26,Unknown,Alaska,,233,0,0,0
 2021-01-26,Valdez-Cordova Census Area,Alaska,02261,407,1,2,0
 2021-01-26,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-26,Yakutat plus Hoonah-Angoon,Alaska,02998,62,0,1,0
 2021-01-26,Yukon-Koyukuk Census Area,Alaska,02290,261,0,4,0
 2021-01-27,Aleutians East Borough,Alaska,02013,72,2,0,0
 2021-01-27,Aleutians West Census Area,Alaska,02016,308,11,0,0
 2021-01-27,Anchorage,Alaska,02020,25104,70,139,0
 2021-01-27,Bethel Census Area,Alaska,02050,3228,30,15,1
-2021-01-27,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-27,Bristol Bay plus Lake and Peninsula,Alaska,02997,168,0,0,0
 2021-01-27,Denali Borough,Alaska,02068,66,0,0,0
 2021-01-27,Dillingham Census Area,Alaska,02070,164,1,1,0
 2021-01-27,Fairbanks North Star Borough,Alaska,02090,5766,7,25,0
@@ -2393,7 +2393,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-27,Ketchikan Gateway Borough,Alaska,02130,270,1,1,0
 2021-01-27,Kodiak Island Borough,Alaska,02150,1020,1,5,0
 2021-01-27,Kusilvak Census Area,Alaska,02158,1093,6,3,0
-2021-01-27,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-27,Matanuska-Susitna Borough,Alaska,02170,7387,33,27,0
 2021-01-27,Nome Census Area,Alaska,02180,307,1,0,0
 2021-01-27,North Slope Borough,Alaska,02185,973,4,3,0
@@ -2403,15 +2402,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-27,Sitka City and Borough,Alaska,02220,292,0,0,0
 2021-01-27,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-27,Southeast Fairbanks Census Area,Alaska,02240,423,3,3,0
-2021-01-27,Unknown,Alaska,,384,2,1,0
+2021-01-27,Unknown,Alaska,,235,2,0,0
 2021-01-27,Valdez-Cordova Census Area,Alaska,02261,409,2,2,0
 2021-01-27,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-27,Yakutat plus Hoonah-Angoon,Alaska,02998,62,0,1,0
 2021-01-27,Yukon-Koyukuk Census Area,Alaska,02290,261,0,4,0
 2021-01-28,Aleutians East Borough,Alaska,02013,79,7,0,0
 2021-01-28,Aleutians West Census Area,Alaska,02016,316,8,0,0
 2021-01-28,Anchorage,Alaska,02020,25157,53,139,0
 2021-01-28,Bethel Census Area,Alaska,02050,3274,46,15,0
-2021-01-28,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-28,Bristol Bay plus Lake and Peninsula,Alaska,02997,168,0,0,0
 2021-01-28,Denali Borough,Alaska,02068,66,0,0,0
 2021-01-28,Dillingham Census Area,Alaska,02070,168,4,1,0
 2021-01-28,Fairbanks North Star Borough,Alaska,02090,5795,29,26,1
@@ -2421,7 +2421,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-28,Ketchikan Gateway Borough,Alaska,02130,272,2,1,0
 2021-01-28,Kodiak Island Borough,Alaska,02150,1021,1,5,0
 2021-01-28,Kusilvak Census Area,Alaska,02158,1099,6,3,0
-2021-01-28,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-28,Matanuska-Susitna Borough,Alaska,02170,7406,19,27,0
 2021-01-28,Nome Census Area,Alaska,02180,307,0,0,0
 2021-01-28,North Slope Borough,Alaska,02185,973,0,3,0
@@ -2431,15 +2430,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-28,Sitka City and Borough,Alaska,02220,294,2,0,0
 2021-01-28,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-28,Southeast Fairbanks Census Area,Alaska,02240,425,2,3,0
-2021-01-28,Unknown,Alaska,,379,-5,1,0
+2021-01-28,Unknown,Alaska,,230,-5,0,0
 2021-01-28,Valdez-Cordova Census Area,Alaska,02261,433,24,2,0
 2021-01-28,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-28,Yakutat plus Hoonah-Angoon,Alaska,02998,62,0,1,0
 2021-01-28,Yukon-Koyukuk Census Area,Alaska,02290,265,4,4,0
 2021-01-29,Aleutians East Borough,Alaska,02013,79,0,0,0
 2021-01-29,Aleutians West Census Area,Alaska,02016,320,4,0,0
 2021-01-29,Anchorage,Alaska,02020,25235,78,139,0
 2021-01-29,Bethel Census Area,Alaska,02050,3285,11,15,0
-2021-01-29,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-29,Bristol Bay plus Lake and Peninsula,Alaska,02997,168,0,0,0
 2021-01-29,Denali Borough,Alaska,02068,67,1,0,0
 2021-01-29,Dillingham Census Area,Alaska,02070,167,-1,1,0
 2021-01-29,Fairbanks North Star Borough,Alaska,02090,5807,12,26,0
@@ -2449,7 +2449,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-29,Ketchikan Gateway Borough,Alaska,02130,274,2,1,0
 2021-01-29,Kodiak Island Borough,Alaska,02150,1024,3,5,0
 2021-01-29,Kusilvak Census Area,Alaska,02158,1104,5,3,0
-2021-01-29,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-29,Matanuska-Susitna Borough,Alaska,02170,7446,40,27,0
 2021-01-29,Nome Census Area,Alaska,02180,307,0,0,0
 2021-01-29,North Slope Borough,Alaska,02185,974,1,3,0
@@ -2459,15 +2458,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-29,Sitka City and Borough,Alaska,02220,295,1,0,0
 2021-01-29,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-29,Southeast Fairbanks Census Area,Alaska,02240,425,0,3,0
-2021-01-29,Unknown,Alaska,,382,3,1,0
+2021-01-29,Unknown,Alaska,,233,3,0,0
 2021-01-29,Valdez-Cordova Census Area,Alaska,02261,433,0,2,0
 2021-01-29,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-29,Yakutat plus Hoonah-Angoon,Alaska,02998,62,0,1,0
 2021-01-29,Yukon-Koyukuk Census Area,Alaska,02290,265,0,4,0
 2021-01-30,Aleutians East Borough,Alaska,02013,85,6,0,0
 2021-01-30,Aleutians West Census Area,Alaska,02016,321,1,0,0
 2021-01-30,Anchorage,Alaska,02020,25294,59,139,0
 2021-01-30,Bethel Census Area,Alaska,02050,3315,30,15,0
-2021-01-30,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-30,Bristol Bay plus Lake and Peninsula,Alaska,02997,168,0,0,0
 2021-01-30,Denali Borough,Alaska,02068,67,0,0,0
 2021-01-30,Dillingham Census Area,Alaska,02070,168,1,1,0
 2021-01-30,Fairbanks North Star Borough,Alaska,02090,5814,7,26,0
@@ -2477,7 +2477,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-30,Ketchikan Gateway Borough,Alaska,02130,275,1,1,0
 2021-01-30,Kodiak Island Borough,Alaska,02150,1028,4,5,0
 2021-01-30,Kusilvak Census Area,Alaska,02158,1114,10,3,0
-2021-01-30,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-30,Matanuska-Susitna Borough,Alaska,02170,7452,6,27,0
 2021-01-30,Nome Census Area,Alaska,02180,309,2,0,0
 2021-01-30,North Slope Borough,Alaska,02185,975,1,3,0
@@ -2487,15 +2486,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-30,Sitka City and Borough,Alaska,02220,296,1,0,0
 2021-01-30,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-30,Southeast Fairbanks Census Area,Alaska,02240,430,5,3,0
-2021-01-30,Unknown,Alaska,,383,1,1,0
+2021-01-30,Unknown,Alaska,,233,0,0,0
 2021-01-30,Valdez-Cordova Census Area,Alaska,02261,436,3,2,0
 2021-01-30,Wrangell City and Borough,Alaska,02275,24,0,0,0
+2021-01-30,Yakutat plus Hoonah-Angoon,Alaska,02998,63,1,1,0
 2021-01-30,Yukon-Koyukuk Census Area,Alaska,02290,266,1,4,0
 2021-01-31,Aleutians East Borough,Alaska,02013,86,1,0,0
 2021-01-31,Aleutians West Census Area,Alaska,02016,327,6,0,0
 2021-01-31,Anchorage,Alaska,02020,25336,42,139,0
 2021-01-31,Bethel Census Area,Alaska,02050,3339,24,15,0
-2021-01-31,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-01-31,Bristol Bay plus Lake and Peninsula,Alaska,02997,168,0,0,0
 2021-01-31,Denali Borough,Alaska,02068,67,0,0,0
 2021-01-31,Dillingham Census Area,Alaska,02070,168,0,1,0
 2021-01-31,Fairbanks North Star Borough,Alaska,02090,5828,14,26,0
@@ -2505,7 +2505,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-31,Ketchikan Gateway Borough,Alaska,02130,276,1,1,0
 2021-01-31,Kodiak Island Borough,Alaska,02150,1031,3,5,0
 2021-01-31,Kusilvak Census Area,Alaska,02158,1123,9,3,0
-2021-01-31,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-01-31,Matanuska-Susitna Borough,Alaska,02170,7460,8,27,0
 2021-01-31,Nome Census Area,Alaska,02180,310,1,0,0
 2021-01-31,North Slope Borough,Alaska,02185,975,0,3,0
@@ -2515,15 +2514,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-01-31,Sitka City and Borough,Alaska,02220,297,1,0,0
 2021-01-31,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-01-31,Southeast Fairbanks Census Area,Alaska,02240,432,2,3,0
-2021-01-31,Unknown,Alaska,,386,3,1,0
+2021-01-31,Unknown,Alaska,,236,3,0,0
 2021-01-31,Valdez-Cordova Census Area,Alaska,02261,440,4,2,0
 2021-01-31,Wrangell City and Borough,Alaska,02275,25,1,0,0
+2021-01-31,Yakutat plus Hoonah-Angoon,Alaska,02998,63,0,1,0
 2021-01-31,Yukon-Koyukuk Census Area,Alaska,02290,268,2,4,0
 2021-02-01,Aleutians East Borough,Alaska,02013,101,15,0,0
 2021-02-01,Aleutians West Census Area,Alaska,02016,339,12,0,0
 2021-02-01,Anchorage,Alaska,02020,25360,24,139,0
 2021-02-01,Bethel Census Area,Alaska,02050,3340,1,15,0
-2021-02-01,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-02-01,Bristol Bay plus Lake and Peninsula,Alaska,02997,168,0,0,0
 2021-02-01,Denali Borough,Alaska,02068,67,0,0,0
 2021-02-01,Dillingham Census Area,Alaska,02070,168,0,1,0
 2021-02-01,Fairbanks North Star Borough,Alaska,02090,5830,2,26,0
@@ -2533,7 +2533,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-01,Ketchikan Gateway Borough,Alaska,02130,275,-1,1,0
 2021-02-01,Kodiak Island Borough,Alaska,02150,1034,3,5,0
 2021-02-01,Kusilvak Census Area,Alaska,02158,1123,0,3,0
-2021-02-01,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-02-01,Matanuska-Susitna Borough,Alaska,02170,7482,22,27,0
 2021-02-01,Nome Census Area,Alaska,02180,310,0,0,0
 2021-02-01,North Slope Borough,Alaska,02185,975,0,3,0
@@ -2543,15 +2542,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-01,Sitka City and Borough,Alaska,02220,295,-2,0,0
 2021-02-01,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-02-01,Southeast Fairbanks Census Area,Alaska,02240,433,1,3,0
-2021-02-01,Unknown,Alaska,,396,10,1,0
+2021-02-01,Unknown,Alaska,,246,10,0,0
 2021-02-01,Valdez-Cordova Census Area,Alaska,02261,441,1,2,0
 2021-02-01,Wrangell City and Borough,Alaska,02275,25,0,0,0
+2021-02-01,Yakutat plus Hoonah-Angoon,Alaska,02998,63,0,1,0
 2021-02-01,Yukon-Koyukuk Census Area,Alaska,02290,268,0,4,0
 2021-02-02,Aleutians East Borough,Alaska,02013,132,31,0,0
 2021-02-02,Aleutians West Census Area,Alaska,02016,344,5,0,0
 2021-02-02,Anchorage,Alaska,02020,25418,58,149,10
 2021-02-02,Bethel Census Area,Alaska,02050,3339,-1,17,2
-2021-02-02,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-02-02,Bristol Bay plus Lake and Peninsula,Alaska,02997,167,-1,0,0
 2021-02-02,Denali Borough,Alaska,02068,67,0,0,0
 2021-02-02,Dillingham Census Area,Alaska,02070,168,0,1,0
 2021-02-02,Fairbanks North Star Borough,Alaska,02090,5842,12,26,0
@@ -2561,7 +2561,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-02,Ketchikan Gateway Borough,Alaska,02130,275,0,2,1
 2021-02-02,Kodiak Island Borough,Alaska,02150,1035,1,5,0
 2021-02-02,Kusilvak Census Area,Alaska,02158,1123,0,3,0
-2021-02-02,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-02-02,Matanuska-Susitna Borough,Alaska,02170,7509,27,29,2
 2021-02-02,Nome Census Area,Alaska,02180,310,0,0,0
 2021-02-02,North Slope Borough,Alaska,02185,975,0,3,0
@@ -2571,15 +2570,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-02,Sitka City and Borough,Alaska,02220,295,0,0,0
 2021-02-02,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-02-02,Southeast Fairbanks Census Area,Alaska,02240,433,0,3,0
-2021-02-02,Unknown,Alaska,,388,-8,1,0
+2021-02-02,Unknown,Alaska,,239,-7,0,0
 2021-02-02,Valdez-Cordova Census Area,Alaska,02261,441,0,2,0
 2021-02-02,Wrangell City and Borough,Alaska,02275,25,0,0,0
+2021-02-02,Yakutat plus Hoonah-Angoon,Alaska,02998,63,0,1,0
 2021-02-02,Yukon-Koyukuk Census Area,Alaska,02290,268,0,4,0
 2021-02-03,Aleutians East Borough,Alaska,02013,151,19,0,0
 2021-02-03,Aleutians West Census Area,Alaska,02016,351,7,0,0
 2021-02-03,Anchorage,Alaska,02020,25490,72,149,0
 2021-02-03,Bethel Census Area,Alaska,02050,3345,6,17,0
-2021-02-03,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-02-03,Bristol Bay plus Lake and Peninsula,Alaska,02997,167,0,0,0
 2021-02-03,Denali Borough,Alaska,02068,67,0,0,0
 2021-02-03,Dillingham Census Area,Alaska,02070,173,5,1,0
 2021-02-03,Fairbanks North Star Borough,Alaska,02090,5859,17,26,0
@@ -2589,7 +2589,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-03,Ketchikan Gateway Borough,Alaska,02130,278,3,2,0
 2021-02-03,Kodiak Island Borough,Alaska,02150,1039,4,5,0
 2021-02-03,Kusilvak Census Area,Alaska,02158,1124,1,3,0
-2021-02-03,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-02-03,Matanuska-Susitna Borough,Alaska,02170,7568,59,29,0
 2021-02-03,Nome Census Area,Alaska,02180,312,2,0,0
 2021-02-03,North Slope Borough,Alaska,02185,977,2,3,0
@@ -2599,15 +2598,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-03,Sitka City and Borough,Alaska,02220,298,3,0,0
 2021-02-03,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-02-03,Southeast Fairbanks Census Area,Alaska,02240,440,7,3,0
-2021-02-03,Unknown,Alaska,,388,0,1,0
+2021-02-03,Unknown,Alaska,,239,0,0,0
 2021-02-03,Valdez-Cordova Census Area,Alaska,02261,445,4,2,0
 2021-02-03,Wrangell City and Borough,Alaska,02275,25,0,0,0
+2021-02-03,Yakutat plus Hoonah-Angoon,Alaska,02998,63,0,1,0
 2021-02-03,Yukon-Koyukuk Census Area,Alaska,02290,269,1,4,0
 2021-02-04,Aleutians East Borough,Alaska,02013,177,26,0,0
 2021-02-04,Aleutians West Census Area,Alaska,02016,354,3,0,0
 2021-02-04,Anchorage,Alaska,02020,25522,32,149,0
 2021-02-04,Bethel Census Area,Alaska,02050,3382,37,17,0
-2021-02-04,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-02-04,Bristol Bay plus Lake and Peninsula,Alaska,02997,167,0,0,0
 2021-02-04,Denali Borough,Alaska,02068,67,0,0,0
 2021-02-04,Dillingham Census Area,Alaska,02070,176,3,1,0
 2021-02-04,Fairbanks North Star Borough,Alaska,02090,5878,19,26,0
@@ -2617,7 +2617,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-04,Ketchikan Gateway Borough,Alaska,02130,280,2,2,0
 2021-02-04,Kodiak Island Borough,Alaska,02150,1039,0,5,0
 2021-02-04,Kusilvak Census Area,Alaska,02158,1141,17,3,0
-2021-02-04,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-02-04,Matanuska-Susitna Borough,Alaska,02170,7601,33,29,0
 2021-02-04,Nome Census Area,Alaska,02180,313,1,0,0
 2021-02-04,North Slope Borough,Alaska,02185,978,1,3,0
@@ -2627,15 +2626,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-04,Sitka City and Borough,Alaska,02220,299,1,0,0
 2021-02-04,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-02-04,Southeast Fairbanks Census Area,Alaska,02240,440,0,3,0
-2021-02-04,Unknown,Alaska,,389,1,1,0
+2021-02-04,Unknown,Alaska,,240,1,0,0
 2021-02-04,Valdez-Cordova Census Area,Alaska,02261,447,2,2,0
 2021-02-04,Wrangell City and Borough,Alaska,02275,25,0,0,0
+2021-02-04,Yakutat plus Hoonah-Angoon,Alaska,02998,63,0,1,0
 2021-02-04,Yukon-Koyukuk Census Area,Alaska,02290,269,0,4,0
 2021-02-05,Aleutians East Borough,Alaska,02013,259,82,0,0
 2021-02-05,Aleutians West Census Area,Alaska,02016,359,5,0,0
 2021-02-05,Anchorage,Alaska,02020,25568,46,149,0
 2021-02-05,Bethel Census Area,Alaska,02050,3411,29,17,0
-2021-02-05,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-02-05,Bristol Bay plus Lake and Peninsula,Alaska,02997,167,0,0,0
 2021-02-05,Denali Borough,Alaska,02068,67,0,0,0
 2021-02-05,Dillingham Census Area,Alaska,02070,177,1,1,0
 2021-02-05,Fairbanks North Star Borough,Alaska,02090,5892,14,26,0
@@ -2645,7 +2645,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-05,Ketchikan Gateway Borough,Alaska,02130,284,4,2,0
 2021-02-05,Kodiak Island Borough,Alaska,02150,1039,0,5,0
 2021-02-05,Kusilvak Census Area,Alaska,02158,1147,6,3,0
-2021-02-05,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-02-05,Matanuska-Susitna Borough,Alaska,02170,7652,51,29,0
 2021-02-05,Nome Census Area,Alaska,02180,313,0,0,0
 2021-02-05,North Slope Borough,Alaska,02185,978,0,3,0
@@ -2655,15 +2654,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-05,Sitka City and Borough,Alaska,02220,299,0,0,0
 2021-02-05,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-02-05,Southeast Fairbanks Census Area,Alaska,02240,441,1,3,0
-2021-02-05,Unknown,Alaska,,389,0,1,0
+2021-02-05,Unknown,Alaska,,240,0,0,0
 2021-02-05,Valdez-Cordova Census Area,Alaska,02261,448,1,2,0
 2021-02-05,Wrangell City and Borough,Alaska,02275,25,0,0,0
+2021-02-05,Yakutat plus Hoonah-Angoon,Alaska,02998,63,0,1,0
 2021-02-05,Yukon-Koyukuk Census Area,Alaska,02290,269,0,4,0
 2021-02-06,Aleutians East Borough,Alaska,02013,259,0,0,0
 2021-02-06,Aleutians West Census Area,Alaska,02016,359,0,0,0
 2021-02-06,Anchorage,Alaska,02020,25568,0,149,0
 2021-02-06,Bethel Census Area,Alaska,02050,3411,0,17,0
-2021-02-06,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-02-06,Bristol Bay plus Lake and Peninsula,Alaska,02997,167,0,0,0
 2021-02-06,Denali Borough,Alaska,02068,67,0,0,0
 2021-02-06,Dillingham Census Area,Alaska,02070,177,0,1,0
 2021-02-06,Fairbanks North Star Borough,Alaska,02090,5892,0,26,0
@@ -2673,7 +2673,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-06,Ketchikan Gateway Borough,Alaska,02130,284,0,2,0
 2021-02-06,Kodiak Island Borough,Alaska,02150,1039,0,5,0
 2021-02-06,Kusilvak Census Area,Alaska,02158,1147,0,3,0
-2021-02-06,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-02-06,Matanuska-Susitna Borough,Alaska,02170,7652,0,29,0
 2021-02-06,Nome Census Area,Alaska,02180,313,0,0,0
 2021-02-06,North Slope Borough,Alaska,02185,978,0,3,0
@@ -2683,15 +2682,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-06,Sitka City and Borough,Alaska,02220,299,0,0,0
 2021-02-06,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-02-06,Southeast Fairbanks Census Area,Alaska,02240,441,0,3,0
-2021-02-06,Unknown,Alaska,,389,0,1,0
+2021-02-06,Unknown,Alaska,,240,0,0,0
 2021-02-06,Valdez-Cordova Census Area,Alaska,02261,448,0,2,0
 2021-02-06,Wrangell City and Borough,Alaska,02275,25,0,0,0
+2021-02-06,Yakutat plus Hoonah-Angoon,Alaska,02998,63,0,1,0
 2021-02-06,Yukon-Koyukuk Census Area,Alaska,02290,269,0,4,0
 2021-02-07,Aleutians East Borough,Alaska,02013,259,0,0,0
 2021-02-07,Aleutians West Census Area,Alaska,02016,359,0,0,0
 2021-02-07,Anchorage,Alaska,02020,25568,0,149,0
 2021-02-07,Bethel Census Area,Alaska,02050,3411,0,17,0
-2021-02-07,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-02-07,Bristol Bay plus Lake and Peninsula,Alaska,02997,167,0,0,0
 2021-02-07,Denali Borough,Alaska,02068,67,0,0,0
 2021-02-07,Dillingham Census Area,Alaska,02070,177,0,1,0
 2021-02-07,Fairbanks North Star Borough,Alaska,02090,5892,0,26,0
@@ -2701,7 +2701,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-07,Ketchikan Gateway Borough,Alaska,02130,284,0,2,0
 2021-02-07,Kodiak Island Borough,Alaska,02150,1039,0,5,0
 2021-02-07,Kusilvak Census Area,Alaska,02158,1147,0,3,0
-2021-02-07,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-02-07,Matanuska-Susitna Borough,Alaska,02170,7652,0,29,0
 2021-02-07,Nome Census Area,Alaska,02180,313,0,0,0
 2021-02-07,North Slope Borough,Alaska,02185,978,0,3,0
@@ -2711,15 +2710,16 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-07,Sitka City and Borough,Alaska,02220,299,0,0,0
 2021-02-07,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-02-07,Southeast Fairbanks Census Area,Alaska,02240,441,0,3,0
-2021-02-07,Unknown,Alaska,,389,0,1,0
+2021-02-07,Unknown,Alaska,,240,0,0,0
 2021-02-07,Valdez-Cordova Census Area,Alaska,02261,448,0,2,0
 2021-02-07,Wrangell City and Borough,Alaska,02275,25,0,0,0
+2021-02-07,Yakutat plus Hoonah-Angoon,Alaska,02998,63,0,1,0
 2021-02-07,Yukon-Koyukuk Census Area,Alaska,02290,269,0,4,0
 2021-02-08,Aleutians East Borough,Alaska,02013,323,64,0,0
 2021-02-08,Aleutians West Census Area,Alaska,02016,374,15,0,0
 2021-02-08,Anchorage,Alaska,02020,25683,115,149,0
 2021-02-08,Bethel Census Area,Alaska,02050,3445,34,17,0
-2021-02-08,Bristol Bay Borough,Alaska,02060,76,0,0,0
+2021-02-08,Bristol Bay plus Lake and Peninsula,Alaska,02997,170,3,0,0
 2021-02-08,Denali Borough,Alaska,02068,67,0,0,0
 2021-02-08,Dillingham Census Area,Alaska,02070,187,10,1,0
 2021-02-08,Fairbanks North Star Borough,Alaska,02090,5924,32,26,0
@@ -2729,7 +2729,6 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-08,Ketchikan Gateway Borough,Alaska,02130,295,11,2,0
 2021-02-08,Kodiak Island Borough,Alaska,02150,1040,1,5,0
 2021-02-08,Kusilvak Census Area,Alaska,02158,1156,9,3,0
-2021-02-08,Lake and Peninsula Borough,Alaska,02164,5,0,0,0
 2021-02-08,Matanuska-Susitna Borough,Alaska,02170,7766,114,29,0
 2021-02-08,Nome Census Area,Alaska,02180,318,5,0,0
 2021-02-08,North Slope Borough,Alaska,02185,982,4,3,0
@@ -2739,7 +2738,8 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-08,Sitka City and Borough,Alaska,02220,299,0,0,0
 2021-02-08,Skagway Municipality,Alaska,02230,15,0,0,0
 2021-02-08,Southeast Fairbanks Census Area,Alaska,02240,441,0,3,0
-2021-02-08,Unknown,Alaska,,401,12,1,0
+2021-02-08,Unknown,Alaska,,249,9,0,0
 2021-02-08,Valdez-Cordova Census Area,Alaska,02261,451,3,2,0
 2021-02-08,Wrangell City and Borough,Alaska,02275,25,0,0,0
+2021-02-08,Yakutat plus Hoonah-Angoon,Alaska,02998,63,0,1,0
 2021-02-08,Yukon-Koyukuk Census Area,Alaska,02290,311,42,4,0
