@@ -1,29 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-11-11,Allegany,Maryland,24001,1245,89,29,1
-2020-11-11,Anne Arundel,Maryland,24003,13507,160,284,1
-2020-11-11,Baltimore,Maryland,24005,23128,240,688,0
-2020-11-11,Baltimore city,Maryland,24510,19787,220,519,2
-2020-11-11,Calvert,Maryland,24009,1301,6,29,0
-2020-11-11,Caroline,Maryland,24011,785,2,9,0
-2020-11-11,Carroll,Maryland,24013,2554,47,130,0
-2020-11-11,Cecil,Maryland,24015,1509,19,37,1
-2020-11-11,Charles,Maryland,24017,3555,37,102,0
-2020-11-11,Dorchester,Maryland,24019,878,4,13,0
-2020-11-11,Frederick,Maryland,24021,5326,61,140,0
-2020-11-11,Garrett,Maryland,24023,209,15,1,0
-2020-11-11,Harford,Maryland,24025,4276,84,84,0
-2020-11-11,Howard,Maryland,24027,6523,74,130,1
-2020-11-11,Kent,Maryland,24029,365,3,26,0
-2020-11-11,Montgomery,Maryland,24031,28010,238,899,3
-2020-11-11,Prince George's,Maryland,24033,35434,262,876,3
-2020-11-11,Queen Anne's,Maryland,24035,857,8,26,0
-2020-11-11,Somerset,Maryland,24039,510,4,7,0
-2020-11-11,St. Mary's,Maryland,24037,1630,22,60,0
-2020-11-11,Talbot,Maryland,24041,678,4,6,0
-2020-11-11,Unknown,Maryland,,0,0,20,0
-2020-11-11,Washington,Maryland,24043,2725,61,49,2
-2020-11-11,Wicomico,Maryland,24045,2741,13,54,2
-2020-11-11,Worcester,Maryland,24047,1303,14,31,0
 2020-11-12,Allegany,Maryland,24001,1273,28,29,0
 2020-11-12,Anne Arundel,Maryland,24003,13607,100,286,2
 2020-11-12,Baltimore,Maryland,24005,23416,288,690,2
@@ -2449,3 +2424,28 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-16,Washington,Maryland,24043,12103,14,245,2
 2021-02-16,Wicomico,Maryland,24045,6634,6,139,0
 2021-02-16,Worcester,Maryland,24047,3202,5,89,1
+2021-02-17,Allegany,Maryland,24001,6370,1,196,0
+2021-02-17,Anne Arundel,Maryland,24003,34735,76,512,1
+2021-02-17,Baltimore,Maryland,24005,49687,156,1234,3
+2021-02-17,Baltimore city,Maryland,24510,39581,8,857,-2
+2021-02-17,Calvert,Maryland,24009,3592,5,65,2
+2021-02-17,Caroline,Maryland,24011,2001,2,18,0
+2021-02-17,Carroll,Maryland,24013,7369,9,208,1
+2021-02-17,Cecil,Maryland,24015,4966,6,115,0
+2021-02-17,Charles,Maryland,24017,8628,29,152,0
+2021-02-17,Dorchester,Maryland,24019,2254,1,41,1
+2021-02-17,Frederick,Maryland,24021,16520,30,264,1
+2021-02-17,Garrett,Maryland,24023,1832,0,59,1
+2021-02-17,Harford,Maryland,24025,12133,34,229,1
+2021-02-17,Howard,Maryland,24027,15390,42,217,1
+2021-02-17,Kent,Maryland,24029,1099,4,40,0
+2021-02-17,Montgomery,Maryland,24031,61987,107,1382,0
+2021-02-17,Prince George's,Maryland,24033,71430,186,1294,2
+2021-02-17,Queen Anne's,Maryland,24035,2505,5,38,1
+2021-02-17,Somerset,Maryland,24039,2351,2,30,0
+2021-02-17,St. Mary's,Maryland,24037,4936,8,111,0
+2021-02-17,Talbot,Maryland,24041,1811,3,31,0
+2021-02-17,Unknown,Maryland,,0,-1,63,4
+2021-02-17,Washington,Maryland,24043,12139,36,245,0
+2021-02-17,Wicomico,Maryland,24045,6641,7,139,0
+2021-02-17,Worcester,Maryland,24047,3204,2,90,1

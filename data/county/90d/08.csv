@@ -1,68 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-11-11,Adams,Colorado,08001,19705,527,277,3
-2020-11-11,Alamosa,Colorado,08003,413,12,9,0
-2020-11-11,Arapahoe,Colorado,08005,17664,443,409,1
-2020-11-11,Archuleta,Colorado,08007,78,2,0,0
-2020-11-11,Baca,Colorado,08009,41,1,0,0
-2020-11-11,Bent,Colorado,08011,28,3,0,0
-2020-11-11,Boulder,Colorado,08013,7606,290,99,0
-2020-11-11,Broomfield,Colorado,08014,1348,27,43,0
-2020-11-11,Chaffee,Colorado,08015,473,1,20,0
-2020-11-11,Cheyenne,Colorado,08017,16,0,0,0
-2020-11-11,Clear Creek,Colorado,08019,114,3,1,0
-2020-11-11,Conejos,Colorado,08021,107,2,1,0
-2020-11-11,Costilla,Colorado,08023,51,2,1,0
-2020-11-11,Crowley,Colorado,08025,245,25,1,0
-2020-11-11,Custer,Colorado,08027,44,3,0,0
-2020-11-11,Delta,Colorado,08029,290,6,3,0
-2020-11-11,Denver,Colorado,08031,25275,734,482,1
-2020-11-11,Dolores,Colorado,08033,3,0,0,0
-2020-11-11,Douglas,Colorado,08035,6080,151,77,6
-2020-11-11,Eagle,Colorado,08037,1748,30,11,1
-2020-11-11,El Paso,Colorado,08041,15987,386,216,1
-2020-11-11,Elbert,Colorado,08039,335,10,3,0
-2020-11-11,Fremont,Colorado,08043,1248,56,2,0
-2020-11-11,Garfield,Colorado,08045,1434,19,5,0
-2020-11-11,Gilpin,Colorado,08047,49,2,0,0
-2020-11-11,Grand,Colorado,08049,186,4,1,0
-2020-11-11,Gunnison,Colorado,08051,374,1,7,0
-2020-11-11,Hinsdale,Colorado,08053,5,1,0,0
-2020-11-11,Huerfano,Colorado,08055,66,8,3,0
-2020-11-11,Jackson,Colorado,08057,11,1,0,0
-2020-11-11,Jefferson,Colorado,08059,12664,364,355,-1
-2020-11-11,Kiowa,Colorado,08061,9,0,0,0
-2020-11-11,Kit Carson,Colorado,08063,213,22,3,0
-2020-11-11,La Plata,Colorado,08067,522,17,3,0
-2020-11-11,Lake,Colorado,08065,173,1,0,0
-2020-11-11,Larimer,Colorado,08069,5976,214,63,0
-2020-11-11,Las Animas,Colorado,08071,101,0,0,0
-2020-11-11,Lincoln,Colorado,08073,41,2,0,0
-2020-11-11,Logan,Colorado,08075,1601,29,14,0
-2020-11-11,Mesa,Colorado,08077,2798,127,27,0
-2020-11-11,Mineral,Colorado,08079,22,0,0,0
-2020-11-11,Moffat,Colorado,08081,112,7,1,0
-2020-11-11,Montezuma,Colorado,08083,313,6,5,0
-2020-11-11,Montrose,Colorado,08085,578,11,14,0
-2020-11-11,Morgan,Colorado,08087,1120,26,50,0
-2020-11-11,Otero,Colorado,08089,235,6,6,0
-2020-11-11,Ouray,Colorado,08091,62,4,2,0
-2020-11-11,Park,Colorado,08093,135,1,1,0
-2020-11-11,Phillips,Colorado,08095,98,3,1,0
-2020-11-11,Pitkin,Colorado,08097,346,12,2,0
-2020-11-11,Prowers,Colorado,08099,302,19,11,0
-2020-11-11,Pueblo,Colorado,08101,3693,257,60,0
-2020-11-11,Rio Blanco,Colorado,08103,41,0,0,0
-2020-11-11,Rio Grande,Colorado,08105,149,2,4,0
-2020-11-11,Routt,Colorado,08107,325,16,9,0
-2020-11-11,Saguache,Colorado,08109,185,4,2,0
-2020-11-11,San Juan,Colorado,08111,13,0,0,0
-2020-11-11,San Miguel,Colorado,08113,127,1,0,0
-2020-11-11,Sedgwick,Colorado,08115,62,1,1,0
-2020-11-11,Summit,Colorado,08117,1031,7,4,0
-2020-11-11,Teller,Colorado,08119,339,6,4,0
-2020-11-11,Washington,Colorado,08121,136,8,1,0
-2020-11-11,Weld,Colorado,08123,8752,382,166,0
-2020-11-11,Yuma,Colorado,08125,255,2,1,0
 2020-11-12,Adams,Colorado,08001,20346,641,278,1
 2020-11-12,Alamosa,Colorado,08003,425,12,9,0
 2020-11-12,Arapahoe,Colorado,08005,18205,541,410,1
@@ -6271,3 +6207,67 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-16,Washington,Colorado,08121,369,3,12,0
 2021-02-16,Weld,Colorado,08123,24736,83,314,0
 2021-02-16,Yuma,Colorado,08125,693,0,17,0
+2021-02-17,Adams,Colorado,08001,48149,78,623,0
+2021-02-17,Alamosa,Colorado,08003,1240,3,28,0
+2021-02-17,Arapahoe,Colorado,08005,48091,75,686,0
+2021-02-17,Archuleta,Colorado,08007,629,1,1,0
+2021-02-17,Baca,Colorado,08009,270,0,4,0
+2021-02-17,Bent,Colorado,08011,1424,0,21,0
+2021-02-17,Boulder,Colorado,08013,18359,95,245,1
+2021-02-17,Broomfield,Colorado,08014,3612,13,73,0
+2021-02-17,Chaffee,Colorado,08015,1391,2,23,0
+2021-02-17,Cheyenne,Colorado,08017,124,0,5,0
+2021-02-17,Clear Creek,Colorado,08019,355,0,2,0
+2021-02-17,Conejos,Colorado,08021,427,-1,7,0
+2021-02-17,Costilla,Colorado,08023,175,1,2,0
+2021-02-17,Crowley,Colorado,08025,1934,3,14,0
+2021-02-17,Custer,Colorado,08027,163,0,1,0
+2021-02-17,Delta,Colorado,08029,2429,3,56,0
+2021-02-17,Denver,Colorado,08031,58156,118,760,4
+2021-02-17,Dolores,Colorado,08033,65,0,0,0
+2021-02-17,Douglas,Colorado,08035,20958,79,230,0
+2021-02-17,Eagle,Colorado,08037,4800,22,20,0
+2021-02-17,El Paso,Colorado,08041,50379,191,731,3
+2021-02-17,Elbert,Colorado,08039,1240,7,12,0
+2021-02-17,Fremont,Colorado,08043,5364,10,44,1
+2021-02-17,Garfield,Colorado,08045,4986,8,38,0
+2021-02-17,Gilpin,Colorado,08047,162,0,3,0
+2021-02-17,Grand,Colorado,08049,1211,27,5,0
+2021-02-17,Gunnison,Colorado,08051,1179,3,6,0
+2021-02-17,Hinsdale,Colorado,08053,16,0,0,0
+2021-02-17,Huerfano,Colorado,08055,299,0,17,0
+2021-02-17,Jackson,Colorado,08057,48,0,0,0
+2021-02-17,Jefferson,Colorado,08059,36182,78,702,4
+2021-02-17,Kiowa,Colorado,08061,91,0,3,0
+2021-02-17,Kit Carson,Colorado,08063,522,1,10,0
+2021-02-17,La Plata,Colorado,08067,2852,1,36,-1
+2021-02-17,Lake,Colorado,08065,641,10,0,0
+2021-02-17,Larimer,Colorado,08069,19204,84,215,1
+2021-02-17,Las Animas,Colorado,08071,969,2,11,0
+2021-02-17,Lincoln,Colorado,08073,983,11,3,0
+2021-02-17,Logan,Colorado,08075,3695,3,63,-1
+2021-02-17,Mesa,Colorado,08077,12967,54,187,1
+2021-02-17,Mineral,Colorado,08079,61,0,1,0
+2021-02-17,Moffat,Colorado,08081,651,0,22,0
+2021-02-17,Montezuma,Colorado,08083,1693,1,22,0
+2021-02-17,Montrose,Colorado,08085,3171,6,51,0
+2021-02-17,Morgan,Colorado,08087,2406,1,90,0
+2021-02-17,Otero,Colorado,08089,1817,3,61,0
+2021-02-17,Ouray,Colorado,08091,238,1,3,0
+2021-02-17,Park,Colorado,08093,529,1,5,0
+2021-02-17,Phillips,Colorado,08095,331,1,11,0
+2021-02-17,Pitkin,Colorado,08097,1920,1,4,0
+2021-02-17,Prowers,Colorado,08099,1155,0,21,0
+2021-02-17,Pueblo,Colorado,08101,14814,12,362,0
+2021-02-17,Rio Blanco,Colorado,08103,444,4,3,0
+2021-02-17,Rio Grande,Colorado,08105,673,5,12,0
+2021-02-17,Routt,Colorado,08107,1806,7,19,0
+2021-02-17,Saguache,Colorado,08109,310,2,4,0
+2021-02-17,San Juan,Colorado,08111,42,-1,0,0
+2021-02-17,San Miguel,Colorado,08113,797,4,0,0
+2021-02-17,Sedgwick,Colorado,08115,190,1,2,0
+2021-02-17,Summit,Colorado,08117,2920,13,7,-1
+2021-02-17,Teller,Colorado,08119,1227,2,14,0
+2021-02-17,Washington,Colorado,08121,368,-1,12,0
+2021-02-17,Weld,Colorado,08123,24824,88,315,1
+2021-02-17,Yuma,Colorado,08125,694,1,17,0
