@@ -1,8 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-11-13,Kent,Delaware,10001,3956,55,122,0
-2020-11-13,New Castle,Delaware,10003,15113,313,365,0
-2020-11-13,Sussex,Delaware,10005,8854,102,247,2
-2020-11-13,Unknown,Delaware,,93,0,0,0
 2020-11-14,Kent,Delaware,10001,4027,71,122,0
 2020-11-14,New Castle,Delaware,10003,15341,228,366,1
 2020-11-14,Sussex,Delaware,10005,8932,78,248,1
@@ -391,3 +387,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-18,New Castle,Delaware,10003,47608,143,634,5
 2021-02-18,Sussex,Delaware,10005,22148,53,412,3
 2021-02-18,Unknown,Delaware,,190,1,0,0
+2021-02-19,Kent,Delaware,10001,13956,50,281,1
+2021-02-19,New Castle,Delaware,10003,47842,234,644,10
+2021-02-19,Sussex,Delaware,10005,22195,47,418,6
+2021-02-19,Unknown,Delaware,,188,-2,0,0
