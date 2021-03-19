@@ -1,69 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2020-12-10,Acadia,Louisiana,22001,4414,46,120,0
-2020-12-10,Allen,Louisiana,22003,2207,12,69,0
-2020-12-10,Ascension,Louisiana,22005,6550,50,110,0
-2020-12-10,Assumption,Louisiana,22007,1129,5,25,0
-2020-12-10,Avoyelles,Louisiana,22009,2295,23,72,2
-2020-12-10,Beauregard,Louisiana,22011,1545,15,50,0
-2020-12-10,Bienville,Louisiana,22013,928,21,37,0
-2020-12-10,Bossier,Louisiana,22015,7145,83,163,0
-2020-12-10,Caddo,Louisiana,22017,14879,135,469,1
-2020-12-10,Calcasieu,Louisiana,22019,11532,85,260,0
-2020-12-10,Caldwell,Louisiana,22021,730,13,12,0
-2020-12-10,Cameron,Louisiana,22023,332,6,3,0
-2020-12-10,Catahoula,Louisiana,22025,700,6,19,0
-2020-12-10,Claiborne,Louisiana,22027,819,6,32,0
-2020-12-10,Concordia,Louisiana,22029,1146,19,32,0
-2020-12-10,De Soto,Louisiana,22031,1452,16,42,1
-2020-12-10,East Baton Rouge,Louisiana,22033,21866,116,537,1
-2020-12-10,East Carroll,Louisiana,22035,882,8,11,0
-2020-12-10,East Feliciana,Louisiana,22037,2267,7,89,3
-2020-12-10,Evangeline,Louisiana,22039,2197,25,49,1
-2020-12-10,Franklin,Louisiana,22041,1837,12,69,0
-2020-12-10,Grant,Louisiana,22043,1072,10,32,0
-2020-12-10,Iberia,Louisiana,22045,4070,27,111,1
-2020-12-10,Iberville,Louisiana,22047,2276,16,66,0
-2020-12-10,Jackson,Louisiana,22049,1244,7,34,1
-2020-12-10,Jefferson,Louisiana,22051,25991,224,641,2
-2020-12-10,Jefferson Davis,Louisiana,22053,1953,22,56,0
-2020-12-10,LaSalle,Louisiana,22059,1004,14,22,0
-2020-12-10,Lafayette,Louisiana,22055,13688,133,164,0
-2020-12-10,Lafourche,Louisiana,22057,5277,33,148,4
-2020-12-10,Lincoln,Louisiana,22061,2860,30,61,0
-2020-12-10,Livingston,Louisiana,22063,7022,61,104,3
-2020-12-10,Madison,Louisiana,22065,1148,4,15,0
-2020-12-10,Morehouse,Louisiana,22067,1657,25,37,1
-2020-12-10,Natchitoches,Louisiana,22069,2398,53,53,1
-2020-12-10,Orleans,Louisiana,22071,17520,146,653,1
-2020-12-10,Ouachita,Louisiana,22073,11295,124,221,0
-2020-12-10,Plaquemines,Louisiana,22075,1394,18,20,0
-2020-12-10,Pointe Coupee,Louisiana,22077,1604,16,51,2
-2020-12-10,Rapides,Louisiana,22079,6923,32,198,1
-2020-12-10,Red River,Louisiana,22081,611,9,26,0
-2020-12-10,Richland,Louisiana,22083,1507,11,33,0
-2020-12-10,Sabine,Louisiana,22085,1734,25,32,1
-2020-12-10,St. Bernard,Louisiana,22087,1997,8,36,1
-2020-12-10,St. Charles,Louisiana,22089,2936,27,71,0
-2020-12-10,St. Helena,Louisiana,22091,587,3,4,0
-2020-12-10,St. James,Louisiana,22093,1117,12,40,0
-2020-12-10,St. John the Baptist,Louisiana,22095,2180,19,116,0
-2020-12-10,St. Landry,Louisiana,22097,5561,44,173,3
-2020-12-10,St. Martin,Louisiana,22099,3105,21,75,0
-2020-12-10,St. Mary,Louisiana,22101,2544,26,97,0
-2020-12-10,St. Tammany,Louisiana,22103,11920,140,302,0
-2020-12-10,Tangipahoa,Louisiana,22105,7616,157,152,5
-2020-12-10,Tensas,Louisiana,22107,231,0,3,0
-2020-12-10,Terrebonne,Louisiana,22109,4966,37,141,1
-2020-12-10,Union,Louisiana,22111,1534,9,61,0
-2020-12-10,Unknown,Louisiana,,399,10,0,0
-2020-12-10,Vermilion,Louisiana,22113,2886,17,79,1
-2020-12-10,Vernon,Louisiana,22115,1649,29,66,0
-2020-12-10,Washington,Louisiana,22117,2501,21,80,1
-2020-12-10,Webster,Louisiana,22119,2264,33,60,1
-2020-12-10,West Baton Rouge,Louisiana,22121,1521,13,46,0
-2020-12-10,West Carroll,Louisiana,22123,759,12,23,0
-2020-12-10,West Feliciana,Louisiana,22125,859,10,25,0
-2020-12-10,Winn,Louisiana,22127,1097,18,26,0
 2020-12-11,Acadia,Louisiana,22001,4452,38,123,3
 2020-12-11,Allen,Louisiana,22003,2206,-1,69,0
 2020-12-11,Ascension,Louisiana,22005,6605,55,111,1
@@ -6369,3 +6304,68 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-17,West Carroll,Louisiana,22123,1167,4,40,1
 2021-03-17,West Feliciana,Louisiana,22125,1128,9,32,0
 2021-03-17,Winn,Louisiana,22127,1486,0,40,0
+2021-03-18,Acadia,Louisiana,22001,6200,10,187,0
+2021-03-18,Allen,Louisiana,22003,3033,0,90,0
+2021-03-18,Ascension,Louisiana,22005,11344,32,155,0
+2021-03-18,Assumption,Louisiana,22007,2120,-1,34,0
+2021-03-18,Avoyelles,Louisiana,22009,3974,5,121,2
+2021-03-18,Beauregard,Louisiana,22011,2920,0,70,0
+2021-03-18,Bienville,Louisiana,22013,1618,-8,79,0
+2021-03-18,Bossier,Louisiana,22015,13171,-3,281,0
+2021-03-18,Caddo,Louisiana,22017,24981,7,709,0
+2021-03-18,Calcasieu,Louisiana,22019,20654,103,378,1
+2021-03-18,Caldwell,Louisiana,22021,1091,2,26,0
+2021-03-18,Cameron,Louisiana,22023,558,-1,6,0
+2021-03-18,Catahoula,Louisiana,22025,1065,-2,37,0
+2021-03-18,Claiborne,Louisiana,22027,1410,1,52,0
+2021-03-18,Concordia,Louisiana,22029,1803,5,60,0
+2021-03-18,De Soto,Louisiana,22031,2684,5,75,0
+2021-03-18,East Baton Rouge,Louisiana,22033,36728,73,757,2
+2021-03-18,East Carroll,Louisiana,22035,1117,1,23,0
+2021-03-18,East Feliciana,Louisiana,22037,3054,2,110,1
+2021-03-18,Evangeline,Louisiana,22039,3405,8,87,1
+2021-03-18,Franklin,Louisiana,22041,2458,0,104,0
+2021-03-18,Grant,Louisiana,22043,2033,0,52,0
+2021-03-18,Iberia,Louisiana,22045,6585,5,149,1
+2021-03-18,Iberville,Louisiana,22047,3612,16,94,0
+2021-03-18,Jackson,Louisiana,22049,1816,4,50,0
+2021-03-18,Jefferson,Louisiana,22051,44664,20,871,2
+2021-03-18,Jefferson Davis,Louisiana,22053,2969,7,88,0
+2021-03-18,LaSalle,Louisiana,22059,1442,4,35,0
+2021-03-18,Lafayette,Louisiana,22055,22029,28,266,0
+2021-03-18,Lafourche,Louisiana,22057,9305,0,198,0
+2021-03-18,Lincoln,Louisiana,22061,4273,4,91,0
+2021-03-18,Livingston,Louisiana,22063,12678,19,193,2
+2021-03-18,Madison,Louisiana,22065,1553,-3,37,0
+2021-03-18,Morehouse,Louisiana,22067,2734,5,71,0
+2021-03-18,Natchitoches,Louisiana,22069,3891,6,82,0
+2021-03-18,Orleans,Louisiana,22071,29021,32,778,0
+2021-03-18,Ouachita,Louisiana,22073,17807,9,428,0
+2021-03-18,Plaquemines,Louisiana,22075,2416,5,25,0
+2021-03-18,Pointe Coupee,Louisiana,22077,2417,7,70,0
+2021-03-18,Rapides,Louisiana,22079,11417,4,303,1
+2021-03-18,Red River,Louisiana,22081,863,-1,38,0
+2021-03-18,Richland,Louisiana,22083,2375,5,51,0
+2021-03-18,Sabine,Louisiana,22085,2819,8,56,0
+2021-03-18,St. Bernard,Louisiana,22087,3879,5,48,0
+2021-03-18,St. Charles,Louisiana,22089,5232,-3,90,0
+2021-03-18,St. Helena,Louisiana,22091,886,0,9,0
+2021-03-18,St. James,Louisiana,22093,1884,5,49,0
+2021-03-18,St. John the Baptist,Louisiana,22095,3583,2,135,0
+2021-03-18,St. Landry,Louisiana,22097,8449,22,247,0
+2021-03-18,St. Martin,Louisiana,22099,4952,14,115,0
+2021-03-18,St. Mary,Louisiana,22101,4333,19,126,0
+2021-03-18,St. Tammany,Louisiana,22103,24734,13,509,1
+2021-03-18,Tangipahoa,Louisiana,22105,12187,4,280,2
+2021-03-18,Tensas,Louisiana,22107,358,1,7,1
+2021-03-18,Terrebonne,Louisiana,22109,9756,5,212,0
+2021-03-18,Union,Louisiana,22111,2316,-4,77,0
+2021-03-18,Unknown,Louisiana,,419,1,0,0
+2021-03-18,Vermilion,Louisiana,22113,5018,10,110,0
+2021-03-18,Vernon,Louisiana,22115,2923,4,98,1
+2021-03-18,Washington,Louisiana,22117,4183,9,125,1
+2021-03-18,Webster,Louisiana,22119,3970,7,102,0
+2021-03-18,West Baton Rouge,Louisiana,22121,2598,9,56,0
+2021-03-18,West Carroll,Louisiana,22123,1165,-2,40,0
+2021-03-18,West Feliciana,Louisiana,22125,1123,-5,32,0
+2021-03-18,Winn,Louisiana,22127,1488,2,40,0
