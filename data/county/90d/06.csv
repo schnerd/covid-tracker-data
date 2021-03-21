@@ -5577,7 +5577,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-18,Del Norte,California,06015,1090,12,6,0
 2021-03-18,El Dorado,California,06017,9252,3,105,0
 2021-03-18,Fresno,California,06019,97727,89,1527,0
-2021-03-18,Glenn,California,06021,2757,0,17,0
+2021-03-18,Glenn,California,06021,2761,4,17,0
 2021-03-18,Humboldt,California,06023,3406,14,35,0
 2021-03-18,Imperial,California,06025,27168,25,690,2
 2021-03-18,Inyo,California,06027,1351,5,35,0
@@ -5635,7 +5635,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-19,Del Norte,California,06015,1095,5,6,0
 2021-03-19,El Dorado,California,06017,9261,9,105,0
 2021-03-19,Fresno,California,06019,97856,129,1527,0
-2021-03-19,Glenn,California,06021,2760,3,24,7
+2021-03-19,Glenn,California,06021,2760,-1,24,7
 2021-03-19,Humboldt,California,06023,3419,13,35,0
 2021-03-19,Imperial,California,06025,27190,22,694,4
 2021-03-19,Inyo,California,06027,1354,3,35,0
@@ -5683,3 +5683,61 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-19,Ventura,California,06111,79090,62,943,3
 2021-03-19,Yolo,California,06113,13183,14,191,-1
 2021-03-19,Yuba,California,06115,5903,3,42,0
+2021-03-20,Alameda,California,06001,82561,80,1356,-10
+2021-03-20,Alpine,California,06003,82,0,0,0
+2021-03-20,Amador,California,06005,3514,2,44,0
+2021-03-20,Butte,California,06007,11191,12,185,0
+2021-03-20,Calaveras,California,06009,1957,3,49,0
+2021-03-20,Colusa,California,06011,2156,0,15,0
+2021-03-20,Contra Costa,California,06013,64573,119,737,-2
+2021-03-20,Del Norte,California,06015,1095,0,6,0
+2021-03-20,El Dorado,California,06017,9274,13,105,0
+2021-03-20,Fresno,California,06019,97969,113,1527,0
+2021-03-20,Glenn,California,06021,2769,9,24,0
+2021-03-20,Humboldt,California,06023,3419,0,35,0
+2021-03-20,Imperial,California,06025,27218,28,694,0
+2021-03-20,Inyo,California,06027,1356,2,35,0
+2021-03-20,Kern,California,06029,105441,73,1152,-6
+2021-03-20,Kings,California,06031,22505,46,238,1
+2021-03-20,Lake,California,06033,3262,2,43,0
+2021-03-20,Lassen,California,06035,5634,0,1,0
+2021-03-20,Los Angeles,California,06037,1214431,497,22777,55
+2021-03-20,Madera,California,06039,15877,17,226,0
+2021-03-20,Marin,California,06041,13441,6,220,1
+2021-03-20,Mariposa,California,06043,402,1,7,0
+2021-03-20,Mendocino,California,06045,3906,7,46,0
+2021-03-20,Merced,California,06047,30142,0,428,0
+2021-03-20,Modoc,California,06049,341,0,3,0
+2021-03-20,Mono,California,06051,1244,29,4,0
+2021-03-20,Monterey,California,06053,42734,22,337,-1
+2021-03-20,Napa,California,06055,9257,9,77,0
+2021-03-20,Nevada,California,06057,4162,0,88,14
+2021-03-20,Orange,California,06059,264600,122,4562,26
+2021-03-20,Placer,California,06061,20493,0,244,0
+2021-03-20,Plumas,California,06063,650,2,4,0
+2021-03-20,Riverside,California,06065,292967,0,4117,0
+2021-03-20,Sacramento,California,06067,95963,0,1576,0
+2021-03-20,San Benito,California,06069,5845,3,61,0
+2021-03-20,San Bernardino,California,06071,289610,205,4076,0
+2021-03-20,San Diego,California,06073,267599,359,3492,1
+2021-03-20,San Francisco,California,06075,34939,32,461,0
+2021-03-20,San Joaquin,California,06077,68714,0,1229,0
+2021-03-20,San Luis Obispo,California,06079,20189,0,253,0
+2021-03-20,San Mateo,California,06081,39893,19,543,0
+2021-03-20,Santa Barbara,California,06083,32836,38,435,0
+2021-03-20,Santa Clara,California,06085,113446,154,1902,0
+2021-03-20,Santa Cruz,California,06087,15196,0,199,1
+2021-03-20,Shasta,California,06089,11113,0,195,0
+2021-03-20,Sierra,California,06091,49,0,0,0
+2021-03-20,Siskiyou,California,06093,1850,0,14,0
+2021-03-20,Solano,California,06095,30750,0,181,0
+2021-03-20,Sonoma,California,06097,28932,17,308,0
+2021-03-20,Stanislaus,California,06099,58140,121,979,0
+2021-03-20,Sutter,California,06101,9042,0,103,0
+2021-03-20,Tehama,California,06103,4685,2,33,-2
+2021-03-20,Trinity,California,06105,311,0,3,0
+2021-03-20,Tulare,California,06107,48770,0,805,0
+2021-03-20,Tuolumne,California,06109,4008,0,59,0
+2021-03-20,Ventura,California,06111,79090,0,943,0
+2021-03-20,Yolo,California,06113,13197,14,191,0
+2021-03-20,Yuba,California,06115,5903,0,42,0
