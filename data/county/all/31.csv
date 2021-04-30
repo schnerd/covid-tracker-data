@@ -30731,7 +30731,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-29,Lincoln,Nebraska,31111,3639,0,52,0
 2021-03-29,Logan,Nebraska,31113,79,0,0,0
 2021-03-29,Loup,Nebraska,31115,40,0,0,0
-2021-03-29,Madison,Nebraska,31119,4437,0,44,0
+2021-03-29,Madison,Nebraska,31119,4125,-312,42,-2
 2021-03-29,McPherson,Nebraska,31117,29,0,1,0
 2021-03-29,Merrick,Nebraska,31121,755,2,15,0
 2021-03-29,Morrill,Nebraska,31123,496,0,15,0
@@ -30824,7 +30824,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-30,Lincoln,Nebraska,31111,3645,6,52,0
 2021-03-30,Logan,Nebraska,31113,79,0,0,0
 2021-03-30,Loup,Nebraska,31115,40,0,0,0
-2021-03-30,Madison,Nebraska,31119,4437,0,44,0
+2021-03-30,Madison,Nebraska,31119,4126,1,42,0
 2021-03-30,McPherson,Nebraska,31117,29,0,1,0
 2021-03-30,Merrick,Nebraska,31121,755,0,15,0
 2021-03-30,Morrill,Nebraska,31123,496,0,15,0
@@ -30917,7 +30917,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-31,Lincoln,Nebraska,31111,3651,6,52,0
 2021-03-31,Logan,Nebraska,31113,79,0,0,0
 2021-03-31,Loup,Nebraska,31115,40,0,0,0
-2021-03-31,Madison,Nebraska,31119,4437,0,44,0
+2021-03-31,Madison,Nebraska,31119,4127,1,42,0
 2021-03-31,McPherson,Nebraska,31117,29,0,1,0
 2021-03-31,Merrick,Nebraska,31121,758,3,15,0
 2021-03-31,Morrill,Nebraska,31123,496,0,15,0
@@ -31010,7 +31010,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-01,Lincoln,Nebraska,31111,3661,10,52,0
 2021-04-01,Logan,Nebraska,31113,78,-1,0,0
 2021-04-01,Loup,Nebraska,31115,40,0,0,0
-2021-04-01,Madison,Nebraska,31119,4437,0,44,0
+2021-04-01,Madison,Nebraska,31119,4137,10,42,0
 2021-04-01,McPherson,Nebraska,31117,29,0,1,0
 2021-04-01,Merrick,Nebraska,31121,758,0,15,0
 2021-04-01,Morrill,Nebraska,31123,496,0,15,0
@@ -31103,7 +31103,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-02,Lincoln,Nebraska,31111,3674,13,52,0
 2021-04-02,Logan,Nebraska,31113,79,1,0,0
 2021-04-02,Loup,Nebraska,31115,40,0,0,0
-2021-04-02,Madison,Nebraska,31119,4437,0,44,0
+2021-04-02,Madison,Nebraska,31119,4151,14,42,0
 2021-04-02,McPherson,Nebraska,31117,29,0,1,0
 2021-04-02,Merrick,Nebraska,31121,760,2,15,0
 2021-04-02,Morrill,Nebraska,31123,496,0,15,0
@@ -31196,7 +31196,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-03,Lincoln,Nebraska,31111,3679,5,52,0
 2021-04-03,Logan,Nebraska,31113,79,0,0,0
 2021-04-03,Loup,Nebraska,31115,40,0,0,0
-2021-04-03,Madison,Nebraska,31119,4437,0,44,0
+2021-04-03,Madison,Nebraska,31119,4152,1,42,0
 2021-04-03,McPherson,Nebraska,31117,29,0,1,0
 2021-04-03,Merrick,Nebraska,31121,760,0,15,0
 2021-04-03,Morrill,Nebraska,31123,496,0,15,0
@@ -31225,6 +31225,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-03,Thayer,Nebraska,31169,482,0,4,0
 2021-04-03,Thomas,Nebraska,31171,52,0,1,0
 2021-04-03,Thurston,Nebraska,31173,831,1,11,0
+2021-04-03,Unknown,Nebraska,,124,110,0,0
 2021-04-03,Valley,Nebraska,31175,317,0,3,0
 2021-04-03,Washington,Nebraska,31177,2095,4,22,0
 2021-04-03,Wayne,Nebraska,31179,1029,0,7,0
@@ -31289,7 +31290,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-04,Lincoln,Nebraska,31111,3681,2,52,0
 2021-04-04,Logan,Nebraska,31113,79,0,0,0
 2021-04-04,Loup,Nebraska,31115,40,0,0,0
-2021-04-04,Madison,Nebraska,31119,4437,0,44,0
+2021-04-04,Madison,Nebraska,31119,4155,3,42,0
 2021-04-04,McPherson,Nebraska,31117,29,0,1,0
 2021-04-04,Merrick,Nebraska,31121,760,0,15,0
 2021-04-04,Morrill,Nebraska,31123,496,0,15,0
@@ -31318,6 +31319,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-04,Thayer,Nebraska,31169,482,0,4,0
 2021-04-04,Thomas,Nebraska,31171,52,0,1,0
 2021-04-04,Thurston,Nebraska,31173,831,0,11,0
+2021-04-04,Unknown,Nebraska,,128,4,0,0
 2021-04-04,Valley,Nebraska,31175,317,0,3,0
 2021-04-04,Washington,Nebraska,31177,2099,4,22,0
 2021-04-04,Wayne,Nebraska,31179,1030,1,7,0
@@ -31382,7 +31384,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-05,Lincoln,Nebraska,31111,3684,3,52,0
 2021-04-05,Logan,Nebraska,31113,79,0,0,0
 2021-04-05,Loup,Nebraska,31115,40,0,0,0
-2021-04-05,Madison,Nebraska,31119,4437,0,44,0
+2021-04-05,Madison,Nebraska,31119,4155,0,42,0
 2021-04-05,McPherson,Nebraska,31117,29,0,1,0
 2021-04-05,Merrick,Nebraska,31121,762,2,15,0
 2021-04-05,Morrill,Nebraska,31123,496,0,15,0
@@ -31411,6 +31413,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-05,Thayer,Nebraska,31169,482,0,4,0
 2021-04-05,Thomas,Nebraska,31171,52,0,1,0
 2021-04-05,Thurston,Nebraska,31173,831,0,11,0
+2021-04-05,Unknown,Nebraska,,3,-125,0,0
 2021-04-05,Valley,Nebraska,31175,317,0,3,0
 2021-04-05,Washington,Nebraska,31177,2099,0,22,0
 2021-04-05,Wayne,Nebraska,31179,1030,0,7,0
@@ -31475,7 +31478,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-06,Lincoln,Nebraska,31111,3684,0,52,0
 2021-04-06,Logan,Nebraska,31113,79,0,0,0
 2021-04-06,Loup,Nebraska,31115,40,0,0,0
-2021-04-06,Madison,Nebraska,31119,4437,0,44,0
+2021-04-06,Madison,Nebraska,31119,4158,3,42,0
 2021-04-06,McPherson,Nebraska,31117,29,0,1,0
 2021-04-06,Merrick,Nebraska,31121,762,0,15,0
 2021-04-06,Morrill,Nebraska,31123,496,0,15,0
@@ -31504,6 +31507,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-06,Thayer,Nebraska,31169,482,0,4,0
 2021-04-06,Thomas,Nebraska,31171,52,0,1,0
 2021-04-06,Thurston,Nebraska,31173,831,0,11,0
+2021-04-06,Unknown,Nebraska,,3,0,0,0
 2021-04-06,Valley,Nebraska,31175,317,0,3,0
 2021-04-06,Washington,Nebraska,31177,2102,3,22,0
 2021-04-06,Wayne,Nebraska,31179,1030,0,7,0
@@ -31568,7 +31572,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-07,Lincoln,Nebraska,31111,3690,6,52,0
 2021-04-07,Logan,Nebraska,31113,79,0,0,0
 2021-04-07,Loup,Nebraska,31115,40,0,0,0
-2021-04-07,Madison,Nebraska,31119,4437,0,44,0
+2021-04-07,Madison,Nebraska,31119,4159,1,42,0
 2021-04-07,McPherson,Nebraska,31117,29,0,1,0
 2021-04-07,Merrick,Nebraska,31121,762,0,15,0
 2021-04-07,Morrill,Nebraska,31123,497,1,15,0
@@ -31597,6 +31601,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-07,Thayer,Nebraska,31169,482,0,4,0
 2021-04-07,Thomas,Nebraska,31171,52,0,1,0
 2021-04-07,Thurston,Nebraska,31173,834,3,11,0
+2021-04-07,Unknown,Nebraska,,102,99,0,0
 2021-04-07,Valley,Nebraska,31175,319,2,3,0
 2021-04-07,Washington,Nebraska,31177,2105,3,22,0
 2021-04-07,Wayne,Nebraska,31179,1032,2,7,0
@@ -31661,7 +31666,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-08,Lincoln,Nebraska,31111,3693,3,52,0
 2021-04-08,Logan,Nebraska,31113,79,0,0,0
 2021-04-08,Loup,Nebraska,31115,40,0,0,0
-2021-04-08,Madison,Nebraska,31119,4437,0,44,0
+2021-04-08,Madison,Nebraska,31119,4165,6,42,0
 2021-04-08,McPherson,Nebraska,31117,29,0,1,0
 2021-04-08,Merrick,Nebraska,31121,762,0,15,0
 2021-04-08,Morrill,Nebraska,31123,493,-4,15,0
@@ -31690,6 +31695,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-08,Thayer,Nebraska,31169,483,1,4,0
 2021-04-08,Thomas,Nebraska,31171,52,0,1,0
 2021-04-08,Thurston,Nebraska,31173,834,0,12,1
+2021-04-08,Unknown,Nebraska,,27,-75,0,0
 2021-04-08,Valley,Nebraska,31175,319,0,3,0
 2021-04-08,Washington,Nebraska,31177,2111,6,22,0
 2021-04-08,Wayne,Nebraska,31179,1033,1,7,0
@@ -31754,7 +31760,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-09,Lincoln,Nebraska,31111,3696,3,52,0
 2021-04-09,Logan,Nebraska,31113,79,0,0,0
 2021-04-09,Loup,Nebraska,31115,40,0,0,0
-2021-04-09,Madison,Nebraska,31119,4437,0,44,0
+2021-04-09,Madison,Nebraska,31119,4167,2,42,0
 2021-04-09,McPherson,Nebraska,31117,29,0,1,0
 2021-04-09,Merrick,Nebraska,31121,762,0,15,0
 2021-04-09,Morrill,Nebraska,31123,492,-1,15,0
@@ -31783,6 +31789,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-09,Thayer,Nebraska,31169,483,0,4,0
 2021-04-09,Thomas,Nebraska,31171,52,0,1,0
 2021-04-09,Thurston,Nebraska,31173,835,1,12,0
+2021-04-09,Unknown,Nebraska,,147,120,0,0
 2021-04-09,Valley,Nebraska,31175,320,1,3,0
 2021-04-09,Washington,Nebraska,31177,2115,4,22,0
 2021-04-09,Wayne,Nebraska,31179,1036,3,7,0
@@ -31847,7 +31854,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-10,Lincoln,Nebraska,31111,3696,0,53,1
 2021-04-10,Logan,Nebraska,31113,79,0,0,0
 2021-04-10,Loup,Nebraska,31115,40,0,0,0
-2021-04-10,Madison,Nebraska,31119,4437,0,44,0
+2021-04-10,Madison,Nebraska,31119,4168,1,42,0
 2021-04-10,McPherson,Nebraska,31117,29,0,1,0
 2021-04-10,Merrick,Nebraska,31121,762,0,15,0
 2021-04-10,Morrill,Nebraska,31123,494,2,15,0
@@ -31876,6 +31883,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-10,Thayer,Nebraska,31169,483,0,4,0
 2021-04-10,Thomas,Nebraska,31171,52,0,1,0
 2021-04-10,Thurston,Nebraska,31173,835,0,12,0
+2021-04-10,Unknown,Nebraska,,142,-5,0,0
 2021-04-10,Valley,Nebraska,31175,320,0,3,0
 2021-04-10,Washington,Nebraska,31177,2142,27,22,0
 2021-04-10,Wayne,Nebraska,31179,1037,1,7,0
@@ -31940,7 +31948,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-11,Lincoln,Nebraska,31111,3698,2,53,0
 2021-04-11,Logan,Nebraska,31113,79,0,0,0
 2021-04-11,Loup,Nebraska,31115,40,0,0,0
-2021-04-11,Madison,Nebraska,31119,4437,0,44,0
+2021-04-11,Madison,Nebraska,31119,4169,1,42,0
 2021-04-11,McPherson,Nebraska,31117,29,0,1,0
 2021-04-11,Merrick,Nebraska,31121,762,0,15,0
 2021-04-11,Morrill,Nebraska,31123,494,0,15,0
@@ -31969,6 +31977,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-11,Thayer,Nebraska,31169,483,0,4,0
 2021-04-11,Thomas,Nebraska,31171,52,0,1,0
 2021-04-11,Thurston,Nebraska,31173,834,-1,12,0
+2021-04-11,Unknown,Nebraska,,152,10,0,0
 2021-04-11,Valley,Nebraska,31175,320,0,3,0
 2021-04-11,Washington,Nebraska,31177,2144,2,22,0
 2021-04-11,Wayne,Nebraska,31179,1037,0,7,0
@@ -32033,7 +32042,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-12,Lincoln,Nebraska,31111,3699,1,53,0
 2021-04-12,Logan,Nebraska,31113,79,0,0,0
 2021-04-12,Loup,Nebraska,31115,40,0,0,0
-2021-04-12,Madison,Nebraska,31119,4437,0,44,0
+2021-04-12,Madison,Nebraska,31119,4170,1,42,0
 2021-04-12,McPherson,Nebraska,31117,29,0,1,0
 2021-04-12,Merrick,Nebraska,31121,762,0,15,0
 2021-04-12,Morrill,Nebraska,31123,493,-1,15,0
@@ -32126,7 +32135,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-13,Lincoln,Nebraska,31111,3708,9,53,0
 2021-04-13,Logan,Nebraska,31113,79,0,0,0
 2021-04-13,Loup,Nebraska,31115,40,0,0,0
-2021-04-13,Madison,Nebraska,31119,4437,0,44,0
+2021-04-13,Madison,Nebraska,31119,4170,0,42,0
 2021-04-13,McPherson,Nebraska,31117,29,0,1,0
 2021-04-13,Merrick,Nebraska,31121,762,0,15,0
 2021-04-13,Morrill,Nebraska,31123,496,3,15,0
@@ -32155,6 +32164,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-13,Thayer,Nebraska,31169,483,0,4,0
 2021-04-13,Thomas,Nebraska,31171,52,0,1,0
 2021-04-13,Thurston,Nebraska,31173,834,0,12,0
+2021-04-13,Unknown,Nebraska,,13,-139,0,0
 2021-04-13,Valley,Nebraska,31175,320,0,3,0
 2021-04-13,Washington,Nebraska,31177,2148,4,22,0
 2021-04-13,Wayne,Nebraska,31179,1040,3,7,0
@@ -32219,7 +32229,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-14,Lincoln,Nebraska,31111,3712,4,53,0
 2021-04-14,Logan,Nebraska,31113,79,0,0,0
 2021-04-14,Loup,Nebraska,31115,40,0,0,0
-2021-04-14,Madison,Nebraska,31119,4437,0,44,0
+2021-04-14,Madison,Nebraska,31119,4174,4,42,0
 2021-04-14,McPherson,Nebraska,31117,29,0,1,0
 2021-04-14,Merrick,Nebraska,31121,762,0,15,0
 2021-04-14,Morrill,Nebraska,31123,496,0,15,0
@@ -32248,6 +32258,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-14,Thayer,Nebraska,31169,483,0,4,0
 2021-04-14,Thomas,Nebraska,31171,52,0,1,0
 2021-04-14,Thurston,Nebraska,31173,834,0,12,0
+2021-04-14,Unknown,Nebraska,,35,22,0,0
 2021-04-14,Valley,Nebraska,31175,322,2,3,0
 2021-04-14,Washington,Nebraska,31177,2149,1,22,0
 2021-04-14,Wayne,Nebraska,31179,1040,0,7,0
@@ -32312,7 +32323,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-15,Lincoln,Nebraska,31111,3715,3,53,0
 2021-04-15,Logan,Nebraska,31113,80,1,0,0
 2021-04-15,Loup,Nebraska,31115,40,0,0,0
-2021-04-15,Madison,Nebraska,31119,4437,0,44,0
+2021-04-15,Madison,Nebraska,31119,4177,3,42,0
 2021-04-15,McPherson,Nebraska,31117,29,0,1,0
 2021-04-15,Merrick,Nebraska,31121,762,0,15,0
 2021-04-15,Morrill,Nebraska,31123,498,2,15,0
@@ -32341,6 +32352,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-15,Thayer,Nebraska,31169,483,0,4,0
 2021-04-15,Thomas,Nebraska,31171,52,0,1,0
 2021-04-15,Thurston,Nebraska,31173,833,-1,12,0
+2021-04-15,Unknown,Nebraska,,42,7,0,0
 2021-04-15,Valley,Nebraska,31175,323,1,3,0
 2021-04-15,Washington,Nebraska,31177,2153,4,22,0
 2021-04-15,Wayne,Nebraska,31179,1041,1,7,0
@@ -32405,7 +32417,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-16,Lincoln,Nebraska,31111,3721,6,53,0
 2021-04-16,Logan,Nebraska,31113,80,0,0,0
 2021-04-16,Loup,Nebraska,31115,40,0,0,0
-2021-04-16,Madison,Nebraska,31119,4437,0,44,0
+2021-04-16,Madison,Nebraska,31119,4180,3,42,0
 2021-04-16,McPherson,Nebraska,31117,29,0,1,0
 2021-04-16,Merrick,Nebraska,31121,763,1,15,0
 2021-04-16,Morrill,Nebraska,31123,497,-1,15,0
@@ -32434,6 +32446,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-16,Thayer,Nebraska,31169,484,1,4,0
 2021-04-16,Thomas,Nebraska,31171,52,0,1,0
 2021-04-16,Thurston,Nebraska,31173,833,0,12,0
+2021-04-16,Unknown,Nebraska,,63,21,0,0
 2021-04-16,Valley,Nebraska,31175,323,0,3,0
 2021-04-16,Washington,Nebraska,31177,2156,3,22,0
 2021-04-16,Wayne,Nebraska,31179,1049,8,7,0
@@ -32498,7 +32511,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-17,Lincoln,Nebraska,31111,3728,7,53,0
 2021-04-17,Logan,Nebraska,31113,80,0,0,0
 2021-04-17,Loup,Nebraska,31115,40,0,0,0
-2021-04-17,Madison,Nebraska,31119,4437,0,44,0
+2021-04-17,Madison,Nebraska,31119,4182,2,42,0
 2021-04-17,McPherson,Nebraska,31117,29,0,1,0
 2021-04-17,Merrick,Nebraska,31121,763,0,15,0
 2021-04-17,Morrill,Nebraska,31123,498,1,15,0
@@ -32527,7 +32540,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-17,Thayer,Nebraska,31169,484,0,4,0
 2021-04-17,Thomas,Nebraska,31171,52,0,1,0
 2021-04-17,Thurston,Nebraska,31173,833,0,12,0
-2021-04-17,Unknown,Nebraska,,93,79,0,0
+2021-04-17,Unknown,Nebraska,,348,285,0,0
 2021-04-17,Valley,Nebraska,31175,323,0,3,0
 2021-04-17,Washington,Nebraska,31177,2165,9,22,0
 2021-04-17,Wayne,Nebraska,31179,1054,5,7,0
@@ -32592,7 +32605,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-18,Lincoln,Nebraska,31111,3728,0,53,0
 2021-04-18,Logan,Nebraska,31113,80,0,0,0
 2021-04-18,Loup,Nebraska,31115,40,0,0,0
-2021-04-18,Madison,Nebraska,31119,4437,0,44,0
+2021-04-18,Madison,Nebraska,31119,4185,3,42,0
 2021-04-18,McPherson,Nebraska,31117,29,0,1,0
 2021-04-18,Merrick,Nebraska,31121,763,0,15,0
 2021-04-18,Morrill,Nebraska,31123,497,-1,15,0
@@ -32621,7 +32634,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-18,Thayer,Nebraska,31169,484,0,4,0
 2021-04-18,Thomas,Nebraska,31171,52,0,1,0
 2021-04-18,Thurston,Nebraska,31173,833,0,12,0
-2021-04-18,Unknown,Nebraska,,115,22,0,0
+2021-04-18,Unknown,Nebraska,,367,19,0,0
 2021-04-18,Valley,Nebraska,31175,323,0,3,0
 2021-04-18,Washington,Nebraska,31177,2166,1,22,0
 2021-04-18,Wayne,Nebraska,31179,1054,0,7,0
@@ -32686,7 +32699,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-19,Lincoln,Nebraska,31111,3731,3,53,0
 2021-04-19,Logan,Nebraska,31113,80,0,0,0
 2021-04-19,Loup,Nebraska,31115,40,0,0,0
-2021-04-19,Madison,Nebraska,31119,4437,0,44,0
+2021-04-19,Madison,Nebraska,31119,4186,1,42,0
 2021-04-19,McPherson,Nebraska,31117,29,0,1,0
 2021-04-19,Merrick,Nebraska,31121,766,3,15,0
 2021-04-19,Morrill,Nebraska,31123,498,1,15,0
@@ -32715,7 +32728,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-19,Thayer,Nebraska,31169,484,0,4,0
 2021-04-19,Thomas,Nebraska,31171,52,0,1,0
 2021-04-19,Thurston,Nebraska,31173,833,0,12,0
-2021-04-19,Unknown,Nebraska,,3,-112,0,0
+2021-04-19,Unknown,Nebraska,,254,-113,0,0
 2021-04-19,Valley,Nebraska,31175,323,0,3,0
 2021-04-19,Washington,Nebraska,31177,2170,4,22,0
 2021-04-19,Wayne,Nebraska,31179,1055,1,7,0
@@ -32780,7 +32793,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-20,Lincoln,Nebraska,31111,3735,4,53,0
 2021-04-20,Logan,Nebraska,31113,80,0,0,0
 2021-04-20,Loup,Nebraska,31115,40,0,0,0
-2021-04-20,Madison,Nebraska,31119,4437,0,44,0
+2021-04-20,Madison,Nebraska,31119,4187,1,42,0
 2021-04-20,McPherson,Nebraska,31117,29,0,1,0
 2021-04-20,Merrick,Nebraska,31121,766,0,15,0
 2021-04-20,Morrill,Nebraska,31123,499,1,15,0
@@ -32809,7 +32822,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-20,Thayer,Nebraska,31169,485,1,4,0
 2021-04-20,Thomas,Nebraska,31171,52,0,1,0
 2021-04-20,Thurston,Nebraska,31173,833,0,12,0
-2021-04-20,Unknown,Nebraska,,197,194,0,0
+2021-04-20,Unknown,Nebraska,,447,193,0,0
 2021-04-20,Valley,Nebraska,31175,324,1,3,0
 2021-04-20,Washington,Nebraska,31177,2174,4,22,0
 2021-04-20,Wayne,Nebraska,31179,1059,4,7,0
@@ -32874,7 +32887,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-21,Lincoln,Nebraska,31111,3738,3,53,0
 2021-04-21,Logan,Nebraska,31113,80,0,0,0
 2021-04-21,Loup,Nebraska,31115,40,0,0,0
-2021-04-21,Madison,Nebraska,31119,4437,0,44,0
+2021-04-21,Madison,Nebraska,31119,4192,5,42,0
 2021-04-21,McPherson,Nebraska,31117,29,0,1,0
 2021-04-21,Merrick,Nebraska,31121,768,2,15,0
 2021-04-21,Morrill,Nebraska,31123,501,2,15,0
@@ -32903,7 +32916,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-21,Thayer,Nebraska,31169,485,0,4,0
 2021-04-21,Thomas,Nebraska,31171,52,0,1,0
 2021-04-21,Thurston,Nebraska,31173,833,0,12,0
-2021-04-21,Unknown,Nebraska,,369,172,0,0
+2021-04-21,Unknown,Nebraska,,614,167,0,0
 2021-04-21,Valley,Nebraska,31175,324,0,3,0
 2021-04-21,Washington,Nebraska,31177,2175,1,22,0
 2021-04-21,Wayne,Nebraska,31179,1064,5,7,0
@@ -32968,7 +32981,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-22,Lincoln,Nebraska,31111,3739,1,53,0
 2021-04-22,Logan,Nebraska,31113,80,0,0,0
 2021-04-22,Loup,Nebraska,31115,40,0,0,0
-2021-04-22,Madison,Nebraska,31119,4437,0,44,0
+2021-04-22,Madison,Nebraska,31119,4197,5,42,0
 2021-04-22,McPherson,Nebraska,31117,29,0,1,0
 2021-04-22,Merrick,Nebraska,31121,768,0,15,0
 2021-04-22,Morrill,Nebraska,31123,500,-1,15,0
@@ -32997,7 +33010,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-22,Thayer,Nebraska,31169,485,0,4,0
 2021-04-22,Thomas,Nebraska,31171,52,0,1,0
 2021-04-22,Thurston,Nebraska,31173,833,0,12,0
-2021-04-22,Unknown,Nebraska,,407,38,0,0
+2021-04-22,Unknown,Nebraska,,647,33,0,0
 2021-04-22,Valley,Nebraska,31175,325,1,3,0
 2021-04-22,Washington,Nebraska,31177,2177,2,22,0
 2021-04-22,Wayne,Nebraska,31179,1064,0,7,0
@@ -33062,7 +33075,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-23,Lincoln,Nebraska,31111,3744,5,53,0
 2021-04-23,Logan,Nebraska,31113,80,0,0,0
 2021-04-23,Loup,Nebraska,31115,40,0,0,0
-2021-04-23,Madison,Nebraska,31119,4437,0,44,0
+2021-04-23,Madison,Nebraska,31119,4198,1,42,0
 2021-04-23,McPherson,Nebraska,31117,29,0,1,0
 2021-04-23,Merrick,Nebraska,31121,768,0,15,0
 2021-04-23,Morrill,Nebraska,31123,501,1,15,0
@@ -33091,7 +33104,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-23,Thayer,Nebraska,31169,486,1,4,0
 2021-04-23,Thomas,Nebraska,31171,52,0,1,0
 2021-04-23,Thurston,Nebraska,31173,832,-1,12,0
-2021-04-23,Unknown,Nebraska,,443,36,0,0
+2021-04-23,Unknown,Nebraska,,682,35,0,0
 2021-04-23,Valley,Nebraska,31175,325,0,3,0
 2021-04-23,Washington,Nebraska,31177,2178,1,24,2
 2021-04-23,Wayne,Nebraska,31179,1064,0,7,0
@@ -33156,7 +33169,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-24,Lincoln,Nebraska,31111,3748,4,53,0
 2021-04-24,Logan,Nebraska,31113,80,0,0,0
 2021-04-24,Loup,Nebraska,31115,40,0,0,0
-2021-04-24,Madison,Nebraska,31119,4437,0,44,0
+2021-04-24,Madison,Nebraska,31119,4204,6,42,0
 2021-04-24,McPherson,Nebraska,31117,29,0,1,0
 2021-04-24,Merrick,Nebraska,31121,770,2,15,0
 2021-04-24,Morrill,Nebraska,31123,501,0,15,0
@@ -33185,7 +33198,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-24,Thayer,Nebraska,31169,487,1,4,0
 2021-04-24,Thomas,Nebraska,31171,53,1,1,0
 2021-04-24,Thurston,Nebraska,31173,832,0,12,0
-2021-04-24,Unknown,Nebraska,,580,137,0,0
+2021-04-24,Unknown,Nebraska,,813,131,0,0
 2021-04-24,Valley,Nebraska,31175,326,1,3,0
 2021-04-24,Washington,Nebraska,31177,2180,2,24,0
 2021-04-24,Wayne,Nebraska,31179,1065,1,7,0
@@ -33250,7 +33263,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-25,Lincoln,Nebraska,31111,3748,0,53,0
 2021-04-25,Logan,Nebraska,31113,80,0,0,0
 2021-04-25,Loup,Nebraska,31115,40,0,0,0
-2021-04-25,Madison,Nebraska,31119,4437,0,44,0
+2021-04-25,Madison,Nebraska,31119,4204,0,42,0
 2021-04-25,McPherson,Nebraska,31117,29,0,1,0
 2021-04-25,Merrick,Nebraska,31121,770,0,15,0
 2021-04-25,Morrill,Nebraska,31123,501,0,15,0
@@ -33279,7 +33292,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-25,Thayer,Nebraska,31169,487,0,4,0
 2021-04-25,Thomas,Nebraska,31171,53,0,1,0
 2021-04-25,Thurston,Nebraska,31173,832,0,12,0
-2021-04-25,Unknown,Nebraska,,589,9,0,0
+2021-04-25,Unknown,Nebraska,,822,9,0,0
 2021-04-25,Valley,Nebraska,31175,326,0,3,0
 2021-04-25,Washington,Nebraska,31177,2182,2,24,0
 2021-04-25,Wayne,Nebraska,31179,1066,1,7,0
@@ -33344,7 +33357,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-26,Lincoln,Nebraska,31111,3750,2,53,0
 2021-04-26,Logan,Nebraska,31113,80,0,0,0
 2021-04-26,Loup,Nebraska,31115,40,0,0,0
-2021-04-26,Madison,Nebraska,31119,4437,0,44,0
+2021-04-26,Madison,Nebraska,31119,4205,1,42,0
 2021-04-26,McPherson,Nebraska,31117,29,0,1,0
 2021-04-26,Merrick,Nebraska,31121,770,0,15,0
 2021-04-26,Morrill,Nebraska,31123,501,0,15,0
@@ -33373,7 +33386,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-26,Thayer,Nebraska,31169,487,0,4,0
 2021-04-26,Thomas,Nebraska,31171,53,0,1,0
 2021-04-26,Thurston,Nebraska,31173,832,0,12,0
-2021-04-26,Unknown,Nebraska,,455,-134,0,0
+2021-04-26,Unknown,Nebraska,,687,-135,0,0
 2021-04-26,Valley,Nebraska,31175,326,0,3,0
 2021-04-26,Washington,Nebraska,31177,2182,0,24,0
 2021-04-26,Wayne,Nebraska,31179,1066,0,7,0
@@ -33438,7 +33451,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-27,Lincoln,Nebraska,31111,3757,7,54,1
 2021-04-27,Logan,Nebraska,31113,80,0,0,0
 2021-04-27,Loup,Nebraska,31115,40,0,0,0
-2021-04-27,Madison,Nebraska,31119,4437,0,44,0
+2021-04-27,Madison,Nebraska,31119,4209,4,42,0
 2021-04-27,McPherson,Nebraska,31117,29,0,1,0
 2021-04-27,Merrick,Nebraska,31121,770,0,15,0
 2021-04-27,Morrill,Nebraska,31123,501,0,15,0
@@ -33467,7 +33480,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-27,Thayer,Nebraska,31169,488,1,4,0
 2021-04-27,Thomas,Nebraska,31171,53,0,1,0
 2021-04-27,Thurston,Nebraska,31173,832,0,12,0
-2021-04-27,Unknown,Nebraska,,499,44,0,0
+2021-04-27,Unknown,Nebraska,,727,40,0,0
 2021-04-27,Valley,Nebraska,31175,326,0,3,0
 2021-04-27,Washington,Nebraska,31177,2184,2,24,0
 2021-04-27,Wayne,Nebraska,31179,1066,0,7,0
@@ -33532,7 +33545,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-28,Lincoln,Nebraska,31111,3761,4,54,0
 2021-04-28,Logan,Nebraska,31113,80,0,0,0
 2021-04-28,Loup,Nebraska,31115,40,0,0,0
-2021-04-28,Madison,Nebraska,31119,4437,0,44,0
+2021-04-28,Madison,Nebraska,31119,4215,6,42,0
 2021-04-28,McPherson,Nebraska,31117,29,0,1,0
 2021-04-28,Merrick,Nebraska,31121,770,0,15,0
 2021-04-28,Morrill,Nebraska,31123,501,0,15,0
@@ -33561,10 +33574,104 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-28,Thayer,Nebraska,31169,489,1,4,0
 2021-04-28,Thomas,Nebraska,31171,53,0,1,0
 2021-04-28,Thurston,Nebraska,31173,832,0,12,0
-2021-04-28,Unknown,Nebraska,,617,118,0,0
+2021-04-28,Unknown,Nebraska,,839,112,0,0
 2021-04-28,Valley,Nebraska,31175,326,0,3,0
 2021-04-28,Washington,Nebraska,31177,2184,0,24,0
 2021-04-28,Wayne,Nebraska,31179,1067,1,7,0
 2021-04-28,Webster,Nebraska,31181,380,0,6,0
 2021-04-28,Wheeler,Nebraska,31183,39,0,0,0
 2021-04-28,York,Nebraska,31185,1732,-1,13,0
+2021-04-29,Adams,Nebraska,31001,2898,0,43,0
+2021-04-29,Antelope,Nebraska,31003,525,1,6,0
+2021-04-29,Arthur,Nebraska,31005,22,0,1,0
+2021-04-29,Banner,Nebraska,31007,35,0,0,0
+2021-04-29,Blaine,Nebraska,31009,20,0,0,0
+2021-04-29,Boone,Nebraska,31011,583,3,4,0
+2021-04-29,Box Butte,Nebraska,31013,934,-4,9,0
+2021-04-29,Boyd,Nebraska,31015,174,0,3,0
+2021-04-29,Brown,Nebraska,31017,219,0,2,0
+2021-04-29,Buffalo,Nebraska,31019,5466,2,58,0
+2021-04-29,Burt,Nebraska,31021,666,0,12,0
+2021-04-29,Butler,Nebraska,31023,852,1,12,0
+2021-04-29,Cass,Nebraska,31025,2637,4,16,0
+2021-04-29,Cedar,Nebraska,31027,766,-1,11,0
+2021-04-29,Chase,Nebraska,31029,462,0,5,0
+2021-04-29,Cherry,Nebraska,31031,299,0,7,0
+2021-04-29,Cheyenne,Nebraska,31033,927,0,18,0
+2021-04-29,Clay,Nebraska,31035,691,1,11,0
+2021-04-29,Colfax,Nebraska,31037,1590,1,21,0
+2021-04-29,Cuming,Nebraska,31039,1037,0,11,0
+2021-04-29,Custer,Nebraska,31041,846,0,18,0
+2021-04-29,Dakota,Nebraska,31043,4090,0,76,0
+2021-04-29,Dawes,Nebraska,31045,741,3,18,0
+2021-04-29,Dawson,Nebraska,31047,2876,0,31,0
+2021-04-29,Deuel,Nebraska,31049,101,-1,2,0
+2021-04-29,Dixon,Nebraska,31051,604,0,9,0
+2021-04-29,Dodge,Nebraska,31053,4916,2,60,0
+2021-04-29,Douglas,Nebraska,31055,70586,171,699,3
+2021-04-29,Dundy,Nebraska,31057,178,0,4,0
+2021-04-29,Fillmore,Nebraska,31059,497,0,10,0
+2021-04-29,Franklin,Nebraska,31061,240,0,4,0
+2021-04-29,Frontier,Nebraska,31063,193,2,1,0
+2021-04-29,Furnas,Nebraska,31065,503,0,5,0
+2021-04-29,Gage,Nebraska,31067,2178,-1,19,0
+2021-04-29,Garden,Nebraska,31069,112,-1,1,0
+2021-04-29,Garfield,Nebraska,31071,148,1,3,0
+2021-04-29,Gosper,Nebraska,31073,181,0,5,0
+2021-04-29,Grant,Nebraska,31075,39,0,4,0
+2021-04-29,Greeley,Nebraska,31077,212,0,2,0
+2021-04-29,Hall,Nebraska,31079,7744,13,117,0
+2021-04-29,Hamilton,Nebraska,31081,936,0,18,0
+2021-04-29,Harlan,Nebraska,31083,219,-1,0,0
+2021-04-29,Hayes,Nebraska,31085,59,0,0,0
+2021-04-29,Hitchcock,Nebraska,31087,253,0,5,0
+2021-04-29,Holt,Nebraska,31089,856,0,16,0
+2021-04-29,Hooker,Nebraska,31091,54,0,2,0
+2021-04-29,Howard,Nebraska,31093,551,0,17,0
+2021-04-29,Jefferson,Nebraska,31095,662,1,1,0
+2021-04-29,Johnson,Nebraska,31097,640,0,9,0
+2021-04-29,Kearney,Nebraska,31099,688,0,5,0
+2021-04-29,Keith,Nebraska,31101,717,3,10,0
+2021-04-29,Keya Paha,Nebraska,31103,53,0,0,0
+2021-04-29,Kimball,Nebraska,31105,414,0,7,0
+2021-04-29,Knox,Nebraska,31107,885,0,12,0
+2021-04-29,Lancaster,Nebraska,31109,30982,50,232,0
+2021-04-29,Lincoln,Nebraska,31111,3763,2,54,0
+2021-04-29,Logan,Nebraska,31113,80,0,0,0
+2021-04-29,Loup,Nebraska,31115,42,2,0,0
+2021-04-29,Madison,Nebraska,31119,4218,3,42,0
+2021-04-29,McPherson,Nebraska,31117,29,0,1,0
+2021-04-29,Merrick,Nebraska,31121,771,1,15,0
+2021-04-29,Morrill,Nebraska,31123,503,2,15,0
+2021-04-29,Nance,Nebraska,31125,410,1,10,0
+2021-04-29,Nemaha,Nebraska,31127,680,5,15,0
+2021-04-29,Nuckolls,Nebraska,31129,430,0,11,0
+2021-04-29,Otoe,Nebraska,31131,1443,0,9,0
+2021-04-29,Pawnee,Nebraska,31133,233,-1,1,0
+2021-04-29,Perkins,Nebraska,31135,288,-1,11,0
+2021-04-29,Phelps,Nebraska,31137,994,0,10,0
+2021-04-29,Pierce,Nebraska,31139,628,0,20,0
+2021-04-29,Platte,Nebraska,31141,4119,1,48,0
+2021-04-29,Polk,Nebraska,31143,583,1,18,0
+2021-04-29,Red Willow,Nebraska,31145,1207,1,15,0
+2021-04-29,Richardson,Nebraska,31147,721,0,19,0
+2021-04-29,Rock,Nebraska,31149,102,0,2,0
+2021-04-29,Saline,Nebraska,31151,2021,0,3,0
+2021-04-29,Sarpy,Nebraska,31153,22454,29,129,0
+2021-04-29,Saunders,Nebraska,31155,2499,2,16,0
+2021-04-29,Scotts Bluff,Nebraska,31157,4639,0,95,0
+2021-04-29,Seward,Nebraska,31159,1988,4,32,0
+2021-04-29,Sheridan,Nebraska,31161,510,1,19,0
+2021-04-29,Sherman,Nebraska,31163,191,0,4,0
+2021-04-29,Sioux,Nebraska,31165,39,0,0,0
+2021-04-29,Stanton,Nebraska,31167,361,0,9,0
+2021-04-29,Thayer,Nebraska,31169,492,3,4,0
+2021-04-29,Thomas,Nebraska,31171,53,0,1,0
+2021-04-29,Thurston,Nebraska,31173,832,0,12,0
+2021-04-29,Unknown,Nebraska,,747,-92,0,0
+2021-04-29,Valley,Nebraska,31175,326,0,3,0
+2021-04-29,Washington,Nebraska,31177,2184,0,24,0
+2021-04-29,Wayne,Nebraska,31179,1069,2,7,0
+2021-04-29,Webster,Nebraska,31181,380,0,6,0
+2021-04-29,Wheeler,Nebraska,31183,39,0,0,0
+2021-04-29,York,Nebraska,31185,1734,2,13,0
