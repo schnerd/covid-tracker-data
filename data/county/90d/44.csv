@@ -1,10 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2021-02-03,Bristol,Rhode Island,44001,3890,175,114,6
-2021-02-03,Kent,Rhode Island,44003,14129,670,256,9
-2021-02-03,Newport,Rhode Island,44005,4631,295,16,4
-2021-02-03,Providence,Rhode Island,44007,76727,2489,1631,50
-2021-02-03,Unknown,Rhode Island,,10562,-3583,44,-61
-2021-02-03,Washington,Rhode Island,44009,6765,467,137,4
 2021-02-04,Bristol,Rhode Island,44001,3890,0,114,0
 2021-02-04,Kent,Rhode Island,44003,14129,0,256,0
 2021-02-04,Newport,Rhode Island,44005,4631,0,16,0
@@ -587,3 +581,9 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-11,Providence,Rhode Island,44007,96768,0,1957,0
 2021-05-11,Unknown,Rhode Island,,13315,149,23,4
 2021-05-11,Washington,Rhode Island,44009,9877,0,169,0
+2021-05-12,Bristol,Rhode Island,44001,5096,33,143,1
+2021-05-12,Kent,Rhode Island,44003,18525,188,361,0
+2021-05-12,Newport,Rhode Island,44005,6806,69,42,0
+2021-05-12,Providence,Rhode Island,44007,97640,872,1971,14
+2021-05-12,Unknown,Rhode Island,,12250,-1065,10,-13
+2021-05-12,Washington,Rhode Island,44009,9935,58,169,0
