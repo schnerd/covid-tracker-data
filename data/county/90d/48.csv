@@ -1,258 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2021-02-18,Anderson,Texas,48001,6015,0,103,1
-2021-02-18,Andrews,Texas,48003,1679,0,45,0
-2021-02-18,Angelina,Texas,48005,7656,0,241,0
-2021-02-18,Aransas,Texas,48007,1107,1,33,0
-2021-02-18,Archer,Texas,48009,760,0,11,0
-2021-02-18,Armstrong,Texas,48011,148,0,6,0
-2021-02-18,Atascosa,Texas,48013,5045,0,127,0
-2021-02-18,Austin,Texas,48015,1777,9,27,0
-2021-02-18,Bailey,Texas,48017,782,0,16,0
-2021-02-18,Bandera,Texas,48019,1172,0,23,0
-2021-02-18,Bastrop,Texas,48021,8295,4,74,1
-2021-02-18,Baylor,Texas,48023,290,0,11,0
-2021-02-18,Bee,Texas,48025,3395,0,60,0
-2021-02-18,Bell,Texas,48027,20148,0,320,0
-2021-02-18,Bexar,Texas,48029,187758,0,2707,12
-2021-02-18,Blanco,Texas,48031,677,1,17,1
-2021-02-18,Borden,Texas,48033,21,0,2,0
-2021-02-18,Bosque,Texas,48035,1566,0,28,0
-2021-02-18,Bowie,Texas,48037,6393,8,171,0
-2021-02-18,Brazoria,Texas,48039,31212,0,351,0
-2021-02-18,Brazos,Texas,48041,20054,0,202,0
-2021-02-18,Brewster,Texas,48043,873,0,10,0
-2021-02-18,Briscoe,Texas,48045,132,0,4,0
-2021-02-18,Brooks,Texas,48047,742,1,32,0
-2021-02-18,Brown,Texas,48049,4012,0,125,0
-2021-02-18,Burleson,Texas,48051,2182,1,31,0
-2021-02-18,Burnet,Texas,48053,4104,8,51,0
-2021-02-18,Caldwell,Texas,48055,5103,8,73,0
-2021-02-18,Calhoun,Texas,48057,1735,0,16,1
-2021-02-18,Callahan,Texas,48059,1119,0,37,0
-2021-02-18,Cameron,Texas,48061,36514,0,1396,0
-2021-02-18,Camp,Texas,48063,1159,3,40,0
-2021-02-18,Carson,Texas,48065,378,0,12,0
-2021-02-18,Cass,Texas,48067,1744,2,74,0
-2021-02-18,Castro,Texas,48069,897,0,27,0
-2021-02-18,Chambers,Texas,48071,4119,0,36,0
-2021-02-18,Cherokee,Texas,48073,3987,0,119,0
-2021-02-18,Childress,Texas,48075,1324,0,15,0
-2021-02-18,Clay,Texas,48077,988,0,16,0
-2021-02-18,Cochran,Texas,48079,240,0,13,0
-2021-02-18,Coke,Texas,48081,436,0,11,0
-2021-02-18,Coleman,Texas,48083,702,0,27,0
-2021-02-18,Collin,Texas,48085,80947,170,686,1
-2021-02-18,Collingsworth,Texas,48087,258,0,9,0
-2021-02-18,Colorado,Texas,48089,1507,2,24,0
-2021-02-18,Comal,Texas,48091,8843,0,278,0
-2021-02-18,Comanche,Texas,48093,1285,0,46,0
-2021-02-18,Concho,Texas,48095,291,1,7,0
-2021-02-18,Cooke,Texas,48097,3399,0,58,0
-2021-02-18,Coryell,Texas,48099,6706,1,69,0
-2021-02-18,Cottle,Texas,48101,182,0,7,0
-2021-02-18,Crane,Texas,48103,505,1,11,0
-2021-02-18,Crockett,Texas,48105,564,0,15,0
-2021-02-18,Crosby,Texas,48107,499,0,25,0
-2021-02-18,Culberson,Texas,48109,335,2,7,0
-2021-02-18,Dallam,Texas,48111,567,0,22,0
-2021-02-18,Dallas,Texas,48113,276049,266,3219,6
-2021-02-18,Dawson,Texas,48115,1704,3,68,0
-2021-02-18,DeWitt,Texas,48123,1843,0,56,0
-2021-02-18,Deaf Smith,Texas,48117,2672,0,63,0
-2021-02-18,Delta,Texas,48119,287,0,9,0
-2021-02-18,Denton,Texas,48121,60167,0,597,0
-2021-02-18,Dickens,Texas,48125,152,0,9,0
-2021-02-18,Dimmit,Texas,48127,1435,0,19,0
-2021-02-18,Donley,Texas,48129,343,0,13,0
-2021-02-18,Duval,Texas,48131,1141,0,36,0
-2021-02-18,Eastland,Texas,48133,1212,0,40,1
-2021-02-18,Ector,Texas,48135,15616,0,314,2
-2021-02-18,Edwards,Texas,48137,236,0,4,0
-2021-02-18,El Paso,Texas,48141,120556,351,2270,8
-2021-02-18,Ellis,Texas,48139,20331,0,267,1
-2021-02-18,Erath,Texas,48143,3906,0,63,0
-2021-02-18,Falls,Texas,48145,1995,0,28,0
-2021-02-18,Fannin,Texas,48147,3133,-4,95,0
-2021-02-18,Fayette,Texas,48149,2224,5,50,0
-2021-02-18,Fisher,Texas,48151,290,0,13,0
-2021-02-18,Floyd,Texas,48153,749,0,29,0
-2021-02-18,Foard,Texas,48155,117,0,7,0
-2021-02-18,Fort Bend,Texas,48157,55272,0,531,1
-2021-02-18,Franklin,Texas,48159,674,1,22,1
-2021-02-18,Freestone,Texas,48161,1754,0,40,0
-2021-02-18,Frio,Texas,48163,2573,0,38,0
-2021-02-18,Gaines,Texas,48165,1410,1,39,0
-2021-02-18,Galveston,Texas,48167,33142,0,324,2
-2021-02-18,Garza,Texas,48169,351,0,19,0
-2021-02-18,Gillespie,Texas,48171,2298,0,46,0
-2021-02-18,Glasscock,Texas,48173,97,0,2,0
-2021-02-18,Goliad,Texas,48175,405,0,12,0
-2021-02-18,Gonzales,Texas,48177,2478,0,46,0
-2021-02-18,Gray,Texas,48179,2043,104,50,0
-2021-02-18,Grayson,Texas,48181,10609,37,296,0
-2021-02-18,Gregg,Texas,48183,10555,0,291,0
-2021-02-18,Grimes,Texas,48185,3359,3,60,0
-2021-02-18,Guadalupe,Texas,48187,12541,0,180,0
-2021-02-18,Hale,Texas,48189,6008,5,151,1
-2021-02-18,Hall,Texas,48191,416,0,14,0
-2021-02-18,Hamilton,Texas,48193,736,0,24,0
-2021-02-18,Hansford,Texas,48195,789,0,19,0
-2021-02-18,Hardeman,Texas,48197,362,0,12,0
-2021-02-18,Hardin,Texas,48199,4766,0,89,0
-2021-02-18,Harris,Texas,48201,339444,78,4771,5
-2021-02-18,Harrison,Texas,48203,4460,10,90,0
-2021-02-18,Hartley,Texas,48205,412,0,2,0
-2021-02-18,Haskell,Texas,48207,427,0,21,0
-2021-02-18,Hays,Texas,48209,17598,0,202,0
-2021-02-18,Hemphill,Texas,48211,542,0,2,0
-2021-02-18,Henderson,Texas,48213,5438,0,148,1
-2021-02-18,Hidalgo,Texas,48215,72213,469,2575,17
-2021-02-18,Hill,Texas,48217,4270,10,85,0
-2021-02-18,Hockley,Texas,48219,2290,0,98,0
-2021-02-18,Hood,Texas,48221,6090,0,106,0
-2021-02-18,Hopkins,Texas,48223,2852,1,98,0
-2021-02-18,Houston,Texas,48225,1525,3,37,1
-2021-02-18,Howard,Texas,48227,4466,-2,95,0
-2021-02-18,Hudspeth,Texas,48229,486,-1,11,0
-2021-02-18,Hunt,Texas,48231,5255,0,137,1
-2021-02-18,Hutchinson,Texas,48233,1509,0,67,0
-2021-02-18,Irion,Texas,48235,107,2,1,0
-2021-02-18,Jack,Texas,48237,596,-1,13,0
-2021-02-18,Jackson,Texas,48239,1571,0,28,0
-2021-02-18,Jasper,Texas,48241,2257,15,69,0
-2021-02-18,Jeff Davis,Texas,48243,171,1,2,0
-2021-02-18,Jefferson,Texas,48245,17827,0,332,2
-2021-02-18,Jim Hogg,Texas,48247,601,0,14,0
-2021-02-18,Jim Wells,Texas,48249,3798,1,81,0
-2021-02-18,Johnson,Texas,48251,18149,-8,304,0
-2021-02-18,Jones,Texas,48253,2729,0,46,0
-2021-02-18,Karnes,Texas,48255,1665,0,31,0
-2021-02-18,Kaufman,Texas,48257,14425,0,208,0
-2021-02-18,Kendall,Texas,48259,2683,0,58,0
-2021-02-18,Kenedy,Texas,48261,33,0,2,0
-2021-02-18,Kent,Texas,48263,77,0,1,0
-2021-02-18,Kerr,Texas,48265,3983,0,79,0
-2021-02-18,Kimble,Texas,48267,252,0,6,0
-2021-02-18,King,Texas,48269,13,0,0,0
-2021-02-18,Kinney,Texas,48271,332,0,6,0
-2021-02-18,Kleberg,Texas,48273,2321,0,77,0
-2021-02-18,Knox,Texas,48275,248,0,14,0
-2021-02-18,La Salle,Texas,48283,807,-2,21,0
-2021-02-18,Lamar,Texas,48277,5561,107,140,0
-2021-02-18,Lamb,Texas,48279,1956,0,79,0
-2021-02-18,Lampasas,Texas,48281,2014,6,26,1
-2021-02-18,Lavaca,Texas,48285,2177,0,69,0
-2021-02-18,Lee,Texas,48287,1937,7,36,0
-2021-02-18,Leon,Texas,48289,1515,3,36,0
-2021-02-18,Liberty,Texas,48291,6713,28,153,0
-2021-02-18,Limestone,Texas,48293,2562,0,57,1
-2021-02-18,Lipscomb,Texas,48295,290,0,11,0
-2021-02-18,Live Oak,Texas,48297,1090,0,19,0
-2021-02-18,Llano,Texas,48299,1455,1,43,0
-2021-02-18,Loving,Texas,48301,1,0,0,0
-2021-02-18,Lubbock,Texas,48303,47905,22,753,4
-2021-02-18,Lynn,Texas,48305,606,1,22,0
-2021-02-18,Madison,Texas,48313,1848,1,24,0
-2021-02-18,Marion,Texas,48315,505,0,24,0
-2021-02-18,Martin,Texas,48317,612,1,18,0
-2021-02-18,Mason,Texas,48319,373,0,4,0
-2021-02-18,Matagorda,Texas,48321,3083,15,88,2
-2021-02-18,Maverick,Texas,48323,10031,0,271,0
-2021-02-18,McCulloch,Texas,48307,519,0,15,0
-2021-02-18,McLennan,Texas,48309,24268,0,421,1
-2021-02-18,McMullen,Texas,48311,80,1,4,0
-2021-02-18,Medina,Texas,48325,4527,0,87,0
-2021-02-18,Menard,Texas,48327,204,0,7,0
-2021-02-18,Midland,Texas,48329,16140,0,233,2
-2021-02-18,Milam,Texas,48331,2219,0,37,0
-2021-02-18,Mills,Texas,48333,608,1,20,0
-2021-02-18,Mitchell,Texas,48335,575,0,29,0
-2021-02-18,Montague,Texas,48337,1968,0,58,0
-2021-02-18,Montgomery,Texas,48339,43077,0,431,1
-2021-02-18,Moore,Texas,48341,2203,0,68,0
-2021-02-18,Morris,Texas,48343,816,4,23,0
-2021-02-18,Motley,Texas,48345,83,0,7,0
-2021-02-18,Nacogdoches,Texas,48347,3998,2,141,0
-2021-02-18,Navarro,Texas,48349,5475,0,111,0
-2021-02-18,Newton,Texas,48351,558,0,29,0
-2021-02-18,Nolan,Texas,48353,1483,0,49,1
-2021-02-18,Nueces,Texas,48355,37124,50,687,3
-2021-02-18,Ochiltree,Texas,48357,1023,0,23,0
-2021-02-18,Oldham,Texas,48359,233,0,3,0
-2021-02-18,Orange,Texas,48361,7264,0,98,0
-2021-02-18,Palo Pinto,Texas,48363,2738,0,63,0
-2021-02-18,Panola,Texas,48365,1459,5,59,1
-2021-02-18,Parker,Texas,48367,14409,0,157,1
-2021-02-18,Parmer,Texas,48369,1155,0,34,0
-2021-02-18,Pecos,Texas,48371,1445,2,31,0
-2021-02-18,Polk,Texas,48373,2857,0,87,1
-2021-02-18,Potter,Texas,48375,16730,0,393,0
-2021-02-18,Presidio,Texas,48377,780,0,23,0
-2021-02-18,Rains,Texas,48379,747,0,23,0
-2021-02-18,Randall,Texas,48381,16055,0,268,0
-2021-02-18,Reagan,Texas,48383,365,0,8,0
-2021-02-18,Real,Texas,48385,296,0,12,0
-2021-02-18,Red River,Texas,48387,635,0,34,0
-2021-02-18,Reeves,Texas,48389,1698,-12,38,0
-2021-02-18,Refugio,Texas,48391,601,0,17,0
-2021-02-18,Roberts,Texas,48393,55,0,1,0
-2021-02-18,Robertson,Texas,48395,1988,1,32,0
-2021-02-18,Rockwall,Texas,48397,10274,0,116,0
-2021-02-18,Runnels,Texas,48399,1242,0,36,0
-2021-02-18,Rusk,Texas,48401,3642,6,89,0
-2021-02-18,Sabine,Texas,48403,489,0,38,0
-2021-02-18,San Augustine,Texas,48405,526,0,29,0
-2021-02-18,San Jacinto,Texas,48407,957,1,24,0
-2021-02-18,San Patricio,Texas,48409,3977,0,127,2
-2021-02-18,San Saba,Texas,48411,811,0,19,0
-2021-02-18,Schleicher,Texas,48413,224,-4,6,0
-2021-02-18,Scurry,Texas,48415,3380,0,60,0
-2021-02-18,Shackelford,Texas,48417,247,0,2,0
-2021-02-18,Shelby,Texas,48419,1508,2,51,0
-2021-02-18,Sherman,Texas,48421,136,0,12,0
-2021-02-18,Smith,Texas,48423,18535,0,387,0
-2021-02-18,Somervell,Texas,48425,1023,0,10,0
-2021-02-18,Starr,Texas,48427,8681,4,253,0
-2021-02-18,Stephens,Texas,48429,738,0,24,0
-2021-02-18,Sterling,Texas,48431,103,0,4,0
-2021-02-18,Stonewall,Texas,48433,149,0,6,0
-2021-02-18,Sutton,Texas,48435,455,0,8,0
-2021-02-18,Swisher,Texas,48437,743,0,16,0
-2021-02-18,Tarrant,Texas,48439,236911,450,2689,18
-2021-02-18,Taylor,Texas,48441,14956,0,352,0
-2021-02-18,Terrell,Texas,48443,74,0,2,0
-2021-02-18,Terry,Texas,48445,1667,2,54,1
-2021-02-18,Throckmorton,Texas,48447,72,0,5,0
-2021-02-18,Titus,Texas,48449,3554,1,74,0
-2021-02-18,Tom Green,Texas,48451,16123,0,247,0
-2021-02-18,Travis,Texas,48453,73538,0,807,2
-2021-02-18,Trinity,Texas,48455,648,7,20,0
-2021-02-18,Tyler,Texas,48457,1142,0,31,0
-2021-02-18,Upshur,Texas,48459,3103,3,54,0
-2021-02-18,Upton,Texas,48461,360,0,8,0
-2021-02-18,Uvalde,Texas,48463,3402,0,57,1
-2021-02-18,Val Verde,Texas,48465,7580,0,187,0
-2021-02-18,Van Zandt,Texas,48467,3891,0,103,0
-2021-02-18,Victoria,Texas,48469,7765,26,167,0
-2021-02-18,Walker,Texas,48471,8368,10,111,0
-2021-02-18,Waller,Texas,48473,3355,13,37,0
-2021-02-18,Ward,Texas,48475,1091,-1,20,0
-2021-02-18,Washington,Texas,48477,3600,1,80,0
-2021-02-18,Webb,Texas,48479,42419,0,736,0
-2021-02-18,Wharton,Texas,48481,3692,34,97,1
-2021-02-18,Wheeler,Texas,48483,471,0,9,0
-2021-02-18,Wichita,Texas,48485,14358,0,330,0
-2021-02-18,Wilbarger,Texas,48487,1837,0,51,0
-2021-02-18,Willacy,Texas,48489,2363,11,75,0
-2021-02-18,Williamson,Texas,48491,39586,0,375,3
-2021-02-18,Wilson,Texas,48493,3786,0,55,0
-2021-02-18,Winkler,Texas,48495,699,-2,20,0
-2021-02-18,Wise,Texas,48497,6801,0,109,0
-2021-02-18,Wood,Texas,48499,3165,0,112,0
-2021-02-18,Yoakum,Texas,48501,861,5,26,0
-2021-02-18,Young,Texas,48503,2078,0,38,0
-2021-02-18,Zapata,Texas,48505,1706,1,24,0
-2021-02-18,Zavala,Texas,48507,1746,0,35,0
 2021-02-19,Anderson,Texas,48001,6018,3,103,0
 2021-02-19,Andrews,Texas,48003,1679,0,45,0
 2021-02-19,Angelina,Texas,48005,7656,0,243,2
@@ -360,7 +106,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-19,Hays,Texas,48209,17598,0,202,0
 2021-02-19,Hemphill,Texas,48211,542,0,2,0
 2021-02-19,Henderson,Texas,48213,5448,10,148,0
-2021-02-19,Hidalgo,Texas,48215,72723,510,2584,9
+2021-02-19,Hidalgo,Texas,48215,71658,477,2584,9
 2021-02-19,Hill,Texas,48217,4275,5,88,3
 2021-02-19,Hockley,Texas,48219,2290,0,98,0
 2021-02-19,Hood,Texas,48221,6090,0,107,1
@@ -614,7 +360,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-20,Hays,Texas,48209,17598,0,202,0
 2021-02-20,Hemphill,Texas,48211,544,2,2,0
 2021-02-20,Henderson,Texas,48213,5448,0,148,0
-2021-02-20,Hidalgo,Texas,48215,72723,0,2584,0
+2021-02-20,Hidalgo,Texas,48215,71658,0,2584,0
 2021-02-20,Hill,Texas,48217,4282,7,88,0
 2021-02-20,Hockley,Texas,48219,2313,23,98,0
 2021-02-20,Hood,Texas,48221,6115,25,107,0
@@ -868,7 +614,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-21,Hays,Texas,48209,17598,0,202,0
 2021-02-21,Hemphill,Texas,48211,544,0,2,0
 2021-02-21,Henderson,Texas,48213,5448,0,148,0
-2021-02-21,Hidalgo,Texas,48215,72723,0,2584,0
+2021-02-21,Hidalgo,Texas,48215,71658,0,2584,0
 2021-02-21,Hill,Texas,48217,4282,0,89,1
 2021-02-21,Hockley,Texas,48219,2313,0,98,0
 2021-02-21,Hood,Texas,48221,6115,0,107,0
@@ -1122,7 +868,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-22,Hays,Texas,48209,17807,209,208,6
 2021-02-22,Hemphill,Texas,48211,544,0,2,0
 2021-02-22,Henderson,Texas,48213,5478,30,148,0
-2021-02-22,Hidalgo,Texas,48215,73425,702,2595,11
+2021-02-22,Hidalgo,Texas,48215,72355,697,2595,11
 2021-02-22,Hill,Texas,48217,4284,2,89,0
 2021-02-22,Hockley,Texas,48219,2313,0,98,0
 2021-02-22,Hood,Texas,48221,6115,0,107,0
@@ -1376,7 +1122,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-23,Hays,Texas,48209,17895,88,209,1
 2021-02-23,Hemphill,Texas,48211,544,0,2,0
 2021-02-23,Henderson,Texas,48213,5478,0,148,0
-2021-02-23,Hidalgo,Texas,48215,74041,616,2603,8
+2021-02-23,Hidalgo,Texas,48215,72968,613,2603,8
 2021-02-23,Hill,Texas,48217,4285,1,89,0
 2021-02-23,Hockley,Texas,48219,2314,1,98,0
 2021-02-23,Hood,Texas,48221,6138,23,107,0
@@ -1630,7 +1376,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-24,Hays,Texas,48209,17957,62,209,0
 2021-02-24,Hemphill,Texas,48211,544,0,2,0
 2021-02-24,Henderson,Texas,48213,5478,0,150,2
-2021-02-24,Hidalgo,Texas,48215,74894,853,2615,12
+2021-02-24,Hidalgo,Texas,48215,73818,850,2615,12
 2021-02-24,Hill,Texas,48217,4289,4,89,0
 2021-02-24,Hockley,Texas,48219,2318,4,98,0
 2021-02-24,Hood,Texas,48221,6142,4,108,1
@@ -1884,7 +1630,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-25,Hays,Texas,48209,18013,56,212,3
 2021-02-25,Hemphill,Texas,48211,544,0,2,0
 2021-02-25,Henderson,Texas,48213,5528,50,151,1
-2021-02-25,Hidalgo,Texas,48215,75701,807,2623,8
+2021-02-25,Hidalgo,Texas,48215,74621,803,2623,8
 2021-02-25,Hill,Texas,48217,4292,3,90,1
 2021-02-25,Hockley,Texas,48219,2320,2,98,0
 2021-02-25,Hood,Texas,48221,6158,16,109,1
@@ -2138,7 +1884,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-26,Hays,Texas,48209,18059,46,213,1
 2021-02-26,Hemphill,Texas,48211,545,1,2,0
 2021-02-26,Henderson,Texas,48213,5548,20,155,4
-2021-02-26,Hidalgo,Texas,48215,76684,983,2629,6
+2021-02-26,Hidalgo,Texas,48215,75599,978,2629,6
 2021-02-26,Hill,Texas,48217,4301,9,91,1
 2021-02-26,Hockley,Texas,48219,2324,4,98,0
 2021-02-26,Hood,Texas,48221,6163,5,109,0
@@ -2392,7 +2138,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-27,Hays,Texas,48209,18059,0,213,0
 2021-02-27,Hemphill,Texas,48211,545,0,2,0
 2021-02-27,Henderson,Texas,48213,5548,0,156,1
-2021-02-27,Hidalgo,Texas,48215,76684,0,2629,0
+2021-02-27,Hidalgo,Texas,48215,75599,0,2629,0
 2021-02-27,Hill,Texas,48217,4301,0,91,0
 2021-02-27,Hockley,Texas,48219,2325,1,98,0
 2021-02-27,Hood,Texas,48221,6190,27,110,1
@@ -2646,7 +2392,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-02-28,Hays,Texas,48209,18059,0,213,0
 2021-02-28,Hemphill,Texas,48211,545,0,2,0
 2021-02-28,Henderson,Texas,48213,5548,0,158,2
-2021-02-28,Hidalgo,Texas,48215,76684,0,2629,0
+2021-02-28,Hidalgo,Texas,48215,75599,0,2629,0
 2021-02-28,Hill,Texas,48217,4301,0,94,3
 2021-02-28,Hockley,Texas,48219,2325,0,98,0
 2021-02-28,Hood,Texas,48221,6190,0,111,1
@@ -2900,7 +2646,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-01,Hays,Texas,48209,18138,79,216,3
 2021-03-01,Hemphill,Texas,48211,545,0,2,0
 2021-03-01,Henderson,Texas,48213,5566,18,160,2
-2021-03-01,Hidalgo,Texas,48215,77312,628,2638,9
+2021-03-01,Hidalgo,Texas,48215,76219,620,2638,9
 2021-03-01,Hill,Texas,48217,4308,7,94,0
 2021-03-01,Hockley,Texas,48219,2325,0,98,0
 2021-03-01,Hood,Texas,48221,6190,0,113,2
@@ -3154,7 +2900,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-02,Hays,Texas,48209,18201,63,221,5
 2021-03-02,Hemphill,Texas,48211,545,0,2,0
 2021-03-02,Henderson,Texas,48213,5566,0,162,2
-2021-03-02,Hidalgo,Texas,48215,77702,390,2645,7
+2021-03-02,Hidalgo,Texas,48215,76546,327,2645,7
 2021-03-02,Hill,Texas,48217,4308,0,94,0
 2021-03-02,Hockley,Texas,48219,2327,2,99,1
 2021-03-02,Hood,Texas,48221,6218,28,114,1
@@ -3408,7 +3154,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-03,Hays,Texas,48209,18244,43,224,3
 2021-03-03,Hemphill,Texas,48211,544,-1,2,0
 2021-03-03,Henderson,Texas,48213,5579,13,164,2
-2021-03-03,Hidalgo,Texas,48215,78165,463,2655,10
+2021-03-03,Hidalgo,Texas,48215,77003,457,2655,10
 2021-03-03,Hill,Texas,48217,4313,5,96,2
 2021-03-03,Hockley,Texas,48219,2332,5,99,0
 2021-03-03,Hood,Texas,48221,6220,2,114,0
@@ -3662,7 +3408,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-04,Hays,Texas,48209,18271,27,225,1
 2021-03-04,Hemphill,Texas,48211,546,2,2,0
 2021-03-04,Henderson,Texas,48213,5579,0,165,1
-2021-03-04,Hidalgo,Texas,48215,78468,303,2666,11
+2021-03-04,Hidalgo,Texas,48215,77284,281,2666,11
 2021-03-04,Hill,Texas,48217,4317,4,98,2
 2021-03-04,Hockley,Texas,48219,2333,1,99,0
 2021-03-04,Hood,Texas,48221,6238,18,115,1
@@ -3916,7 +3662,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-05,Hays,Texas,48209,18318,47,227,2
 2021-03-05,Hemphill,Texas,48211,546,0,2,0
 2021-03-05,Henderson,Texas,48213,5603,24,167,2
-2021-03-05,Hidalgo,Texas,48215,78770,302,2679,13
+2021-03-05,Hidalgo,Texas,48215,77563,279,2679,13
 2021-03-05,Hill,Texas,48217,4320,3,98,0
 2021-03-05,Hockley,Texas,48219,2335,2,99,0
 2021-03-05,Hood,Texas,48221,6245,7,117,2
@@ -4170,7 +3916,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-06,Hays,Texas,48209,18318,0,227,0
 2021-03-06,Hemphill,Texas,48211,546,0,2,0
 2021-03-06,Henderson,Texas,48213,5603,0,167,0
-2021-03-06,Hidalgo,Texas,48215,78770,0,2679,0
+2021-03-06,Hidalgo,Texas,48215,77563,0,2679,0
 2021-03-06,Hill,Texas,48217,4325,5,99,1
 2021-03-06,Hockley,Texas,48219,2335,0,99,0
 2021-03-06,Hood,Texas,48221,6249,4,117,0
@@ -4424,7 +4170,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-07,Hays,Texas,48209,18318,0,227,0
 2021-03-07,Hemphill,Texas,48211,546,0,2,0
 2021-03-07,Henderson,Texas,48213,5603,0,167,0
-2021-03-07,Hidalgo,Texas,48215,78770,0,2679,0
+2021-03-07,Hidalgo,Texas,48215,77563,0,2679,0
 2021-03-07,Hill,Texas,48217,4325,0,100,1
 2021-03-07,Hockley,Texas,48219,2335,0,99,0
 2021-03-07,Hood,Texas,48221,6249,0,118,1
@@ -4678,7 +4424,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-08,Hays,Texas,48209,18406,88,229,2
 2021-03-08,Hemphill,Texas,48211,546,0,2,0
 2021-03-08,Henderson,Texas,48213,5613,10,167,0
-2021-03-08,Hidalgo,Texas,48215,78926,156,2687,8
+2021-03-08,Hidalgo,Texas,48215,77711,148,2687,8
 2021-03-08,Hill,Texas,48217,4327,2,100,0
 2021-03-08,Hockley,Texas,48219,2335,0,99,0
 2021-03-08,Hood,Texas,48221,6249,0,119,1
@@ -4932,7 +4678,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-09,Hays,Texas,48209,18425,19,229,0
 2021-03-09,Hemphill,Texas,48211,546,0,2,0
 2021-03-09,Henderson,Texas,48213,5613,0,168,1
-2021-03-09,Hidalgo,Texas,48215,79142,216,2694,7
+2021-03-09,Hidalgo,Texas,48215,77919,208,2694,7
 2021-03-09,Hill,Texas,48217,4329,2,100,0
 2021-03-09,Hockley,Texas,48219,2341,6,100,1
 2021-03-09,Hood,Texas,48221,6261,12,119,0
@@ -5186,7 +4932,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-10,Hays,Texas,48209,18452,27,229,0
 2021-03-10,Hemphill,Texas,48211,546,0,2,0
 2021-03-10,Henderson,Texas,48213,5613,0,169,1
-2021-03-10,Hidalgo,Texas,48215,79380,238,2698,4
+2021-03-10,Hidalgo,Texas,48215,78145,226,2698,4
 2021-03-10,Hill,Texas,48217,4328,-1,100,0
 2021-03-10,Hockley,Texas,48219,2347,6,100,0
 2021-03-10,Hood,Texas,48221,6267,6,119,0
@@ -5440,7 +5186,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-11,Hays,Texas,48209,18490,38,231,2
 2021-03-11,Hemphill,Texas,48211,546,0,2,0
 2021-03-11,Henderson,Texas,48213,5622,9,171,2
-2021-03-11,Hidalgo,Texas,48215,79637,257,2703,5
+2021-03-11,Hidalgo,Texas,48215,78397,252,2703,5
 2021-03-11,Hill,Texas,48217,4330,2,101,1
 2021-03-11,Hockley,Texas,48219,2352,5,100,0
 2021-03-11,Hood,Texas,48221,6289,22,120,1
@@ -5694,7 +5440,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-12,Hays,Texas,48209,18507,17,232,1
 2021-03-12,Hemphill,Texas,48211,546,0,2,0
 2021-03-12,Henderson,Texas,48213,5634,12,172,1
-2021-03-12,Hidalgo,Texas,48215,80455,818,2704,1
+2021-03-12,Hidalgo,Texas,48215,79214,817,2704,1
 2021-03-12,Hill,Texas,48217,4333,3,101,0
 2021-03-12,Hockley,Texas,48219,2354,2,100,0
 2021-03-12,Hood,Texas,48221,6300,11,120,0
@@ -5948,7 +5694,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-13,Hays,Texas,48209,18507,0,232,0
 2021-03-13,Hemphill,Texas,48211,546,0,2,0
 2021-03-13,Henderson,Texas,48213,5634,0,172,0
-2021-03-13,Hidalgo,Texas,48215,80455,0,2704,0
+2021-03-13,Hidalgo,Texas,48215,79214,0,2704,0
 2021-03-13,Hill,Texas,48217,4343,10,102,1
 2021-03-13,Hockley,Texas,48219,2354,0,100,0
 2021-03-13,Hood,Texas,48221,6307,7,121,1
@@ -6202,7 +5948,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-14,Hays,Texas,48209,18507,0,232,0
 2021-03-14,Hemphill,Texas,48211,546,0,2,0
 2021-03-14,Henderson,Texas,48213,5634,0,172,0
-2021-03-14,Hidalgo,Texas,48215,80455,0,2704,0
+2021-03-14,Hidalgo,Texas,48215,79214,0,2704,0
 2021-03-14,Hill,Texas,48217,4343,0,102,0
 2021-03-14,Hockley,Texas,48219,2354,0,100,0
 2021-03-14,Hood,Texas,48221,6307,0,121,0
@@ -6456,7 +6202,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-15,Hays,Texas,48209,18608,101,232,0
 2021-03-15,Hemphill,Texas,48211,546,0,2,0
 2021-03-15,Henderson,Texas,48213,5642,8,172,0
-2021-03-15,Hidalgo,Texas,48215,81248,793,2708,4
+2021-03-15,Hidalgo,Texas,48215,80004,790,2708,4
 2021-03-15,Hill,Texas,48217,4347,4,102,0
 2021-03-15,Hockley,Texas,48219,2354,0,100,0
 2021-03-15,Hood,Texas,48221,6307,0,122,1
@@ -6710,7 +6456,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-16,Hays,Texas,48209,18636,28,232,0
 2021-03-16,Hemphill,Texas,48211,546,0,2,0
 2021-03-16,Henderson,Texas,48213,5642,0,172,0
-2021-03-16,Hidalgo,Texas,48215,82222,974,2711,3
+2021-03-16,Hidalgo,Texas,48215,80967,963,2711,3
 2021-03-16,Hill,Texas,48217,4347,0,102,0
 2021-03-16,Hockley,Texas,48219,2359,5,100,0
 2021-03-16,Hood,Texas,48221,6320,13,122,0
@@ -6964,7 +6710,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-17,Hays,Texas,48209,18641,5,233,1
 2021-03-17,Hemphill,Texas,48211,546,0,2,0
 2021-03-17,Henderson,Texas,48213,5660,18,172,0
-2021-03-17,Hidalgo,Texas,48215,82881,659,2718,7
+2021-03-17,Hidalgo,Texas,48215,81622,655,2718,7
 2021-03-17,Hill,Texas,48217,4356,9,102,0
 2021-03-17,Hockley,Texas,48219,2363,4,100,0
 2021-03-17,Hood,Texas,48221,6327,7,122,0
@@ -7218,7 +6964,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-18,Hays,Texas,48209,18717,76,234,1
 2021-03-18,Hemphill,Texas,48211,546,0,2,0
 2021-03-18,Henderson,Texas,48213,5660,0,172,0
-2021-03-18,Hidalgo,Texas,48215,83259,378,2727,9
+2021-03-18,Hidalgo,Texas,48215,81978,356,2727,9
 2021-03-18,Hill,Texas,48217,4356,0,103,1
 2021-03-18,Hockley,Texas,48219,2363,0,100,0
 2021-03-18,Hood,Texas,48221,6329,2,122,0
@@ -7472,7 +7218,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-19,Hays,Texas,48209,18738,21,235,1
 2021-03-19,Hemphill,Texas,48211,546,0,2,0
 2021-03-19,Henderson,Texas,48213,5670,10,173,1
-2021-03-19,Hidalgo,Texas,48215,83401,142,2732,5
+2021-03-19,Hidalgo,Texas,48215,82114,136,2732,5
 2021-03-19,Hill,Texas,48217,4357,1,104,1
 2021-03-19,Hockley,Texas,48219,2363,0,100,0
 2021-03-19,Hood,Texas,48221,6337,8,122,0
@@ -7726,7 +7472,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-20,Hays,Texas,48209,18738,0,235,0
 2021-03-20,Hemphill,Texas,48211,546,0,2,0
 2021-03-20,Henderson,Texas,48213,5670,0,173,0
-2021-03-20,Hidalgo,Texas,48215,83401,0,2732,0
+2021-03-20,Hidalgo,Texas,48215,82114,0,2732,0
 2021-03-20,Hill,Texas,48217,4360,3,104,0
 2021-03-20,Hockley,Texas,48219,2363,0,100,0
 2021-03-20,Hood,Texas,48221,6347,10,122,0
@@ -7980,7 +7726,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-21,Hays,Texas,48209,18738,0,235,0
 2021-03-21,Hemphill,Texas,48211,546,0,2,0
 2021-03-21,Henderson,Texas,48213,5670,0,173,0
-2021-03-21,Hidalgo,Texas,48215,83401,0,2732,0
+2021-03-21,Hidalgo,Texas,48215,82114,0,2732,0
 2021-03-21,Hill,Texas,48217,4360,0,104,0
 2021-03-21,Hockley,Texas,48219,2363,0,100,0
 2021-03-21,Hood,Texas,48221,6347,0,122,0
@@ -8234,7 +7980,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-22,Hays,Texas,48209,18777,39,235,0
 2021-03-22,Hemphill,Texas,48211,546,0,2,0
 2021-03-22,Henderson,Texas,48213,5679,9,174,1
-2021-03-22,Hidalgo,Texas,48215,83531,130,2738,6
+2021-03-22,Hidalgo,Texas,48215,82240,126,2738,6
 2021-03-22,Hill,Texas,48217,4362,2,104,0
 2021-03-22,Hockley,Texas,48219,2363,0,100,0
 2021-03-22,Hood,Texas,48221,6347,0,122,0
@@ -8488,7 +8234,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-23,Hays,Texas,48209,18812,35,235,0
 2021-03-23,Hemphill,Texas,48211,547,1,2,0
 2021-03-23,Henderson,Texas,48213,5679,0,174,0
-2021-03-23,Hidalgo,Texas,48215,83714,183,2743,5
+2021-03-23,Hidalgo,Texas,48215,82394,154,2743,5
 2021-03-23,Hill,Texas,48217,4366,4,104,0
 2021-03-23,Hockley,Texas,48219,2381,18,100,0
 2021-03-23,Hood,Texas,48221,6373,26,122,0
@@ -8742,7 +8488,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-24,Hays,Texas,48209,18827,15,236,1
 2021-03-24,Hemphill,Texas,48211,550,3,2,0
 2021-03-24,Henderson,Texas,48213,5679,0,175,1
-2021-03-24,Hidalgo,Texas,48215,84085,371,2747,4
+2021-03-24,Hidalgo,Texas,48215,82761,367,2747,4
 2021-03-24,Hill,Texas,48217,4374,8,104,0
 2021-03-24,Hockley,Texas,48219,2413,32,100,0
 2021-03-24,Hood,Texas,48221,6383,10,122,0
@@ -8996,7 +8742,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-25,Hays,Texas,48209,18888,61,236,0
 2021-03-25,Hemphill,Texas,48211,550,0,2,0
 2021-03-25,Henderson,Texas,48213,5694,15,176,1
-2021-03-25,Hidalgo,Texas,48215,84281,196,2751,4
+2021-03-25,Hidalgo,Texas,48215,82942,181,2751,4
 2021-03-25,Hill,Texas,48217,4377,3,104,0
 2021-03-25,Hockley,Texas,48219,2415,2,100,0
 2021-03-25,Hood,Texas,48221,6386,3,122,0
@@ -9250,7 +8996,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-26,Hays,Texas,48209,18916,28,236,0
 2021-03-26,Hemphill,Texas,48211,550,0,2,0
 2021-03-26,Henderson,Texas,48213,5694,0,176,0
-2021-03-26,Hidalgo,Texas,48215,84460,179,2754,3
+2021-03-26,Hidalgo,Texas,48215,83098,156,2754,3
 2021-03-26,Hill,Texas,48217,4382,5,104,0
 2021-03-26,Hockley,Texas,48219,2415,0,100,0
 2021-03-26,Hood,Texas,48221,6390,4,122,0
@@ -9504,7 +9250,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-27,Hays,Texas,48209,18916,0,236,0
 2021-03-27,Hemphill,Texas,48211,550,0,2,0
 2021-03-27,Henderson,Texas,48213,5694,0,176,0
-2021-03-27,Hidalgo,Texas,48215,84460,0,2754,0
+2021-03-27,Hidalgo,Texas,48215,83098,0,2754,0
 2021-03-27,Hill,Texas,48217,4386,4,104,0
 2021-03-27,Hockley,Texas,48219,2418,3,100,0
 2021-03-27,Hood,Texas,48221,6391,1,122,0
@@ -9758,7 +9504,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-28,Hays,Texas,48209,18916,0,236,0
 2021-03-28,Hemphill,Texas,48211,550,0,2,0
 2021-03-28,Henderson,Texas,48213,5694,0,176,0
-2021-03-28,Hidalgo,Texas,48215,84460,0,2754,0
+2021-03-28,Hidalgo,Texas,48215,83098,0,2754,0
 2021-03-28,Hill,Texas,48217,4386,0,104,0
 2021-03-28,Hockley,Texas,48219,2418,0,100,0
 2021-03-28,Hood,Texas,48221,6391,0,122,0
@@ -10012,7 +9758,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-29,Hays,Texas,48209,19008,92,236,0
 2021-03-29,Hemphill,Texas,48211,550,0,2,0
 2021-03-29,Henderson,Texas,48213,5698,4,177,1
-2021-03-29,Hidalgo,Texas,48215,84611,151,2760,6
+2021-03-29,Hidalgo,Texas,48215,83177,79,2760,6
 2021-03-29,Hill,Texas,48217,4389,3,104,0
 2021-03-29,Hockley,Texas,48219,2418,0,100,0
 2021-03-29,Hood,Texas,48221,6391,0,122,0
@@ -10266,7 +10012,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-30,Hays,Texas,48209,19012,4,236,0
 2021-03-30,Hemphill,Texas,48211,550,0,2,0
 2021-03-30,Henderson,Texas,48213,5698,0,177,0
-2021-03-30,Hidalgo,Texas,48215,84755,144,2765,5
+2021-03-30,Hidalgo,Texas,48215,83263,86,2765,5
 2021-03-30,Hill,Texas,48217,4398,9,104,0
 2021-03-30,Hockley,Texas,48219,2418,0,100,0
 2021-03-30,Hood,Texas,48221,6399,8,122,0
@@ -10520,7 +10266,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-31,Hays,Texas,48209,19040,28,236,0
 2021-03-31,Hemphill,Texas,48211,560,10,2,0
 2021-03-31,Henderson,Texas,48213,5698,0,178,1
-2021-03-31,Hidalgo,Texas,48215,84969,214,2766,1
+2021-03-31,Hidalgo,Texas,48215,83453,190,2766,1
 2021-03-31,Hill,Texas,48217,4400,2,104,0
 2021-03-31,Hockley,Texas,48219,2423,5,100,0
 2021-03-31,Hood,Texas,48221,6414,15,123,1
@@ -10774,7 +10520,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-01,Hays,Texas,48209,19081,41,236,0
 2021-04-01,Hemphill,Texas,48211,560,0,2,0
 2021-04-01,Henderson,Texas,48213,5707,9,179,1
-2021-04-01,Hidalgo,Texas,48215,85141,172,2768,2
+2021-04-01,Hidalgo,Texas,48215,83624,171,2768,2
 2021-04-01,Hill,Texas,48217,4411,11,104,0
 2021-04-01,Hockley,Texas,48219,2428,5,100,0
 2021-04-01,Hood,Texas,48221,6416,2,123,0
@@ -11028,7 +10774,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-02,Hays,Texas,48209,19081,0,236,0
 2021-04-02,Hemphill,Texas,48211,560,0,2,0
 2021-04-02,Henderson,Texas,48213,5707,0,179,0
-2021-04-02,Hidalgo,Texas,48215,85141,0,2768,0
+2021-04-02,Hidalgo,Texas,48215,83624,0,2768,0
 2021-04-02,Hill,Texas,48217,4411,0,104,0
 2021-04-02,Hockley,Texas,48219,2432,4,100,0
 2021-04-02,Hood,Texas,48221,6416,0,123,0
@@ -11282,7 +11028,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-03,Hays,Texas,48209,19081,0,236,0
 2021-04-03,Hemphill,Texas,48211,560,0,2,0
 2021-04-03,Henderson,Texas,48213,5707,0,180,1
-2021-04-03,Hidalgo,Texas,48215,85141,0,2768,0
+2021-04-03,Hidalgo,Texas,48215,83624,0,2768,0
 2021-04-03,Hill,Texas,48217,4408,-3,104,0
 2021-04-03,Hockley,Texas,48219,2432,0,100,0
 2021-04-03,Hood,Texas,48221,6420,4,123,0
@@ -11536,7 +11282,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-04,Hays,Texas,48209,19081,0,236,0
 2021-04-04,Hemphill,Texas,48211,560,0,2,0
 2021-04-04,Henderson,Texas,48213,5707,0,180,0
-2021-04-04,Hidalgo,Texas,48215,85141,0,2768,0
+2021-04-04,Hidalgo,Texas,48215,83624,0,2768,0
 2021-04-04,Hill,Texas,48217,4408,0,104,0
 2021-04-04,Hockley,Texas,48219,2432,0,100,0
 2021-04-04,Hood,Texas,48221,6420,0,123,0
@@ -11790,7 +11536,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-05,Hays,Texas,48209,19236,155,238,2
 2021-04-05,Hemphill,Texas,48211,560,0,2,0
 2021-04-05,Henderson,Texas,48213,5720,13,180,0
-2021-04-05,Hidalgo,Texas,48215,85206,65,2769,1
+2021-04-05,Hidalgo,Texas,48215,83689,65,2769,1
 2021-04-05,Hill,Texas,48217,4414,6,104,0
 2021-04-05,Hockley,Texas,48219,2432,0,100,0
 2021-04-05,Hood,Texas,48221,6420,0,123,0
@@ -12044,7 +11790,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-06,Hays,Texas,48209,19258,22,238,0
 2021-04-06,Hemphill,Texas,48211,560,0,2,0
 2021-04-06,Henderson,Texas,48213,5720,0,180,0
-2021-04-06,Hidalgo,Texas,48215,85296,90,2775,6
+2021-04-06,Hidalgo,Texas,48215,83779,90,2775,6
 2021-04-06,Hill,Texas,48217,4415,1,104,0
 2021-04-06,Hockley,Texas,48219,2434,2,100,0
 2021-04-06,Hood,Texas,48221,6422,2,123,0
@@ -12298,7 +12044,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-07,Hays,Texas,48209,19272,14,239,1
 2021-04-07,Hemphill,Texas,48211,557,-3,2,0
 2021-04-07,Henderson,Texas,48213,5720,0,181,1
-2021-04-07,Hidalgo,Texas,48215,85628,332,2782,7
+2021-04-07,Hidalgo,Texas,48215,84109,330,2782,7
 2021-04-07,Hill,Texas,48217,4415,0,105,1
 2021-04-07,Hockley,Texas,48219,2463,29,100,0
 2021-04-07,Hood,Texas,48221,6425,3,123,0
@@ -12552,7 +12298,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-08,Hays,Texas,48209,19362,90,240,1
 2021-04-08,Hemphill,Texas,48211,558,1,2,0
 2021-04-08,Henderson,Texas,48213,5728,8,181,0
-2021-04-08,Hidalgo,Texas,48215,85899,271,2788,6
+2021-04-08,Hidalgo,Texas,48215,84380,271,2788,6
 2021-04-08,Hill,Texas,48217,4416,1,105,0
 2021-04-08,Hockley,Texas,48219,2614,151,100,0
 2021-04-08,Hood,Texas,48221,6427,2,123,0
@@ -12806,7 +12552,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-09,Hays,Texas,48209,19363,1,240,0
 2021-04-09,Hemphill,Texas,48211,559,1,2,0
 2021-04-09,Henderson,Texas,48213,5728,0,182,1
-2021-04-09,Hidalgo,Texas,48215,86076,177,2792,4
+2021-04-09,Hidalgo,Texas,48215,84556,176,2792,4
 2021-04-09,Hill,Texas,48217,4415,-1,105,0
 2021-04-09,Hockley,Texas,48219,2630,16,100,0
 2021-04-09,Hood,Texas,48221,6429,2,123,0
@@ -13060,7 +12806,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-10,Hays,Texas,48209,19363,0,240,0
 2021-04-10,Hemphill,Texas,48211,558,-1,2,0
 2021-04-10,Henderson,Texas,48213,5728,0,182,0
-2021-04-10,Hidalgo,Texas,48215,86076,0,2792,0
+2021-04-10,Hidalgo,Texas,48215,84556,0,2792,0
 2021-04-10,Hill,Texas,48217,4418,3,105,0
 2021-04-10,Hockley,Texas,48219,2704,74,101,1
 2021-04-10,Hood,Texas,48221,6431,2,123,0
@@ -13314,7 +13060,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-11,Hays,Texas,48209,19363,0,240,0
 2021-04-11,Hemphill,Texas,48211,558,0,2,0
 2021-04-11,Henderson,Texas,48213,5728,0,182,0
-2021-04-11,Hidalgo,Texas,48215,86076,0,2792,0
+2021-04-11,Hidalgo,Texas,48215,84556,0,2792,0
 2021-04-11,Hill,Texas,48217,4418,0,105,0
 2021-04-11,Hockley,Texas,48219,2704,0,101,0
 2021-04-11,Hood,Texas,48221,6431,0,123,0
@@ -13568,7 +13314,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-12,Hays,Texas,48209,19524,161,241,1
 2021-04-12,Hemphill,Texas,48211,558,0,2,0
 2021-04-12,Henderson,Texas,48213,5748,20,183,1
-2021-04-12,Hidalgo,Texas,48215,86167,91,2794,2
+2021-04-12,Hidalgo,Texas,48215,84647,91,2794,2
 2021-04-12,Hill,Texas,48217,4425,7,105,0
 2021-04-12,Hockley,Texas,48219,2704,0,101,0
 2021-04-12,Hood,Texas,48221,6431,0,124,1
@@ -13822,7 +13568,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-13,Hays,Texas,48209,19543,19,241,0
 2021-04-13,Hemphill,Texas,48211,561,3,2,0
 2021-04-13,Henderson,Texas,48213,5748,0,183,0
-2021-04-13,Hidalgo,Texas,48215,86339,172,2797,3
+2021-04-13,Hidalgo,Texas,48215,84812,165,2797,3
 2021-04-13,Hill,Texas,48217,4427,2,105,0
 2021-04-13,Hockley,Texas,48219,2780,76,101,0
 2021-04-13,Hood,Texas,48221,6445,14,125,1
@@ -14076,7 +13822,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-14,Hays,Texas,48209,19592,49,241,0
 2021-04-14,Hemphill,Texas,48211,561,0,2,0
 2021-04-14,Henderson,Texas,48213,5748,0,184,1
-2021-04-14,Hidalgo,Texas,48215,86542,203,2799,2
+2021-04-14,Hidalgo,Texas,48215,85014,202,2799,2
 2021-04-14,Hill,Texas,48217,4427,0,105,0
 2021-04-14,Hockley,Texas,48219,2778,-2,101,0
 2021-04-14,Hood,Texas,48221,6446,1,125,0
@@ -14330,7 +14076,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-15,Hays,Texas,48209,19638,46,241,0
 2021-04-15,Hemphill,Texas,48211,561,0,2,0
 2021-04-15,Henderson,Texas,48213,5768,20,184,0
-2021-04-15,Hidalgo,Texas,48215,86760,218,2801,2
+2021-04-15,Hidalgo,Texas,48215,85232,218,2801,2
 2021-04-15,Hill,Texas,48217,4428,1,106,1
 2021-04-15,Hockley,Texas,48219,2778,0,101,0
 2021-04-15,Hood,Texas,48221,6448,2,125,0
@@ -14584,7 +14330,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-16,Hays,Texas,48209,19707,69,238,-3
 2021-04-16,Hemphill,Texas,48211,561,0,2,0
 2021-04-16,Henderson,Texas,48213,5768,0,184,0
-2021-04-16,Hidalgo,Texas,48215,86969,209,2801,0
+2021-04-16,Hidalgo,Texas,48215,85438,206,2801,0
 2021-04-16,Hill,Texas,48217,4428,0,106,0
 2021-04-16,Hockley,Texas,48219,2791,13,102,1
 2021-04-16,Hood,Texas,48221,6448,0,125,0
@@ -14838,7 +14584,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-17,Hays,Texas,48209,19707,0,238,0
 2021-04-17,Hemphill,Texas,48211,561,0,2,0
 2021-04-17,Henderson,Texas,48213,5768,0,184,0
-2021-04-17,Hidalgo,Texas,48215,86969,0,2801,0
+2021-04-17,Hidalgo,Texas,48215,85438,0,2801,0
 2021-04-17,Hill,Texas,48217,4437,9,106,0
 2021-04-17,Hockley,Texas,48219,2799,8,102,0
 2021-04-17,Hood,Texas,48221,6449,1,125,0
@@ -15092,7 +14838,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-18,Hays,Texas,48209,19707,0,238,0
 2021-04-18,Hemphill,Texas,48211,561,0,2,0
 2021-04-18,Henderson,Texas,48213,5768,0,184,0
-2021-04-18,Hidalgo,Texas,48215,86969,0,2801,0
+2021-04-18,Hidalgo,Texas,48215,85438,0,2801,0
 2021-04-18,Hill,Texas,48217,4437,0,106,0
 2021-04-18,Hockley,Texas,48219,2799,0,102,0
 2021-04-18,Hood,Texas,48221,6449,0,126,1
@@ -15346,7 +15092,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-19,Hays,Texas,48209,19830,123,238,0
 2021-04-19,Hemphill,Texas,48211,561,0,2,0
 2021-04-19,Henderson,Texas,48213,5768,0,184,0
-2021-04-19,Hidalgo,Texas,48215,87159,190,2804,3
+2021-04-19,Hidalgo,Texas,48215,85628,190,2804,3
 2021-04-19,Hill,Texas,48217,4439,2,106,0
 2021-04-19,Hockley,Texas,48219,2799,0,102,0
 2021-04-19,Hood,Texas,48221,6449,0,126,0
@@ -15600,7 +15346,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-20,Hays,Texas,48209,19884,54,238,0
 2021-04-20,Hemphill,Texas,48211,561,0,2,0
 2021-04-20,Henderson,Texas,48213,5786,18,184,0
-2021-04-20,Hidalgo,Texas,48215,87367,208,2806,2
+2021-04-20,Hidalgo,Texas,48215,85836,208,2806,2
 2021-04-20,Hill,Texas,48217,4441,2,106,0
 2021-04-20,Hockley,Texas,48219,2800,1,102,0
 2021-04-20,Hood,Texas,48221,6463,14,126,0
@@ -15722,7 +15468,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-20,Travis,Texas,48453,81470,128,979,3
 2021-04-20,Trinity,Texas,48455,731,1,24,0
 2021-04-20,Tyler,Texas,48457,1294,0,37,0
-2021-04-20,Unknown,Texas,,25,25,3,2
+2021-04-20,Unknown,Texas,,2390,2390,964,963
 2021-04-20,Upshur,Texas,48459,3231,2,74,0
 2021-04-20,Upton,Texas,48461,378,-1,10,0
 2021-04-20,Uvalde,Texas,48463,3560,2,72,1
@@ -15855,7 +15601,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-21,Hays,Texas,48209,19943,59,239,1
 2021-04-21,Hemphill,Texas,48211,561,0,2,0
 2021-04-21,Henderson,Texas,48213,5786,0,184,0
-2021-04-21,Hidalgo,Texas,48215,87602,235,2809,3
+2021-04-21,Hidalgo,Texas,48215,86071,235,2809,3
 2021-04-21,Hill,Texas,48217,4447,6,106,0
 2021-04-21,Hockley,Texas,48219,2800,0,102,0
 2021-04-21,Hood,Texas,48221,6466,3,127,1
@@ -16109,7 +15855,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-22,Hays,Texas,48209,19982,39,239,0
 2021-04-22,Hemphill,Texas,48211,563,2,2,0
 2021-04-22,Henderson,Texas,48213,5811,25,184,0
-2021-04-22,Hidalgo,Texas,48215,87744,142,2809,0
+2021-04-22,Hidalgo,Texas,48215,86200,129,2809,0
 2021-04-22,Hill,Texas,48217,4450,3,106,0
 2021-04-22,Hockley,Texas,48219,2808,8,102,0
 2021-04-22,Hood,Texas,48221,6467,1,127,0
@@ -16363,7 +16109,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-23,Hays,Texas,48209,20026,44,239,0
 2021-04-23,Hemphill,Texas,48211,563,0,2,0
 2021-04-23,Henderson,Texas,48213,5811,0,184,0
-2021-04-23,Hidalgo,Texas,48215,87810,66,2810,1
+2021-04-23,Hidalgo,Texas,48215,86263,63,2810,1
 2021-04-23,Hill,Texas,48217,4456,6,107,1
 2021-04-23,Hockley,Texas,48219,2808,0,102,0
 2021-04-23,Hood,Texas,48221,6469,2,127,0
@@ -16617,7 +16363,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-24,Hays,Texas,48209,20026,0,239,0
 2021-04-24,Hemphill,Texas,48211,586,23,2,0
 2021-04-24,Henderson,Texas,48213,5811,0,184,0
-2021-04-24,Hidalgo,Texas,48215,87810,0,2810,0
+2021-04-24,Hidalgo,Texas,48215,86263,0,2810,0
 2021-04-24,Hill,Texas,48217,4462,6,107,0
 2021-04-24,Hockley,Texas,48219,2808,0,102,0
 2021-04-24,Hood,Texas,48221,6472,3,127,0
@@ -16871,7 +16617,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-25,Hays,Texas,48209,20026,0,239,0
 2021-04-25,Hemphill,Texas,48211,586,0,2,0
 2021-04-25,Henderson,Texas,48213,5811,0,184,0
-2021-04-25,Hidalgo,Texas,48215,87810,0,2810,0
+2021-04-25,Hidalgo,Texas,48215,86263,0,2810,0
 2021-04-25,Hill,Texas,48217,4462,0,107,0
 2021-04-25,Hockley,Texas,48219,2808,0,102,0
 2021-04-25,Hood,Texas,48221,6472,0,127,0
@@ -17125,7 +16871,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-26,Hays,Texas,48209,20190,164,239,0
 2021-04-26,Hemphill,Texas,48211,586,0,2,0
 2021-04-26,Henderson,Texas,48213,5811,0,184,0
-2021-04-26,Hidalgo,Texas,48215,87879,69,2811,1
+2021-04-26,Hidalgo,Texas,48215,86332,69,2811,1
 2021-04-26,Hill,Texas,48217,4463,1,107,0
 2021-04-26,Hockley,Texas,48219,2808,0,102,0
 2021-04-26,Hood,Texas,48221,6472,0,127,0
@@ -17379,7 +17125,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-27,Hays,Texas,48209,20222,32,239,0
 2021-04-27,Hemphill,Texas,48211,586,0,2,0
 2021-04-27,Henderson,Texas,48213,5818,7,184,0
-2021-04-27,Hidalgo,Texas,48215,88044,165,2815,4
+2021-04-27,Hidalgo,Texas,48215,86495,163,2815,4
 2021-04-27,Hill,Texas,48217,4465,2,108,1
 2021-04-27,Hockley,Texas,48219,2810,2,102,0
 2021-04-27,Hood,Texas,48221,6476,4,127,0
@@ -17633,7 +17379,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-28,Hays,Texas,48209,20240,18,239,0
 2021-04-28,Hemphill,Texas,48211,586,0,2,0
 2021-04-28,Henderson,Texas,48213,5818,0,184,0
-2021-04-28,Hidalgo,Texas,48215,88249,205,2818,3
+2021-04-28,Hidalgo,Texas,48215,86700,205,2818,3
 2021-04-28,Hill,Texas,48217,4470,5,108,0
 2021-04-28,Hockley,Texas,48219,2818,8,102,0
 2021-04-28,Hood,Texas,48221,6504,28,127,0
@@ -17887,7 +17633,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-29,Hays,Texas,48209,20275,35,239,0
 2021-04-29,Hemphill,Texas,48211,586,0,2,0
 2021-04-29,Henderson,Texas,48213,5818,0,184,0
-2021-04-29,Hidalgo,Texas,48215,88734,485,2823,5
+2021-04-29,Hidalgo,Texas,48215,86867,167,2823,5
 2021-04-29,Hill,Texas,48217,4475,5,108,0
 2021-04-29,Hockley,Texas,48219,2818,0,102,0
 2021-04-29,Hood,Texas,48221,6512,8,127,0
@@ -18141,7 +17887,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-30,Hays,Texas,48209,20360,85,239,0
 2021-04-30,Hemphill,Texas,48211,586,0,2,0
 2021-04-30,Henderson,Texas,48213,5839,21,184,0
-2021-04-30,Hidalgo,Texas,48215,88604,-130,2824,1
+2021-04-30,Hidalgo,Texas,48215,87012,145,2824,1
 2021-04-30,Hill,Texas,48217,4477,2,108,0
 2021-04-30,Hockley,Texas,48219,2818,0,102,0
 2021-04-30,Hood,Texas,48221,6513,1,127,0
@@ -18395,7 +18141,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-01,Hays,Texas,48209,20360,0,239,0
 2021-05-01,Hemphill,Texas,48211,586,0,2,0
 2021-05-01,Henderson,Texas,48213,5839,0,184,0
-2021-05-01,Hidalgo,Texas,48215,88604,0,2824,0
+2021-05-01,Hidalgo,Texas,48215,87012,0,2824,0
 2021-05-01,Hill,Texas,48217,4483,6,108,0
 2021-05-01,Hockley,Texas,48219,2818,0,102,0
 2021-05-01,Hood,Texas,48221,6517,4,128,1
@@ -18649,7 +18395,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-02,Hays,Texas,48209,20360,0,239,0
 2021-05-02,Hemphill,Texas,48211,586,0,2,0
 2021-05-02,Henderson,Texas,48213,5839,0,184,0
-2021-05-02,Hidalgo,Texas,48215,88604,0,2824,0
+2021-05-02,Hidalgo,Texas,48215,87012,0,2824,0
 2021-05-02,Hill,Texas,48217,4483,0,108,0
 2021-05-02,Hockley,Texas,48219,2818,0,102,0
 2021-05-02,Hood,Texas,48221,6517,0,129,1
@@ -18903,7 +18649,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-03,Hays,Texas,48209,20449,89,240,1
 2021-05-03,Hemphill,Texas,48211,586,0,2,0
 2021-05-03,Henderson,Texas,48213,5839,0,184,0
-2021-05-03,Hidalgo,Texas,48215,88723,119,2825,1
+2021-05-03,Hidalgo,Texas,48215,87106,94,2825,1
 2021-05-03,Hill,Texas,48217,4489,6,108,0
 2021-05-03,Hockley,Texas,48219,2818,0,102,0
 2021-05-03,Hood,Texas,48221,6517,0,129,0
@@ -19157,7 +18903,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-04,Hays,Texas,48209,20495,46,240,0
 2021-05-04,Hemphill,Texas,48211,585,-1,2,0
 2021-05-04,Henderson,Texas,48213,5864,25,184,0
-2021-05-04,Hidalgo,Texas,48215,88830,107,2826,1
+2021-05-04,Hidalgo,Texas,48215,87208,102,2826,1
 2021-05-04,Hill,Texas,48217,4489,0,108,0
 2021-05-04,Hockley,Texas,48219,2819,1,102,0
 2021-05-04,Hood,Texas,48221,6532,15,129,0
@@ -19411,7 +19157,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-05,Hays,Texas,48209,20546,51,240,0
 2021-05-05,Hemphill,Texas,48211,585,0,2,0
 2021-05-05,Henderson,Texas,48213,5864,0,184,0
-2021-05-05,Hidalgo,Texas,48215,89037,207,2830,4
+2021-05-05,Hidalgo,Texas,48215,87390,182,2830,4
 2021-05-05,Hill,Texas,48217,4489,0,108,0
 2021-05-05,Hockley,Texas,48219,2819,0,103,1
 2021-05-05,Hood,Texas,48221,6534,2,129,0
@@ -19536,7 +19282,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-05,Upshur,Texas,48459,3260,3,74,0
 2021-05-05,Upton,Texas,48461,367,0,10,0
 2021-05-05,Uvalde,Texas,48463,3574,2,72,0
-2021-05-05,Val Verde,Texas,48465,7855,0,220,0
+2021-05-05,Val Verde,Texas,48465,7860,5,220,0
 2021-05-05,Van Zandt,Texas,48467,4296,0,117,0
 2021-05-05,Victoria,Texas,48469,8634,0,208,1
 2021-05-05,Walker,Texas,48471,8811,-33,126,0
@@ -19665,7 +19411,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-06,Hays,Texas,48209,20571,25,240,0
 2021-05-06,Hemphill,Texas,48211,585,0,2,0
 2021-05-06,Henderson,Texas,48213,5864,0,185,1
-2021-05-06,Hidalgo,Texas,48215,89147,110,2832,2
+2021-05-06,Hidalgo,Texas,48215,87494,104,2832,2
 2021-05-06,Hill,Texas,48217,4489,0,108,0
 2021-05-06,Hockley,Texas,48219,2820,1,103,0
 2021-05-06,Hood,Texas,48221,6542,8,129,0
@@ -19790,7 +19536,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-06,Upshur,Texas,48459,3265,5,74,0
 2021-05-06,Upton,Texas,48461,368,1,10,0
 2021-05-06,Uvalde,Texas,48463,3574,0,72,0
-2021-05-06,Val Verde,Texas,48465,7860,5,220,0
+2021-05-06,Val Verde,Texas,48465,7860,0,220,0
 2021-05-06,Van Zandt,Texas,48467,4296,0,117,0
 2021-05-06,Victoria,Texas,48469,8713,79,208,0
 2021-05-06,Walker,Texas,48471,8811,0,126,0
@@ -19919,7 +19665,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-07,Hays,Texas,48209,20600,29,240,0
 2021-05-07,Hemphill,Texas,48211,585,0,2,0
 2021-05-07,Henderson,Texas,48213,5894,30,185,0
-2021-05-07,Hidalgo,Texas,48215,89323,176,2834,2
+2021-05-07,Hidalgo,Texas,48215,87640,146,2834,2
 2021-05-07,Hill,Texas,48217,4497,8,108,0
 2021-05-07,Hockley,Texas,48219,2824,4,103,0
 2021-05-07,Hood,Texas,48221,6543,1,129,0
@@ -20173,7 +19919,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-08,Hays,Texas,48209,20600,0,240,0
 2021-05-08,Hemphill,Texas,48211,585,0,2,0
 2021-05-08,Henderson,Texas,48213,5894,0,186,1
-2021-05-08,Hidalgo,Texas,48215,89426,103,2837,3
+2021-05-08,Hidalgo,Texas,48215,87640,0,2834,0
 2021-05-08,Hill,Texas,48217,4498,1,108,0
 2021-05-08,Hockley,Texas,48219,2825,1,103,0
 2021-05-08,Hood,Texas,48221,6544,1,129,0
@@ -20427,7 +20173,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-09,Hays,Texas,48209,20600,0,240,0
 2021-05-09,Hemphill,Texas,48211,585,0,2,0
 2021-05-09,Henderson,Texas,48213,5894,0,186,0
-2021-05-09,Hidalgo,Texas,48215,89426,0,2837,0
+2021-05-09,Hidalgo,Texas,48215,87640,0,2834,0
 2021-05-09,Hill,Texas,48217,4498,0,108,0
 2021-05-09,Hockley,Texas,48219,2825,0,103,0
 2021-05-09,Hood,Texas,48221,6544,0,129,0
@@ -20681,7 +20427,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-10,Hays,Texas,48209,20645,45,241,1
 2021-05-10,Hemphill,Texas,48211,585,0,2,0
 2021-05-10,Henderson,Texas,48213,5894,0,186,0
-2021-05-10,Hidalgo,Texas,48215,89426,0,2837,0
+2021-05-10,Hidalgo,Texas,48215,87717,77,2837,3
 2021-05-10,Hill,Texas,48217,4501,3,108,0
 2021-05-10,Hockley,Texas,48219,2825,0,103,0
 2021-05-10,Hood,Texas,48221,6544,0,129,0
@@ -20806,7 +20552,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-10,Upshur,Texas,48459,3274,3,75,0
 2021-05-10,Upton,Texas,48461,369,0,10,0
 2021-05-10,Uvalde,Texas,48463,3575,1,72,0
-2021-05-10,Val Verde,Texas,48465,7860,0,221,0
+2021-05-10,Val Verde,Texas,48465,7877,17,221,0
 2021-05-10,Van Zandt,Texas,48467,4314,0,117,0
 2021-05-10,Victoria,Texas,48469,8760,0,209,0
 2021-05-10,Walker,Texas,48471,8809,5,126,0
@@ -20935,7 +20681,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-11,Hays,Texas,48209,20660,15,241,0
 2021-05-11,Hemphill,Texas,48211,585,0,2,0
 2021-05-11,Henderson,Texas,48213,5908,14,188,2
-2021-05-11,Hidalgo,Texas,48215,89563,137,2839,2
+2021-05-11,Hidalgo,Texas,48215,87850,133,2839,2
 2021-05-11,Hill,Texas,48217,4502,1,108,0
 2021-05-11,Hockley,Texas,48219,2827,2,103,0
 2021-05-11,Hood,Texas,48221,6558,14,129,0
@@ -21060,7 +20806,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-11,Upshur,Texas,48459,3276,2,75,0
 2021-05-11,Upton,Texas,48461,370,1,10,0
 2021-05-11,Uvalde,Texas,48463,3575,0,72,0
-2021-05-11,Val Verde,Texas,48465,7860,0,221,0
+2021-05-11,Val Verde,Texas,48465,7877,0,221,0
 2021-05-11,Van Zandt,Texas,48467,4327,13,117,0
 2021-05-11,Victoria,Texas,48469,8777,17,209,0
 2021-05-11,Walker,Texas,48471,8805,-4,126,0
@@ -21189,7 +20935,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-12,Hays,Texas,48209,20679,19,243,2
 2021-05-12,Hemphill,Texas,48211,584,-1,2,0
 2021-05-12,Henderson,Texas,48213,5908,0,188,0
-2021-05-12,Hidalgo,Texas,48215,89761,198,2844,5
+2021-05-12,Hidalgo,Texas,48215,87996,146,2844,5
 2021-05-12,Hill,Texas,48217,4502,0,108,0
 2021-05-12,Hockley,Texas,48219,2827,0,103,0
 2021-05-12,Hood,Texas,48221,6558,0,129,0
@@ -21314,7 +21060,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-12,Upshur,Texas,48459,3278,2,75,0
 2021-05-12,Upton,Texas,48461,371,1,10,0
 2021-05-12,Uvalde,Texas,48463,3575,0,72,0
-2021-05-12,Val Verde,Texas,48465,7860,0,221,0
+2021-05-12,Val Verde,Texas,48465,7877,0,221,0
 2021-05-12,Van Zandt,Texas,48467,4327,0,117,0
 2021-05-12,Victoria,Texas,48469,8817,40,209,0
 2021-05-12,Walker,Texas,48471,8663,-142,126,0
@@ -21443,7 +21189,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-13,Hays,Texas,48209,20712,33,244,1
 2021-05-13,Hemphill,Texas,48211,585,1,2,0
 2021-05-13,Henderson,Texas,48213,5908,0,188,0
-2021-05-13,Hidalgo,Texas,48215,89953,192,2848,4
+2021-05-13,Hidalgo,Texas,48215,88142,146,2848,4
 2021-05-13,Hill,Texas,48217,4502,0,108,0
 2021-05-13,Hockley,Texas,48219,2827,0,103,0
 2021-05-13,Hood,Texas,48221,6559,1,129,0
@@ -21568,7 +21314,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-13,Upshur,Texas,48459,3284,6,75,0
 2021-05-13,Upton,Texas,48461,371,0,10,0
 2021-05-13,Uvalde,Texas,48463,3577,2,72,0
-2021-05-13,Val Verde,Texas,48465,7860,0,221,0
+2021-05-13,Val Verde,Texas,48465,7877,0,221,0
 2021-05-13,Van Zandt,Texas,48467,4327,0,117,0
 2021-05-13,Victoria,Texas,48469,8852,35,210,1
 2021-05-13,Walker,Texas,48471,8679,16,126,0
@@ -21697,7 +21443,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-14,Hays,Texas,48209,20729,17,245,1
 2021-05-14,Hemphill,Texas,48211,585,0,2,0
 2021-05-14,Henderson,Texas,48213,5926,18,189,1
-2021-05-14,Hidalgo,Texas,48215,90142,189,2850,2
+2021-05-14,Hidalgo,Texas,48215,88303,161,2850,2
 2021-05-14,Hill,Texas,48217,4505,3,108,0
 2021-05-14,Hockley,Texas,48219,2827,0,103,0
 2021-05-14,Hood,Texas,48221,6563,4,129,0
@@ -21822,7 +21568,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-14,Upshur,Texas,48459,3283,-1,75,0
 2021-05-14,Upton,Texas,48461,371,0,10,0
 2021-05-14,Uvalde,Texas,48463,3578,1,72,0
-2021-05-14,Val Verde,Texas,48465,7860,0,222,1
+2021-05-14,Val Verde,Texas,48465,7877,0,222,1
 2021-05-14,Van Zandt,Texas,48467,4346,19,117,0
 2021-05-14,Victoria,Texas,48469,8868,16,210,0
 2021-05-14,Walker,Texas,48471,8706,27,128,2
@@ -21951,7 +21697,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-15,Hays,Texas,48209,20729,0,245,0
 2021-05-15,Hemphill,Texas,48211,585,0,2,0
 2021-05-15,Henderson,Texas,48213,5926,0,189,0
-2021-05-15,Hidalgo,Texas,48215,90142,0,2850,0
+2021-05-15,Hidalgo,Texas,48215,88303,0,2850,0
 2021-05-15,Hill,Texas,48217,4508,3,108,0
 2021-05-15,Hockley,Texas,48219,2829,2,103,0
 2021-05-15,Hood,Texas,48221,6565,2,129,0
@@ -22076,7 +21822,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-15,Upshur,Texas,48459,3285,2,75,0
 2021-05-15,Upton,Texas,48461,371,0,10,0
 2021-05-15,Uvalde,Texas,48463,3581,3,72,0
-2021-05-15,Val Verde,Texas,48465,7860,0,222,0
+2021-05-15,Val Verde,Texas,48465,7877,0,222,0
 2021-05-15,Van Zandt,Texas,48467,4346,0,117,0
 2021-05-15,Victoria,Texas,48469,8883,15,210,0
 2021-05-15,Walker,Texas,48471,8667,-39,128,0
@@ -22205,7 +21951,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-16,Hays,Texas,48209,20729,0,245,0
 2021-05-16,Hemphill,Texas,48211,585,0,2,0
 2021-05-16,Henderson,Texas,48213,5926,0,189,0
-2021-05-16,Hidalgo,Texas,48215,90142,0,2850,0
+2021-05-16,Hidalgo,Texas,48215,88303,0,2850,0
 2021-05-16,Hill,Texas,48217,4508,0,108,0
 2021-05-16,Hockley,Texas,48219,2829,0,103,0
 2021-05-16,Hood,Texas,48221,6565,0,129,0
@@ -22330,7 +22076,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-16,Upshur,Texas,48459,3287,2,75,0
 2021-05-16,Upton,Texas,48461,371,0,10,0
 2021-05-16,Uvalde,Texas,48463,3581,0,72,0
-2021-05-16,Val Verde,Texas,48465,7860,0,222,0
+2021-05-16,Val Verde,Texas,48465,7877,0,222,0
 2021-05-16,Van Zandt,Texas,48467,4346,0,117,0
 2021-05-16,Victoria,Texas,48469,8883,0,210,0
 2021-05-16,Walker,Texas,48471,8672,5,128,0
@@ -22459,7 +22205,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-17,Hays,Texas,48209,20779,50,245,0
 2021-05-17,Hemphill,Texas,48211,585,0,2,0
 2021-05-17,Henderson,Texas,48213,5926,0,189,0
-2021-05-17,Hidalgo,Texas,48215,90193,51,2854,4
+2021-05-17,Hidalgo,Texas,48215,88343,40,2854,4
 2021-05-17,Hill,Texas,48217,4509,1,108,0
 2021-05-17,Hockley,Texas,48219,2829,0,103,0
 2021-05-17,Hood,Texas,48221,6565,0,129,0
@@ -22584,7 +22330,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-17,Upshur,Texas,48459,3289,2,75,0
 2021-05-17,Upton,Texas,48461,371,0,10,0
 2021-05-17,Uvalde,Texas,48463,3581,0,72,0
-2021-05-17,Val Verde,Texas,48465,7860,0,222,0
+2021-05-17,Val Verde,Texas,48465,7877,0,222,0
 2021-05-17,Van Zandt,Texas,48467,4346,0,117,0
 2021-05-17,Victoria,Texas,48469,8883,0,210,0
 2021-05-17,Walker,Texas,48471,8676,4,128,0
@@ -22713,7 +22459,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-18,Hays,Texas,48209,20797,18,245,0
 2021-05-18,Hemphill,Texas,48211,585,0,2,0
 2021-05-18,Henderson,Texas,48213,5949,23,189,0
-2021-05-18,Hidalgo,Texas,48215,90391,198,2858,4
+2021-05-18,Hidalgo,Texas,48215,88511,168,2858,4
 2021-05-18,Hill,Texas,48217,4511,2,108,0
 2021-05-18,Hockley,Texas,48219,2838,9,103,0
 2021-05-18,Hood,Texas,48221,6576,11,129,0
@@ -22838,7 +22584,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-18,Upshur,Texas,48459,3290,1,75,0
 2021-05-18,Upton,Texas,48461,371,0,10,0
 2021-05-18,Uvalde,Texas,48463,3582,1,72,0
-2021-05-18,Val Verde,Texas,48465,7860,0,223,1
+2021-05-18,Val Verde,Texas,48465,7889,12,223,1
 2021-05-18,Van Zandt,Texas,48467,4358,12,118,1
 2021-05-18,Victoria,Texas,48469,8903,20,210,0
 2021-05-18,Walker,Texas,48471,8808,132,128,0
@@ -22967,7 +22713,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-19,Hays,Texas,48209,20823,26,245,0
 2021-05-19,Hemphill,Texas,48211,585,0,2,0
 2021-05-19,Henderson,Texas,48213,5949,0,189,0
-2021-05-19,Hidalgo,Texas,48215,90589,198,2862,4
+2021-05-19,Hidalgo,Texas,48215,88709,198,2862,4
 2021-05-19,Hill,Texas,48217,4511,0,108,0
 2021-05-19,Hockley,Texas,48219,2838,0,103,0
 2021-05-19,Hood,Texas,48221,6578,2,129,0
@@ -23092,7 +22838,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-19,Upshur,Texas,48459,3291,1,75,0
 2021-05-19,Upton,Texas,48461,372,1,10,0
 2021-05-19,Uvalde,Texas,48463,3583,1,72,0
-2021-05-19,Val Verde,Texas,48465,7860,0,223,0
+2021-05-19,Val Verde,Texas,48465,7889,0,223,0
 2021-05-19,Van Zandt,Texas,48467,4358,0,118,0
 2021-05-19,Victoria,Texas,48469,8951,48,210,0
 2021-05-19,Walker,Texas,48471,8794,-14,128,0
@@ -23221,7 +22967,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-20,Hays,Texas,48209,20846,23,245,0
 2021-05-20,Hemphill,Texas,48211,586,1,2,0
 2021-05-20,Henderson,Texas,48213,5949,0,189,0
-2021-05-20,Hidalgo,Texas,48215,90675,86,2865,3
+2021-05-20,Hidalgo,Texas,48215,88776,67,2865,3
 2021-05-20,Hill,Texas,48217,4513,2,108,0
 2021-05-20,Hockley,Texas,48219,2841,3,103,0
 2021-05-20,Hood,Texas,48221,6579,1,129,0
@@ -23346,7 +23092,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-20,Upshur,Texas,48459,3292,1,75,0
 2021-05-20,Upton,Texas,48461,372,0,10,0
 2021-05-20,Uvalde,Texas,48463,3583,0,72,0
-2021-05-20,Val Verde,Texas,48465,7860,0,223,0
+2021-05-20,Val Verde,Texas,48465,7889,0,223,0
 2021-05-20,Van Zandt,Texas,48467,4358,0,118,0
 2021-05-20,Victoria,Texas,48469,8973,22,210,0
 2021-05-20,Walker,Texas,48471,8785,-9,129,1
@@ -23475,7 +23221,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-21,Hays,Texas,48209,20846,0,245,0
 2021-05-21,Hemphill,Texas,48211,586,0,2,0
 2021-05-21,Henderson,Texas,48213,5953,4,189,0
-2021-05-21,Hidalgo,Texas,48215,90738,63,2866,1
+2021-05-21,Hidalgo,Texas,48215,88813,37,2866,1
 2021-05-21,Hill,Texas,48217,4513,0,108,0
 2021-05-21,Hockley,Texas,48219,2845,4,103,0
 2021-05-21,Hood,Texas,48221,6579,0,129,0
@@ -23600,7 +23346,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-21,Upshur,Texas,48459,3294,2,75,0
 2021-05-21,Upton,Texas,48461,373,1,10,0
 2021-05-21,Uvalde,Texas,48463,3584,1,72,0
-2021-05-21,Val Verde,Texas,48465,7860,0,223,0
+2021-05-21,Val Verde,Texas,48465,7889,0,223,0
 2021-05-21,Van Zandt,Texas,48467,4363,5,118,0
 2021-05-21,Victoria,Texas,48469,8988,15,210,0
 2021-05-21,Walker,Texas,48471,8790,5,130,1
@@ -23729,7 +23475,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-22,Hays,Texas,48209,20864,18,245,0
 2021-05-22,Hemphill,Texas,48211,584,-2,2,0
 2021-05-22,Henderson,Texas,48213,5953,0,189,0
-2021-05-22,Hidalgo,Texas,48215,90738,0,2866,0
+2021-05-22,Hidalgo,Texas,48215,88813,0,2866,0
 2021-05-22,Hill,Texas,48217,4516,3,108,0
 2021-05-22,Hockley,Texas,48219,2844,-1,103,0
 2021-05-22,Hood,Texas,48221,6580,1,129,0
@@ -23854,7 +23600,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-22,Upshur,Texas,48459,3294,0,75,0
 2021-05-22,Upton,Texas,48461,373,0,10,0
 2021-05-22,Uvalde,Texas,48463,3584,0,72,0
-2021-05-22,Val Verde,Texas,48465,7860,0,223,0
+2021-05-22,Val Verde,Texas,48465,7889,0,223,0
 2021-05-22,Van Zandt,Texas,48467,4363,0,118,0
 2021-05-22,Victoria,Texas,48469,9002,14,212,2
 2021-05-22,Walker,Texas,48471,8790,0,130,0
@@ -23983,7 +23729,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-23,Hays,Texas,48209,20864,0,245,0
 2021-05-23,Hemphill,Texas,48211,584,0,2,0
 2021-05-23,Henderson,Texas,48213,5953,0,189,0
-2021-05-23,Hidalgo,Texas,48215,90738,0,2866,0
+2021-05-23,Hidalgo,Texas,48215,88813,0,2866,0
 2021-05-23,Hill,Texas,48217,4516,0,108,0
 2021-05-23,Hockley,Texas,48219,2844,0,103,0
 2021-05-23,Hood,Texas,48221,6580,0,129,0
@@ -24108,7 +23854,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-23,Upshur,Texas,48459,3296,2,75,0
 2021-05-23,Upton,Texas,48461,373,0,10,0
 2021-05-23,Uvalde,Texas,48463,3593,9,72,0
-2021-05-23,Val Verde,Texas,48465,7860,0,223,0
+2021-05-23,Val Verde,Texas,48465,7889,0,223,0
 2021-05-23,Van Zandt,Texas,48467,4363,0,119,1
 2021-05-23,Victoria,Texas,48469,9002,0,212,0
 2021-05-23,Walker,Texas,48471,8792,2,130,0
@@ -24237,7 +23983,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-24,Hays,Texas,48209,20877,13,246,1
 2021-05-24,Hemphill,Texas,48211,584,0,2,0
 2021-05-24,Henderson,Texas,48213,5953,0,189,0
-2021-05-24,Hidalgo,Texas,48215,90738,0,2866,0
+2021-05-24,Hidalgo,Texas,48215,88834,21,2867,1
 2021-05-24,Hill,Texas,48217,4521,5,108,0
 2021-05-24,Hockley,Texas,48219,2844,0,103,0
 2021-05-24,Hood,Texas,48221,6580,0,129,0
@@ -24362,7 +24108,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-24,Upshur,Texas,48459,3296,0,75,0
 2021-05-24,Upton,Texas,48461,373,0,10,0
 2021-05-24,Uvalde,Texas,48463,3594,1,72,0
-2021-05-24,Val Verde,Texas,48465,7860,0,223,0
+2021-05-24,Val Verde,Texas,48465,7889,0,223,0
 2021-05-24,Van Zandt,Texas,48467,4363,0,119,0
 2021-05-24,Victoria,Texas,48469,9002,0,212,0
 2021-05-24,Walker,Texas,48471,8796,4,130,0
@@ -24491,7 +24237,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-25,Hays,Texas,48209,20889,12,246,0
 2021-05-25,Hemphill,Texas,48211,584,0,2,0
 2021-05-25,Henderson,Texas,48213,5960,7,191,2
-2021-05-25,Hidalgo,Texas,48215,90738,0,2866,0
+2021-05-25,Hidalgo,Texas,48215,88967,133,2870,3
 2021-05-25,Hill,Texas,48217,4525,4,108,0
 2021-05-25,Hockley,Texas,48219,2841,-3,103,0
 2021-05-25,Hood,Texas,48221,6585,5,129,0
@@ -24616,7 +24362,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-25,Upshur,Texas,48459,3296,0,75,0
 2021-05-25,Upton,Texas,48461,373,0,10,0
 2021-05-25,Uvalde,Texas,48463,3594,0,72,0
-2021-05-25,Val Verde,Texas,48465,7860,0,223,0
+2021-05-25,Val Verde,Texas,48465,7889,0,223,0
 2021-05-25,Van Zandt,Texas,48467,4374,11,119,0
 2021-05-25,Victoria,Texas,48469,9016,14,213,1
 2021-05-25,Walker,Texas,48471,8817,21,130,0
@@ -24745,7 +24491,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-26,Hays,Texas,48209,20906,17,246,0
 2021-05-26,Hemphill,Texas,48211,584,0,2,0
 2021-05-26,Henderson,Texas,48213,5960,0,191,0
-2021-05-26,Hidalgo,Texas,48215,91136,398,2874,8
+2021-05-26,Hidalgo,Texas,48215,89136,169,2870,0
 2021-05-26,Hill,Texas,48217,4526,1,108,0
 2021-05-26,Hockley,Texas,48219,2856,15,103,0
 2021-05-26,Hood,Texas,48221,6585,0,130,1
@@ -24870,7 +24616,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-26,Upshur,Texas,48459,3297,1,75,0
 2021-05-26,Upton,Texas,48461,373,0,10,0
 2021-05-26,Uvalde,Texas,48463,3594,0,72,0
-2021-05-26,Val Verde,Texas,48465,7860,0,223,0
+2021-05-26,Val Verde,Texas,48465,7921,32,233,10
 2021-05-26,Van Zandt,Texas,48467,4374,0,119,0
 2021-05-26,Victoria,Texas,48469,9016,0,214,1
 2021-05-26,Walker,Texas,48471,8790,-27,130,0
@@ -24892,3 +24638,257 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-26,Young,Texas,48503,2180,0,44,0
 2021-05-26,Zapata,Texas,48505,1775,0,36,0
 2021-05-26,Zavala,Texas,48507,1868,1,41,0
+2021-05-27,Anderson,Texas,48001,6220,14,127,1
+2021-05-27,Andrews,Texas,48003,1832,0,47,0
+2021-05-27,Angelina,Texas,48005,8613,0,283,0
+2021-05-27,Aransas,Texas,48007,1255,1,41,0
+2021-05-27,Archer,Texas,48009,811,0,12,0
+2021-05-27,Armstrong,Texas,48011,205,0,6,0
+2021-05-27,Atascosa,Texas,48013,5816,-5,150,0
+2021-05-27,Austin,Texas,48015,2197,0,37,0
+2021-05-27,Bailey,Texas,48017,833,3,19,0
+2021-05-27,Bandera,Texas,48019,1427,0,27,0
+2021-05-27,Bastrop,Texas,48021,9601,17,96,1
+2021-05-27,Baylor,Texas,48023,299,0,12,0
+2021-05-27,Bee,Texas,48025,3501,1,73,1
+2021-05-27,Bell,Texas,48027,22634,0,434,0
+2021-05-27,Bexar,Texas,48029,222772,174,3565,5
+2021-05-27,Blanco,Texas,48031,748,2,20,0
+2021-05-27,Borden,Texas,48033,30,0,2,0
+2021-05-27,Bosque,Texas,48035,1688,0,34,0
+2021-05-27,Bowie,Texas,48037,7071,5,219,3
+2021-05-27,Brazoria,Texas,48039,38044,-7,514,0
+2021-05-27,Brazos,Texas,48041,27533,21,252,0
+2021-05-27,Brewster,Texas,48043,935,1,16,0
+2021-05-27,Briscoe,Texas,48045,168,0,6,1
+2021-05-27,Brooks,Texas,48047,827,0,36,0
+2021-05-27,Brown,Texas,48049,4272,0,138,0
+2021-05-27,Burleson,Texas,48051,2435,0,48,0
+2021-05-27,Burnet,Texas,48053,4796,7,65,0
+2021-05-27,Caldwell,Texas,48055,5714,6,98,0
+2021-05-27,Calhoun,Texas,48057,2399,4,24,0
+2021-05-27,Callahan,Texas,48059,1201,2,40,0
+2021-05-27,Cameron,Texas,48061,41201,35,1658,2
+2021-05-27,Camp,Texas,48063,1260,0,44,1
+2021-05-27,Carson,Texas,48065,536,4,14,0
+2021-05-27,Cass,Texas,48067,1954,4,83,0
+2021-05-27,Castro,Texas,48069,1008,4,32,0
+2021-05-27,Chambers,Texas,48071,5100,3,49,0
+2021-05-27,Cherokee,Texas,48073,4254,1,142,0
+2021-05-27,Childress,Texas,48075,1378,0,17,0
+2021-05-27,Clay,Texas,48077,1035,0,16,0
+2021-05-27,Cochran,Texas,48079,320,0,15,0
+2021-05-27,Coke,Texas,48081,467,0,13,0
+2021-05-27,Coleman,Texas,48083,750,0,33,0
+2021-05-27,Collin,Texas,48085,91504,53,833,1
+2021-05-27,Collingsworth,Texas,48087,330,0,9,0
+2021-05-27,Colorado,Texas,48089,1741,2,32,0
+2021-05-27,Comal,Texas,48091,10797,9,322,0
+2021-05-27,Comanche,Texas,48093,1560,0,51,0
+2021-05-27,Concho,Texas,48095,474,4,8,0
+2021-05-27,Cooke,Texas,48097,3781,1,72,0
+2021-05-27,Coryell,Texas,48099,7307,-3,86,0
+2021-05-27,Cottle,Texas,48101,190,0,7,0
+2021-05-27,Crane,Texas,48103,536,1,12,0
+2021-05-27,Crockett,Texas,48105,576,0,15,0
+2021-05-27,Crosby,Texas,48107,660,3,29,0
+2021-05-27,Culberson,Texas,48109,364,0,11,0
+2021-05-27,Dallam,Texas,48111,995,0,26,0
+2021-05-27,Dallas,Texas,48113,302803,0,4070,3
+2021-05-27,Dawson,Texas,48115,1737,0,69,0
+2021-05-27,DeWitt,Texas,48123,1929,-3,59,0
+2021-05-27,Deaf Smith,Texas,48117,2850,6,66,0
+2021-05-27,Delta,Texas,48119,323,0,12,0
+2021-05-27,Denton,Texas,48121,76022,63,764,1
+2021-05-27,Dickens,Texas,48125,187,0,10,0
+2021-05-27,Dimmit,Texas,48127,2255,0,36,0
+2021-05-27,Donley,Texas,48129,418,0,15,0
+2021-05-27,Duval,Texas,48131,1274,7,41,0
+2021-05-27,Eastland,Texas,48133,1361,0,49,0
+2021-05-27,Ector,Texas,48135,17400,0,377,0
+2021-05-27,Edwards,Texas,48137,252,0,6,0
+2021-05-27,El Paso,Texas,48141,135974,23,2706,1
+2021-05-27,Ellis,Texas,48139,23013,10,314,0
+2021-05-27,Erath,Texas,48143,4215,0,69,0
+2021-05-27,Falls,Texas,48145,2099,1,32,0
+2021-05-27,Fannin,Texas,48147,3494,-2,108,0
+2021-05-27,Fayette,Texas,48149,2737,0,65,0
+2021-05-27,Fisher,Texas,48151,304,0,14,0
+2021-05-27,Floyd,Texas,48153,885,0,30,0
+2021-05-27,Foard,Texas,48155,124,1,10,0
+2021-05-27,Fort Bend,Texas,48157,68639,38,680,1
+2021-05-27,Franklin,Texas,48159,735,0,26,0
+2021-05-27,Freestone,Texas,48161,1959,3,50,0
+2021-05-27,Frio,Texas,48163,2918,0,52,0
+2021-05-27,Gaines,Texas,48165,1452,0,44,0
+2021-05-27,Galveston,Texas,48167,40300,36,423,0
+2021-05-27,Garza,Texas,48169,501,3,22,0
+2021-05-27,Gillespie,Texas,48171,2582,0,50,0
+2021-05-27,Glasscock,Texas,48173,104,0,2,0
+2021-05-27,Goliad,Texas,48175,471,14,13,0
+2021-05-27,Gonzales,Texas,48177,2751,-1,57,0
+2021-05-27,Gray,Texas,48179,2348,9,57,0
+2021-05-27,Grayson,Texas,48181,11345,3,342,1
+2021-05-27,Gregg,Texas,48183,11302,0,356,0
+2021-05-27,Grimes,Texas,48185,3752,2,71,0
+2021-05-27,Guadalupe,Texas,48187,15093,13,216,3
+2021-05-27,Hale,Texas,48189,6148,0,156,0
+2021-05-27,Hall,Texas,48191,487,1,14,0
+2021-05-27,Hamilton,Texas,48193,783,0,27,0
+2021-05-27,Hansford,Texas,48195,911,1,24,0
+2021-05-27,Hardeman,Texas,48197,383,0,12,0
+2021-05-27,Hardin,Texas,48199,5903,5,113,0
+2021-05-27,Harris,Texas,48201,399829,439,6423,3
+2021-05-27,Harrison,Texas,48203,4913,5,109,0
+2021-05-27,Hartley,Texas,48205,652,1,2,0
+2021-05-27,Haskell,Texas,48207,445,0,27,0
+2021-05-27,Hays,Texas,48209,20921,15,247,1
+2021-05-27,Hemphill,Texas,48211,584,0,2,0
+2021-05-27,Henderson,Texas,48213,5960,0,191,0
+2021-05-27,Hidalgo,Texas,48215,89228,92,2877,7
+2021-05-27,Hill,Texas,48217,4529,3,108,0
+2021-05-27,Hockley,Texas,48219,2864,8,103,0
+2021-05-27,Hood,Texas,48221,6589,4,130,0
+2021-05-27,Hopkins,Texas,48223,3146,6,111,0
+2021-05-27,Houston,Texas,48225,1674,1,55,1
+2021-05-27,Howard,Texas,48227,4673,1,101,0
+2021-05-27,Hudspeth,Texas,48229,537,0,12,0
+2021-05-27,Hunt,Texas,48231,6094,6,172,0
+2021-05-27,Hutchinson,Texas,48233,2061,4,71,0
+2021-05-27,Irion,Texas,48235,127,0,1,0
+2021-05-27,Jack,Texas,48237,606,1,16,0
+2021-05-27,Jackson,Texas,48239,1863,3,31,0
+2021-05-27,Jasper,Texas,48241,2495,0,92,0
+2021-05-27,Jeff Davis,Texas,48243,191,0,5,0
+2021-05-27,Jefferson,Texas,48245,19772,0,433,0
+2021-05-27,Jim Hogg,Texas,48247,615,0,16,0
+2021-05-27,Jim Wells,Texas,48249,4316,1,104,1
+2021-05-27,Johnson,Texas,48251,19921,6,367,1
+2021-05-27,Jones,Texas,48253,2602,-7,55,0
+2021-05-27,Karnes,Texas,48255,2247,3,37,0
+2021-05-27,Kaufman,Texas,48257,16239,6,259,0
+2021-05-27,Kendall,Texas,48259,3338,2,72,0
+2021-05-27,Kenedy,Texas,48261,39,0,2,0
+2021-05-27,Kent,Texas,48263,106,0,2,0
+2021-05-27,Kerr,Texas,48265,4558,4,88,0
+2021-05-27,Kimble,Texas,48267,282,0,6,0
+2021-05-27,King,Texas,48269,11,0,0,0
+2021-05-27,Kinney,Texas,48271,350,0,6,0
+2021-05-27,Kleberg,Texas,48273,2654,0,93,0
+2021-05-27,Knox,Texas,48275,263,0,17,0
+2021-05-27,La Salle,Texas,48283,1054,-1,28,0
+2021-05-27,Lamar,Texas,48277,5878,15,156,0
+2021-05-27,Lamb,Texas,48279,2342,9,83,0
+2021-05-27,Lampasas,Texas,48281,2196,0,33,0
+2021-05-27,Lavaca,Texas,48285,2511,2,76,0
+2021-05-27,Lee,Texas,48287,2210,0,39,0
+2021-05-27,Leon,Texas,48289,1645,1,43,0
+2021-05-27,Liberty,Texas,48291,8016,8,187,0
+2021-05-27,Limestone,Texas,48293,2810,1,80,0
+2021-05-27,Lipscomb,Texas,48295,350,0,12,0
+2021-05-27,Live Oak,Texas,48297,1138,0,22,0
+2021-05-27,Llano,Texas,48299,1688,0,51,0
+2021-05-27,Loving,Texas,48301,2,0,0,0
+2021-05-27,Lubbock,Texas,48303,49318,15,791,1
+2021-05-27,Lynn,Texas,48305,623,0,23,0
+2021-05-27,Madison,Texas,48313,1981,0,29,0
+2021-05-27,Marion,Texas,48315,542,0,33,0
+2021-05-27,Martin,Texas,48317,635,0,19,0
+2021-05-27,Mason,Texas,48319,416,0,6,0
+2021-05-27,Matagorda,Texas,48321,4213,1,113,0
+2021-05-27,Maverick,Texas,48323,10451,0,356,0
+2021-05-27,McCulloch,Texas,48307,582,1,19,0
+2021-05-27,McLennan,Texas,48309,27440,0,474,1
+2021-05-27,McMullen,Texas,48311,84,0,5,0
+2021-05-27,Medina,Texas,48325,5084,4,105,0
+2021-05-27,Menard,Texas,48327,211,0,9,0
+2021-05-27,Midland,Texas,48329,17665,0,271,0
+2021-05-27,Milam,Texas,48331,2555,0,49,0
+2021-05-27,Mills,Texas,48333,658,0,21,0
+2021-05-27,Mitchell,Texas,48335,606,0,31,0
+2021-05-27,Montague,Texas,48337,2107,0,71,0
+2021-05-27,Montgomery,Texas,48339,54359,92,586,1
+2021-05-27,Moore,Texas,48341,2752,1,72,0
+2021-05-27,Morris,Texas,48343,877,0,33,0
+2021-05-27,Motley,Texas,48345,117,0,8,0
+2021-05-27,Nacogdoches,Texas,48347,4586,6,171,0
+2021-05-27,Navarro,Texas,48349,5862,6,154,0
+2021-05-27,Newton,Texas,48351,629,0,37,1
+2021-05-27,Nolan,Texas,48353,1545,0,51,0
+2021-05-27,Nueces,Texas,48355,42960,22,822,2
+2021-05-27,Ochiltree,Texas,48357,1181,4,27,0
+2021-05-27,Oldham,Texas,48359,285,0,4,0
+2021-05-27,Orange,Texas,48361,8697,26,149,0
+2021-05-27,Palo Pinto,Texas,48363,2908,0,75,0
+2021-05-27,Panola,Texas,48365,1628,1,75,0
+2021-05-27,Parker,Texas,48367,15919,12,184,0
+2021-05-27,Parmer,Texas,48369,1295,0,35,0
+2021-05-27,Pecos,Texas,48371,1677,-1,34,0
+2021-05-27,Polk,Texas,48373,3365,0,117,1
+2021-05-27,Potter,Texas,48375,17539,3,454,0
+2021-05-27,Presidio,Texas,48377,818,-1,24,0
+2021-05-27,Rains,Texas,48379,812,0,26,0
+2021-05-27,Randall,Texas,48381,16909,3,303,0
+2021-05-27,Reagan,Texas,48383,382,-1,8,0
+2021-05-27,Real,Texas,48385,313,1,12,0
+2021-05-27,Red River,Texas,48387,699,0,37,0
+2021-05-27,Reeves,Texas,48389,1890,-10,43,0
+2021-05-27,Refugio,Texas,48391,678,0,23,0
+2021-05-27,Roberts,Texas,48393,62,0,1,0
+2021-05-27,Robertson,Texas,48395,2167,3,43,0
+2021-05-27,Rockwall,Texas,48397,11655,10,157,0
+2021-05-27,Runnels,Texas,48399,1296,0,38,0
+2021-05-27,Rusk,Texas,48401,4015,4,108,0
+2021-05-27,Sabine,Texas,48403,524,0,45,0
+2021-05-27,San Augustine,Texas,48405,578,0,32,0
+2021-05-27,San Jacinto,Texas,48407,1345,1,39,1
+2021-05-27,San Patricio,Texas,48409,4416,0,151,0
+2021-05-27,San Saba,Texas,48411,781,2,23,0
+2021-05-27,Schleicher,Texas,48413,245,0,6,0
+2021-05-27,Scurry,Texas,48415,2424,-4,62,0
+2021-05-27,Shackelford,Texas,48417,276,0,5,0
+2021-05-27,Shelby,Texas,48419,1704,1,68,1
+2021-05-27,Sherman,Texas,48421,234,0,12,0
+2021-05-27,Smith,Texas,48423,20424,0,481,0
+2021-05-27,Somervell,Texas,48425,1084,0,14,0
+2021-05-27,Starr,Texas,48427,9552,0,298,0
+2021-05-27,Stephens,Texas,48429,805,1,26,0
+2021-05-27,Sterling,Texas,48431,108,0,4,0
+2021-05-27,Stonewall,Texas,48433,156,0,6,0
+2021-05-27,Sutton,Texas,48435,471,0,8,0
+2021-05-27,Swisher,Texas,48437,886,1,18,0
+2021-05-27,Tarrant,Texas,48439,260564,69,3500,5
+2021-05-27,Taylor,Texas,48441,15902,-1,410,0
+2021-05-27,Terrell,Texas,48443,74,0,2,0
+2021-05-27,Terry,Texas,48445,1695,0,56,0
+2021-05-27,Throckmorton,Texas,48447,73,0,5,0
+2021-05-27,Titus,Texas,48449,3733,3,84,0
+2021-05-27,Tom Green,Texas,48451,16886,0,269,0
+2021-05-27,Travis,Texas,48453,83650,34,1022,0
+2021-05-27,Trinity,Texas,48455,784,4,26,0
+2021-05-27,Tyler,Texas,48457,1275,0,42,1
+2021-05-27,Upshur,Texas,48459,3299,2,75,0
+2021-05-27,Upton,Texas,48461,373,0,10,0
+2021-05-27,Uvalde,Texas,48463,3594,0,72,0
+2021-05-27,Val Verde,Texas,48465,7921,0,233,0
+2021-05-27,Van Zandt,Texas,48467,4374,0,119,0
+2021-05-27,Victoria,Texas,48469,9080,64,214,0
+2021-05-27,Walker,Texas,48471,8812,22,130,0
+2021-05-27,Waller,Texas,48473,4215,2,49,0
+2021-05-27,Ward,Texas,48475,1202,0,24,0
+2021-05-27,Washington,Texas,48477,4136,2,93,0
+2021-05-27,Webb,Texas,48479,44179,46,841,0
+2021-05-27,Wharton,Texas,48481,4197,2,116,0
+2021-05-27,Wheeler,Texas,48483,566,1,11,0
+2021-05-27,Wichita,Texas,48485,15115,0,377,0
+2021-05-27,Wilbarger,Texas,48487,1928,3,55,0
+2021-05-27,Willacy,Texas,48489,3032,2,88,0
+2021-05-27,Williamson,Texas,48491,46679,37,476,1
+2021-05-27,Wilson,Texas,48493,4588,4,69,0
+2021-05-27,Winkler,Texas,48495,769,0,21,0
+2021-05-27,Wise,Texas,48497,7389,8,121,0
+2021-05-27,Wood,Texas,48499,3459,0,128,0
+2021-05-27,Yoakum,Texas,48501,874,0,27,0
+2021-05-27,Young,Texas,48503,2180,0,44,0
+2021-05-27,Zapata,Texas,48505,1776,1,36,0
+2021-05-27,Zavala,Texas,48507,1869,1,41,0
