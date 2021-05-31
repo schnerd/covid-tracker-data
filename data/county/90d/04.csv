@@ -1,19 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2021-02-21,Apache,Arizona,04001,10268,24,365,0
-2021-02-21,Cochise,Arizona,04003,11020,40,262,2
-2021-02-21,Coconino,Arizona,04005,16256,47,307,1
-2021-02-21,Gila,Arizona,04007,6351,9,209,0
-2021-02-21,Graham,Arizona,04009,5261,10,71,0
-2021-02-21,Greenlee,Arizona,04011,552,1,8,0
-2021-02-21,La Paz,Arizona,04012,2379,0,69,0
-2021-02-21,Maricopa,Arizona,04013,504992,609,8835,19
-2021-02-21,Mohave,Arizona,04015,20868,56,625,0
-2021-02-21,Navajo,Arizona,04017,15453,5,478,0
-2021-02-21,Pima,Arizona,04019,108341,247,2149,3
-2021-02-21,Pinal,Arizona,04021,45439,5,742,0
-2021-02-21,Santa Cruz,Arizona,04023,7606,-3,166,-1
-2021-02-21,Yavapai,Arizona,04025,17175,0,448,0
-2021-02-21,Yuma,Arizona,04027,36286,34,771,1
 2021-02-22,Apache,Arizona,04001,10281,13,365,0
 2021-02-22,Cochise,Arizona,04003,11053,33,262,0
 2021-02-22,Coconino,Arizona,04005,16281,25,307,0
@@ -1481,3 +1466,19 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-29,Unknown,Arizona,,8,7,0,-1
 2021-05-29,Yavapai,Arizona,04025,19275,10,509,-1
 2021-05-29,Yuma,Arizona,04027,37230,4,839,0
+2021-05-30,Apache,Arizona,04001,11405,0,432,0
+2021-05-30,Cochise,Arizona,04003,12079,-1,288,0
+2021-05-30,Coconino,Arizona,04005,17861,3,330,0
+2021-05-30,Gila,Arizona,04007,6936,1,229,-1
+2021-05-30,Graham,Arizona,04009,5619,1,83,0
+2021-05-30,Greenlee,Arizona,04011,574,-1,10,0
+2021-05-30,La Paz,Arizona,04012,2479,1,80,0
+2021-05-30,Maricopa,Arizona,04013,550334,267,10071,2
+2021-05-30,Mohave,Arizona,04015,23062,-6,735,-1
+2021-05-30,Navajo,Arizona,04017,16439,-3,540,0
+2021-05-30,Pima,Arizona,04019,116874,335,2411,0
+2021-05-30,Pinal,Arizona,04021,52877,27,892,1
+2021-05-30,Santa Cruz,Arizona,04023,8038,0,180,0
+2021-05-30,Unknown,Arizona,,1,-7,0,0
+2021-05-30,Yavapai,Arizona,04025,19277,2,508,-1
+2021-05-30,Yuma,Arizona,04027,37234,4,839,0
