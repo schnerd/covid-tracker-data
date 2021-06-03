@@ -1,27 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2021-02-24,Albany,Wyoming,56001,3893,1,11,0
-2021-02-24,Big Horn,Wyoming,56003,1062,0,30,0
-2021-02-24,Campbell,Wyoming,56005,4655,3,57,0
-2021-02-24,Carbon,Wyoming,56007,1420,1,21,0
-2021-02-24,Converse,Wyoming,56009,966,1,17,0
-2021-02-24,Crook,Wyoming,56011,417,0,11,0
-2021-02-24,Fremont,Wyoming,56013,4825,9,82,0
-2021-02-24,Goshen,Wyoming,56015,1143,1,23,0
-2021-02-24,Hot Springs,Wyoming,56017,360,0,3,0
-2021-02-24,Johnson,Wyoming,56019,615,0,9,0
-2021-02-24,Laramie,Wyoming,56021,8145,4,106,0
-2021-02-24,Lincoln,Wyoming,56023,1217,4,11,0
-2021-02-24,Natrona,Wyoming,56025,7684,6,131,0
-2021-02-24,Niobrara,Wyoming,56027,147,-1,2,0
-2021-02-24,Park,Wyoming,56029,2604,1,26,0
-2021-02-24,Platte,Wyoming,56031,585,2,11,0
-2021-02-24,Sheridan,Wyoming,56033,3002,3,27,0
-2021-02-24,Sublette,Wyoming,56035,672,1,7,0
-2021-02-24,Sweetwater,Wyoming,56037,3702,3,34,0
-2021-02-24,Teton,Wyoming,56039,3336,3,9,0
-2021-02-24,Uinta,Wyoming,56041,2037,1,12,0
-2021-02-24,Washakie,Wyoming,56043,879,0,26,0
-2021-02-24,Weston,Wyoming,56045,622,1,5,0
 2021-02-25,Albany,Wyoming,56001,3894,1,11,0
 2021-02-25,Big Horn,Wyoming,56003,1064,2,30,0
 2021-02-25,Campbell,Wyoming,56005,4656,1,57,0
@@ -2230,26 +2207,49 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-31,Uinta,Wyoming,56041,2266,0,13,0
 2021-05-31,Washakie,Wyoming,56043,921,0,26,0
 2021-05-31,Weston,Wyoming,56045,654,0,5,0
-2021-06-01,Albany,Wyoming,56001,4516,0,15,0
-2021-06-01,Big Horn,Wyoming,56003,1182,0,34,0
-2021-06-01,Campbell,Wyoming,56005,5018,0,60,0
+2021-06-01,Albany,Wyoming,56001,4530,14,15,0
+2021-06-01,Big Horn,Wyoming,56003,1184,2,34,0
+2021-06-01,Campbell,Wyoming,56005,5045,27,60,0
 2021-06-01,Carbon,Wyoming,56007,1608,0,23,0
 2021-06-01,Converse,Wyoming,56009,1013,0,17,0
-2021-06-01,Crook,Wyoming,56011,446,0,12,0
-2021-06-01,Fremont,Wyoming,56013,5233,0,84,0
-2021-06-01,Goshen,Wyoming,56015,1225,0,24,0
-2021-06-01,Hot Springs,Wyoming,56017,370,0,3,0
-2021-06-01,Johnson,Wyoming,56019,723,0,10,0
-2021-06-01,Laramie,Wyoming,56021,9533,0,114,0
+2021-06-01,Crook,Wyoming,56011,447,1,12,0
+2021-06-01,Fremont,Wyoming,56013,5248,15,84,0
+2021-06-01,Goshen,Wyoming,56015,1226,1,24,0
+2021-06-01,Hot Springs,Wyoming,56017,369,-1,3,0
+2021-06-01,Johnson,Wyoming,56019,726,3,10,0
+2021-06-01,Laramie,Wyoming,56021,9594,61,114,0
 2021-06-01,Lincoln,Wyoming,56023,1413,0,12,0
-2021-06-01,Natrona,Wyoming,56025,8108,0,138,0
+2021-06-01,Natrona,Wyoming,56025,8119,11,138,0
 2021-06-01,Niobrara,Wyoming,56027,162,0,2,0
-2021-06-01,Park,Wyoming,56029,2820,0,30,0
-2021-06-01,Platte,Wyoming,56031,651,0,11,0
-2021-06-01,Sheridan,Wyoming,56033,3207,0,31,0
+2021-06-01,Park,Wyoming,56029,2835,15,30,0
+2021-06-01,Platte,Wyoming,56031,655,4,11,0
+2021-06-01,Sheridan,Wyoming,56033,3216,9,31,0
 2021-06-01,Sublette,Wyoming,56035,795,0,7,0
-2021-06-01,Sweetwater,Wyoming,56037,4496,0,39,0
-2021-06-01,Teton,Wyoming,56039,3784,0,9,0
-2021-06-01,Uinta,Wyoming,56041,2266,0,13,0
-2021-06-01,Washakie,Wyoming,56043,921,0,26,0
-2021-06-01,Weston,Wyoming,56045,654,0,5,0
+2021-06-01,Sweetwater,Wyoming,56037,4543,47,39,0
+2021-06-01,Teton,Wyoming,56039,3785,1,9,0
+2021-06-01,Uinta,Wyoming,56041,2272,6,13,0
+2021-06-01,Washakie,Wyoming,56043,924,3,26,0
+2021-06-01,Weston,Wyoming,56045,655,1,6,1
+2021-06-02,Albany,Wyoming,56001,4533,3,15,0
+2021-06-02,Big Horn,Wyoming,56003,1185,1,34,0
+2021-06-02,Campbell,Wyoming,56005,5047,2,60,0
+2021-06-02,Carbon,Wyoming,56007,1609,1,23,0
+2021-06-02,Converse,Wyoming,56009,1013,0,17,0
+2021-06-02,Crook,Wyoming,56011,447,0,12,0
+2021-06-02,Fremont,Wyoming,56013,5252,4,84,0
+2021-06-02,Goshen,Wyoming,56015,1226,0,24,0
+2021-06-02,Hot Springs,Wyoming,56017,370,1,3,0
+2021-06-02,Johnson,Wyoming,56019,726,0,10,0
+2021-06-02,Laramie,Wyoming,56021,9628,34,114,0
+2021-06-02,Lincoln,Wyoming,56023,1413,0,12,0
+2021-06-02,Natrona,Wyoming,56025,8122,3,138,0
+2021-06-02,Niobrara,Wyoming,56027,162,0,2,0
+2021-06-02,Park,Wyoming,56029,2842,7,30,0
+2021-06-02,Platte,Wyoming,56031,655,0,11,0
+2021-06-02,Sheridan,Wyoming,56033,3220,4,31,0
+2021-06-02,Sublette,Wyoming,56035,794,-1,7,0
+2021-06-02,Sweetwater,Wyoming,56037,4547,4,39,0
+2021-06-02,Teton,Wyoming,56039,3785,0,9,0
+2021-06-02,Uinta,Wyoming,56041,2279,7,13,0
+2021-06-02,Washakie,Wyoming,56043,923,-1,26,0
+2021-06-02,Weston,Wyoming,56045,655,0,6,0
