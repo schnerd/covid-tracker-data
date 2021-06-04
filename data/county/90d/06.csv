@@ -1,62 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2021-02-25,Alameda,California,06001,80109,140,1224,6
-2021-02-25,Alpine,California,06003,77,0,0,0
-2021-02-25,Amador,California,06005,3443,4,40,0
-2021-02-25,Butte,California,06007,10915,28,160,0
-2021-02-25,Calaveras,California,06009,1864,1,47,22
-2021-02-25,Colusa,California,06011,2128,1,13,0
-2021-02-25,Contra Costa,California,06013,62164,136,674,19
-2021-02-25,Del Norte,California,06015,987,1,5,0
-2021-02-25,El Dorado,California,06017,8993,24,98,3
-2021-02-25,Fresno,California,06019,94794,53,1412,11
-2021-02-25,Glenn,California,06021,2673,0,23,0
-2021-02-25,Humboldt,California,06023,3160,9,33,0
-2021-02-25,Imperial,California,06025,26843,3,585,1
-2021-02-25,Inyo,California,06027,1253,3,36,1
-2021-02-25,Kern,California,06029,102627,295,811,25
-2021-02-25,Kings,California,06031,21951,35,218,0
-2021-02-25,Lake,California,06033,3134,13,40,0
-2021-02-25,Lassen,California,06035,5601,7,19,0
-2021-02-25,Los Angeles,California,06037,1188101,2027,21102,115
-2021-02-25,Madera,California,06039,15390,38,209,0
-2021-02-25,Marin,California,06041,13044,29,197,0
-2021-02-25,Mariposa,California,06043,394,0,7,0
-2021-02-25,Mendocino,California,06045,3796,1,43,0
-2021-02-25,Merced,California,06047,28915,41,395,1
-2021-02-25,Modoc,California,06049,329,1,4,0
-2021-02-25,Mono,California,06051,1189,0,4,0
-2021-02-25,Monterey,California,06053,42138,107,327,4
-2021-02-25,Napa,California,06055,8977,9,68,0
-2021-02-25,Nevada,California,06057,3932,7,74,0
-2021-02-25,Orange,California,06059,260348,191,3889,41
-2021-02-25,Placer,California,06061,19713,11,231,0
-2021-02-25,Plumas,California,06063,626,0,6,0
-2021-02-25,Riverside,California,06065,289185,225,3749,42
-2021-02-25,Sacramento,California,06067,92943,172,1464,8
-2021-02-25,San Benito,California,06069,5743,12,59,0
-2021-02-25,San Bernardino,California,06071,285334,0,2673,0
-2021-02-25,San Diego,California,06073,259045,519,3260,30
-2021-02-25,San Francisco,California,06075,34064,67,398,4
-2021-02-25,San Joaquin,California,06077,66569,107,1082,21
-2021-02-25,San Luis Obispo,California,06079,19612,112,227,6
-2021-02-25,San Mateo,California,06081,38763,101,515,13
-2021-02-25,Santa Barbara,California,06083,31763,196,407,9
-2021-02-25,Santa Clara,California,06085,109841,335,1766,18
-2021-02-25,Santa Cruz,California,06087,14588,27,183,2
-2021-02-25,Shasta,California,06089,10944,-6,174,2
-2021-02-25,Sierra,California,06091,47,0,0,0
-2021-02-25,Siskiyou,California,06093,1740,12,14,0
-2021-02-25,Solano,California,06095,29973,43,164,0
-2021-02-25,Sonoma,California,06097,27954,72,298,3
-2021-02-25,Stanislaus,California,06099,55775,150,944,3
-2021-02-25,Sutter,California,06101,8845,19,97,1
-2021-02-25,Tehama,California,06103,4566,10,52,0
-2021-02-25,Trinity,California,06105,295,2,5,0
-2021-02-25,Tulare,California,06107,47784,54,746,7
-2021-02-25,Tuolumne,California,06109,3946,4,59,0
-2021-02-25,Ventura,California,06111,77238,145,834,14
-2021-02-25,Yolo,California,06113,12760,31,185,0
-2021-02-25,Yuba,California,06115,5733,11,36,0
 2021-02-26,Alameda,California,06001,80300,191,1241,17
 2021-02-26,Alpine,California,06003,77,0,0,0
 2021-02-26,Amador,California,06005,3447,4,40,0
@@ -3230,7 +3172,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-21,San Joaquin,California,06077,71813,78,1340,6
 2021-04-21,San Luis Obispo,California,06079,21010,19,258,1
 2021-04-21,San Mateo,California,06081,41251,25,560,0
-2021-04-21,Santa Barbara,California,06083,33926,0,445,-1
+2021-04-21,Santa Barbara,California,06083,33952,26,445,-1
 2021-04-21,Santa Clara,California,06085,117317,0,2020,2
 2021-04-21,Santa Cruz,California,06087,15719,53,204,0
 2021-04-21,Shasta,California,06089,11747,0,219,0
@@ -3288,7 +3230,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-22,San Joaquin,California,06077,71899,86,1340,0
 2021-04-22,San Luis Obispo,California,06079,21038,28,260,2
 2021-04-22,San Mateo,California,06081,41318,67,560,0
-2021-04-22,Santa Barbara,California,06083,33926,0,445,0
+2021-04-22,Santa Barbara,California,06083,33994,42,445,0
 2021-04-22,Santa Clara,California,06085,117538,221,2026,6
 2021-04-22,Santa Cruz,California,06087,15759,40,204,0
 2021-04-22,Shasta,California,06089,11779,32,219,0
@@ -3346,7 +3288,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-23,San Joaquin,California,06077,71972,73,1340,0
 2021-04-23,San Luis Obispo,California,06079,21071,33,260,0
 2021-04-23,San Mateo,California,06081,41345,27,564,4
-2021-04-23,Santa Barbara,California,06083,33926,0,446,1
+2021-04-23,Santa Barbara,California,06083,34017,23,446,1
 2021-04-23,Santa Clara,California,06085,117678,140,2044,18
 2021-04-23,Santa Cruz,California,06087,15831,72,205,1
 2021-04-23,Shasta,California,06089,11779,0,219,0
@@ -3404,7 +3346,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-24,San Joaquin,California,06077,71972,0,1340,0
 2021-04-24,San Luis Obispo,California,06079,21071,0,260,0
 2021-04-24,San Mateo,California,06081,41386,41,564,0
-2021-04-24,Santa Barbara,California,06083,33926,0,447,1
+2021-04-24,Santa Barbara,California,06083,34017,0,447,1
 2021-04-24,Santa Clara,California,06085,117755,77,2044,0
 2021-04-24,Santa Cruz,California,06087,15831,0,205,0
 2021-04-24,Shasta,California,06089,11779,0,219,0
@@ -3462,7 +3404,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-25,San Joaquin,California,06077,71972,0,1340,0
 2021-04-25,San Luis Obispo,California,06079,21071,0,260,0
 2021-04-25,San Mateo,California,06081,41424,38,564,0
-2021-04-25,Santa Barbara,California,06083,33926,0,448,1
+2021-04-25,Santa Barbara,California,06083,34017,0,448,1
 2021-04-25,Santa Clara,California,06085,117860,105,2044,0
 2021-04-25,Santa Cruz,California,06087,15840,9,205,0
 2021-04-25,Shasta,California,06089,11779,0,219,0
@@ -3520,7 +3462,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-26,San Joaquin,California,06077,71987,15,1346,6
 2021-04-26,San Luis Obispo,California,06079,21130,59,260,0
 2021-04-26,San Mateo,California,06081,41465,41,564,0
-2021-04-26,Santa Barbara,California,06083,33931,5,448,0
+2021-04-26,Santa Barbara,California,06083,34073,56,448,0
 2021-04-26,Santa Clara,California,06085,117965,105,2048,4
 2021-04-26,Santa Cruz,California,06087,15899,59,205,0
 2021-04-26,Shasta,California,06089,11830,51,220,1
@@ -3578,7 +3520,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-27,San Joaquin,California,06077,72281,294,1346,0
 2021-04-27,San Luis Obispo,California,06079,21138,8,260,0
 2021-04-27,San Mateo,California,06081,41457,-8,564,0
-2021-04-27,Santa Barbara,California,06083,33948,17,448,0
+2021-04-27,Santa Barbara,California,06083,34099,26,448,0
 2021-04-27,Santa Clara,California,06085,118036,71,2049,1
 2021-04-27,Santa Cruz,California,06087,15929,30,205,0
 2021-04-27,Shasta,California,06089,11830,0,220,0
@@ -3636,7 +3578,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-28,San Joaquin,California,06077,72345,64,1346,0
 2021-04-28,San Luis Obispo,California,06079,21164,26,260,0
 2021-04-28,San Mateo,California,06081,41474,17,564,0
-2021-04-28,Santa Barbara,California,06083,33973,25,448,0
+2021-04-28,Santa Barbara,California,06083,34128,29,448,0
 2021-04-28,Santa Clara,California,06085,118094,58,2049,0
 2021-04-28,Santa Cruz,California,06087,15968,39,205,0
 2021-04-28,Shasta,California,06089,11866,36,220,0
@@ -3694,7 +3636,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-29,San Joaquin,California,06077,72395,50,1346,0
 2021-04-29,San Luis Obispo,California,06079,21180,16,260,0
 2021-04-29,San Mateo,California,06081,41498,24,564,0
-2021-04-29,Santa Barbara,California,06083,34003,30,448,0
+2021-04-29,Santa Barbara,California,06083,34164,36,448,0
 2021-04-29,Santa Clara,California,06085,118181,87,2061,12
 2021-04-29,Santa Cruz,California,06087,15984,16,205,0
 2021-04-29,Shasta,California,06089,11880,14,220,0
@@ -3752,7 +3694,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-30,San Joaquin,California,06077,72478,83,1346,0
 2021-04-30,San Luis Obispo,California,06079,21193,13,260,0
 2021-04-30,San Mateo,California,06081,41538,40,564,0
-2021-04-30,Santa Barbara,California,06083,34039,36,448,0
+2021-04-30,Santa Barbara,California,06083,34180,16,448,0
 2021-04-30,Santa Clara,California,06085,118269,88,2069,8
 2021-04-30,Santa Cruz,California,06087,15999,15,205,0
 2021-04-30,Shasta,California,06089,11901,21,220,0
@@ -3810,7 +3752,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-01,San Joaquin,California,06077,72478,0,1346,0
 2021-05-01,San Luis Obispo,California,06079,21193,0,260,0
 2021-05-01,San Mateo,California,06081,41583,45,564,0
-2021-05-01,Santa Barbara,California,06083,34061,22,451,3
+2021-05-01,Santa Barbara,California,06083,34180,0,451,3
 2021-05-01,Santa Clara,California,06085,118369,100,2069,0
 2021-05-01,Santa Cruz,California,06087,15999,0,207,2
 2021-05-01,Shasta,California,06089,11901,0,220,0
@@ -3868,7 +3810,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-02,San Joaquin,California,06077,72478,0,1346,0
 2021-05-02,San Luis Obispo,California,06079,21193,0,260,0
 2021-05-02,San Mateo,California,06081,41617,34,564,0
-2021-05-02,Santa Barbara,California,06083,34085,24,453,2
+2021-05-02,Santa Barbara,California,06083,34180,0,453,2
 2021-05-02,Santa Clara,California,06085,118424,55,2069,0
 2021-05-02,Santa Cruz,California,06087,15999,0,207,0
 2021-05-02,Shasta,California,06089,11901,0,220,0
@@ -3926,7 +3868,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-03,San Joaquin,California,06077,72672,194,1365,19
 2021-05-03,San Luis Obispo,California,06079,21196,3,260,0
 2021-05-03,San Mateo,California,06081,41656,39,567,3
-2021-05-03,Santa Barbara,California,06083,34106,21,453,0
+2021-05-03,Santa Barbara,California,06083,34238,58,453,0
 2021-05-03,Santa Clara,California,06085,118479,55,2070,1
 2021-05-03,Santa Cruz,California,06087,16017,18,207,0
 2021-05-03,Shasta,California,06089,11901,0,220,0
@@ -3984,7 +3926,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-04,San Joaquin,California,06077,72724,52,1382,17
 2021-05-04,San Luis Obispo,California,06079,21222,26,260,0
 2021-05-04,San Mateo,California,06081,41689,33,567,0
-2021-05-04,Santa Barbara,California,06083,34119,13,453,0
+2021-05-04,Santa Barbara,California,06083,34250,12,453,0
 2021-05-04,Santa Clara,California,06085,118541,62,2071,1
 2021-05-04,Santa Cruz,California,06087,16023,6,207,0
 2021-05-04,Shasta,California,06089,11936,35,220,0
@@ -4042,7 +3984,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-05,San Joaquin,California,06077,72784,60,1384,2
 2021-05-05,San Luis Obispo,California,06079,21243,21,260,0
 2021-05-05,San Mateo,California,06081,41708,19,567,0
-2021-05-05,Santa Barbara,California,06083,34131,12,453,0
+2021-05-05,Santa Barbara,California,06083,34261,11,453,0
 2021-05-05,Santa Clara,California,06085,118593,52,2074,3
 2021-05-05,Santa Cruz,California,06087,16029,6,207,0
 2021-05-05,Shasta,California,06089,11994,58,225,5
@@ -4100,7 +4042,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-06,San Joaquin,California,06077,72942,158,1391,7
 2021-05-06,San Luis Obispo,California,06079,21271,28,260,0
 2021-05-06,San Mateo,California,06081,41755,47,567,0
-2021-05-06,Santa Barbara,California,06083,34139,8,453,0
+2021-05-06,Santa Barbara,California,06083,34274,13,453,0
 2021-05-06,Santa Clara,California,06085,118698,105,2085,11
 2021-05-06,Santa Cruz,California,06087,16062,33,207,0
 2021-05-06,Shasta,California,06089,12042,48,226,1
@@ -4158,7 +4100,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-07,San Joaquin,California,06077,73009,67,1391,0
 2021-05-07,San Luis Obispo,California,06079,21282,11,260,0
 2021-05-07,San Mateo,California,06081,41802,47,567,0
-2021-05-07,Santa Barbara,California,06083,34152,13,453,0
+2021-05-07,Santa Barbara,California,06083,34291,17,453,0
 2021-05-07,Santa Clara,California,06085,118792,94,2086,1
 2021-05-07,Santa Cruz,California,06087,16188,126,206,-1
 2021-05-07,Shasta,California,06089,12071,29,226,0
@@ -4216,7 +4158,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-08,San Joaquin,California,06077,73009,0,1391,0
 2021-05-08,San Luis Obispo,California,06079,21282,0,260,0
 2021-05-08,San Mateo,California,06081,41844,42,567,0
-2021-05-08,Santa Barbara,California,06083,34166,14,453,0
+2021-05-08,Santa Barbara,California,06083,34291,0,453,0
 2021-05-08,Santa Clara,California,06085,118851,59,2086,0
 2021-05-08,Santa Cruz,California,06087,16188,0,206,0
 2021-05-08,Shasta,California,06089,12071,0,226,0
@@ -4274,7 +4216,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-09,San Joaquin,California,06077,73009,0,1391,0
 2021-05-09,San Luis Obispo,California,06079,21282,0,260,0
 2021-05-09,San Mateo,California,06081,41871,27,567,0
-2021-05-09,Santa Barbara,California,06083,34185,19,456,3
+2021-05-09,Santa Barbara,California,06083,34291,0,456,3
 2021-05-09,Santa Clara,California,06085,118901,50,2086,0
 2021-05-09,Santa Cruz,California,06087,16188,0,206,0
 2021-05-09,Shasta,California,06089,12071,0,226,0
@@ -4332,7 +4274,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-10,San Joaquin,California,06077,73174,165,1391,0
 2021-05-10,San Luis Obispo,California,06079,21293,11,260,0
 2021-05-10,San Mateo,California,06081,41903,32,568,1
-2021-05-10,Santa Barbara,California,06083,34196,11,456,0
+2021-05-10,Santa Barbara,California,06083,34323,32,456,0
 2021-05-10,Santa Clara,California,06085,118932,31,2087,1
 2021-05-10,Santa Cruz,California,06087,16238,50,206,0
 2021-05-10,Shasta,California,06089,12110,39,226,0
@@ -4390,7 +4332,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-11,San Joaquin,California,06077,73180,6,1391,0
 2021-05-11,San Luis Obispo,California,06079,21307,14,260,0
 2021-05-11,San Mateo,California,06081,41926,23,568,0
-2021-05-11,Santa Barbara,California,06083,34201,5,456,0
+2021-05-11,Santa Barbara,California,06083,34328,5,456,0
 2021-05-11,Santa Clara,California,06085,118974,42,2089,2
 2021-05-11,Santa Cruz,California,06087,16246,8,206,0
 2021-05-11,Shasta,California,06089,12110,0,226,0
@@ -4448,7 +4390,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-12,San Joaquin,California,06077,73220,40,1391,0
 2021-05-12,San Luis Obispo,California,06079,21308,1,260,0
 2021-05-12,San Mateo,California,06081,41985,59,568,0
-2021-05-12,Santa Barbara,California,06083,34207,6,456,0
+2021-05-12,Santa Barbara,California,06083,34337,9,456,0
 2021-05-12,Santa Clara,California,06085,119010,36,2089,0
 2021-05-12,Santa Cruz,California,06087,16249,3,206,0
 2021-05-12,Shasta,California,06089,12148,38,226,0
@@ -4506,7 +4448,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-13,San Joaquin,California,06077,73267,47,1391,0
 2021-05-13,San Luis Obispo,California,06079,21308,0,260,0
 2021-05-13,San Mateo,California,06081,42038,53,568,0
-2021-05-13,Santa Barbara,California,06083,34218,11,456,0
+2021-05-13,Santa Barbara,California,06083,34361,24,456,0
 2021-05-13,Santa Clara,California,06085,119064,54,2097,8
 2021-05-13,Santa Cruz,California,06087,16264,15,207,1
 2021-05-13,Shasta,California,06089,12152,4,226,0
@@ -4564,7 +4506,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-14,San Joaquin,California,06077,73310,43,1394,3
 2021-05-14,San Luis Obispo,California,06079,21308,0,260,0
 2021-05-14,San Mateo,California,06081,42059,21,568,0
-2021-05-14,Santa Barbara,California,06083,34242,24,456,0
+2021-05-14,Santa Barbara,California,06083,34365,4,456,0
 2021-05-14,Santa Clara,California,06085,118952,-112,2097,0
 2021-05-14,Santa Cruz,California,06087,16264,0,208,1
 2021-05-14,Shasta,California,06089,12152,0,226,0
@@ -4622,7 +4564,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-15,San Joaquin,California,06077,73310,0,1394,0
 2021-05-15,San Luis Obispo,California,06079,21308,0,260,0
 2021-05-15,San Mateo,California,06081,42041,-18,568,0
-2021-05-15,Santa Barbara,California,06083,34243,1,456,0
+2021-05-15,Santa Barbara,California,06083,34365,0,456,0
 2021-05-15,Santa Clara,California,06085,119006,54,2097,0
 2021-05-15,Santa Cruz,California,06087,16264,0,207,-1
 2021-05-15,Shasta,California,06089,12175,23,226,0
@@ -4680,7 +4622,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-16,San Joaquin,California,06077,73310,0,1394,0
 2021-05-16,San Luis Obispo,California,06079,21308,0,260,0
 2021-05-16,San Mateo,California,06081,42059,18,568,0
-2021-05-16,Santa Barbara,California,06083,34259,16,459,3
+2021-05-16,Santa Barbara,California,06083,34365,0,459,3
 2021-05-16,Santa Clara,California,06085,119060,54,2097,0
 2021-05-16,Santa Cruz,California,06087,16264,0,206,-1
 2021-05-16,Shasta,California,06089,12175,0,226,0
@@ -4738,7 +4680,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-17,San Joaquin,California,06077,73339,29,1394,0
 2021-05-17,San Luis Obispo,California,06079,21208,-100,261,1
 2021-05-17,San Mateo,California,06081,42063,4,570,2
-2021-05-17,Santa Barbara,California,06083,34270,11,459,0
+2021-05-17,Santa Barbara,California,06083,34398,33,459,0
 2021-05-17,Santa Clara,California,06085,119098,38,2099,2
 2021-05-17,Santa Cruz,California,06087,16275,11,206,0
 2021-05-17,Shasta,California,06089,12175,0,226,0
@@ -4796,7 +4738,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-18,San Joaquin,California,06077,73401,62,1399,5
 2021-05-18,San Luis Obispo,California,06079,21232,24,261,0
 2021-05-18,San Mateo,California,06081,42083,20,570,0
-2021-05-18,Santa Barbara,California,06083,34275,5,459,0
+2021-05-18,Santa Barbara,California,06083,34404,6,459,0
 2021-05-18,Santa Clara,California,06085,119116,18,2098,-1
 2021-05-18,Santa Cruz,California,06087,16275,0,206,0
 2021-05-18,Shasta,California,06089,12208,33,226,0
@@ -4854,7 +4796,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-19,San Joaquin,California,06077,73440,39,1400,1
 2021-05-19,San Luis Obispo,California,06079,21234,2,261,0
 2021-05-19,San Mateo,California,06081,42099,16,570,0
-2021-05-19,Santa Barbara,California,06083,34278,3,459,0
+2021-05-19,Santa Barbara,California,06083,34412,8,459,0
 2021-05-19,Santa Clara,California,06085,119171,55,2098,0
 2021-05-19,Santa Cruz,California,06087,16275,0,207,1
 2021-05-19,Shasta,California,06089,12257,49,226,0
@@ -4912,7 +4854,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-20,San Joaquin,California,06077,73476,36,1402,2
 2021-05-20,San Luis Obispo,California,06079,21246,12,261,0
 2021-05-20,San Mateo,California,06081,42126,27,570,0
-2021-05-20,Santa Barbara,California,06083,34292,14,459,0
+2021-05-20,Santa Barbara,California,06083,34419,7,459,0
 2021-05-20,Santa Clara,California,06085,119176,5,2117,19
 2021-05-20,Santa Cruz,California,06087,16159,-116,207,0
 2021-05-20,Shasta,California,06089,12289,32,226,0
@@ -4970,7 +4912,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-21,San Joaquin,California,06077,73544,68,1402,0
 2021-05-21,San Luis Obispo,California,06079,21256,10,261,0
 2021-05-21,San Mateo,California,06081,42152,26,570,0
-2021-05-21,Santa Barbara,California,06083,34293,1,459,0
+2021-05-21,Santa Barbara,California,06083,34431,12,459,0
 2021-05-21,Santa Clara,California,06085,119222,46,2117,0
 2021-05-21,Santa Cruz,California,06087,16159,0,207,0
 2021-05-21,Shasta,California,06089,12319,30,228,2
@@ -5028,7 +4970,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-22,San Joaquin,California,06077,73544,0,1402,0
 2021-05-22,San Luis Obispo,California,06079,21256,0,261,0
 2021-05-22,San Mateo,California,06081,42163,11,570,0
-2021-05-22,Santa Barbara,California,06083,34302,9,459,0
+2021-05-22,Santa Barbara,California,06083,34431,0,459,0
 2021-05-22,Santa Clara,California,06085,119247,25,2117,0
 2021-05-22,Santa Cruz,California,06087,16159,0,207,0
 2021-05-22,Shasta,California,06089,12319,0,228,0
@@ -5086,7 +5028,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-23,San Joaquin,California,06077,73544,0,1402,0
 2021-05-23,San Luis Obispo,California,06079,21256,0,261,0
 2021-05-23,San Mateo,California,06081,42218,55,570,0
-2021-05-23,Santa Barbara,California,06083,34313,11,459,0
+2021-05-23,Santa Barbara,California,06083,34431,0,459,0
 2021-05-23,Santa Clara,California,06085,119292,45,2117,0
 2021-05-23,Santa Cruz,California,06087,16159,0,207,0
 2021-05-23,Shasta,California,06089,12319,0,228,0
@@ -5144,7 +5086,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-24,San Joaquin,California,06077,73617,73,1403,1
 2021-05-24,San Luis Obispo,California,06079,21263,7,261,0
 2021-05-24,San Mateo,California,06081,42248,30,573,3
-2021-05-24,Santa Barbara,California,06083,34319,6,459,0
+2021-05-24,Santa Barbara,California,06083,34446,15,459,0
 2021-05-24,Santa Clara,California,06085,119333,41,2117,0
 2021-05-24,Santa Cruz,California,06087,16173,14,207,0
 2021-05-24,Shasta,California,06089,12360,41,228,0
@@ -5202,7 +5144,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-25,San Joaquin,California,06077,73717,100,1419,16
 2021-05-25,San Luis Obispo,California,06079,21284,21,261,0
 2021-05-25,San Mateo,California,06081,42249,1,573,0
-2021-05-25,Santa Barbara,California,06083,34322,3,459,0
+2021-05-25,Santa Barbara,California,06083,34462,16,459,0
 2021-05-25,Santa Clara,California,06085,119358,25,2118,1
 2021-05-25,Santa Cruz,California,06087,16177,4,207,0
 2021-05-25,Shasta,California,06089,12388,28,228,0
@@ -5260,7 +5202,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-26,San Joaquin,California,06077,73758,41,1419,0
 2021-05-26,San Luis Obispo,California,06079,21291,7,261,0
 2021-05-26,San Mateo,California,06081,42268,19,573,0
-2021-05-26,Santa Barbara,California,06083,34337,15,459,0
+2021-05-26,Santa Barbara,California,06083,34470,8,459,0
 2021-05-26,Santa Clara,California,06085,119393,35,2119,1
 2021-05-26,Santa Cruz,California,06087,16177,0,207,0
 2021-05-26,Shasta,California,06089,12388,0,228,0
@@ -5318,7 +5260,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-27,San Joaquin,California,06077,73794,36,1419,0
 2021-05-27,San Luis Obispo,California,06079,21298,7,261,0
 2021-05-27,San Mateo,California,06081,42331,63,573,0
-2021-05-27,Santa Barbara,California,06083,34348,11,459,0
+2021-05-27,Santa Barbara,California,06083,34477,7,459,0
 2021-05-27,Santa Clara,California,06085,119421,28,2136,17
 2021-05-27,Santa Cruz,California,06087,16177,0,207,0
 2021-05-27,Shasta,California,06089,12409,21,229,1
@@ -5376,7 +5318,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-28,San Joaquin,California,06077,73794,0,1419,0
 2021-05-28,San Luis Obispo,California,06079,21315,17,261,0
 2021-05-28,San Mateo,California,06081,42345,14,573,0
-2021-05-28,Santa Barbara,California,06083,34355,7,456,-3
+2021-05-28,Santa Barbara,California,06083,34488,11,456,-3
 2021-05-28,Santa Clara,California,06085,119452,31,2143,7
 2021-05-28,Santa Cruz,California,06087,16169,-8,207,0
 2021-05-28,Shasta,California,06089,12409,0,229,0
@@ -5434,7 +5376,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-29,San Joaquin,California,06077,73794,0,1419,0
 2021-05-29,San Luis Obispo,California,06079,21315,0,261,0
 2021-05-29,San Mateo,California,06081,42364,19,573,0
-2021-05-29,Santa Barbara,California,06083,34371,16,455,-1
+2021-05-29,Santa Barbara,California,06083,34488,0,455,-1
 2021-05-29,Santa Clara,California,06085,119462,10,2143,0
 2021-05-29,Santa Cruz,California,06087,16169,0,207,0
 2021-05-29,Shasta,California,06089,12409,0,229,0
@@ -5492,7 +5434,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-30,San Joaquin,California,06077,73794,0,1419,0
 2021-05-30,San Luis Obispo,California,06079,21315,0,261,0
 2021-05-30,San Mateo,California,06081,42375,11,573,0
-2021-05-30,Santa Barbara,California,06083,34367,-4,456,1
+2021-05-30,Santa Barbara,California,06083,34488,0,456,1
 2021-05-30,Santa Clara,California,06085,119498,36,2143,0
 2021-05-30,Santa Cruz,California,06087,16169,0,207,0
 2021-05-30,Shasta,California,06089,12409,0,229,0
@@ -5550,7 +5492,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-31,San Joaquin,California,06077,73794,0,1419,0
 2021-05-31,San Luis Obispo,California,06079,21315,0,261,0
 2021-05-31,San Mateo,California,06081,42386,11,573,0
-2021-05-31,Santa Barbara,California,06083,34369,2,456,0
+2021-05-31,Santa Barbara,California,06083,34488,0,456,0
 2021-05-31,Santa Clara,California,06085,119510,12,2143,0
 2021-05-31,Santa Cruz,California,06087,16169,0,207,0
 2021-05-31,Shasta,California,06089,12409,0,229,0
@@ -5608,7 +5550,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-01,San Joaquin,California,06077,73899,105,1419,0
 2021-06-01,San Luis Obispo,California,06079,21327,12,261,0
 2021-06-01,San Mateo,California,06081,42389,3,573,0
-2021-06-01,Santa Barbara,California,06083,34369,0,456,0
+2021-06-01,Santa Barbara,California,06083,34498,10,456,0
 2021-06-01,Santa Clara,California,06085,119515,5,2143,0
 2021-06-01,Santa Cruz,California,06087,16182,13,207,0
 2021-06-01,Shasta,California,06089,12445,36,230,1
@@ -5625,7 +5567,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-01,Ventura,California,06111,81382,38,1021,0
 2021-06-01,Yolo,California,06113,14064,5,213,0
 2021-06-01,Yuba,California,06115,6351,0,49,0
-2021-06-02,Alameda,California,06001,88976,0,1693,0
+2021-06-02,Alameda,California,06001,88991,15,1693,0
 2021-06-02,Alpine,California,06003,89,0,0,0
 2021-06-02,Amador,California,06005,3686,0,47,0
 2021-06-02,Butte,California,06007,12427,-2,193,0
@@ -5666,7 +5608,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-02,San Joaquin,California,06077,73968,69,1423,4
 2021-06-02,San Luis Obispo,California,06079,21347,20,261,0
 2021-06-02,San Mateo,California,06081,42386,-3,576,3
-2021-06-02,Santa Barbara,California,06083,34374,5,456,0
+2021-06-02,Santa Barbara,California,06083,34507,9,456,0
 2021-06-02,Santa Clara,California,06085,119528,13,2143,0
 2021-06-02,Santa Cruz,California,06087,16182,0,207,0
 2021-06-02,Shasta,California,06089,12445,0,230,0
@@ -5683,3 +5625,61 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-02,Ventura,California,06111,81396,14,1021,0
 2021-06-02,Yolo,California,06113,14067,3,210,-3
 2021-06-02,Yuba,California,06115,6371,20,48,-1
+2021-06-03,Alameda,California,06001,89046,55,1693,0
+2021-06-03,Alpine,California,06003,89,0,0,0
+2021-06-03,Amador,California,06005,3687,1,47,0
+2021-06-03,Butte,California,06007,12432,5,193,0
+2021-06-03,Calaveras,California,06009,2184,10,56,0
+2021-06-03,Colusa,California,06011,2265,0,18,0
+2021-06-03,Contra Costa,California,06013,69791,46,814,1
+2021-06-03,Del Norte,California,06015,1437,3,8,0
+2021-06-03,El Dorado,California,06017,10304,8,113,0
+2021-06-03,Fresno,California,06019,102547,13,1707,1
+2021-06-03,Glenn,California,06021,2939,0,27,0
+2021-06-03,Humboldt,California,06023,4339,14,44,1
+2021-06-03,Imperial,California,06025,28737,5,737,1
+2021-06-03,Inyo,California,06027,1431,0,38,0
+2021-06-03,Kern,California,06029,110252,64,1394,0
+2021-06-03,Kings,California,06031,23081,5,247,0
+2021-06-03,Lake,California,06033,3522,-1,45,0
+2021-06-03,Lassen,California,06035,5748,3,24,0
+2021-06-03,Los Angeles,California,06037,1245127,203,24375,8
+2021-06-03,Madera,California,06039,16550,1,245,1
+2021-06-03,Marin,California,06041,14091,10,229,0
+2021-06-03,Mariposa,California,06043,461,0,7,0
+2021-06-03,Mendocino,California,06045,4232,4,49,0
+2021-06-03,Merced,California,06047,32183,5,471,0
+2021-06-03,Modoc,California,06049,375,0,3,0
+2021-06-03,Mono,California,06051,1294,0,4,0
+2021-06-03,Monterey,California,06053,43758,5,419,33
+2021-06-03,Napa,California,06055,9954,4,82,0
+2021-06-03,Nevada,California,06057,4833,8,75,0
+2021-06-03,Orange,California,06059,272242,32,5070,2
+2021-06-03,Placer,California,06061,23118,43,297,0
+2021-06-03,Plumas,California,06063,723,-1,6,0
+2021-06-03,Riverside,California,06065,300879,28,4614,2
+2021-06-03,Sacramento,California,06067,106634,65,1715,0
+2021-06-03,San Benito,California,06069,6073,0,63,0
+2021-06-03,San Bernardino,California,06071,298599,54,4760,2
+2021-06-03,San Diego,California,06073,280410,42,3760,4
+2021-06-03,San Francisco,California,06075,37053,19,550,0
+2021-06-03,San Joaquin,California,06077,74060,92,1423,0
+2021-06-03,San Luis Obispo,California,06079,21351,4,261,0
+2021-06-03,San Mateo,California,06081,42389,3,576,0
+2021-06-03,Santa Barbara,California,06083,34513,6,456,0
+2021-06-03,Santa Clara,California,06085,119553,25,2144,1
+2021-06-03,Santa Cruz,California,06087,16182,0,207,0
+2021-06-03,Shasta,California,06089,12446,1,230,0
+2021-06-03,Sierra,California,06091,55,0,0,0
+2021-06-03,Siskiyou,California,06093,2370,7,33,0
+2021-06-03,Solano,California,06095,33474,39,256,0
+2021-06-03,Sonoma,California,06097,30393,57,322,0
+2021-06-03,Stanislaus,California,06099,62905,27,1067,1
+2021-06-03,Sutter,California,06101,9543,15,111,0
+2021-06-03,Tehama,California,06103,5081,2,63,0
+2021-06-03,Trinity,California,06105,329,0,3,0
+2021-06-03,Tulare,California,06107,49936,2,846,0
+2021-06-03,Tuolumne,California,06109,4171,0,69,0
+2021-06-03,Ventura,California,06111,81421,25,1021,0
+2021-06-03,Yolo,California,06113,14074,7,210,0
+2021-06-03,Yuba,California,06115,6389,18,48,0
