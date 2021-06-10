@@ -25611,7 +25611,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-01,Sutter,California,06101,9523,4,113,0
 2021-06-01,Tehama,California,06103,5076,3,63,0
 2021-06-01,Trinity,California,06105,329,0,3,0
-2021-06-01,Tulare,California,06107,49918,-16,846,0
+2021-06-01,Tulare,California,06107,49934,0,846,0
 2021-06-01,Tuolumne,California,06109,4170,2,67,0
 2021-06-01,Ventura,California,06111,81382,38,1021,0
 2021-06-01,Yolo,California,06113,14064,5,213,0
@@ -25669,7 +25669,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-02,Sutter,California,06101,9528,5,111,-2
 2021-06-02,Tehama,California,06103,5079,3,63,0
 2021-06-02,Trinity,California,06105,329,0,3,0
-2021-06-02,Tulare,California,06107,49934,16,846,0
+2021-06-02,Tulare,California,06107,49934,0,846,0
 2021-06-02,Tuolumne,California,06109,4171,1,69,2
 2021-06-02,Ventura,California,06111,81396,14,1021,0
 2021-06-02,Yolo,California,06113,14067,3,210,-3
@@ -26022,3 +26022,61 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-08,Ventura,California,06111,81511,4,1025,0
 2021-06-08,Yolo,California,06113,14097,8,211,1
 2021-06-08,Yuba,California,06115,6405,0,49,0
+2021-06-09,Alameda,California,06001,89222,0,1715,13
+2021-06-09,Alpine,California,06003,89,0,0,0
+2021-06-09,Amador,California,06005,3703,7,47,0
+2021-06-09,Butte,California,06007,12540,7,194,0
+2021-06-09,Calaveras,California,06009,2195,2,56,0
+2021-06-09,Colusa,California,06011,2274,2,18,0
+2021-06-09,Contra Costa,California,06013,70116,68,803,-14
+2021-06-09,Del Norte,California,06015,1444,1,8,0
+2021-06-09,El Dorado,California,06017,10330,15,115,0
+2021-06-09,Fresno,California,06019,102680,21,1717,0
+2021-06-09,Glenn,California,06021,2942,0,27,0
+2021-06-09,Humboldt,California,06023,4405,15,46,0
+2021-06-09,Imperial,California,06025,28764,0,738,0
+2021-06-09,Inyo,California,06027,1432,0,38,0
+2021-06-09,Kern,California,06029,110522,64,1400,1
+2021-06-09,Kings,California,06031,23164,27,247,0
+2021-06-09,Lake,California,06033,3540,0,45,0
+2021-06-09,Lassen,California,06035,5768,1,24,0
+2021-06-09,Los Angeles,California,06037,1246255,174,24426,13
+2021-06-09,Madera,California,06039,16579,7,245,0
+2021-06-09,Marin,California,06041,14111,3,229,0
+2021-06-09,Mariposa,California,06043,461,0,7,0
+2021-06-09,Mendocino,California,06045,4263,11,50,0
+2021-06-09,Merced,California,06047,32234,9,474,1
+2021-06-09,Modoc,California,06049,377,2,3,0
+2021-06-09,Mono,California,06051,1294,0,4,0
+2021-06-09,Monterey,California,06053,43782,5,419,0
+2021-06-09,Napa,California,06055,9963,0,80,0
+2021-06-09,Nevada,California,06057,4861,1,75,0
+2021-06-09,Orange,California,06059,272552,48,5090,2
+2021-06-09,Placer,California,06061,23257,29,297,0
+2021-06-09,Plumas,California,06063,733,0,6,0
+2021-06-09,Riverside,California,06065,301178,50,4617,-1
+2021-06-09,Sacramento,California,06067,107102,73,1716,0
+2021-06-09,San Benito,California,06069,6076,2,63,0
+2021-06-09,San Bernardino,California,06071,298808,80,4778,3
+2021-06-09,San Diego,California,06073,280942,71,3764,0
+2021-06-09,San Francisco,California,06075,37137,12,552,0
+2021-06-09,San Joaquin,California,06077,74287,30,1428,2
+2021-06-09,San Luis Obispo,California,06079,21387,4,261,0
+2021-06-09,San Mateo,California,06081,42488,9,664,0
+2021-06-09,Santa Barbara,California,06083,34549,2,459,0
+2021-06-09,Santa Clara,California,06085,119770,27,2158,0
+2021-06-09,Santa Cruz,California,06087,16191,-8,208,0
+2021-06-09,Shasta,California,06089,12526,32,230,0
+2021-06-09,Sierra,California,06091,55,0,0,0
+2021-06-09,Siskiyou,California,06093,2383,1,37,0
+2021-06-09,Solano,California,06095,33538,15,259,1
+2021-06-09,Sonoma,California,06097,30569,65,323,0
+2021-06-09,Stanislaus,California,06099,63108,32,1068,0
+2021-06-09,Sutter,California,06101,9587,14,111,0
+2021-06-09,Tehama,California,06103,5093,1,63,0
+2021-06-09,Trinity,California,06105,331,1,3,0
+2021-06-09,Tulare,California,06107,49824,-112,849,1
+2021-06-09,Tuolumne,California,06109,4179,0,69,0
+2021-06-09,Ventura,California,06111,81528,17,1026,1
+2021-06-09,Yolo,California,06113,14099,2,212,1
+2021-06-09,Yuba,California,06115,6423,18,50,1
