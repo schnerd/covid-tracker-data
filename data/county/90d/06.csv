@@ -23,7 +23,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-16,Mariposa,California,06043,399,1,7,0
 2021-03-16,Mendocino,California,06045,3881,0,45,0
 2021-03-16,Merced,California,06047,29979,39,423,0
-2021-03-16,Modoc,California,06049,340,0,3,0
+2021-03-16,Modoc,California,06049,463,0,4,0
 2021-03-16,Mono,California,06051,1206,0,4,0
 2021-03-16,Monterey,California,06053,42628,53,337,1
 2021-03-16,Napa,California,06055,9197,2,75,0
@@ -81,7 +81,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-17,Mariposa,California,06043,400,1,7,0
 2021-03-17,Mendocino,California,06045,3888,7,46,1
 2021-03-17,Merced,California,06047,30027,48,425,2
-2021-03-17,Modoc,California,06049,341,1,3,0
+2021-03-17,Modoc,California,06049,463,0,4,0
 2021-03-17,Mono,California,06051,1207,1,4,0
 2021-03-17,Monterey,California,06053,42643,15,337,0
 2021-03-17,Napa,California,06055,9210,13,75,0
@@ -139,7 +139,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-18,Mariposa,California,06043,400,0,7,0
 2021-03-18,Mendocino,California,06045,3895,7,46,0
 2021-03-18,Merced,California,06047,30087,60,428,3
-2021-03-18,Modoc,California,06049,341,0,3,0
+2021-03-18,Modoc,California,06049,467,4,4,0
 2021-03-18,Mono,California,06051,1212,5,4,0
 2021-03-18,Monterey,California,06053,42667,24,338,1
 2021-03-18,Napa,California,06055,9234,24,76,1
@@ -197,7 +197,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-19,Mariposa,California,06043,401,1,7,0
 2021-03-19,Mendocino,California,06045,3899,4,46,0
 2021-03-19,Merced,California,06047,30142,55,428,0
-2021-03-19,Modoc,California,06049,341,0,3,0
+2021-03-19,Modoc,California,06049,467,0,4,0
 2021-03-19,Mono,California,06051,1215,3,4,0
 2021-03-19,Monterey,California,06053,42712,45,338,0
 2021-03-19,Napa,California,06055,9248,14,77,1
@@ -255,7 +255,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-20,Mariposa,California,06043,402,1,7,0
 2021-03-20,Mendocino,California,06045,3906,7,46,0
 2021-03-20,Merced,California,06047,30142,0,428,0
-2021-03-20,Modoc,California,06049,341,0,3,0
+2021-03-20,Modoc,California,06049,467,0,4,0
 2021-03-20,Mono,California,06051,1244,29,4,0
 2021-03-20,Monterey,California,06053,42734,22,337,-1
 2021-03-20,Napa,California,06055,9257,9,77,0
@@ -313,7 +313,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-21,Mariposa,California,06043,402,0,7,0
 2021-03-21,Mendocino,California,06045,3908,2,46,0
 2021-03-21,Merced,California,06047,30142,0,428,0
-2021-03-21,Modoc,California,06049,341,0,3,0
+2021-03-21,Modoc,California,06049,467,0,4,0
 2021-03-21,Mono,California,06051,1256,12,4,0
 2021-03-21,Monterey,California,06053,42734,0,337,0
 2021-03-21,Napa,California,06055,9275,18,77,0
@@ -371,7 +371,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-22,Mariposa,California,06043,403,1,7,0
 2021-03-22,Mendocino,California,06045,3920,12,46,0
 2021-03-22,Merced,California,06047,30257,115,429,1
-2021-03-22,Modoc,California,06049,341,0,3,0
+2021-03-22,Modoc,California,06049,467,0,4,0
 2021-03-22,Mono,California,06051,1263,7,4,0
 2021-03-22,Monterey,California,06053,42734,0,337,0
 2021-03-22,Napa,California,06055,9283,8,77,0
@@ -429,7 +429,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-23,Mariposa,California,06043,405,2,7,0
 2021-03-23,Mendocino,California,06045,3926,6,46,0
 2021-03-23,Merced,California,06047,30298,41,430,1
-2021-03-23,Modoc,California,06049,342,1,3,0
+2021-03-23,Modoc,California,06049,467,0,4,0
 2021-03-23,Mono,California,06051,1263,0,4,0
 2021-03-23,Monterey,California,06053,42794,60,338,1
 2021-03-23,Napa,California,06055,9297,14,77,0
@@ -487,7 +487,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-24,Mariposa,California,06043,406,1,7,0
 2021-03-24,Mendocino,California,06045,3928,2,46,0
 2021-03-24,Merced,California,06047,30340,42,431,1
-2021-03-24,Modoc,California,06049,342,0,3,0
+2021-03-24,Modoc,California,06049,467,0,4,0
 2021-03-24,Mono,California,06051,1263,0,4,0
 2021-03-24,Monterey,California,06053,42817,23,338,0
 2021-03-24,Napa,California,06055,9306,9,78,1
@@ -545,7 +545,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-25,Mariposa,California,06043,408,2,7,0
 2021-03-25,Mendocino,California,06045,3931,3,46,0
 2021-03-25,Merced,California,06047,30372,32,432,1
-2021-03-25,Modoc,California,06049,341,-1,3,0
+2021-03-25,Modoc,California,06049,472,5,4,0
 2021-03-25,Mono,California,06051,1243,-20,4,0
 2021-03-25,Monterey,California,06053,42844,27,339,1
 2021-03-25,Napa,California,06055,9322,16,78,0
@@ -603,7 +603,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-26,Mariposa,California,06043,408,0,7,0
 2021-03-26,Mendocino,California,06045,3935,4,46,0
 2021-03-26,Merced,California,06047,30419,47,434,2
-2021-03-26,Modoc,California,06049,343,2,3,0
+2021-03-26,Modoc,California,06049,472,0,4,0
 2021-03-26,Mono,California,06051,1235,-8,4,0
 2021-03-26,Monterey,California,06053,42868,24,340,1
 2021-03-26,Napa,California,06055,9337,15,78,0
@@ -661,7 +661,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-27,Mariposa,California,06043,408,0,7,0
 2021-03-27,Mendocino,California,06045,3935,0,46,0
 2021-03-27,Merced,California,06047,30419,0,434,0
-2021-03-27,Modoc,California,06049,344,1,3,0
+2021-03-27,Modoc,California,06049,472,0,4,0
 2021-03-27,Mono,California,06051,1236,1,4,0
 2021-03-27,Monterey,California,06053,42890,22,340,0
 2021-03-27,Napa,California,06055,9350,13,78,0
@@ -719,7 +719,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-28,Mariposa,California,06043,408,0,7,0
 2021-03-28,Mendocino,California,06045,3935,0,46,0
 2021-03-28,Merced,California,06047,30419,0,434,0
-2021-03-28,Modoc,California,06049,344,0,3,0
+2021-03-28,Modoc,California,06049,472,0,4,0
 2021-03-28,Mono,California,06051,1241,5,4,0
 2021-03-28,Monterey,California,06053,42890,0,340,0
 2021-03-28,Napa,California,06055,9361,11,78,0
@@ -777,7 +777,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-29,Mariposa,California,06043,410,2,7,0
 2021-03-29,Mendocino,California,06045,3939,4,46,0
 2021-03-29,Merced,California,06047,30521,102,435,1
-2021-03-29,Modoc,California,06049,344,0,3,0
+2021-03-29,Modoc,California,06049,472,0,4,0
 2021-03-29,Mono,California,06051,1242,1,4,0
 2021-03-29,Monterey,California,06053,42890,0,340,0
 2021-03-29,Napa,California,06055,9385,24,78,0
@@ -835,7 +835,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-30,Mariposa,California,06043,410,0,7,0
 2021-03-30,Mendocino,California,06045,3941,2,46,0
 2021-03-30,Merced,California,06047,30558,37,435,0
-2021-03-30,Modoc,California,06049,344,0,3,0
+2021-03-30,Modoc,California,06049,474,2,4,0
 2021-03-30,Mono,California,06051,1243,1,4,0
 2021-03-30,Monterey,California,06053,42934,44,341,1
 2021-03-30,Napa,California,06055,9395,10,78,0
@@ -893,7 +893,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-03-31,Mariposa,California,06043,410,0,7,0
 2021-03-31,Mendocino,California,06045,3941,0,46,0
 2021-03-31,Merced,California,06047,30593,35,436,1
-2021-03-31,Modoc,California,06049,346,2,3,0
+2021-03-31,Modoc,California,06049,474,0,4,0
 2021-03-31,Mono,California,06051,1245,2,4,0
 2021-03-31,Monterey,California,06053,42935,1,341,0
 2021-03-31,Napa,California,06055,9395,0,78,0
@@ -951,7 +951,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-01,Mariposa,California,06043,410,0,7,0
 2021-04-01,Mendocino,California,06045,3947,6,46,0
 2021-04-01,Merced,California,06047,30649,56,438,2
-2021-04-01,Modoc,California,06049,346,0,3,0
+2021-04-01,Modoc,California,06049,474,0,4,0
 2021-04-01,Mono,California,06051,1245,0,4,0
 2021-04-01,Monterey,California,06053,42961,26,342,1
 2021-04-01,Napa,California,06055,9416,21,78,0
@@ -1009,7 +1009,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-02,Mariposa,California,06043,410,0,7,0
 2021-04-02,Mendocino,California,06045,3949,2,46,0
 2021-04-02,Merced,California,06047,30687,38,439,1
-2021-04-02,Modoc,California,06049,346,0,3,0
+2021-04-02,Modoc,California,06049,474,0,4,0
 2021-04-02,Mono,California,06051,1245,0,4,0
 2021-04-02,Monterey,California,06053,42979,18,342,0
 2021-04-02,Napa,California,06055,9454,38,78,0
@@ -1067,7 +1067,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-03,Mariposa,California,06043,410,0,7,0
 2021-04-03,Mendocino,California,06045,3949,0,46,0
 2021-04-03,Merced,California,06047,30687,0,439,0
-2021-04-03,Modoc,California,06049,346,0,3,0
+2021-04-03,Modoc,California,06049,474,0,4,0
 2021-04-03,Mono,California,06051,1246,1,4,0
 2021-04-03,Monterey,California,06053,43002,23,342,0
 2021-04-03,Napa,California,06055,9454,0,78,0
@@ -1125,7 +1125,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-04,Mariposa,California,06043,411,1,7,0
 2021-04-04,Mendocino,California,06045,3949,0,46,0
 2021-04-04,Merced,California,06047,30687,0,439,0
-2021-04-04,Modoc,California,06049,346,0,3,0
+2021-04-04,Modoc,California,06049,474,0,4,0
 2021-04-04,Mono,California,06051,1245,-1,4,0
 2021-04-04,Monterey,California,06053,43002,0,342,0
 2021-04-04,Napa,California,06055,9474,20,78,0
@@ -1183,7 +1183,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-05,Mariposa,California,06043,411,0,7,0
 2021-04-05,Mendocino,California,06045,3958,9,46,0
 2021-04-05,Merced,California,06047,30906,219,442,3
-2021-04-05,Modoc,California,06049,346,0,3,0
+2021-04-05,Modoc,California,06049,474,0,4,0
 2021-04-05,Mono,California,06051,1245,0,4,0
 2021-04-05,Monterey,California,06053,43002,0,342,0
 2021-04-05,Napa,California,06055,9500,26,78,0
@@ -1241,7 +1241,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-06,Mariposa,California,06043,412,1,7,0
 2021-04-06,Mendocino,California,06045,3962,4,46,0
 2021-04-06,Merced,California,06047,30939,33,442,0
-2021-04-06,Modoc,California,06049,346,0,3,0
+2021-04-06,Modoc,California,06049,474,0,4,0
 2021-04-06,Mono,California,06051,1246,1,4,0
 2021-04-06,Monterey,California,06053,43038,36,342,0
 2021-04-06,Napa,California,06055,9517,17,78,0
@@ -1299,7 +1299,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-07,Mariposa,California,06043,415,3,7,0
 2021-04-07,Mendocino,California,06045,3965,3,47,1
 2021-04-07,Merced,California,06047,30968,29,442,0
-2021-04-07,Modoc,California,06049,351,5,3,0
+2021-04-07,Modoc,California,06049,474,0,4,0
 2021-04-07,Mono,California,06051,1246,0,4,0
 2021-04-07,Monterey,California,06053,43057,19,342,0
 2021-04-07,Napa,California,06055,9528,11,78,0
@@ -1357,7 +1357,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-08,Mariposa,California,06043,415,0,7,0
 2021-04-08,Mendocino,California,06045,3966,1,47,0
 2021-04-08,Merced,California,06047,30985,17,447,5
-2021-04-08,Modoc,California,06049,351,0,3,0
+2021-04-08,Modoc,California,06049,482,8,4,0
 2021-04-08,Mono,California,06051,1246,0,4,0
 2021-04-08,Monterey,California,06053,43063,6,344,2
 2021-04-08,Napa,California,06055,9557,29,80,2
@@ -1415,7 +1415,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-09,Mariposa,California,06043,415,0,7,0
 2021-04-09,Mendocino,California,06045,3966,0,47,0
 2021-04-09,Merced,California,06047,31009,24,448,1
-2021-04-09,Modoc,California,06049,352,1,3,0
+2021-04-09,Modoc,California,06049,482,0,4,0
 2021-04-09,Mono,California,06051,1247,1,4,0
 2021-04-09,Monterey,California,06053,43104,41,346,2
 2021-04-09,Napa,California,06055,9570,13,80,0
@@ -1473,7 +1473,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-10,Mariposa,California,06043,415,0,7,0
 2021-04-10,Mendocino,California,06045,3966,0,47,0
 2021-04-10,Merced,California,06047,31009,0,448,0
-2021-04-10,Modoc,California,06049,352,0,3,0
+2021-04-10,Modoc,California,06049,482,0,4,0
 2021-04-10,Mono,California,06051,1247,0,4,0
 2021-04-10,Monterey,California,06053,43157,53,347,1
 2021-04-10,Napa,California,06055,9575,5,80,0
@@ -1531,7 +1531,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-11,Mariposa,California,06043,415,0,7,0
 2021-04-11,Mendocino,California,06045,3966,0,47,0
 2021-04-11,Merced,California,06047,31009,0,448,0
-2021-04-11,Modoc,California,06049,352,0,3,0
+2021-04-11,Modoc,California,06049,482,0,4,0
 2021-04-11,Mono,California,06051,1249,2,4,0
 2021-04-11,Monterey,California,06053,43157,0,347,0
 2021-04-11,Napa,California,06055,9570,-5,79,-1
@@ -1589,7 +1589,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-12,Mariposa,California,06043,416,1,7,0
 2021-04-12,Mendocino,California,06045,3974,8,47,0
 2021-04-12,Merced,California,06047,31070,61,448,0
-2021-04-12,Modoc,California,06049,352,0,3,0
+2021-04-12,Modoc,California,06049,482,0,4,0
 2021-04-12,Mono,California,06051,1250,1,4,0
 2021-04-12,Monterey,California,06053,43157,0,347,0
 2021-04-12,Napa,California,06055,9598,28,80,1
@@ -1647,7 +1647,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-13,Mariposa,California,06043,417,1,7,0
 2021-04-13,Mendocino,California,06045,3977,3,47,0
 2021-04-13,Merced,California,06047,31105,35,449,1
-2021-04-13,Modoc,California,06049,352,0,3,0
+2021-04-13,Modoc,California,06049,488,6,4,0
 2021-04-13,Mono,California,06051,1251,1,4,0
 2021-04-13,Monterey,California,06053,43209,52,348,1
 2021-04-13,Napa,California,06055,9619,21,80,0
@@ -1705,7 +1705,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-14,Mariposa,California,06043,417,0,7,0
 2021-04-14,Mendocino,California,06045,3977,0,47,0
 2021-04-14,Merced,California,06047,31128,23,450,1
-2021-04-14,Modoc,California,06049,355,3,3,0
+2021-04-14,Modoc,California,06049,488,0,4,0
 2021-04-14,Mono,California,06051,1251,0,4,0
 2021-04-14,Monterey,California,06053,43226,17,348,0
 2021-04-14,Napa,California,06055,9637,18,79,-1
@@ -1763,7 +1763,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-15,Mariposa,California,06043,419,2,7,0
 2021-04-15,Mendocino,California,06045,3981,4,47,0
 2021-04-15,Merced,California,06047,31151,23,452,2
-2021-04-15,Modoc,California,06049,355,0,3,0
+2021-04-15,Modoc,California,06049,488,0,4,0
 2021-04-15,Mono,California,06051,1252,1,4,0
 2021-04-15,Monterey,California,06053,43245,19,348,0
 2021-04-15,Napa,California,06055,9646,9,79,0
@@ -1821,7 +1821,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-16,Mariposa,California,06043,419,0,7,0
 2021-04-16,Mendocino,California,06045,3987,6,47,0
 2021-04-16,Merced,California,06047,31196,45,452,0
-2021-04-16,Modoc,California,06049,355,0,3,0
+2021-04-16,Modoc,California,06049,488,0,4,0
 2021-04-16,Mono,California,06051,1253,1,4,0
 2021-04-16,Monterey,California,06053,43260,15,352,4
 2021-04-16,Napa,California,06055,9655,9,79,0
@@ -1879,7 +1879,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-17,Mariposa,California,06043,424,5,7,0
 2021-04-17,Mendocino,California,06045,3987,0,47,0
 2021-04-17,Merced,California,06047,31196,0,452,0
-2021-04-17,Modoc,California,06049,355,0,3,0
+2021-04-17,Modoc,California,06049,488,0,4,0
 2021-04-17,Mono,California,06051,1253,0,4,0
 2021-04-17,Monterey,California,06053,43267,7,357,5
 2021-04-17,Napa,California,06055,9655,0,79,0
@@ -1937,7 +1937,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-18,Mariposa,California,06043,424,0,7,0
 2021-04-18,Mendocino,California,06045,3987,0,47,0
 2021-04-18,Merced,California,06047,31196,0,452,0
-2021-04-18,Modoc,California,06049,357,2,3,0
+2021-04-18,Modoc,California,06049,488,0,4,0
 2021-04-18,Mono,California,06051,1253,0,4,0
 2021-04-18,Monterey,California,06053,43267,0,357,0
 2021-04-18,Napa,California,06055,9667,12,79,0
@@ -1995,7 +1995,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-19,Mariposa,California,06043,426,2,7,0
 2021-04-19,Mendocino,California,06045,3987,0,47,0
 2021-04-19,Merced,California,06047,31267,71,452,0
-2021-04-19,Modoc,California,06049,359,2,3,0
+2021-04-19,Modoc,California,06049,488,0,4,0
 2021-04-19,Mono,California,06051,1254,1,4,0
 2021-04-19,Monterey,California,06053,43267,0,357,0
 2021-04-19,Napa,California,06055,9675,8,79,0
@@ -2053,7 +2053,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-20,Mariposa,California,06043,426,0,7,0
 2021-04-20,Mendocino,California,06045,3993,6,47,0
 2021-04-20,Merced,California,06047,31289,22,453,1
-2021-04-20,Modoc,California,06049,359,0,3,0
+2021-04-20,Modoc,California,06049,490,2,4,0
 2021-04-20,Mono,California,06051,1254,0,4,0
 2021-04-20,Monterey,California,06053,43301,34,364,7
 2021-04-20,Napa,California,06055,9681,6,79,0
@@ -2111,7 +2111,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-21,Mariposa,California,06043,428,2,7,0
 2021-04-21,Mendocino,California,06045,3996,3,47,0
 2021-04-21,Merced,California,06047,31321,32,454,1
-2021-04-21,Modoc,California,06049,359,0,3,0
+2021-04-21,Modoc,California,06049,490,0,4,0
 2021-04-21,Mono,California,06051,1254,0,4,0
 2021-04-21,Monterey,California,06053,43332,31,379,15
 2021-04-21,Napa,California,06055,9712,31,79,0
@@ -2169,7 +2169,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-22,Mariposa,California,06043,429,1,7,0
 2021-04-22,Mendocino,California,06045,3998,2,47,0
 2021-04-22,Merced,California,06047,31358,37,454,0
-2021-04-22,Modoc,California,06049,360,1,3,0
+2021-04-22,Modoc,California,06049,490,0,4,0
 2021-04-22,Mono,California,06051,1254,0,4,0
 2021-04-22,Monterey,California,06053,43346,14,380,1
 2021-04-22,Napa,California,06055,9728,16,79,0
@@ -2227,7 +2227,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-23,Mariposa,California,06043,436,7,7,0
 2021-04-23,Mendocino,California,06045,4001,3,47,0
 2021-04-23,Merced,California,06047,31400,42,454,0
-2021-04-23,Modoc,California,06049,360,0,3,0
+2021-04-23,Modoc,California,06049,490,0,4,0
 2021-04-23,Mono,California,06051,1254,0,4,0
 2021-04-23,Monterey,California,06053,43366,20,380,0
 2021-04-23,Napa,California,06055,9735,7,79,0
@@ -2285,7 +2285,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-24,Mariposa,California,06043,436,0,7,0
 2021-04-24,Mendocino,California,06045,4001,0,47,0
 2021-04-24,Merced,California,06047,31400,0,454,0
-2021-04-24,Modoc,California,06049,360,0,3,0
+2021-04-24,Modoc,California,06049,490,0,4,0
 2021-04-24,Mono,California,06051,1256,2,4,0
 2021-04-24,Monterey,California,06053,43374,8,381,1
 2021-04-24,Napa,California,06055,9753,18,79,0
@@ -2343,7 +2343,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-25,Mariposa,California,06043,436,0,7,0
 2021-04-25,Mendocino,California,06045,4001,0,47,0
 2021-04-25,Merced,California,06047,31400,0,454,0
-2021-04-25,Modoc,California,06049,360,0,3,0
+2021-04-25,Modoc,California,06049,490,0,4,0
 2021-04-25,Mono,California,06051,1256,0,4,0
 2021-04-25,Monterey,California,06053,43374,0,381,0
 2021-04-25,Napa,California,06055,9757,4,79,0
@@ -2401,7 +2401,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-26,Mariposa,California,06043,438,2,7,0
 2021-04-26,Mendocino,California,06045,4009,8,47,0
 2021-04-26,Merced,California,06047,31452,52,454,0
-2021-04-26,Modoc,California,06049,360,0,3,0
+2021-04-26,Modoc,California,06049,490,0,4,0
 2021-04-26,Mono,California,06051,1257,1,4,0
 2021-04-26,Monterey,California,06053,43374,0,381,0
 2021-04-26,Napa,California,06055,9763,6,79,0
@@ -2459,7 +2459,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-27,Mariposa,California,06043,438,0,7,0
 2021-04-27,Mendocino,California,06045,4009,0,47,0
 2021-04-27,Merced,California,06047,31489,37,454,0
-2021-04-27,Modoc,California,06049,360,0,3,0
+2021-04-27,Modoc,California,06049,492,2,4,0
 2021-04-27,Mono,California,06051,1258,1,4,0
 2021-04-27,Monterey,California,06053,43390,16,381,0
 2021-04-27,Napa,California,06055,9770,7,79,0
@@ -2517,7 +2517,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-28,Mariposa,California,06043,441,3,7,0
 2021-04-28,Mendocino,California,06045,4015,6,47,0
 2021-04-28,Merced,California,06047,31529,40,454,0
-2021-04-28,Modoc,California,06049,360,0,3,0
+2021-04-28,Modoc,California,06049,492,0,4,0
 2021-04-28,Mono,California,06051,1276,18,4,0
 2021-04-28,Monterey,California,06053,43422,32,381,0
 2021-04-28,Napa,California,06055,9775,5,81,2
@@ -2575,7 +2575,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-29,Mariposa,California,06043,441,0,7,0
 2021-04-29,Mendocino,California,06045,4024,9,48,1
 2021-04-29,Merced,California,06047,31557,28,454,0
-2021-04-29,Modoc,California,06049,360,0,3,0
+2021-04-29,Modoc,California,06049,492,0,4,0
 2021-04-29,Mono,California,06051,1276,0,4,0
 2021-04-29,Monterey,California,06053,43443,21,381,0
 2021-04-29,Napa,California,06055,9778,3,81,0
@@ -2633,7 +2633,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-04-30,Mariposa,California,06043,441,0,7,0
 2021-04-30,Mendocino,California,06045,4029,5,48,0
 2021-04-30,Merced,California,06047,31594,37,454,0
-2021-04-30,Modoc,California,06049,360,0,3,0
+2021-04-30,Modoc,California,06049,492,0,4,0
 2021-04-30,Mono,California,06051,1276,0,4,0
 2021-04-30,Monterey,California,06053,43454,11,381,0
 2021-04-30,Napa,California,06055,9790,12,81,0
@@ -2691,7 +2691,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-01,Mariposa,California,06043,441,0,7,0
 2021-05-01,Mendocino,California,06045,4029,0,48,0
 2021-05-01,Merced,California,06047,31594,0,454,0
-2021-05-01,Modoc,California,06049,360,0,3,0
+2021-05-01,Modoc,California,06049,492,0,4,0
 2021-05-01,Mono,California,06051,1276,0,4,0
 2021-05-01,Monterey,California,06053,43461,7,381,0
 2021-05-01,Napa,California,06055,9793,3,81,0
@@ -2749,7 +2749,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-02,Mariposa,California,06043,441,0,7,0
 2021-05-02,Mendocino,California,06045,4029,0,48,0
 2021-05-02,Merced,California,06047,31594,0,454,0
-2021-05-02,Modoc,California,06049,361,1,3,0
+2021-05-02,Modoc,California,06049,492,0,4,0
 2021-05-02,Mono,California,06051,1276,0,4,0
 2021-05-02,Monterey,California,06053,43461,0,381,0
 2021-05-02,Napa,California,06055,9801,8,81,0
@@ -2807,7 +2807,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-03,Mariposa,California,06043,443,2,7,0
 2021-05-03,Mendocino,California,06045,4029,0,48,0
 2021-05-03,Merced,California,06047,31657,63,454,0
-2021-05-03,Modoc,California,06049,360,-1,3,0
+2021-05-03,Modoc,California,06049,492,0,4,0
 2021-05-03,Mono,California,06051,1277,1,4,0
 2021-05-03,Monterey,California,06053,43476,15,382,1
 2021-05-03,Napa,California,06055,9806,5,81,0
@@ -2865,7 +2865,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-04,Mariposa,California,06043,444,1,7,0
 2021-05-04,Mendocino,California,06045,4047,18,48,0
 2021-05-04,Merced,California,06047,31682,25,454,0
-2021-05-04,Modoc,California,06049,360,0,3,0
+2021-05-04,Modoc,California,06049,492,0,4,0
 2021-05-04,Mono,California,06051,1277,0,4,0
 2021-05-04,Monterey,California,06053,43490,14,382,0
 2021-05-04,Napa,California,06055,9816,10,81,0
@@ -2923,7 +2923,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-05,Mariposa,California,06043,445,1,7,0
 2021-05-05,Mendocino,California,06045,4047,0,48,0
 2021-05-05,Merced,California,06047,31701,19,454,0
-2021-05-05,Modoc,California,06049,360,0,3,0
+2021-05-05,Modoc,California,06049,492,0,4,0
 2021-05-05,Mono,California,06051,1278,1,4,0
 2021-05-05,Monterey,California,06053,43506,16,381,-1
 2021-05-05,Napa,California,06055,9825,9,81,0
@@ -2981,7 +2981,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-06,Mariposa,California,06043,445,0,7,0
 2021-05-06,Mendocino,California,06045,4055,8,48,0
 2021-05-06,Merced,California,06047,31711,10,456,2
-2021-05-06,Modoc,California,06049,361,1,3,0
+2021-05-06,Modoc,California,06049,495,3,4,0
 2021-05-06,Mono,California,06051,1278,0,4,0
 2021-05-06,Monterey,California,06053,43552,46,381,0
 2021-05-06,Napa,California,06055,9834,9,81,0
@@ -3039,7 +3039,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-07,Mariposa,California,06043,445,0,7,0
 2021-05-07,Mendocino,California,06045,4059,4,48,0
 2021-05-07,Merced,California,06047,31743,32,458,2
-2021-05-07,Modoc,California,06049,360,-1,3,0
+2021-05-07,Modoc,California,06049,495,0,4,0
 2021-05-07,Mono,California,06051,1278,0,4,0
 2021-05-07,Monterey,California,06053,43563,11,382,1
 2021-05-07,Napa,California,06055,9844,10,81,0
@@ -3097,7 +3097,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-08,Mariposa,California,06043,445,0,7,0
 2021-05-08,Mendocino,California,06045,4061,2,49,1
 2021-05-08,Merced,California,06047,31743,0,458,0
-2021-05-08,Modoc,California,06049,360,0,3,0
+2021-05-08,Modoc,California,06049,495,0,4,0
 2021-05-08,Mono,California,06051,1278,0,4,0
 2021-05-08,Monterey,California,06053,43563,0,382,0
 2021-05-08,Napa,California,06055,9850,6,81,0
@@ -3155,7 +3155,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-09,Mariposa,California,06043,445,0,7,0
 2021-05-09,Mendocino,California,06045,4061,0,49,0
 2021-05-09,Merced,California,06047,31743,0,458,0
-2021-05-09,Modoc,California,06049,360,0,3,0
+2021-05-09,Modoc,California,06049,495,0,4,0
 2021-05-09,Mono,California,06051,1278,0,4,0
 2021-05-09,Monterey,California,06053,43563,0,382,0
 2021-05-09,Napa,California,06055,9854,4,81,0
@@ -3213,7 +3213,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-10,Mariposa,California,06043,447,2,7,0
 2021-05-10,Mendocino,California,06045,4072,11,49,0
 2021-05-10,Merced,California,06047,31821,78,459,1
-2021-05-10,Modoc,California,06049,360,0,3,0
+2021-05-10,Modoc,California,06049,495,0,4,0
 2021-05-10,Mono,California,06051,1280,2,4,0
 2021-05-10,Monterey,California,06053,43595,32,382,0
 2021-05-10,Napa,California,06055,9858,4,81,0
@@ -3271,7 +3271,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-11,Mariposa,California,06043,447,0,7,0
 2021-05-11,Mendocino,California,06045,4078,6,49,0
 2021-05-11,Merced,California,06047,31859,38,460,1
-2021-05-11,Modoc,California,06049,361,1,3,0
+2021-05-11,Modoc,California,06049,495,0,4,0
 2021-05-11,Mono,California,06051,1280,0,4,0
 2021-05-11,Monterey,California,06053,43601,6,383,1
 2021-05-11,Napa,California,06055,9861,3,81,0
@@ -3329,7 +3329,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-12,Mariposa,California,06043,448,1,7,0
 2021-05-12,Mendocino,California,06045,4078,0,49,0
 2021-05-12,Merced,California,06047,31898,39,460,0
-2021-05-12,Modoc,California,06049,362,1,3,0
+2021-05-12,Modoc,California,06049,495,0,4,0
 2021-05-12,Mono,California,06051,1284,4,4,0
 2021-05-12,Monterey,California,06053,43613,12,383,0
 2021-05-12,Napa,California,06055,9871,10,81,0
@@ -3387,7 +3387,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-13,Mariposa,California,06043,448,0,7,0
 2021-05-13,Mendocino,California,06045,4101,23,49,0
 2021-05-13,Merced,California,06047,31914,16,461,1
-2021-05-13,Modoc,California,06049,362,0,3,0
+2021-05-13,Modoc,California,06049,501,6,4,0
 2021-05-13,Mono,California,06051,1284,0,4,0
 2021-05-13,Monterey,California,06053,43632,19,383,0
 2021-05-13,Napa,California,06055,9871,0,82,1
@@ -3445,7 +3445,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-14,Mariposa,California,06043,450,2,7,0
 2021-05-14,Mendocino,California,06045,4101,0,49,0
 2021-05-14,Merced,California,06047,31919,5,461,0
-2021-05-14,Modoc,California,06049,362,0,3,0
+2021-05-14,Modoc,California,06049,501,0,4,0
 2021-05-14,Mono,California,06051,1284,0,4,0
 2021-05-14,Monterey,California,06053,43662,30,383,0
 2021-05-14,Napa,California,06055,9878,7,82,0
@@ -3503,7 +3503,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-15,Mariposa,California,06043,450,0,7,0
 2021-05-15,Mendocino,California,06045,4108,7,49,0
 2021-05-15,Merced,California,06047,31919,0,461,0
-2021-05-15,Modoc,California,06049,362,0,3,0
+2021-05-15,Modoc,California,06049,501,0,4,0
 2021-05-15,Mono,California,06051,1284,0,4,0
 2021-05-15,Monterey,California,06053,43662,0,383,0
 2021-05-15,Napa,California,06055,9884,6,82,0
@@ -3561,7 +3561,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-16,Mariposa,California,06043,450,0,7,0
 2021-05-16,Mendocino,California,06045,4108,0,49,0
 2021-05-16,Merced,California,06047,31919,0,461,0
-2021-05-16,Modoc,California,06049,362,0,3,0
+2021-05-16,Modoc,California,06049,501,0,4,0
 2021-05-16,Mono,California,06051,1284,0,4,0
 2021-05-16,Monterey,California,06053,43662,0,383,0
 2021-05-16,Napa,California,06055,9888,4,82,0
@@ -3619,7 +3619,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-17,Mariposa,California,06043,450,0,7,0
 2021-05-17,Mendocino,California,06045,4127,19,49,0
 2021-05-17,Merced,California,06047,31937,18,463,2
-2021-05-17,Modoc,California,06049,362,0,3,0
+2021-05-17,Modoc,California,06049,501,0,4,0
 2021-05-17,Mono,California,06051,1284,0,4,0
 2021-05-17,Monterey,California,06053,43663,1,382,-1
 2021-05-17,Napa,California,06055,9892,4,82,0
@@ -3677,7 +3677,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-18,Mariposa,California,06043,450,0,7,0
 2021-05-18,Mendocino,California,06045,4137,10,49,0
 2021-05-18,Merced,California,06047,31950,13,463,0
-2021-05-18,Modoc,California,06049,362,0,3,0
+2021-05-18,Modoc,California,06049,501,0,4,0
 2021-05-18,Mono,California,06051,1284,0,4,0
 2021-05-18,Monterey,California,06053,43664,1,385,3
 2021-05-18,Napa,California,06055,9895,3,82,0
@@ -3735,7 +3735,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-19,Mariposa,California,06043,450,0,7,0
 2021-05-19,Mendocino,California,06045,4137,0,49,0
 2021-05-19,Merced,California,06047,31959,9,467,4
-2021-05-19,Modoc,California,06049,364,2,3,0
+2021-05-19,Modoc,California,06049,501,0,4,0
 2021-05-19,Mono,California,06051,1285,1,4,0
 2021-05-19,Monterey,California,06053,43674,10,385,0
 2021-05-19,Napa,California,06055,9906,11,82,0
@@ -3793,7 +3793,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-20,Mariposa,California,06043,452,2,7,0
 2021-05-20,Mendocino,California,06045,4147,10,49,0
 2021-05-20,Merced,California,06047,32005,46,468,1
-2021-05-20,Modoc,California,06049,364,0,3,0
+2021-05-20,Modoc,California,06049,506,5,4,0
 2021-05-20,Mono,California,06051,1285,0,4,0
 2021-05-20,Monterey,California,06053,43678,4,385,0
 2021-05-20,Napa,California,06055,9907,1,82,0
@@ -3851,7 +3851,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-21,Mariposa,California,06043,452,0,7,0
 2021-05-21,Mendocino,California,06045,4153,6,49,0
 2021-05-21,Merced,California,06047,32028,23,468,0
-2021-05-21,Modoc,California,06049,365,1,3,0
+2021-05-21,Modoc,California,06049,506,0,4,0
 2021-05-21,Mono,California,06051,1287,2,4,0
 2021-05-21,Monterey,California,06053,43662,-16,385,0
 2021-05-21,Napa,California,06055,9914,7,82,0
@@ -3909,7 +3909,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-22,Mariposa,California,06043,452,0,7,0
 2021-05-22,Mendocino,California,06045,4153,0,49,0
 2021-05-22,Merced,California,06047,32028,0,468,0
-2021-05-22,Modoc,California,06049,365,0,3,0
+2021-05-22,Modoc,California,06049,506,0,4,0
 2021-05-22,Mono,California,06051,1287,0,4,0
 2021-05-22,Monterey,California,06053,43662,0,385,0
 2021-05-22,Napa,California,06055,9914,0,82,0
@@ -3967,7 +3967,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-23,Mariposa,California,06043,452,0,7,0
 2021-05-23,Mendocino,California,06045,4153,0,49,0
 2021-05-23,Merced,California,06047,32028,0,468,0
-2021-05-23,Modoc,California,06049,366,1,3,0
+2021-05-23,Modoc,California,06049,506,0,4,0
 2021-05-23,Mono,California,06051,1287,0,4,0
 2021-05-23,Monterey,California,06053,43662,0,385,0
 2021-05-23,Napa,California,06055,9919,5,82,0
@@ -4025,7 +4025,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-24,Mariposa,California,06043,453,1,7,0
 2021-05-24,Mendocino,California,06045,4153,0,49,0
 2021-05-24,Merced,California,06047,32082,54,468,0
-2021-05-24,Modoc,California,06049,366,0,3,0
+2021-05-24,Modoc,California,06049,506,0,4,0
 2021-05-24,Mono,California,06051,1288,1,4,0
 2021-05-24,Monterey,California,06053,43695,33,385,0
 2021-05-24,Napa,California,06055,9924,5,82,0
@@ -4083,7 +4083,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-25,Mariposa,California,06043,454,1,7,0
 2021-05-25,Mendocino,California,06045,4169,16,49,0
 2021-05-25,Merced,California,06047,32093,11,468,0
-2021-05-25,Modoc,California,06049,366,0,3,0
+2021-05-25,Modoc,California,06049,511,5,4,0
 2021-05-25,Mono,California,06051,1288,0,4,0
 2021-05-25,Monterey,California,06053,43698,3,385,0
 2021-05-25,Napa,California,06055,9925,1,82,0
@@ -4141,7 +4141,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-26,Mariposa,California,06043,454,0,7,0
 2021-05-26,Mendocino,California,06045,4194,25,49,0
 2021-05-26,Merced,California,06047,32110,17,468,0
-2021-05-26,Modoc,California,06049,367,1,3,0
+2021-05-26,Modoc,California,06049,511,0,4,0
 2021-05-26,Mono,California,06051,1291,3,4,0
 2021-05-26,Monterey,California,06053,43709,11,385,0
 2021-05-26,Napa,California,06055,9927,2,82,0
@@ -4199,7 +4199,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-27,Mariposa,California,06043,454,0,7,0
 2021-05-27,Mendocino,California,06045,4197,3,49,0
 2021-05-27,Merced,California,06047,32125,15,468,0
-2021-05-27,Modoc,California,06049,371,4,3,0
+2021-05-27,Modoc,California,06049,511,0,4,0
 2021-05-27,Mono,California,06051,1293,2,4,0
 2021-05-27,Monterey,California,06053,43723,14,385,0
 2021-05-27,Napa,California,06055,9933,6,82,0
@@ -4257,7 +4257,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-28,Mariposa,California,06043,454,0,7,0
 2021-05-28,Mendocino,California,06045,4197,0,49,0
 2021-05-28,Merced,California,06047,32142,17,469,1
-2021-05-28,Modoc,California,06049,374,3,3,0
+2021-05-28,Modoc,California,06049,511,0,4,0
 2021-05-28,Mono,California,06051,1293,0,4,0
 2021-05-28,Monterey,California,06053,43730,7,385,0
 2021-05-28,Napa,California,06055,9935,2,82,0
@@ -4315,7 +4315,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-29,Mariposa,California,06043,454,0,7,0
 2021-05-29,Mendocino,California,06045,4197,0,49,0
 2021-05-29,Merced,California,06047,32142,0,469,0
-2021-05-29,Modoc,California,06049,374,0,3,0
+2021-05-29,Modoc,California,06049,511,0,4,0
 2021-05-29,Mono,California,06051,1293,0,4,0
 2021-05-29,Monterey,California,06053,43739,9,385,0
 2021-05-29,Napa,California,06055,9942,7,82,0
@@ -4373,7 +4373,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-30,Mariposa,California,06043,454,0,7,0
 2021-05-30,Mendocino,California,06045,4197,0,49,0
 2021-05-30,Merced,California,06047,32142,0,469,0
-2021-05-30,Modoc,California,06049,374,0,3,0
+2021-05-30,Modoc,California,06049,511,0,4,0
 2021-05-30,Mono,California,06051,1293,0,4,0
 2021-05-30,Monterey,California,06053,43739,0,385,0
 2021-05-30,Napa,California,06055,9949,7,82,0
@@ -4431,7 +4431,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-05-31,Mariposa,California,06043,454,0,7,0
 2021-05-31,Mendocino,California,06045,4197,0,49,0
 2021-05-31,Merced,California,06047,32142,0,469,0
-2021-05-31,Modoc,California,06049,374,0,3,0
+2021-05-31,Modoc,California,06049,511,0,4,0
 2021-05-31,Mono,California,06051,1293,0,4,0
 2021-05-31,Monterey,California,06053,43739,0,385,0
 2021-05-31,Napa,California,06055,9949,0,82,0
@@ -4489,7 +4489,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-01,Mariposa,California,06043,458,4,7,0
 2021-06-01,Mendocino,California,06045,4197,0,49,0
 2021-06-01,Merced,California,06047,32168,26,470,1
-2021-06-01,Modoc,California,06049,374,0,3,0
+2021-06-01,Modoc,California,06049,514,3,4,0
 2021-06-01,Mono,California,06051,1293,0,4,0
 2021-06-01,Monterey,California,06053,43747,8,385,0
 2021-06-01,Napa,California,06055,9949,0,82,0
@@ -4547,7 +4547,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-02,Mariposa,California,06043,461,3,7,0
 2021-06-02,Mendocino,California,06045,4228,31,49,0
 2021-06-02,Merced,California,06047,32178,10,471,1
-2021-06-02,Modoc,California,06049,375,1,3,0
+2021-06-02,Modoc,California,06049,514,0,4,0
 2021-06-02,Mono,California,06051,1294,1,4,0
 2021-06-02,Monterey,California,06053,43753,6,386,1
 2021-06-02,Napa,California,06055,9950,1,82,0
@@ -4605,7 +4605,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-03,Mariposa,California,06043,461,0,7,0
 2021-06-03,Mendocino,California,06045,4232,4,49,0
 2021-06-03,Merced,California,06047,32183,5,471,0
-2021-06-03,Modoc,California,06049,375,0,3,0
+2021-06-03,Modoc,California,06049,514,0,4,0
 2021-06-03,Mono,California,06051,1294,0,4,0
 2021-06-03,Monterey,California,06053,43758,5,419,33
 2021-06-03,Napa,California,06055,9954,4,82,0
@@ -4663,7 +4663,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-04,Mariposa,California,06043,461,0,7,0
 2021-06-04,Mendocino,California,06045,4239,7,50,1
 2021-06-04,Merced,California,06047,32193,10,471,0
-2021-06-04,Modoc,California,06049,376,1,3,0
+2021-06-04,Modoc,California,06049,514,0,4,0
 2021-06-04,Mono,California,06051,1294,0,4,0
 2021-06-04,Monterey,California,06053,43766,8,419,0
 2021-06-04,Napa,California,06055,9958,4,81,-1
@@ -4721,7 +4721,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-05,Mariposa,California,06043,461,0,7,0
 2021-06-05,Mendocino,California,06045,4239,0,50,0
 2021-06-05,Merced,California,06047,32193,0,471,0
-2021-06-05,Modoc,California,06049,375,-1,3,0
+2021-06-05,Modoc,California,06049,514,0,4,0
 2021-06-05,Mono,California,06051,1294,0,4,0
 2021-06-05,Monterey,California,06053,43766,0,419,0
 2021-06-05,Napa,California,06055,9959,1,80,-1
@@ -4779,7 +4779,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-06,Mariposa,California,06043,461,0,7,0
 2021-06-06,Mendocino,California,06045,4239,0,50,0
 2021-06-06,Merced,California,06047,32193,0,471,0
-2021-06-06,Modoc,California,06049,375,0,3,0
+2021-06-06,Modoc,California,06049,514,0,4,0
 2021-06-06,Mono,California,06051,1294,0,4,0
 2021-06-06,Monterey,California,06053,43766,0,419,0
 2021-06-06,Napa,California,06055,9961,2,80,0
@@ -4837,7 +4837,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-07,Mariposa,California,06043,461,0,7,0
 2021-06-07,Mendocino,California,06045,4252,13,50,0
 2021-06-07,Merced,California,06047,32215,22,473,2
-2021-06-07,Modoc,California,06049,375,0,3,0
+2021-06-07,Modoc,California,06049,514,0,4,0
 2021-06-07,Mono,California,06051,1294,0,4,0
 2021-06-07,Monterey,California,06053,43774,8,419,0
 2021-06-07,Napa,California,06055,9964,3,80,0
@@ -4895,7 +4895,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-08,Mariposa,California,06043,461,0,7,0
 2021-06-08,Mendocino,California,06045,4252,0,50,0
 2021-06-08,Merced,California,06047,32225,10,473,0
-2021-06-08,Modoc,California,06049,375,0,3,0
+2021-06-08,Modoc,California,06049,526,12,4,0
 2021-06-08,Mono,California,06051,1294,0,4,0
 2021-06-08,Monterey,California,06053,43777,3,419,0
 2021-06-08,Napa,California,06055,9963,-1,80,0
@@ -4953,7 +4953,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-09,Mariposa,California,06043,461,0,7,0
 2021-06-09,Mendocino,California,06045,4263,11,50,0
 2021-06-09,Merced,California,06047,32234,9,474,1
-2021-06-09,Modoc,California,06049,377,2,3,0
+2021-06-09,Modoc,California,06049,526,0,4,0
 2021-06-09,Mono,California,06051,1294,0,4,0
 2021-06-09,Monterey,California,06053,43782,5,419,0
 2021-06-09,Napa,California,06055,9963,0,80,0
@@ -5011,7 +5011,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-10,Mariposa,California,06043,461,0,7,0
 2021-06-10,Mendocino,California,06045,4268,5,50,0
 2021-06-10,Merced,California,06047,32241,7,474,0
-2021-06-10,Modoc,California,06049,377,0,3,0
+2021-06-10,Modoc,California,06049,533,7,4,0
 2021-06-10,Mono,California,06051,1294,0,4,0
 2021-06-10,Monterey,California,06053,43788,6,419,0
 2021-06-10,Napa,California,06055,9972,9,80,0
@@ -5069,7 +5069,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-11,Mariposa,California,06043,461,0,7,0
 2021-06-11,Mendocino,California,06045,4274,6,50,0
 2021-06-11,Merced,California,06047,32253,12,474,0
-2021-06-11,Modoc,California,06049,381,4,3,0
+2021-06-11,Modoc,California,06049,533,0,4,0
 2021-06-11,Mono,California,06051,1294,0,4,0
 2021-06-11,Monterey,California,06053,43791,3,419,0
 2021-06-11,Napa,California,06055,9975,3,80,0
@@ -5127,7 +5127,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-12,Mariposa,California,06043,461,0,7,0
 2021-06-12,Mendocino,California,06045,4274,0,50,0
 2021-06-12,Merced,California,06047,32253,0,474,0
-2021-06-12,Modoc,California,06049,382,1,3,0
+2021-06-12,Modoc,California,06049,533,0,4,0
 2021-06-12,Mono,California,06051,1294,0,4,0
 2021-06-12,Monterey,California,06053,43791,0,419,0
 2021-06-12,Napa,California,06055,9978,3,80,0
@@ -5185,7 +5185,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-13,Mariposa,California,06043,461,0,7,0
 2021-06-13,Mendocino,California,06045,4274,0,50,0
 2021-06-13,Merced,California,06047,32253,0,474,0
-2021-06-13,Modoc,California,06049,382,0,3,0
+2021-06-13,Modoc,California,06049,533,0,4,0
 2021-06-13,Mono,California,06051,1294,0,4,0
 2021-06-13,Monterey,California,06053,43791,0,419,0
 2021-06-13,Napa,California,06055,9987,9,80,0
@@ -5243,7 +5243,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-14,Mariposa,California,06043,464,3,7,0
 2021-06-14,Mendocino,California,06045,4282,8,50,0
 2021-06-14,Merced,California,06047,32272,19,474,0
-2021-06-14,Modoc,California,06049,382,0,3,0
+2021-06-14,Modoc,California,06049,533,0,4,0
 2021-06-14,Mono,California,06051,1295,1,4,0
 2021-06-14,Monterey,California,06053,43804,13,420,1
 2021-06-14,Napa,California,06055,9996,9,80,0
@@ -5301,7 +5301,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-15,Mariposa,California,06043,464,0,7,0
 2021-06-15,Mendocino,California,06045,4289,7,50,0
 2021-06-15,Merced,California,06047,32273,1,476,2
-2021-06-15,Modoc,California,06049,382,0,3,0
+2021-06-15,Modoc,California,06049,533,0,4,0
 2021-06-15,Mono,California,06051,1295,0,4,0
 2021-06-15,Monterey,California,06053,43818,14,421,1
 2021-06-15,Napa,California,06055,10001,5,80,0
@@ -5359,7 +5359,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-16,Mariposa,California,06043,464,0,7,0
 2021-06-16,Mendocino,California,06045,4289,0,50,0
 2021-06-16,Merced,California,06047,32278,5,477,1
-2021-06-16,Modoc,California,06049,383,1,3,0
+2021-06-16,Modoc,California,06049,533,0,4,0
 2021-06-16,Mono,California,06051,1295,0,4,0
 2021-06-16,Monterey,California,06053,43821,3,421,0
 2021-06-16,Napa,California,06055,10011,10,80,0
@@ -5417,7 +5417,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-17,Mariposa,California,06043,465,1,7,0
 2021-06-17,Mendocino,California,06045,4306,17,50,0
 2021-06-17,Merced,California,06047,32284,6,477,0
-2021-06-17,Modoc,California,06049,383,0,3,0
+2021-06-17,Modoc,California,06049,558,25,5,1
 2021-06-17,Mono,California,06051,1295,0,4,0
 2021-06-17,Monterey,California,06053,43831,10,421,0
 2021-06-17,Napa,California,06055,10012,1,80,0
@@ -5475,7 +5475,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-18,Mariposa,California,06043,465,0,7,0
 2021-06-18,Mendocino,California,06045,4321,15,50,0
 2021-06-18,Merced,California,06047,32291,7,478,1
-2021-06-18,Modoc,California,06049,401,18,3,0
+2021-06-18,Modoc,California,06049,558,0,5,0
 2021-06-18,Mono,California,06051,1295,0,4,0
 2021-06-18,Monterey,California,06053,43819,-12,432,11
 2021-06-18,Napa,California,06055,10015,3,80,0
@@ -5533,7 +5533,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-19,Mariposa,California,06043,465,0,7,0
 2021-06-19,Mendocino,California,06045,4321,0,50,0
 2021-06-19,Merced,California,06047,32291,0,478,0
-2021-06-19,Modoc,California,06049,402,1,3,0
+2021-06-19,Modoc,California,06049,558,0,5,0
 2021-06-19,Mono,California,06051,1295,0,4,0
 2021-06-19,Monterey,California,06053,43819,0,432,0
 2021-06-19,Napa,California,06055,10022,7,80,0
@@ -5591,7 +5591,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-20,Mariposa,California,06043,465,0,7,0
 2021-06-20,Mendocino,California,06045,4321,0,50,0
 2021-06-20,Merced,California,06047,32291,0,478,0
-2021-06-20,Modoc,California,06049,402,0,3,0
+2021-06-20,Modoc,California,06049,558,0,5,0
 2021-06-20,Mono,California,06051,1295,0,4,0
 2021-06-20,Monterey,California,06053,43819,0,432,0
 2021-06-20,Napa,California,06055,10026,4,80,0
@@ -5649,7 +5649,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-21,Mariposa,California,06043,465,0,7,0
 2021-06-21,Mendocino,California,06045,4340,19,50,0
 2021-06-21,Merced,California,06047,32313,22,478,0
-2021-06-21,Modoc,California,06049,405,3,3,0
+2021-06-21,Modoc,California,06049,558,0,5,0
 2021-06-21,Mono,California,06051,1295,0,4,0
 2021-06-21,Monterey,California,06053,43836,17,432,0
 2021-06-21,Napa,California,06055,10027,1,80,0
