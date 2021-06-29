@@ -5629,11 +5629,11 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-28,Alpine,California,06003,89,0,0,0
 2021-06-28,Amador,California,06005,3751,4,47,0
 2021-06-28,Butte,California,06007,12696,3,198,0
-2021-06-28,Calaveras,California,06009,2209,0,56,0
+2021-06-28,Calaveras,California,06009,2210,1,56,0
 2021-06-28,Colusa,California,06011,2288,0,18,0
 2021-06-28,Contra Costa,California,06013,71093,45,816,0
 2021-06-28,Del Norte,California,06015,1481,13,8,0
-2021-06-28,El Dorado,California,06017,10418,3,117,0
+2021-06-28,El Dorado,California,06017,10428,13,117,0
 2021-06-28,Fresno,California,06019,103110,19,1727,0
 2021-06-28,Glenn,California,06021,2960,0,27,0
 2021-06-28,Humboldt,California,06023,4554,21,50,0
@@ -5642,8 +5642,8 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-28,Kern,California,06029,111049,101,1406,1
 2021-06-28,Kings,California,06031,23236,2,247,0
 2021-06-28,Lake,California,06033,3581,5,56,0
-2021-06-28,Lassen,California,06035,5809,0,25,0
-2021-06-28,Los Angeles,California,06037,1249971,0,24493,3
+2021-06-28,Lassen,California,06035,5809,0,26,1
+2021-06-28,Los Angeles,California,06037,1250227,256,24493,3
 2021-06-28,Madera,California,06039,16680,1,245,0
 2021-06-28,Marin,California,06041,14182,2,232,0
 2021-06-28,Mariposa,California,06043,466,0,7,0
@@ -5656,11 +5656,11 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-06-28,Nevada,California,06057,4946,7,75,0
 2021-06-28,Orange,California,06059,273427,202,5123,0
 2021-06-28,Placer,California,06061,23751,49,300,0
-2021-06-28,Plumas,California,06063,737,0,6,0
+2021-06-28,Plumas,California,06063,742,5,6,0
 2021-06-28,Riverside,California,06065,301799,0,4627,0
 2021-06-28,Sacramento,California,06067,108410,232,1740,2
 2021-06-28,San Benito,California,06069,6101,1,63,0
-2021-06-28,San Bernardino,California,06071,299672,68,4927,-1
+2021-06-28,San Bernardino,California,06071,299672,68,4928,0
 2021-06-28,San Diego,California,06073,282422,96,3780,0
 2021-06-28,San Francisco,California,06075,37363,12,559,0
 2021-06-28,San Joaquin,California,06077,74808,0,1440,0
