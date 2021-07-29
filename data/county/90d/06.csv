@@ -1,62 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2021-04-21,Alameda,California,06001,85673,69,1477,0
-2021-04-21,Alpine,California,06003,88,0,0,0
-2021-04-21,Amador,California,06005,3630,2,46,0
-2021-04-21,Butte,California,06007,11619,18,196,0
-2021-04-21,Calaveras,California,06009,2053,3,52,1
-2021-04-21,Colusa,California,06011,2208,4,16,0
-2021-04-21,Contra Costa,California,06013,67223,66,782,0
-2021-04-21,Del Norte,California,06015,1291,1,7,0
-2021-04-21,El Dorado,California,06017,9743,17,109,0
-2021-04-21,Fresno,California,06019,100768,66,1650,4
-2021-04-21,Glenn,California,06021,2871,0,25,0
-2021-04-21,Humboldt,California,06023,3659,28,38,0
-2021-04-21,Imperial,California,06025,28024,29,718,0
-2021-04-21,Inyo,California,06027,1393,1,36,0
-2021-04-21,Kern,California,06029,108061,48,1333,2
-2021-04-21,Kings,California,06031,22796,15,246,1
-2021-04-21,Lake,California,06033,3418,2,43,0
-2021-04-21,Lassen,California,06035,5679,6,24,0
-2021-04-21,Los Angeles,California,06037,1230660,357,23702,34
-2021-04-21,Madera,California,06039,16301,12,240,0
-2021-04-21,Marin,California,06041,13807,3,227,1
-2021-04-21,Mariposa,California,06043,428,2,7,0
-2021-04-21,Mendocino,California,06045,3996,3,47,0
-2021-04-21,Merced,California,06047,31321,32,454,1
-2021-04-21,Modoc,California,06049,490,0,4,0
-2021-04-21,Mono,California,06051,1254,0,4,0
-2021-04-21,Monterey,California,06053,43332,31,379,15
-2021-04-21,Napa,California,06055,9712,31,79,0
-2021-04-21,Nevada,California,06057,4485,8,75,0
-2021-04-21,Orange,California,06059,269258,82,4902,2
-2021-04-21,Placer,California,06061,21957,49,283,0
-2021-04-21,Plumas,California,06063,670,5,4,0
-2021-04-21,Riverside,California,06065,297631,11,4547,0
-2021-04-21,Sacramento,California,06067,101786,122,1651,4
-2021-04-21,San Benito,California,06069,5988,-1,63,0
-2021-04-21,San Bernardino,California,06071,295131,158,4569,8
-2021-04-21,San Diego,California,06073,275432,256,3674,0
-2021-04-21,San Francisco,California,06075,36120,23,529,0
-2021-04-21,San Joaquin,California,06077,71813,78,1340,6
-2021-04-21,San Luis Obispo,California,06079,21010,19,258,1
-2021-04-21,San Mateo,California,06081,41251,25,560,0
-2021-04-21,Santa Barbara,California,06083,33952,26,445,-1
-2021-04-21,Santa Clara,California,06085,117317,0,2020,2
-2021-04-21,Santa Cruz,California,06087,15719,53,204,0
-2021-04-21,Shasta,California,06089,11747,0,219,0
-2021-04-21,Sierra,California,06091,51,0,0,0
-2021-04-21,Siskiyou,California,06093,1976,11,21,0
-2021-04-21,Solano,California,06095,32091,39,243,4
-2021-04-21,Sonoma,California,06097,29720,5,311,0
-2021-04-21,Stanislaus,California,06099,60649,66,1035,3
-2021-04-21,Sutter,California,06101,9279,10,109,0
-2021-04-21,Tehama,California,06103,4887,9,52,0
-2021-04-21,Trinity,California,06105,327,0,3,0
-2021-04-21,Tulare,California,06107,49444,1,831,0
-2021-04-21,Tuolumne,California,06109,4089,3,64,0
-2021-04-21,Ventura,California,06111,80360,28,1002,0
-2021-04-21,Yolo,California,06113,13581,9,200,0
-2021-04-21,Yuba,California,06115,6136,9,44,0
 2021-04-22,Alameda,California,06001,85783,110,1481,4
 2021-04-22,Alpine,California,06003,88,0,0,0
 2021-04-22,Amador,California,06005,3631,1,46,0
@@ -4153,7 +4095,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-07-01,Sacramento,California,06067,108687,117,1743,0
 2021-07-01,San Benito,California,06069,6105,6,63,0
 2021-07-01,San Bernardino,California,06071,299883,120,4975,35
-2021-07-01,San Diego,California,06073,282646,84,3780,0
+2021-07-01,San Diego,California,06073,298015,15453,3780,0
 2021-07-01,San Francisco,California,06075,37068,24,558,0
 2021-07-01,San Joaquin,California,06077,74900,0,1444,0
 2021-07-01,San Luis Obispo,California,06079,21482,0,261,0
@@ -4172,6 +4114,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-07-01,Trinity,California,06105,342,0,3,0
 2021-07-01,Tulare,California,06107,49896,0,853,1
 2021-07-01,Tuolumne,California,06109,4243,1,71,0
+2021-07-01,Unknown,California,,33081,33081,0,-1
 2021-07-01,Ventura,California,06111,81884,0,1032,0
 2021-07-01,Yolo,California,06113,14184,0,213,0
 2021-07-01,Yuba,California,06115,6545,7,51,0
@@ -4211,7 +4154,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-07-02,Sacramento,California,06067,108827,140,1745,2
 2021-07-02,San Benito,California,06069,6108,3,63,0
 2021-07-02,San Bernardino,California,06071,299948,65,5003,28
-2021-07-02,San Diego,California,06073,282755,109,3780,0
+2021-07-02,San Diego,California,06073,298124,109,3780,0
 2021-07-02,San Francisco,California,06075,37110,42,558,0
 2021-07-02,San Joaquin,California,06077,74900,0,1444,0
 2021-07-02,San Luis Obispo,California,06079,21482,0,261,0
@@ -4230,6 +4173,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-07-02,Trinity,California,06105,342,0,3,0
 2021-07-02,Tulare,California,06107,49896,0,853,0
 2021-07-02,Tuolumne,California,06109,4244,1,71,0
+2021-07-02,Unknown,California,,32847,-234,0,0
 2021-07-02,Ventura,California,06111,81947,63,1033,1
 2021-07-02,Yolo,California,06113,14199,15,213,0
 2021-07-02,Yuba,California,06115,6555,10,51,0
@@ -4269,7 +4213,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-07-03,Sacramento,California,06067,108827,0,1745,0
 2021-07-03,San Benito,California,06069,6108,0,63,0
 2021-07-03,San Bernardino,California,06071,299948,0,5003,0
-2021-07-03,San Diego,California,06073,282755,0,3780,0
+2021-07-03,San Diego,California,06073,298124,0,3780,0
 2021-07-03,San Francisco,California,06075,37110,0,558,0
 2021-07-03,San Joaquin,California,06077,74900,0,1444,0
 2021-07-03,San Luis Obispo,California,06079,21482,0,261,0
@@ -4288,6 +4232,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-07-03,Trinity,California,06105,342,0,3,0
 2021-07-03,Tulare,California,06107,49896,0,853,0
 2021-07-03,Tuolumne,California,06109,4244,0,71,0
+2021-07-03,Unknown,California,,32147,-700,0,0
 2021-07-03,Ventura,California,06111,81947,0,1033,0
 2021-07-03,Yolo,California,06113,14199,0,213,0
 2021-07-03,Yuba,California,06115,6555,0,51,0
@@ -4327,7 +4272,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-07-04,Sacramento,California,06067,108827,0,1745,0
 2021-07-04,San Benito,California,06069,6108,0,63,0
 2021-07-04,San Bernardino,California,06071,299948,0,5003,0
-2021-07-04,San Diego,California,06073,282755,0,3780,0
+2021-07-04,San Diego,California,06073,298124,0,3780,0
 2021-07-04,San Francisco,California,06075,37110,0,558,0
 2021-07-04,San Joaquin,California,06077,74900,0,1444,0
 2021-07-04,San Luis Obispo,California,06079,21482,0,261,0
@@ -4346,6 +4291,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-07-04,Trinity,California,06105,342,0,3,0
 2021-07-04,Tulare,California,06107,49896,0,853,0
 2021-07-04,Tuolumne,California,06109,4244,0,71,0
+2021-07-04,Unknown,California,,31576,-571,0,0
 2021-07-04,Ventura,California,06111,81947,0,1033,0
 2021-07-04,Yolo,California,06113,14199,0,213,0
 2021-07-04,Yuba,California,06115,6555,0,51,0
@@ -4385,7 +4331,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-07-05,Sacramento,California,06067,108827,0,1745,0
 2021-07-05,San Benito,California,06069,6108,0,63,0
 2021-07-05,San Bernardino,California,06071,299948,0,5003,0
-2021-07-05,San Diego,California,06073,282755,0,3780,0
+2021-07-05,San Diego,California,06073,298124,0,3780,0
 2021-07-05,San Francisco,California,06075,37110,0,558,0
 2021-07-05,San Joaquin,California,06077,74900,0,1444,0
 2021-07-05,San Luis Obispo,California,06079,21482,0,261,0
@@ -4404,6 +4350,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-07-05,Trinity,California,06105,342,0,3,0
 2021-07-05,Tulare,California,06107,49896,0,853,0
 2021-07-05,Tuolumne,California,06109,4244,0,71,0
+2021-07-05,Unknown,California,,30956,-620,0,0
 2021-07-05,Ventura,California,06111,81947,0,1033,0
 2021-07-05,Yolo,California,06113,14199,0,213,0
 2021-07-05,Yuba,California,06115,6555,0,51,0
@@ -4443,7 +4390,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-07-06,Sacramento,California,06067,109267,440,1746,1
 2021-07-06,San Benito,California,06069,6137,29,63,0
 2021-07-06,San Bernardino,California,06071,300045,97,5037,34
-2021-07-06,San Diego,California,06073,282897,142,3782,2
+2021-07-06,San Diego,California,06073,298266,142,3782,2
 2021-07-06,San Francisco,California,06075,37240,130,558,0
 2021-07-06,San Joaquin,California,06077,74900,0,1444,0
 2021-07-06,San Luis Obispo,California,06079,21518,36,261,0
@@ -4462,6 +4409,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-07-06,Trinity,California,06105,342,0,3,0
 2021-07-06,Tulare,California,06107,49896,0,853,0
 2021-07-06,Tuolumne,California,06109,4256,12,71,0
+2021-07-06,Unknown,California,,34343,3387,0,0
 2021-07-06,Ventura,California,06111,81947,0,1033,0
 2021-07-06,Yolo,California,06113,14225,26,213,0
 2021-07-06,Yuba,California,06115,6576,21,51,0
@@ -4501,7 +4449,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-07-07,Sacramento,California,06067,109392,125,1748,2
 2021-07-07,San Benito,California,06069,6137,0,63,0
 2021-07-07,San Bernardino,California,06071,300218,173,5056,19
-2021-07-07,San Diego,California,06073,283341,444,3782,0
+2021-07-07,San Diego,California,06073,298844,578,3782,0
 2021-07-07,San Francisco,California,06075,37254,14,558,0
 2021-07-07,San Joaquin,California,06077,75133,233,1442,-2
 2021-07-07,San Luis Obispo,California,06079,21518,0,261,0
@@ -4520,1166 +4468,1225 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-07-07,Trinity,California,06105,342,0,3,0
 2021-07-07,Tulare,California,06107,49915,19,853,0
 2021-07-07,Tuolumne,California,06109,4258,2,72,1
+2021-07-07,Unknown,California,,32022,-2321,0,0
 2021-07-07,Ventura,California,06111,81972,25,1033,0
 2021-07-07,Yolo,California,06113,14227,2,213,0
 2021-07-07,Yuba,California,06115,6577,1,51,0
-2021-07-08,Alameda,California,06001,90782,85,1267,-1
+2021-07-08,Alameda,California,06001,92147,1450,1267,-1
 2021-07-08,Alpine,California,06003,89,0,0,0
-2021-07-08,Amador,California,06005,3769,2,47,0
-2021-07-08,Butte,California,06007,12750,6,202,1
-2021-07-08,Calaveras,California,06009,2220,0,57,1
-2021-07-08,Colusa,California,06011,2298,0,18,0
-2021-07-08,Contra Costa,California,06013,71758,64,821,1
+2021-07-08,Amador,California,06005,3804,37,47,0
+2021-07-08,Butte,California,06007,14730,1986,202,1
+2021-07-08,Calaveras,California,06009,2228,8,57,1
+2021-07-08,Colusa,California,06011,2303,5,18,0
+2021-07-08,Contra Costa,California,06013,72733,1039,821,1
 2021-07-08,Del Norte,California,06015,1495,5,8,0
-2021-07-08,El Dorado,California,06017,10494,10,117,0
-2021-07-08,Fresno,California,06019,102639,23,1729,2
-2021-07-08,Glenn,California,06021,2977,0,27,0
-2021-07-08,Humboldt,California,06023,4621,7,51,0
-2021-07-08,Imperial,California,06025,28701,8,739,1
+2021-07-08,El Dorado,California,06017,11314,830,117,0
+2021-07-08,Fresno,California,06019,111906,9290,1729,2
+2021-07-08,Glenn,California,06021,3032,55,27,0
+2021-07-08,Humboldt,California,06023,4703,89,51,0
+2021-07-08,Imperial,California,06025,31648,2955,739,1
 2021-07-08,Inyo,California,06027,1441,0,38,0
 2021-07-08,Kern,California,06029,111273,0,1409,0
-2021-07-08,Kings,California,06031,23146,12,248,1
-2021-07-08,Lake,California,06033,3660,1,63,0
+2021-07-08,Kings,California,06031,24307,1173,248,1
+2021-07-08,Lake,California,06033,3674,15,63,0
 2021-07-08,Lassen,California,06035,5829,1,26,0
-2021-07-08,Los Angeles,California,06037,1255020,818,24531,6
-2021-07-08,Madera,California,06039,16733,3,245,0
-2021-07-08,Marin,California,06041,14183,2,233,0
+2021-07-08,Los Angeles,California,06037,1256034,1832,24531,6
+2021-07-08,Madera,California,06039,17712,982,245,0
+2021-07-08,Marin,California,06041,14453,272,233,0
 2021-07-08,Mariposa,California,06043,468,0,7,0
 2021-07-08,Mendocino,California,06045,4412,0,50,0
 2021-07-08,Merced,California,06047,32466,22,482,0
 2021-07-08,Modoc,California,06049,570,0,6,0
 2021-07-08,Mono,California,06051,1299,0,4,0
-2021-07-08,Monterey,California,06053,43993,19,502,5
-2021-07-08,Napa,California,06055,10079,-3,81,0
-2021-07-08,Nevada,California,06057,4996,8,75,0
+2021-07-08,Monterey,California,06053,45190,1216,502,5
+2021-07-08,Napa,California,06055,10107,25,81,0
+2021-07-08,Nevada,California,06057,5199,211,75,0
 2021-07-08,Orange,California,06059,274132,0,5132,3
-2021-07-08,Placer,California,06061,23943,67,303,1
+2021-07-08,Placer,California,06061,25559,1683,303,1
 2021-07-08,Plumas,California,06063,743,0,6,0
-2021-07-08,Riverside,California,06065,303062,0,4648,0
-2021-07-08,Sacramento,California,06067,109516,124,1750,2
-2021-07-08,San Benito,California,06069,6137,0,63,0
-2021-07-08,San Bernardino,California,06071,300433,215,5087,31
-2021-07-08,San Diego,California,06073,283440,99,3782,0
-2021-07-08,San Francisco,California,06075,37287,33,558,0
-2021-07-08,San Joaquin,California,06077,75133,0,1442,0
-2021-07-08,San Luis Obispo,California,06079,21518,0,261,0
-2021-07-08,San Mateo,California,06081,42908,13,581,0
-2021-07-08,Santa Barbara,California,06083,34716,13,460,0
-2021-07-08,Santa Clara,California,06085,119758,80,2095,-1
-2021-07-08,Santa Cruz,California,06087,16317,11,207,0
-2021-07-08,Shasta,California,06089,12615,0,238,0
-2021-07-08,Sierra,California,06091,60,0,0,0
+2021-07-08,Riverside,California,06065,308403,5341,4648,0
+2021-07-08,Sacramento,California,06067,110943,1551,1750,2
+2021-07-08,San Benito,California,06069,6257,120,63,0
+2021-07-08,San Bernardino,California,06071,304090,3872,5087,31
+2021-07-08,San Diego,California,06073,298943,99,3782,0
+2021-07-08,San Francisco,California,06075,38717,1463,558,0
+2021-07-08,San Joaquin,California,06077,77964,2831,1442,0
+2021-07-08,San Luis Obispo,California,06079,22160,642,261,0
+2021-07-08,San Mateo,California,06081,43403,508,581,0
+2021-07-08,Santa Barbara,California,06083,35954,1251,460,0
+2021-07-08,Santa Clara,California,06085,120087,409,2095,-1
+2021-07-08,Santa Cruz,California,06087,17159,853,207,0
+2021-07-08,Shasta,California,06089,14463,1848,238,0
+2021-07-08,Sierra,California,06091,74,14,0,0
 2021-07-08,Siskiyou,California,06093,2433,10,40,0
-2021-07-08,Solano,California,06095,34154,0,268,0
-2021-07-08,Sonoma,California,06097,31270,110,319,1
+2021-07-08,Solano,California,06095,34255,101,268,0
+2021-07-08,Sonoma,California,06097,31553,393,319,1
 2021-07-08,Stanislaus,California,06099,63940,46,1077,0
-2021-07-08,Sutter,California,06101,9761,5,114,0
-2021-07-08,Tehama,California,06103,5129,3,63,0
-2021-07-08,Trinity,California,06105,342,0,3,0
-2021-07-08,Tulare,California,06107,49915,0,853,0
-2021-07-08,Tuolumne,California,06109,4261,3,72,0
-2021-07-08,Ventura,California,06111,81972,0,1036,3
-2021-07-08,Yolo,California,06113,14236,9,213,0
+2021-07-08,Sutter,California,06101,9772,16,114,0
+2021-07-08,Tehama,California,06103,5774,648,63,0
+2021-07-08,Trinity,California,06105,400,58,3,0
+2021-07-08,Tulare,California,06107,59381,9466,853,0
+2021-07-08,Tuolumne,California,06109,4306,48,72,0
+2021-07-08,Ventura,California,06111,84897,2925,1036,3
+2021-07-08,Yolo,California,06113,14614,387,213,0
 2021-07-08,Yuba,California,06115,6586,9,51,0
-2021-07-09,Alameda,California,06001,90782,0,1267,0
+2021-07-09,Alameda,California,06001,92242,95,1267,0
 2021-07-09,Alpine,California,06003,89,0,0,0
-2021-07-09,Amador,California,06005,3772,3,47,0
-2021-07-09,Butte,California,06007,12764,14,202,0
-2021-07-09,Calaveras,California,06009,2227,7,58,1
-2021-07-09,Colusa,California,06011,2298,0,18,0
-2021-07-09,Contra Costa,California,06013,71758,0,821,0
+2021-07-09,Amador,California,06005,3807,3,47,0
+2021-07-09,Butte,California,06007,14744,14,202,0
+2021-07-09,Calaveras,California,06009,2230,2,58,1
+2021-07-09,Colusa,California,06011,2303,0,18,0
+2021-07-09,Contra Costa,California,06013,72801,68,821,0
 2021-07-09,Del Norte,California,06015,1502,7,8,0
-2021-07-09,El Dorado,California,06017,10523,29,117,0
-2021-07-09,Fresno,California,06019,102675,36,1730,1
-2021-07-09,Glenn,California,06021,2980,3,27,0
-2021-07-09,Humboldt,California,06023,4647,26,51,0
-2021-07-09,Imperial,California,06025,28729,28,740,1
+2021-07-09,El Dorado,California,06017,11328,14,117,0
+2021-07-09,Fresno,California,06019,111942,36,1730,1
+2021-07-09,Glenn,California,06021,3031,-1,27,0
+2021-07-09,Humboldt,California,06023,4711,8,51,0
+2021-07-09,Imperial,California,06025,31676,28,740,1
 2021-07-09,Inyo,California,06027,1441,0,38,0
 2021-07-09,Kern,California,06029,111341,68,1409,0
-2021-07-09,Kings,California,06031,23146,0,248,0
-2021-07-09,Lake,California,06033,3667,7,63,0
+2021-07-09,Kings,California,06031,24312,5,248,0
+2021-07-09,Lake,California,06033,3681,7,63,0
 2021-07-09,Lassen,California,06035,5839,10,26,0
-2021-07-09,Los Angeles,California,06037,1256100,1080,24542,11
-2021-07-09,Madera,California,06039,16744,11,246,1
-2021-07-09,Marin,California,06041,14194,11,233,0
+2021-07-09,Los Angeles,California,06037,1256761,727,24542,11
+2021-07-09,Madera,California,06039,17723,11,246,1
+2021-07-09,Marin,California,06041,14464,11,233,0
 2021-07-09,Mariposa,California,06043,468,0,7,0
 2021-07-09,Mendocino,California,06045,4428,16,50,0
 2021-07-09,Merced,California,06047,32479,13,483,1
 2021-07-09,Modoc,California,06049,571,1,6,0
 2021-07-09,Mono,California,06051,1299,0,4,0
-2021-07-09,Monterey,California,06053,43993,0,507,5
-2021-07-09,Napa,California,06055,10078,-1,81,0
-2021-07-09,Nevada,California,06057,5000,4,75,0
+2021-07-09,Monterey,California,06053,45208,18,507,5
+2021-07-09,Napa,California,06055,10106,-1,81,0
+2021-07-09,Nevada,California,06057,5203,4,75,0
 2021-07-09,Orange,California,06059,274132,0,5135,3
-2021-07-09,Placer,California,06061,23943,0,303,0
+2021-07-09,Placer,California,06061,25574,15,303,0
 2021-07-09,Plumas,California,06063,742,-1,6,0
-2021-07-09,Riverside,California,06065,303062,0,4648,0
-2021-07-09,Sacramento,California,06067,109718,202,1752,2
-2021-07-09,San Benito,California,06069,6141,4,63,0
-2021-07-09,San Bernardino,California,06071,300636,203,5117,30
-2021-07-09,San Diego,California,06073,283640,200,3783,1
-2021-07-09,San Francisco,California,06075,37341,54,559,1
-2021-07-09,San Joaquin,California,06077,75133,0,1442,0
-2021-07-09,San Luis Obispo,California,06079,21518,0,261,0
-2021-07-09,San Mateo,California,06081,42948,40,583,2
-2021-07-09,Santa Barbara,California,06083,34719,3,460,0
-2021-07-09,Santa Clara,California,06085,119758,0,2095,0
-2021-07-09,Santa Cruz,California,06087,16317,0,207,0
-2021-07-09,Shasta,California,06089,12627,12,238,0
-2021-07-09,Sierra,California,06091,61,1,0,0
+2021-07-09,Riverside,California,06065,308546,143,4648,0
+2021-07-09,Sacramento,California,06067,111080,137,1752,2
+2021-07-09,San Benito,California,06069,6261,4,63,0
+2021-07-09,San Bernardino,California,06071,304235,145,5117,30
+2021-07-09,San Diego,California,06073,299143,200,3783,1
+2021-07-09,San Francisco,California,06075,38771,54,559,1
+2021-07-09,San Joaquin,California,06077,78019,55,1442,0
+2021-07-09,San Luis Obispo,California,06079,22175,15,261,0
+2021-07-09,San Mateo,California,06081,43443,40,583,2
+2021-07-09,Santa Barbara,California,06083,35967,13,460,0
+2021-07-09,Santa Clara,California,06085,120167,80,2095,0
+2021-07-09,Santa Cruz,California,06087,17166,7,207,0
+2021-07-09,Shasta,California,06089,14473,10,238,0
+2021-07-09,Sierra,California,06091,75,1,0,0
 2021-07-09,Siskiyou,California,06093,2442,9,40,0
-2021-07-09,Solano,California,06095,34154,0,268,0
-2021-07-09,Sonoma,California,06097,31307,37,319,0
+2021-07-09,Solano,California,06095,34274,19,268,0
+2021-07-09,Sonoma,California,06097,31612,59,319,0
 2021-07-09,Stanislaus,California,06099,63973,33,1078,1
-2021-07-09,Sutter,California,06101,9769,8,114,0
-2021-07-09,Tehama,California,06103,5131,2,63,0
-2021-07-09,Trinity,California,06105,342,0,3,0
-2021-07-09,Tulare,California,06107,49915,0,853,0
-2021-07-09,Tuolumne,California,06109,4262,1,72,0
-2021-07-09,Ventura,California,06111,81972,0,1039,3
-2021-07-09,Yolo,California,06113,14250,14,213,0
+2021-07-09,Sutter,California,06101,9781,9,114,0
+2021-07-09,Tehama,California,06103,5776,2,63,0
+2021-07-09,Trinity,California,06105,400,0,3,0
+2021-07-09,Tulare,California,06107,59396,15,853,0
+2021-07-09,Tuolumne,California,06109,4305,-1,72,0
+2021-07-09,Ventura,California,06111,85002,105,1039,3
+2021-07-09,Yolo,California,06113,14628,14,213,0
 2021-07-09,Yuba,California,06115,6598,12,52,1
-2021-07-10,Alameda,California,06001,90782,0,1267,0
+2021-07-10,Alameda,California,06001,92242,0,1267,0
 2021-07-10,Alpine,California,06003,89,0,0,0
-2021-07-10,Amador,California,06005,3772,0,47,0
-2021-07-10,Butte,California,06007,12764,0,202,0
-2021-07-10,Calaveras,California,06009,2227,0,58,0
-2021-07-10,Colusa,California,06011,2298,0,18,0
-2021-07-10,Contra Costa,California,06013,71981,223,821,0
+2021-07-10,Amador,California,06005,3807,0,47,0
+2021-07-10,Butte,California,06007,14744,0,202,0
+2021-07-10,Calaveras,California,06009,2230,0,58,0
+2021-07-10,Colusa,California,06011,2303,0,18,0
+2021-07-10,Contra Costa,California,06013,72801,0,821,0
 2021-07-10,Del Norte,California,06015,1502,0,8,0
-2021-07-10,El Dorado,California,06017,10523,0,117,0
-2021-07-10,Fresno,California,06019,102675,0,1730,0
-2021-07-10,Glenn,California,06021,2980,0,27,0
-2021-07-10,Humboldt,California,06023,4647,0,51,0
-2021-07-10,Imperial,California,06025,28729,0,740,0
+2021-07-10,El Dorado,California,06017,11328,0,117,0
+2021-07-10,Fresno,California,06019,111942,0,1730,0
+2021-07-10,Glenn,California,06021,3031,0,27,0
+2021-07-10,Humboldt,California,06023,4711,0,51,0
+2021-07-10,Imperial,California,06025,31676,0,740,0
 2021-07-10,Inyo,California,06027,1441,0,38,0
 2021-07-10,Kern,California,06029,111341,0,1409,0
-2021-07-10,Kings,California,06031,23146,0,248,0
-2021-07-10,Lake,California,06033,3667,0,63,0
+2021-07-10,Kings,California,06031,24312,0,248,0
+2021-07-10,Lake,California,06033,3681,0,63,0
 2021-07-10,Lassen,California,06035,5843,4,26,0
-2021-07-10,Los Angeles,California,06037,1257185,1085,24542,0
-2021-07-10,Madera,California,06039,16744,0,246,0
-2021-07-10,Marin,California,06041,14194,0,233,0
+2021-07-10,Los Angeles,California,06037,1257185,424,24542,0
+2021-07-10,Madera,California,06039,17723,0,246,0
+2021-07-10,Marin,California,06041,14464,0,233,0
 2021-07-10,Mariposa,California,06043,468,0,7,0
 2021-07-10,Mendocino,California,06045,4429,1,50,0
 2021-07-10,Merced,California,06047,32479,0,483,0
 2021-07-10,Modoc,California,06049,571,0,6,0
 2021-07-10,Mono,California,06051,1299,0,4,0
-2021-07-10,Monterey,California,06053,43993,0,507,0
-2021-07-10,Napa,California,06055,10078,0,81,0
-2021-07-10,Nevada,California,06057,5000,0,75,0
+2021-07-10,Monterey,California,06053,45208,0,507,0
+2021-07-10,Napa,California,06055,10106,0,81,0
+2021-07-10,Nevada,California,06057,5203,0,75,0
 2021-07-10,Orange,California,06059,274132,0,5135,0
-2021-07-10,Placer,California,06061,23943,0,303,0
+2021-07-10,Placer,California,06061,25574,0,303,0
 2021-07-10,Plumas,California,06063,742,0,6,0
-2021-07-10,Riverside,California,06065,303062,0,4648,0
-2021-07-10,Sacramento,California,06067,109718,0,1752,0
-2021-07-10,San Benito,California,06069,6141,0,63,0
-2021-07-10,San Bernardino,California,06071,300636,0,5117,0
-2021-07-10,San Diego,California,06073,283640,0,3783,0
-2021-07-10,San Francisco,California,06075,37341,0,559,0
-2021-07-10,San Joaquin,California,06077,75133,0,1442,0
-2021-07-10,San Luis Obispo,California,06079,21518,0,261,0
-2021-07-10,San Mateo,California,06081,42948,0,583,0
-2021-07-10,Santa Barbara,California,06083,34719,0,460,0
-2021-07-10,Santa Clara,California,06085,119857,99,2095,0
-2021-07-10,Santa Cruz,California,06087,16317,0,207,0
-2021-07-10,Shasta,California,06089,12627,0,238,0
-2021-07-10,Sierra,California,06091,61,0,0,0
+2021-07-10,Riverside,California,06065,308546,0,4648,0
+2021-07-10,Sacramento,California,06067,111080,0,1752,0
+2021-07-10,San Benito,California,06069,6261,0,63,0
+2021-07-10,San Bernardino,California,06071,304235,0,5117,0
+2021-07-10,San Diego,California,06073,299143,0,3783,0
+2021-07-10,San Francisco,California,06075,38771,0,559,0
+2021-07-10,San Joaquin,California,06077,78019,0,1442,0
+2021-07-10,San Luis Obispo,California,06079,22175,0,261,0
+2021-07-10,San Mateo,California,06081,43443,0,583,0
+2021-07-10,Santa Barbara,California,06083,35967,0,460,0
+2021-07-10,Santa Clara,California,06085,120167,0,2095,0
+2021-07-10,Santa Cruz,California,06087,17166,0,207,0
+2021-07-10,Shasta,California,06089,14473,0,238,0
+2021-07-10,Sierra,California,06091,75,0,0,0
 2021-07-10,Siskiyou,California,06093,2442,0,40,0
-2021-07-10,Solano,California,06095,34245,91,268,0
-2021-07-10,Sonoma,California,06097,31374,67,323,4
+2021-07-10,Solano,California,06095,34274,0,268,0
+2021-07-10,Sonoma,California,06097,31612,0,323,4
 2021-07-10,Stanislaus,California,06099,63973,0,1078,0
-2021-07-10,Sutter,California,06101,9769,0,114,0
-2021-07-10,Tehama,California,06103,5131,0,63,0
-2021-07-10,Trinity,California,06105,342,0,3,0
-2021-07-10,Tulare,California,06107,49915,0,853,0
-2021-07-10,Tuolumne,California,06109,4262,0,72,0
-2021-07-10,Ventura,California,06111,81972,0,1039,0
-2021-07-10,Yolo,California,06113,14250,0,213,0
+2021-07-10,Sutter,California,06101,9781,0,114,0
+2021-07-10,Tehama,California,06103,5776,0,63,0
+2021-07-10,Trinity,California,06105,400,0,3,0
+2021-07-10,Tulare,California,06107,59396,0,853,0
+2021-07-10,Tuolumne,California,06109,4305,0,72,0
+2021-07-10,Ventura,California,06111,85002,0,1039,0
+2021-07-10,Yolo,California,06113,14628,0,213,0
 2021-07-10,Yuba,California,06115,6598,0,52,0
-2021-07-11,Alameda,California,06001,91181,399,1270,3
+2021-07-11,Alameda,California,06001,92242,0,1270,3
 2021-07-11,Alpine,California,06003,89,0,0,0
-2021-07-11,Amador,California,06005,3772,0,47,0
-2021-07-11,Butte,California,06007,12764,0,202,0
-2021-07-11,Calaveras,California,06009,2227,0,58,0
-2021-07-11,Colusa,California,06011,2298,0,18,0
-2021-07-11,Contra Costa,California,06013,72109,128,821,0
+2021-07-11,Amador,California,06005,3807,0,47,0
+2021-07-11,Butte,California,06007,14744,0,202,0
+2021-07-11,Calaveras,California,06009,2230,0,58,0
+2021-07-11,Colusa,California,06011,2303,0,18,0
+2021-07-11,Contra Costa,California,06013,72801,0,821,0
 2021-07-11,Del Norte,California,06015,1502,0,8,0
-2021-07-11,El Dorado,California,06017,10523,0,117,0
-2021-07-11,Fresno,California,06019,102675,0,1730,0
-2021-07-11,Glenn,California,06021,2980,0,27,0
-2021-07-11,Humboldt,California,06023,4647,0,51,0
-2021-07-11,Imperial,California,06025,28729,0,740,0
+2021-07-11,El Dorado,California,06017,11328,0,117,0
+2021-07-11,Fresno,California,06019,111942,0,1730,0
+2021-07-11,Glenn,California,06021,3031,0,27,0
+2021-07-11,Humboldt,California,06023,4711,0,51,0
+2021-07-11,Imperial,California,06025,31676,0,740,0
 2021-07-11,Inyo,California,06027,1441,0,38,0
 2021-07-11,Kern,California,06029,111341,0,1409,0
-2021-07-11,Kings,California,06031,23146,0,248,0
-2021-07-11,Lake,California,06033,3667,0,63,0
+2021-07-11,Kings,California,06031,24312,0,248,0
+2021-07-11,Lake,California,06033,3681,0,63,0
 2021-07-11,Lassen,California,06035,5843,0,26,0
 2021-07-11,Los Angeles,California,06037,1258298,1113,24542,0
-2021-07-11,Madera,California,06039,16744,0,246,0
-2021-07-11,Marin,California,06041,14194,0,233,0
+2021-07-11,Madera,California,06039,17723,0,246,0
+2021-07-11,Marin,California,06041,14464,0,233,0
 2021-07-11,Mariposa,California,06043,468,0,7,0
 2021-07-11,Mendocino,California,06045,4429,0,50,0
 2021-07-11,Merced,California,06047,32479,0,483,0
 2021-07-11,Modoc,California,06049,571,0,6,0
 2021-07-11,Mono,California,06051,1299,0,4,0
-2021-07-11,Monterey,California,06053,43993,0,507,0
-2021-07-11,Napa,California,06055,10078,0,81,0
-2021-07-11,Nevada,California,06057,5000,0,75,0
+2021-07-11,Monterey,California,06053,45208,0,507,0
+2021-07-11,Napa,California,06055,10106,0,81,0
+2021-07-11,Nevada,California,06057,5203,0,75,0
 2021-07-11,Orange,California,06059,274132,0,5135,0
-2021-07-11,Placer,California,06061,23943,0,303,0
+2021-07-11,Placer,California,06061,25574,0,303,0
 2021-07-11,Plumas,California,06063,742,0,6,0
-2021-07-11,Riverside,California,06065,303062,0,4648,0
-2021-07-11,Sacramento,California,06067,109718,0,1752,0
-2021-07-11,San Benito,California,06069,6141,0,63,0
-2021-07-11,San Bernardino,California,06071,300636,0,5117,0
-2021-07-11,San Diego,California,06073,283640,0,3783,0
-2021-07-11,San Francisco,California,06075,37341,0,559,0
-2021-07-11,San Joaquin,California,06077,75133,0,1442,0
-2021-07-11,San Luis Obispo,California,06079,21518,0,261,0
-2021-07-11,San Mateo,California,06081,42948,0,583,0
-2021-07-11,Santa Barbara,California,06083,34719,0,460,0
-2021-07-11,Santa Clara,California,06085,120010,153,2095,0
-2021-07-11,Santa Cruz,California,06087,16317,0,207,0
-2021-07-11,Shasta,California,06089,12627,0,238,0
-2021-07-11,Sierra,California,06091,61,0,0,0
+2021-07-11,Riverside,California,06065,308546,0,4648,0
+2021-07-11,Sacramento,California,06067,111080,0,1752,0
+2021-07-11,San Benito,California,06069,6261,0,63,0
+2021-07-11,San Bernardino,California,06071,304235,0,5117,0
+2021-07-11,San Diego,California,06073,299143,0,3783,0
+2021-07-11,San Francisco,California,06075,38771,0,559,0
+2021-07-11,San Joaquin,California,06077,78019,0,1442,0
+2021-07-11,San Luis Obispo,California,06079,22175,0,261,0
+2021-07-11,San Mateo,California,06081,43443,0,583,0
+2021-07-11,Santa Barbara,California,06083,35967,0,460,0
+2021-07-11,Santa Clara,California,06085,120167,0,2095,0
+2021-07-11,Santa Cruz,California,06087,17166,0,207,0
+2021-07-11,Shasta,California,06089,14473,0,238,0
+2021-07-11,Sierra,California,06091,75,0,0,0
 2021-07-11,Siskiyou,California,06093,2442,0,40,0
-2021-07-11,Solano,California,06095,34245,0,268,0
-2021-07-11,Sonoma,California,06097,31435,61,323,0
+2021-07-11,Solano,California,06095,34274,0,268,0
+2021-07-11,Sonoma,California,06097,31612,0,323,0
 2021-07-11,Stanislaus,California,06099,63973,0,1078,0
-2021-07-11,Sutter,California,06101,9769,0,114,0
-2021-07-11,Tehama,California,06103,5131,0,63,0
-2021-07-11,Trinity,California,06105,342,0,3,0
-2021-07-11,Tulare,California,06107,49915,0,853,0
-2021-07-11,Tuolumne,California,06109,4262,0,72,0
-2021-07-11,Ventura,California,06111,81972,0,1039,0
-2021-07-11,Yolo,California,06113,14250,0,213,0
+2021-07-11,Sutter,California,06101,9781,0,114,0
+2021-07-11,Tehama,California,06103,5776,0,63,0
+2021-07-11,Trinity,California,06105,400,0,3,0
+2021-07-11,Tulare,California,06107,59396,0,853,0
+2021-07-11,Tuolumne,California,06109,4305,0,72,0
+2021-07-11,Ventura,California,06111,85002,0,1039,0
+2021-07-11,Yolo,California,06113,14628,0,213,0
 2021-07-11,Yuba,California,06115,6598,0,52,0
-2021-07-12,Alameda,California,06001,91218,37,1270,0
+2021-07-12,Alameda,California,06001,92749,507,1270,0
 2021-07-12,Alpine,California,06003,89,0,0,0
-2021-07-12,Amador,California,06005,3778,6,47,0
-2021-07-12,Butte,California,06007,12794,30,202,0
-2021-07-12,Calaveras,California,06009,2227,0,58,0
-2021-07-12,Colusa,California,06011,2298,0,18,0
-2021-07-12,Contra Costa,California,06013,72198,89,823,2
+2021-07-12,Amador,California,06005,3813,6,47,0
+2021-07-12,Butte,California,06007,14774,30,202,0
+2021-07-12,Calaveras,California,06009,2242,12,58,0
+2021-07-12,Colusa,California,06011,2305,2,18,0
+2021-07-12,Contra Costa,California,06013,73169,368,823,2
 2021-07-12,Del Norte,California,06015,1514,12,8,0
-2021-07-12,El Dorado,California,06017,10554,31,117,0
-2021-07-12,Fresno,California,06019,102813,138,1728,-2
-2021-07-12,Glenn,California,06021,2982,2,27,0
-2021-07-12,Humboldt,California,06023,4675,28,51,0
-2021-07-12,Imperial,California,06025,28787,58,740,0
+2021-07-12,El Dorado,California,06017,11374,46,117,0
+2021-07-12,Fresno,California,06019,112080,138,1728,-2
+2021-07-12,Glenn,California,06021,3037,6,27,0
+2021-07-12,Humboldt,California,06023,4748,37,51,0
+2021-07-12,Imperial,California,06025,31734,58,740,0
 2021-07-12,Inyo,California,06027,1441,0,38,0
 2021-07-12,Kern,California,06029,111437,96,1412,3
-2021-07-12,Kings,California,06031,23146,0,248,0
-2021-07-12,Lake,California,06033,3699,32,63,0
+2021-07-12,Kings,California,06031,24338,26,248,0
+2021-07-12,Lake,California,06033,3713,32,63,0
 2021-07-12,Lassen,California,06035,5843,0,26,0
-2021-07-12,Los Angeles,California,06037,1259361,1063,24558,16
-2021-07-12,Madera,California,06039,16766,22,246,0
-2021-07-12,Marin,California,06041,14231,37,233,0
+2021-07-12,Los Angeles,California,06037,1259900,1602,24558,16
+2021-07-12,Madera,California,06039,17745,22,246,0
+2021-07-12,Marin,California,06041,14501,37,233,0
 2021-07-12,Mariposa,California,06043,468,0,7,0
 2021-07-12,Mendocino,California,06045,4429,0,50,0
 2021-07-12,Merced,California,06047,32513,34,483,0
 2021-07-12,Modoc,California,06049,571,0,6,0
 2021-07-12,Mono,California,06051,1299,0,4,0
-2021-07-12,Monterey,California,06053,44054,61,507,0
-2021-07-12,Napa,California,06055,10101,23,81,0
-2021-07-12,Nevada,California,06057,5035,35,75,0
+2021-07-12,Monterey,California,06053,45264,56,507,0
+2021-07-12,Napa,California,06055,10129,23,81,0
+2021-07-12,Nevada,California,06057,5238,35,75,0
 2021-07-12,Orange,California,06059,274132,0,5136,1
-2021-07-12,Placer,California,06061,24017,74,303,0
+2021-07-12,Placer,California,06061,25675,101,303,0
 2021-07-12,Plumas,California,06063,742,0,6,0
-2021-07-12,Riverside,California,06065,303062,0,4648,0
-2021-07-12,Sacramento,California,06067,110263,545,1752,0
-2021-07-12,San Benito,California,06069,6163,22,63,0
-2021-07-12,San Bernardino,California,06071,300996,360,5167,50
-2021-07-12,San Diego,California,06073,283882,242,3784,1
-2021-07-12,San Francisco,California,06075,37599,258,559,0
-2021-07-12,San Joaquin,California,06077,75133,0,1442,0
-2021-07-12,San Luis Obispo,California,06079,21518,0,261,0
-2021-07-12,San Mateo,California,06081,43107,159,583,0
-2021-07-12,Santa Barbara,California,06083,34793,74,461,1
-2021-07-12,Santa Clara,California,06085,120095,85,2099,4
-2021-07-12,Santa Cruz,California,06087,16351,34,207,0
-2021-07-12,Shasta,California,06089,12648,21,238,0
-2021-07-12,Sierra,California,06091,62,1,0,0
+2021-07-12,Riverside,California,06065,309041,495,4648,0
+2021-07-12,Sacramento,California,06067,111685,605,1752,0
+2021-07-12,San Benito,California,06069,6283,22,63,0
+2021-07-12,San Bernardino,California,06071,304645,410,5167,50
+2021-07-12,San Diego,California,06073,299385,242,3784,1
+2021-07-12,San Francisco,California,06075,39029,258,559,0
+2021-07-12,San Joaquin,California,06077,78245,226,1442,0
+2021-07-12,San Luis Obispo,California,06079,22203,28,261,0
+2021-07-12,San Mateo,California,06081,43602,159,583,0
+2021-07-12,Santa Barbara,California,06083,36018,51,461,1
+2021-07-12,Santa Clara,California,06085,120386,219,2099,4
+2021-07-12,Santa Cruz,California,06087,17183,17,207,0
+2021-07-12,Shasta,California,06089,14497,24,238,0
+2021-07-12,Sierra,California,06091,76,1,0,0
 2021-07-12,Siskiyou,California,06093,2453,11,40,0
-2021-07-12,Solano,California,06095,34382,137,268,0
-2021-07-12,Sonoma,California,06097,31435,0,323,0
+2021-07-12,Solano,California,06095,34433,159,268,0
+2021-07-12,Sonoma,California,06097,31733,121,323,0
 2021-07-12,Stanislaus,California,06099,64091,118,1078,0
-2021-07-12,Sutter,California,06101,9769,0,114,0
-2021-07-12,Tehama,California,06103,5138,7,63,0
-2021-07-12,Trinity,California,06105,341,-1,3,0
-2021-07-12,Tulare,California,06107,49915,0,853,0
-2021-07-12,Tuolumne,California,06109,4269,7,72,0
-2021-07-12,Ventura,California,06111,82080,108,1040,1
-2021-07-12,Yolo,California,06113,14285,35,213,0
+2021-07-12,Sutter,California,06101,9817,36,114,0
+2021-07-12,Tehama,California,06103,5783,7,63,0
+2021-07-12,Trinity,California,06105,399,-1,3,0
+2021-07-12,Tulare,California,06107,59423,27,853,0
+2021-07-12,Tuolumne,California,06109,4307,2,72,0
+2021-07-12,Ventura,California,06111,85164,162,1040,1
+2021-07-12,Yolo,California,06113,14663,35,213,0
 2021-07-12,Yuba,California,06115,6598,0,52,0
-2021-07-13,Alameda,California,06001,91567,349,1271,1
+2021-07-13,Alameda,California,06001,92872,123,1271,1
 2021-07-13,Alpine,California,06003,89,0,0,0
-2021-07-13,Amador,California,06005,3780,2,48,1
-2021-07-13,Butte,California,06007,12796,2,202,0
-2021-07-13,Calaveras,California,06009,2233,6,58,0
-2021-07-13,Colusa,California,06011,2308,10,18,0
-2021-07-13,Contra Costa,California,06013,72326,128,823,0
+2021-07-13,Amador,California,06005,3815,2,48,1
+2021-07-13,Butte,California,06007,14776,2,202,0
+2021-07-13,Calaveras,California,06009,2244,2,58,0
+2021-07-13,Colusa,California,06011,2308,3,18,0
+2021-07-13,Contra Costa,California,06013,73258,89,823,0
 2021-07-13,Del Norte,California,06015,1516,2,8,0
-2021-07-13,El Dorado,California,06017,10569,15,118,1
-2021-07-13,Fresno,California,06019,102853,40,1728,0
-2021-07-13,Glenn,California,06021,2982,0,27,0
-2021-07-13,Humboldt,California,06023,4691,16,52,1
-2021-07-13,Imperial,California,06025,28789,2,740,0
+2021-07-13,El Dorado,California,06017,11389,15,118,1
+2021-07-13,Fresno,California,06019,112120,40,1728,0
+2021-07-13,Glenn,California,06021,3037,0,27,0
+2021-07-13,Humboldt,California,06023,4758,10,52,1
+2021-07-13,Imperial,California,06025,31736,2,740,0
 2021-07-13,Inyo,California,06027,1444,3,38,0
 2021-07-13,Kern,California,06029,111437,0,1412,0
-2021-07-13,Kings,California,06031,23146,0,248,0
-2021-07-13,Lake,California,06033,3706,7,63,0
+2021-07-13,Kings,California,06031,24346,8,248,0
+2021-07-13,Lake,California,06033,3720,7,63,0
 2021-07-13,Lassen,California,06035,5845,2,26,0
-2021-07-13,Los Angeles,California,06037,1260448,1087,24559,1
-2021-07-13,Madera,California,06039,16772,6,246,0
-2021-07-13,Marin,California,06041,14238,7,233,0
+2021-07-13,Los Angeles,California,06037,1260948,1048,24559,1
+2021-07-13,Madera,California,06039,17751,6,246,0
+2021-07-13,Marin,California,06041,14508,7,233,0
 2021-07-13,Mariposa,California,06043,469,1,7,0
 2021-07-13,Mendocino,California,06045,4448,19,50,0
 2021-07-13,Merced,California,06047,32526,13,483,0
 2021-07-13,Modoc,California,06049,571,0,6,0
 2021-07-13,Mono,California,06051,1304,5,5,1
-2021-07-13,Monterey,California,06053,44073,19,507,0
-2021-07-13,Napa,California,06055,10105,4,81,0
-2021-07-13,Nevada,California,06057,5046,11,75,0
+2021-07-13,Monterey,California,06053,45272,8,507,0
+2021-07-13,Napa,California,06055,10133,4,81,0
+2021-07-13,Nevada,California,06057,5249,11,75,0
 2021-07-13,Orange,California,06059,275358,1226,5136,0
-2021-07-13,Placer,California,06061,24052,35,303,0
+2021-07-13,Placer,California,06061,25710,35,303,0
 2021-07-13,Plumas,California,06063,742,0,6,0
-2021-07-13,Riverside,California,06065,303062,0,4648,0
-2021-07-13,Sacramento,California,06067,110434,171,1754,2
-2021-07-13,San Benito,California,06069,6166,3,63,0
-2021-07-13,San Bernardino,California,06071,301554,558,5171,4
-2021-07-13,San Diego,California,06073,284711,829,3785,1
-2021-07-13,San Francisco,California,06075,37659,60,559,0
-2021-07-13,San Joaquin,California,06077,75133,0,1442,0
-2021-07-13,San Luis Obispo,California,06079,21588,70,264,3
-2021-07-13,San Mateo,California,06081,43138,31,583,0
-2021-07-13,Santa Barbara,California,06083,34808,15,461,0
-2021-07-13,Santa Clara,California,06085,120192,97,2099,0
-2021-07-13,Santa Cruz,California,06087,16351,0,207,0
-2021-07-13,Shasta,California,06089,12661,13,239,1
-2021-07-13,Sierra,California,06091,62,0,0,0
+2021-07-13,Riverside,California,06065,309180,139,4648,0
+2021-07-13,Sacramento,California,06067,111838,153,1754,2
+2021-07-13,San Benito,California,06069,6286,3,63,0
+2021-07-13,San Bernardino,California,06071,304750,105,5171,4
+2021-07-13,San Diego,California,06073,300467,1082,3785,1
+2021-07-13,San Francisco,California,06075,39089,60,559,0
+2021-07-13,San Joaquin,California,06077,78293,48,1442,0
+2021-07-13,San Luis Obispo,California,06079,22208,5,264,3
+2021-07-13,San Mateo,California,06081,43633,31,583,0
+2021-07-13,Santa Barbara,California,06083,36036,18,461,0
+2021-07-13,Santa Clara,California,06085,120471,85,2099,0
+2021-07-13,Santa Cruz,California,06087,17190,7,207,0
+2021-07-13,Shasta,California,06089,14498,1,239,1
+2021-07-13,Sierra,California,06091,76,0,0,0
 2021-07-13,Siskiyou,California,06093,2464,11,40,0
-2021-07-13,Solano,California,06095,34382,0,268,0
-2021-07-13,Sonoma,California,06097,31435,0,323,0
+2021-07-13,Solano,California,06095,34455,22,268,0
+2021-07-13,Sonoma,California,06097,31758,25,323,0
 2021-07-13,Stanislaus,California,06099,64139,48,1079,1
-2021-07-13,Sutter,California,06101,9819,50,114,0
-2021-07-13,Tehama,California,06103,5138,0,63,0
-2021-07-13,Trinity,California,06105,341,0,3,0
-2021-07-13,Tulare,California,06107,49915,0,853,0
-2021-07-13,Tuolumne,California,06109,4275,6,72,0
-2021-07-13,Ventura,California,06111,82080,0,1040,0
-2021-07-13,Yolo,California,06113,14303,18,213,0
+2021-07-13,Sutter,California,06101,9825,8,114,0
+2021-07-13,Tehama,California,06103,5783,0,63,0
+2021-07-13,Trinity,California,06105,399,0,3,0
+2021-07-13,Tulare,California,06107,59428,5,853,0
+2021-07-13,Tuolumne,California,06109,4307,0,72,0
+2021-07-13,Ventura,California,06111,85208,44,1040,0
+2021-07-13,Yolo,California,06113,14681,18,213,0
 2021-07-13,Yuba,California,06115,6636,38,52,0
-2021-07-14,Alameda,California,06001,91764,197,1271,0
+2021-07-14,Alameda,California,06001,93026,154,1271,0
 2021-07-14,Alpine,California,06003,89,0,0,0
-2021-07-14,Amador,California,06005,3782,2,48,0
-2021-07-14,Butte,California,06007,12802,6,202,0
-2021-07-14,Calaveras,California,06009,2233,0,58,0
+2021-07-14,Amador,California,06005,3817,2,48,0
+2021-07-14,Butte,California,06007,14782,6,202,0
+2021-07-14,Calaveras,California,06009,2246,2,58,0
 2021-07-14,Colusa,California,06011,2308,0,18,0
-2021-07-14,Contra Costa,California,06013,72442,116,823,0
+2021-07-14,Contra Costa,California,06013,73388,130,823,0
 2021-07-14,Del Norte,California,06015,1518,2,8,0
-2021-07-14,El Dorado,California,06017,10581,12,118,0
-2021-07-14,Fresno,California,06019,102909,56,1727,-1
-2021-07-14,Glenn,California,06021,2990,8,27,0
-2021-07-14,Humboldt,California,06023,4703,12,53,1
-2021-07-14,Imperial,California,06025,28792,3,740,0
+2021-07-14,El Dorado,California,06017,11401,12,118,0
+2021-07-14,Fresno,California,06019,112176,56,1727,-1
+2021-07-14,Glenn,California,06021,3039,2,27,0
+2021-07-14,Humboldt,California,06023,4771,13,53,1
+2021-07-14,Imperial,California,06025,31739,3,740,0
 2021-07-14,Inyo,California,06027,1444,0,38,0
 2021-07-14,Kern,California,06029,111571,134,1413,1
-2021-07-14,Kings,California,06031,23146,0,248,0
-2021-07-14,Lake,California,06033,3719,13,63,0
+2021-07-14,Kings,California,06031,24354,8,248,0
+2021-07-14,Lake,California,06033,3733,13,63,0
 2021-07-14,Lassen,California,06035,5851,6,26,0
-2021-07-14,Los Angeles,California,06037,1261744,1296,24569,10
-2021-07-14,Madera,California,06039,16773,1,246,0
-2021-07-14,Marin,California,06041,14254,16,233,0
+2021-07-14,Los Angeles,California,06037,1261902,954,24569,10
+2021-07-14,Madera,California,06039,17752,1,246,0
+2021-07-14,Marin,California,06041,14524,16,233,0
 2021-07-14,Mariposa,California,06043,469,0,7,0
 2021-07-14,Mendocino,California,06045,4469,21,50,0
 2021-07-14,Merced,California,06047,32541,15,483,0
 2021-07-14,Modoc,California,06049,573,2,7,1
 2021-07-14,Mono,California,06051,1304,0,5,0
-2021-07-14,Monterey,California,06053,44087,14,507,0
-2021-07-14,Napa,California,06055,10119,14,81,0
-2021-07-14,Nevada,California,06057,5053,7,75,0
+2021-07-14,Monterey,California,06053,45290,18,507,0
+2021-07-14,Napa,California,06055,10147,14,81,0
+2021-07-14,Nevada,California,06057,5256,7,75,0
 2021-07-14,Orange,California,06059,275358,0,5136,0
-2021-07-14,Placer,California,06061,24091,39,303,0
+2021-07-14,Placer,California,06061,25749,39,303,0
 2021-07-14,Plumas,California,06063,742,0,6,0
-2021-07-14,Riverside,California,06065,302069,-993,4647,-1
-2021-07-14,Sacramento,California,06067,110638,204,1754,0
-2021-07-14,San Benito,California,06069,6173,7,63,0
-2021-07-14,San Bernardino,California,06071,301802,248,5183,12
-2021-07-14,San Diego,California,06073,285060,349,3785,0
-2021-07-14,San Francisco,California,06075,37728,69,559,0
-2021-07-14,San Joaquin,California,06077,75500,367,1446,4
-2021-07-14,San Luis Obispo,California,06079,21588,0,264,0
-2021-07-14,San Mateo,California,06081,43180,42,583,0
-2021-07-14,Santa Barbara,California,06083,34808,0,461,0
-2021-07-14,Santa Clara,California,06085,120313,121,2099,0
-2021-07-14,Santa Cruz,California,06087,16351,0,207,0
-2021-07-14,Shasta,California,06089,12678,17,240,1
-2021-07-14,Sierra,California,06091,62,0,0,0
+2021-07-14,Riverside,California,06065,309374,194,4647,-1
+2021-07-14,Sacramento,California,06067,111979,141,1754,0
+2021-07-14,San Benito,California,06069,6293,7,63,0
+2021-07-14,San Bernardino,California,06071,304899,149,5183,12
+2021-07-14,San Diego,California,06073,300816,349,3785,0
+2021-07-14,San Francisco,California,06075,39158,69,559,0
+2021-07-14,San Joaquin,California,06077,78369,76,1446,4
+2021-07-14,San Luis Obispo,California,06079,22223,15,264,0
+2021-07-14,San Mateo,California,06081,43675,42,583,0
+2021-07-14,Santa Barbara,California,06083,36051,15,461,0
+2021-07-14,Santa Clara,California,06085,120564,93,2099,0
+2021-07-14,Santa Cruz,California,06087,17195,5,207,0
+2021-07-14,Shasta,California,06089,14509,11,240,1
+2021-07-14,Sierra,California,06091,76,0,0,0
 2021-07-14,Siskiyou,California,06093,2466,2,40,0
-2021-07-14,Solano,California,06095,34466,84,268,0
-2021-07-14,Sonoma,California,06097,31547,112,323,0
+2021-07-14,Solano,California,06095,34514,59,268,0
+2021-07-14,Sonoma,California,06097,31812,54,323,0
 2021-07-14,Stanislaus,California,06099,64204,65,1080,1
-2021-07-14,Sutter,California,06101,9838,19,114,0
-2021-07-14,Tehama,California,06103,5144,6,64,1
-2021-07-14,Trinity,California,06105,342,1,3,0
-2021-07-14,Tulare,California,06107,49964,49,853,0
-2021-07-14,Tuolumne,California,06109,4275,0,72,0
-2021-07-14,Ventura,California,06111,82160,80,1040,0
-2021-07-14,Yolo,California,06113,14320,17,213,0
+2021-07-14,Sutter,California,06101,9841,16,114,0
+2021-07-14,Tehama,California,06103,5789,6,64,1
+2021-07-14,Trinity,California,06105,400,1,3,0
+2021-07-14,Tulare,California,06107,59437,9,853,0
+2021-07-14,Tuolumne,California,06109,4313,6,72,0
+2021-07-14,Ventura,California,06111,85271,63,1040,0
+2021-07-14,Yolo,California,06113,14698,17,213,0
 2021-07-14,Yuba,California,06115,6651,15,52,0
-2021-07-15,Alameda,California,06001,91764,0,1271,0
+2021-07-15,Alameda,California,06001,93244,218,1271,0
 2021-07-15,Alpine,California,06003,89,0,0,0
-2021-07-15,Amador,California,06005,3783,1,48,0
-2021-07-15,Butte,California,06007,12813,11,202,0
-2021-07-15,Calaveras,California,06009,2234,1,58,0
+2021-07-15,Amador,California,06005,3818,1,48,0
+2021-07-15,Butte,California,06007,14793,11,202,0
+2021-07-15,Calaveras,California,06009,2250,4,58,0
 2021-07-15,Colusa,California,06011,2308,0,18,0
-2021-07-15,Contra Costa,California,06013,72602,160,823,0
+2021-07-15,Contra Costa,California,06013,73516,128,823,0
 2021-07-15,Del Norte,California,06015,1521,3,8,0
-2021-07-15,El Dorado,California,06017,10598,17,118,0
-2021-07-15,Fresno,California,06019,102966,57,1728,1
-2021-07-15,Glenn,California,06021,2993,3,27,0
-2021-07-15,Humboldt,California,06023,4711,8,53,0
-2021-07-15,Imperial,California,06025,28822,30,741,1
+2021-07-15,El Dorado,California,06017,11418,17,118,0
+2021-07-15,Fresno,California,06019,112233,57,1728,1
+2021-07-15,Glenn,California,06021,3040,1,27,0
+2021-07-15,Humboldt,California,06023,4781,10,53,0
+2021-07-15,Imperial,California,06025,31769,30,741,1
 2021-07-15,Inyo,California,06027,1444,0,38,0
 2021-07-15,Kern,California,06029,111571,0,1413,0
-2021-07-15,Kings,California,06031,23224,78,248,0
-2021-07-15,Lake,California,06033,3739,20,63,0
+2021-07-15,Kings,California,06031,24364,10,248,0
+2021-07-15,Lake,California,06033,3753,20,63,0
 2021-07-15,Lassen,California,06035,5857,6,26,0
-2021-07-15,Los Angeles,California,06037,1263254,1510,24578,9
-2021-07-15,Madera,California,06039,16786,13,246,0
-2021-07-15,Marin,California,06041,14269,15,233,0
+2021-07-15,Los Angeles,California,06037,1263254,1352,24578,9
+2021-07-15,Madera,California,06039,17765,13,246,0
+2021-07-15,Marin,California,06041,14539,15,233,0
 2021-07-15,Mariposa,California,06043,471,2,7,0
 2021-07-15,Mendocino,California,06045,4490,21,50,0
 2021-07-15,Merced,California,06047,32582,41,483,0
 2021-07-15,Modoc,California,06049,573,0,7,0
 2021-07-15,Mono,California,06051,1304,0,5,0
-2021-07-15,Monterey,California,06053,44113,26,518,11
-2021-07-15,Napa,California,06055,10122,3,81,0
-2021-07-15,Nevada,California,06057,5058,5,75,0
+2021-07-15,Monterey,California,06053,45304,14,518,11
+2021-07-15,Napa,California,06055,10150,3,81,0
+2021-07-15,Nevada,California,06057,5261,5,75,0
 2021-07-15,Orange,California,06059,275358,0,5137,1
-2021-07-15,Placer,California,06061,24176,85,304,1
+2021-07-15,Placer,California,06061,25783,34,304,1
 2021-07-15,Plumas,California,06063,742,0,6,0
-2021-07-15,Riverside,California,06065,302069,0,4647,0
-2021-07-15,Sacramento,California,06067,110780,142,1758,4
-2021-07-15,San Benito,California,06069,6177,4,63,0
-2021-07-15,San Bernardino,California,06071,302029,227,5193,10
-2021-07-15,San Diego,California,06073,285332,272,3786,1
-2021-07-15,San Francisco,California,06075,37839,111,559,0
-2021-07-15,San Joaquin,California,06077,75500,0,1446,0
-2021-07-15,San Luis Obispo,California,06079,21588,0,264,0
-2021-07-15,San Mateo,California,06081,43249,69,583,0
-2021-07-15,Santa Barbara,California,06083,34808,0,461,0
-2021-07-15,Santa Clara,California,06085,120447,134,2099,0
-2021-07-15,Santa Cruz,California,06087,16375,24,207,0
-2021-07-15,Shasta,California,06089,12693,15,240,0
-2021-07-15,Sierra,California,06091,62,0,0,0
+2021-07-15,Riverside,California,06065,309583,209,4647,0
+2021-07-15,Sacramento,California,06067,112182,203,1758,4
+2021-07-15,San Benito,California,06069,6297,4,63,0
+2021-07-15,San Bernardino,California,06071,305123,224,5193,10
+2021-07-15,San Diego,California,06073,301088,272,3786,1
+2021-07-15,San Francisco,California,06075,39269,111,559,0
+2021-07-15,San Joaquin,California,06077,78468,99,1446,0
+2021-07-15,San Luis Obispo,California,06079,22244,21,264,0
+2021-07-15,San Mateo,California,06081,43744,69,583,0
+2021-07-15,Santa Barbara,California,06083,36091,40,461,0
+2021-07-15,Santa Clara,California,06085,120681,117,2099,0
+2021-07-15,Santa Cruz,California,06087,17206,11,207,0
+2021-07-15,Shasta,California,06089,14519,10,240,0
+2021-07-15,Sierra,California,06091,76,0,0,0
 2021-07-15,Siskiyou,California,06093,2472,6,40,0
-2021-07-15,Solano,California,06095,34466,0,268,0
-2021-07-15,Sonoma,California,06097,31570,23,323,0
+2021-07-15,Solano,California,06095,34544,30,268,0
+2021-07-15,Sonoma,California,06097,31851,39,323,0
 2021-07-15,Stanislaus,California,06099,64283,79,1080,0
-2021-07-15,Sutter,California,06101,9855,17,114,0
-2021-07-15,Tehama,California,06103,5142,-2,64,0
-2021-07-15,Trinity,California,06105,342,0,3,0
-2021-07-15,Tulare,California,06107,49964,0,853,0
-2021-07-15,Tuolumne,California,06109,4284,9,72,0
-2021-07-15,Ventura,California,06111,82160,0,1040,0
-2021-07-15,Yolo,California,06113,14332,12,213,0
+2021-07-15,Sutter,California,06101,9855,14,114,0
+2021-07-15,Tehama,California,06103,5787,-2,64,0
+2021-07-15,Trinity,California,06105,400,0,3,0
+2021-07-15,Tulare,California,06107,59454,17,853,0
+2021-07-15,Tuolumne,California,06109,4319,6,72,0
+2021-07-15,Ventura,California,06111,85330,59,1040,0
+2021-07-15,Yolo,California,06113,14710,12,213,0
 2021-07-15,Yuba,California,06115,6670,19,52,0
-2021-07-16,Alameda,California,06001,92112,348,1270,-1
+2021-07-16,Alameda,California,06001,93498,254,1270,-1
 2021-07-16,Alpine,California,06003,89,0,0,0
-2021-07-16,Amador,California,06005,3784,1,48,0
-2021-07-16,Butte,California,06007,12824,11,202,0
-2021-07-16,Calaveras,California,06009,2237,3,58,0
+2021-07-16,Amador,California,06005,3819,1,48,0
+2021-07-16,Butte,California,06007,14804,11,202,0
+2021-07-16,Calaveras,California,06009,2253,3,58,0
 2021-07-16,Colusa,California,06011,2322,14,18,0
-2021-07-16,Contra Costa,California,06013,72776,174,824,1
+2021-07-16,Contra Costa,California,06013,73679,163,824,1
 2021-07-16,Del Norte,California,06015,1522,1,8,0
-2021-07-16,El Dorado,California,06017,10622,24,118,0
-2021-07-16,Fresno,California,06019,103055,89,1730,2
-2021-07-16,Glenn,California,06021,2993,0,27,0
-2021-07-16,Humboldt,California,06023,4730,19,53,0
-2021-07-16,Imperial,California,06025,28840,18,741,0
+2021-07-16,El Dorado,California,06017,11442,24,118,0
+2021-07-16,Fresno,California,06019,112322,89,1730,2
+2021-07-16,Glenn,California,06021,3042,2,27,0
+2021-07-16,Humboldt,California,06023,4791,10,53,0
+2021-07-16,Imperial,California,06025,31787,18,741,0
 2021-07-16,Inyo,California,06027,1444,0,38,0
 2021-07-16,Kern,California,06029,111687,116,1414,1
-2021-07-16,Kings,California,06031,23240,16,248,0
-2021-07-16,Lake,California,06033,3760,21,64,1
+2021-07-16,Kings,California,06031,24385,21,248,0
+2021-07-16,Lake,California,06033,3774,21,64,1
 2021-07-16,Lassen,California,06035,5858,1,26,0
 2021-07-16,Los Angeles,California,06037,1265131,1877,24582,4
-2021-07-16,Madera,California,06039,16804,18,248,2
-2021-07-16,Marin,California,06041,14297,28,234,1
+2021-07-16,Madera,California,06039,17783,18,248,2
+2021-07-16,Marin,California,06041,14567,28,234,1
 2021-07-16,Mariposa,California,06043,472,1,7,0
 2021-07-16,Mendocino,California,06045,4502,12,50,0
 2021-07-16,Merced,California,06047,32621,39,483,0
 2021-07-16,Modoc,California,06049,573,0,7,0
 2021-07-16,Mono,California,06051,1304,0,5,0
-2021-07-16,Monterey,California,06053,44131,18,518,0
-2021-07-16,Napa,California,06055,10130,8,81,0
-2021-07-16,Nevada,California,06057,5066,8,75,0
+2021-07-16,Monterey,California,06053,45324,20,518,0
+2021-07-16,Napa,California,06055,10158,8,81,0
+2021-07-16,Nevada,California,06057,5269,8,75,0
 2021-07-16,Orange,California,06059,275358,0,5136,-1
-2021-07-16,Placer,California,06061,24176,0,304,0
+2021-07-16,Placer,California,06061,25827,44,304,0
 2021-07-16,Plumas,California,06063,742,0,6,0
-2021-07-16,Riverside,California,06065,302069,0,4647,0
-2021-07-16,Sacramento,California,06067,110902,122,1759,1
-2021-07-16,San Benito,California,06069,6181,4,63,0
-2021-07-16,San Bernardino,California,06071,302238,209,5218,25
-2021-07-16,San Diego,California,06073,285761,429,3786,0
-2021-07-16,San Francisco,California,06075,37981,142,560,1
-2021-07-16,San Joaquin,California,06077,75500,0,1446,0
-2021-07-16,San Luis Obispo,California,06079,21588,0,264,0
-2021-07-16,San Mateo,California,06081,43324,75,584,1
-2021-07-16,Santa Barbara,California,06083,34808,0,461,0
-2021-07-16,Santa Clara,California,06085,120604,157,2098,-1
-2021-07-16,Santa Cruz,California,06087,16375,0,207,0
-2021-07-16,Shasta,California,06089,12693,0,242,2
-2021-07-16,Sierra,California,06091,62,0,0,0
+2021-07-16,Riverside,California,06065,309823,240,4647,0
+2021-07-16,Sacramento,California,06067,112421,239,1759,1
+2021-07-16,San Benito,California,06069,6301,4,63,0
+2021-07-16,San Bernardino,California,06071,305351,228,5218,25
+2021-07-16,San Diego,California,06073,301517,429,3786,0
+2021-07-16,San Francisco,California,06075,39411,142,560,1
+2021-07-16,San Joaquin,California,06077,78564,96,1446,0
+2021-07-16,San Luis Obispo,California,06079,22262,18,264,0
+2021-07-16,San Mateo,California,06081,43819,75,584,1
+2021-07-16,Santa Barbara,California,06083,36141,50,461,0
+2021-07-16,Santa Clara,California,06085,120817,136,2098,-1
+2021-07-16,Santa Cruz,California,06087,17217,11,207,0
+2021-07-16,Shasta,California,06089,14533,14,242,2
+2021-07-16,Sierra,California,06091,76,0,0,0
 2021-07-16,Siskiyou,California,06093,2478,6,40,0
-2021-07-16,Solano,California,06095,34635,169,263,-5
-2021-07-16,Sonoma,California,06097,31641,71,326,3
+2021-07-16,Solano,California,06095,34635,91,263,-5
+2021-07-16,Sonoma,California,06097,31917,66,326,3
 2021-07-16,Stanislaus,California,06099,64381,98,1082,2
 2021-07-16,Sutter,California,06101,9871,16,114,0
-2021-07-16,Tehama,California,06103,5145,3,64,0
-2021-07-16,Trinity,California,06105,342,0,3,0
-2021-07-16,Tulare,California,06107,49964,0,854,1
-2021-07-16,Tuolumne,California,06109,4290,6,73,1
-2021-07-16,Ventura,California,06111,82342,182,1041,1
-2021-07-16,Yolo,California,06113,14356,24,213,0
+2021-07-16,Tehama,California,06103,5790,3,64,0
+2021-07-16,Trinity,California,06105,400,0,3,0
+2021-07-16,Tulare,California,06107,59483,29,854,1
+2021-07-16,Tuolumne,California,06109,4322,3,73,1
+2021-07-16,Ventura,California,06111,85414,84,1041,1
+2021-07-16,Yolo,California,06113,14734,24,213,0
 2021-07-16,Yuba,California,06115,6691,21,52,0
-2021-07-17,Alameda,California,06001,92393,281,1271,1
+2021-07-17,Alameda,California,06001,93498,0,1271,1
 2021-07-17,Alpine,California,06003,89,0,0,0
-2021-07-17,Amador,California,06005,3784,0,48,0
-2021-07-17,Butte,California,06007,12824,0,202,0
-2021-07-17,Calaveras,California,06009,2237,0,58,0
+2021-07-17,Amador,California,06005,3819,0,48,0
+2021-07-17,Butte,California,06007,14804,0,202,0
+2021-07-17,Calaveras,California,06009,2253,0,58,0
 2021-07-17,Colusa,California,06011,2322,0,18,0
-2021-07-17,Contra Costa,California,06013,72981,205,824,0
+2021-07-17,Contra Costa,California,06013,73679,0,824,0
 2021-07-17,Del Norte,California,06015,1522,0,8,0
-2021-07-17,El Dorado,California,06017,10622,0,118,0
-2021-07-17,Fresno,California,06019,103055,0,1730,0
-2021-07-17,Glenn,California,06021,2993,0,27,0
-2021-07-17,Humboldt,California,06023,4730,0,53,0
-2021-07-17,Imperial,California,06025,28840,0,741,0
+2021-07-17,El Dorado,California,06017,11442,0,118,0
+2021-07-17,Fresno,California,06019,112322,0,1730,0
+2021-07-17,Glenn,California,06021,3042,0,27,0
+2021-07-17,Humboldt,California,06023,4791,0,53,0
+2021-07-17,Imperial,California,06025,31787,0,741,0
 2021-07-17,Inyo,California,06027,1444,0,38,0
 2021-07-17,Kern,California,06029,111687,0,1414,0
-2021-07-17,Kings,California,06031,23255,15,248,0
-2021-07-17,Lake,California,06033,3760,0,64,0
+2021-07-17,Kings,California,06031,24385,0,248,0
+2021-07-17,Lake,California,06033,3774,0,64,0
 2021-07-17,Lassen,California,06035,5858,0,26,0
 2021-07-17,Los Angeles,California,06037,1266908,1777,24582,0
-2021-07-17,Madera,California,06039,16804,0,248,0
-2021-07-17,Marin,California,06041,14297,0,234,0
+2021-07-17,Madera,California,06039,17783,0,248,0
+2021-07-17,Marin,California,06041,14567,0,234,0
 2021-07-17,Mariposa,California,06043,472,0,7,0
 2021-07-17,Mendocino,California,06045,4502,0,50,0
 2021-07-17,Merced,California,06047,32621,0,483,0
 2021-07-17,Modoc,California,06049,573,0,7,0
 2021-07-17,Mono,California,06051,1304,0,5,0
-2021-07-17,Monterey,California,06053,44131,0,518,0
-2021-07-17,Napa,California,06055,10130,0,81,0
-2021-07-17,Nevada,California,06057,5066,0,75,0
+2021-07-17,Monterey,California,06053,45324,0,518,0
+2021-07-17,Napa,California,06055,10158,0,81,0
+2021-07-17,Nevada,California,06057,5269,0,75,0
 2021-07-17,Orange,California,06059,275358,0,5136,0
-2021-07-17,Placer,California,06061,24176,0,304,0
+2021-07-17,Placer,California,06061,25827,0,304,0
 2021-07-17,Plumas,California,06063,742,0,6,0
-2021-07-17,Riverside,California,06065,302069,0,4647,0
-2021-07-17,Sacramento,California,06067,110902,0,1759,0
-2021-07-17,San Benito,California,06069,6181,0,63,0
-2021-07-17,San Bernardino,California,06071,302238,0,5218,0
-2021-07-17,San Diego,California,06073,285761,0,3786,0
-2021-07-17,San Francisco,California,06075,37981,0,560,0
-2021-07-17,San Joaquin,California,06077,75500,0,1446,0
-2021-07-17,San Luis Obispo,California,06079,21588,0,264,0
-2021-07-17,San Mateo,California,06081,43324,0,584,0
-2021-07-17,Santa Barbara,California,06083,34808,0,461,0
-2021-07-17,Santa Clara,California,06085,120604,0,2098,0
-2021-07-17,Santa Cruz,California,06087,16375,0,207,0
-2021-07-17,Shasta,California,06089,12693,0,242,0
-2021-07-17,Sierra,California,06091,62,0,0,0
+2021-07-17,Riverside,California,06065,309823,0,4647,0
+2021-07-17,Sacramento,California,06067,112421,0,1759,0
+2021-07-17,San Benito,California,06069,6301,0,63,0
+2021-07-17,San Bernardino,California,06071,305351,0,5218,0
+2021-07-17,San Diego,California,06073,301517,0,3786,0
+2021-07-17,San Francisco,California,06075,39411,0,560,0
+2021-07-17,San Joaquin,California,06077,78564,0,1446,0
+2021-07-17,San Luis Obispo,California,06079,22262,0,264,0
+2021-07-17,San Mateo,California,06081,43819,0,584,0
+2021-07-17,Santa Barbara,California,06083,36141,0,461,0
+2021-07-17,Santa Clara,California,06085,120817,0,2098,0
+2021-07-17,Santa Cruz,California,06087,17217,0,207,0
+2021-07-17,Shasta,California,06089,14533,0,242,0
+2021-07-17,Sierra,California,06091,76,0,0,0
 2021-07-17,Siskiyou,California,06093,2478,0,40,0
 2021-07-17,Solano,California,06095,34635,0,263,0
-2021-07-17,Sonoma,California,06097,31703,62,327,1
+2021-07-17,Sonoma,California,06097,31917,0,327,1
 2021-07-17,Stanislaus,California,06099,64381,0,1082,0
 2021-07-17,Sutter,California,06101,9871,0,114,0
-2021-07-17,Tehama,California,06103,5145,0,64,0
-2021-07-17,Trinity,California,06105,342,0,3,0
-2021-07-17,Tulare,California,06107,49964,0,854,0
-2021-07-17,Tuolumne,California,06109,4290,0,73,0
-2021-07-17,Ventura,California,06111,82342,0,1041,0
-2021-07-17,Yolo,California,06113,14356,0,213,0
+2021-07-17,Tehama,California,06103,5790,0,64,0
+2021-07-17,Trinity,California,06105,400,0,3,0
+2021-07-17,Tulare,California,06107,59483,0,854,0
+2021-07-17,Tuolumne,California,06109,4322,0,73,0
+2021-07-17,Ventura,California,06111,85414,0,1041,0
+2021-07-17,Yolo,California,06113,14734,0,213,0
 2021-07-17,Yuba,California,06115,6691,0,52,0
-2021-07-18,Alameda,California,06001,92601,208,1271,0
+2021-07-18,Alameda,California,06001,93498,0,1271,0
 2021-07-18,Alpine,California,06003,89,0,0,0
-2021-07-18,Amador,California,06005,3784,0,48,0
-2021-07-18,Butte,California,06007,12824,0,202,0
-2021-07-18,Calaveras,California,06009,2237,0,58,0
+2021-07-18,Amador,California,06005,3819,0,48,0
+2021-07-18,Butte,California,06007,14804,0,202,0
+2021-07-18,Calaveras,California,06009,2253,0,58,0
 2021-07-18,Colusa,California,06011,2322,0,18,0
-2021-07-18,Contra Costa,California,06013,73202,221,824,0
+2021-07-18,Contra Costa,California,06013,73679,0,824,0
 2021-07-18,Del Norte,California,06015,1522,0,8,0
-2021-07-18,El Dorado,California,06017,10622,0,118,0
-2021-07-18,Fresno,California,06019,103055,0,1730,0
-2021-07-18,Glenn,California,06021,2993,0,27,0
-2021-07-18,Humboldt,California,06023,4730,0,53,0
-2021-07-18,Imperial,California,06025,28840,0,741,0
+2021-07-18,El Dorado,California,06017,11442,0,118,0
+2021-07-18,Fresno,California,06019,112322,0,1730,0
+2021-07-18,Glenn,California,06021,3042,0,27,0
+2021-07-18,Humboldt,California,06023,4791,0,53,0
+2021-07-18,Imperial,California,06025,31787,0,741,0
 2021-07-18,Inyo,California,06027,1444,0,38,0
 2021-07-18,Kern,California,06029,111687,0,1414,0
-2021-07-18,Kings,California,06031,23267,12,248,0
-2021-07-18,Lake,California,06033,3760,0,64,0
+2021-07-18,Kings,California,06031,24385,0,248,0
+2021-07-18,Lake,California,06033,3774,0,64,0
 2021-07-18,Lassen,California,06035,5858,0,26,0
 2021-07-18,Los Angeles,California,06037,1268541,1633,24583,1
-2021-07-18,Madera,California,06039,16804,0,248,0
-2021-07-18,Marin,California,06041,14297,0,234,0
+2021-07-18,Madera,California,06039,17783,0,248,0
+2021-07-18,Marin,California,06041,14567,0,234,0
 2021-07-18,Mariposa,California,06043,472,0,7,0
 2021-07-18,Mendocino,California,06045,4502,0,50,0
 2021-07-18,Merced,California,06047,32621,0,483,0
 2021-07-18,Modoc,California,06049,573,0,7,0
 2021-07-18,Mono,California,06051,1304,0,5,0
-2021-07-18,Monterey,California,06053,44131,0,518,0
-2021-07-18,Napa,California,06055,10130,0,81,0
-2021-07-18,Nevada,California,06057,5066,0,75,0
+2021-07-18,Monterey,California,06053,45324,0,518,0
+2021-07-18,Napa,California,06055,10158,0,81,0
+2021-07-18,Nevada,California,06057,5269,0,75,0
 2021-07-18,Orange,California,06059,275358,0,5136,0
-2021-07-18,Placer,California,06061,24176,0,304,0
+2021-07-18,Placer,California,06061,25827,0,304,0
 2021-07-18,Plumas,California,06063,742,0,6,0
-2021-07-18,Riverside,California,06065,302069,0,4647,0
-2021-07-18,Sacramento,California,06067,110902,0,1759,0
-2021-07-18,San Benito,California,06069,6181,0,63,0
-2021-07-18,San Bernardino,California,06071,302238,0,5218,0
-2021-07-18,San Diego,California,06073,285761,0,3786,0
-2021-07-18,San Francisco,California,06075,37981,0,560,0
-2021-07-18,San Joaquin,California,06077,75500,0,1446,0
-2021-07-18,San Luis Obispo,California,06079,21588,0,264,0
-2021-07-18,San Mateo,California,06081,43324,0,584,0
-2021-07-18,Santa Barbara,California,06083,34808,0,461,0
-2021-07-18,Santa Clara,California,06085,120604,0,2098,0
-2021-07-18,Santa Cruz,California,06087,16375,0,207,0
-2021-07-18,Shasta,California,06089,12693,0,242,0
-2021-07-18,Sierra,California,06091,62,0,0,0
+2021-07-18,Riverside,California,06065,309823,0,4647,0
+2021-07-18,Sacramento,California,06067,112421,0,1759,0
+2021-07-18,San Benito,California,06069,6301,0,63,0
+2021-07-18,San Bernardino,California,06071,305351,0,5218,0
+2021-07-18,San Diego,California,06073,301517,0,3786,0
+2021-07-18,San Francisco,California,06075,39411,0,560,0
+2021-07-18,San Joaquin,California,06077,78564,0,1446,0
+2021-07-18,San Luis Obispo,California,06079,22262,0,264,0
+2021-07-18,San Mateo,California,06081,43819,0,584,0
+2021-07-18,Santa Barbara,California,06083,36141,0,461,0
+2021-07-18,Santa Clara,California,06085,120817,0,2098,0
+2021-07-18,Santa Cruz,California,06087,17217,0,207,0
+2021-07-18,Shasta,California,06089,14533,0,242,0
+2021-07-18,Sierra,California,06091,76,0,0,0
 2021-07-18,Siskiyou,California,06093,2478,0,40,0
 2021-07-18,Solano,California,06095,34635,0,263,0
-2021-07-18,Sonoma,California,06097,31763,60,327,0
+2021-07-18,Sonoma,California,06097,31917,0,327,0
 2021-07-18,Stanislaus,California,06099,64381,0,1082,0
 2021-07-18,Sutter,California,06101,9871,0,114,0
-2021-07-18,Tehama,California,06103,5145,0,64,0
-2021-07-18,Trinity,California,06105,342,0,3,0
-2021-07-18,Tulare,California,06107,49964,0,854,0
-2021-07-18,Tuolumne,California,06109,4290,0,73,0
-2021-07-18,Ventura,California,06111,82342,0,1041,0
-2021-07-18,Yolo,California,06113,14356,0,213,0
+2021-07-18,Tehama,California,06103,5790,0,64,0
+2021-07-18,Trinity,California,06105,400,0,3,0
+2021-07-18,Tulare,California,06107,59483,0,854,0
+2021-07-18,Tuolumne,California,06109,4322,0,73,0
+2021-07-18,Ventura,California,06111,85414,0,1041,0
+2021-07-18,Yolo,California,06113,14734,0,213,0
 2021-07-18,Yuba,California,06115,6691,0,52,0
-2021-07-19,Alameda,California,06001,92605,4,1271,0
+2021-07-19,Alameda,California,06001,94314,816,1271,0
 2021-07-19,Alpine,California,06003,89,0,0,0
-2021-07-19,Amador,California,06005,3798,14,48,0
-2021-07-19,Butte,California,06007,12888,64,202,0
-2021-07-19,Calaveras,California,06009,2243,6,58,0
+2021-07-19,Amador,California,06005,3833,14,48,0
+2021-07-19,Butte,California,06007,14868,64,202,0
+2021-07-19,Calaveras,California,06009,2259,6,58,0
 2021-07-19,Colusa,California,06011,2322,0,18,0
-2021-07-19,Contra Costa,California,06013,73290,88,825,1
+2021-07-19,Contra Costa,California,06013,74274,595,825,1
 2021-07-19,Del Norte,California,06015,1529,7,8,0
-2021-07-19,El Dorado,California,06017,10687,65,118,0
-2021-07-19,Fresno,California,06019,103298,243,1731,1
-2021-07-19,Glenn,California,06021,2993,0,27,0
-2021-07-19,Humboldt,California,06023,4775,45,53,0
-2021-07-19,Imperial,California,06025,28877,37,741,0
+2021-07-19,El Dorado,California,06017,11507,65,118,0
+2021-07-19,Fresno,California,06019,112565,243,1731,1
+2021-07-19,Glenn,California,06021,3043,1,27,0
+2021-07-19,Humboldt,California,06023,4851,60,53,0
+2021-07-19,Imperial,California,06025,31824,37,741,0
 2021-07-19,Inyo,California,06027,1444,0,38,0
 2021-07-19,Kern,California,06029,111894,207,1416,2
-2021-07-19,Kings,California,06031,23285,18,248,0
-2021-07-19,Lake,California,06033,3825,65,64,0
+2021-07-19,Kings,California,06031,24425,40,248,0
+2021-07-19,Lake,California,06033,3839,65,64,0
 2021-07-19,Lassen,California,06035,5858,0,26,0
 2021-07-19,Los Angeles,California,06037,1269771,1230,24598,15
-2021-07-19,Madera,California,06039,16838,34,248,0
-2021-07-19,Marin,California,06041,14358,61,234,0
+2021-07-19,Madera,California,06039,17817,34,248,0
+2021-07-19,Marin,California,06041,14628,61,234,0
 2021-07-19,Mariposa,California,06043,473,1,7,0
 2021-07-19,Mendocino,California,06045,4502,0,50,0
 2021-07-19,Merced,California,06047,32782,161,484,1
 2021-07-19,Modoc,California,06049,573,0,7,0
 2021-07-19,Mono,California,06051,1304,0,5,0
-2021-07-19,Monterey,California,06053,44159,28,518,0
-2021-07-19,Napa,California,06055,10175,45,81,0
-2021-07-19,Nevada,California,06057,5124,58,75,0
+2021-07-19,Monterey,California,06053,45379,55,518,0
+2021-07-19,Napa,California,06055,10203,45,81,0
+2021-07-19,Nevada,California,06057,5327,58,75,0
 2021-07-19,Orange,California,06059,277126,1768,5138,2
-2021-07-19,Placer,California,06061,24313,137,304,0
-2021-07-19,Plumas,California,06063,742,0,6,0
-2021-07-19,Riverside,California,06065,302069,0,4647,0
-2021-07-19,Sacramento,California,06067,111552,650,1762,3
-2021-07-19,San Benito,California,06069,6191,10,63,0
-2021-07-19,San Bernardino,California,06071,302429,191,5233,15
-2021-07-19,San Diego,California,06073,286350,589,3786,0
-2021-07-19,San Francisco,California,06075,38370,389,560,0
-2021-07-19,San Joaquin,California,06077,75500,0,1446,0
-2021-07-19,San Luis Obispo,California,06079,21588,0,264,0
-2021-07-19,San Mateo,California,06081,43506,182,584,0
-2021-07-19,Santa Barbara,California,06083,35024,216,461,0
-2021-07-19,Santa Clara,California,06085,121007,403,2099,1
-2021-07-19,Santa Cruz,California,06087,16425,50,207,0
-2021-07-19,Shasta,California,06089,12728,35,242,0
-2021-07-19,Sierra,California,06091,64,2,0,0
+2021-07-19,Placer,California,06061,25971,144,304,0
+2021-07-19,Plumas,California,06063,746,4,6,0
+2021-07-19,Riverside,California,06065,310594,771,4647,0
+2021-07-19,Sacramento,California,06067,113244,823,1762,3
+2021-07-19,San Benito,California,06069,6311,10,63,0
+2021-07-19,San Bernardino,California,06071,306042,691,5233,15
+2021-07-19,San Diego,California,06073,302106,589,3786,0
+2021-07-19,San Francisco,California,06075,39800,389,560,0
+2021-07-19,San Joaquin,California,06077,78866,302,1446,0
+2021-07-19,San Luis Obispo,California,06079,22327,65,264,0
+2021-07-19,San Mateo,California,06081,44001,182,584,0
+2021-07-19,Santa Barbara,California,06083,36252,111,461,0
+2021-07-19,Santa Clara,California,06085,121275,458,2099,1
+2021-07-19,Santa Cruz,California,06087,17252,35,207,0
+2021-07-19,Shasta,California,06089,14564,31,242,0
+2021-07-19,Sierra,California,06091,78,2,0,0
 2021-07-19,Siskiyou,California,06093,2491,13,40,0
-2021-07-19,Solano,California,06095,34766,131,261,-2
-2021-07-19,Sonoma,California,06097,31763,0,327,0
+2021-07-19,Solano,California,06095,34811,176,261,-2
+2021-07-19,Sonoma,California,06097,32056,139,327,0
 2021-07-19,Stanislaus,California,06099,64634,253,1082,0
-2021-07-19,Sutter,California,06101,9913,42,114,0
-2021-07-19,Tehama,California,06103,5150,5,65,1
-2021-07-19,Trinity,California,06105,345,3,3,0
-2021-07-19,Tulare,California,06107,49985,21,855,1
-2021-07-19,Tuolumne,California,06109,4300,10,73,0
-2021-07-19,Ventura,California,06111,82584,242,1041,0
-2021-07-19,Yolo,California,06113,14425,69,213,0
+2021-07-19,Sutter,California,06101,9915,44,114,0
+2021-07-19,Tehama,California,06103,5795,5,65,1
+2021-07-19,Trinity,California,06105,403,3,3,0
+2021-07-19,Tulare,California,06107,59531,48,855,1
+2021-07-19,Tuolumne,California,06109,4340,18,73,0
+2021-07-19,Ventura,California,06111,85650,236,1041,0
+2021-07-19,Yolo,California,06113,14803,69,213,0
 2021-07-19,Yuba,California,06115,6730,39,52,0
-2021-07-20,Alameda,California,06001,92994,389,1272,1
+2021-07-20,Alameda,California,06001,94509,195,1272,1
 2021-07-20,Alpine,California,06003,89,0,0,0
-2021-07-20,Amador,California,06005,3801,3,48,0
-2021-07-20,Butte,California,06007,12901,13,202,0
-2021-07-20,Calaveras,California,06009,2256,13,58,0
+2021-07-20,Amador,California,06005,3836,3,48,0
+2021-07-20,Butte,California,06007,14881,13,202,0
+2021-07-20,Calaveras,California,06009,2261,2,58,0
 2021-07-20,Colusa,California,06011,2322,0,18,0
-2021-07-20,Contra Costa,California,06013,73495,205,825,0
+2021-07-20,Contra Costa,California,06013,74360,86,825,0
 2021-07-20,Del Norte,California,06015,1537,8,8,0
-2021-07-20,El Dorado,California,06017,10703,16,118,0
-2021-07-20,Fresno,California,06019,103350,52,1731,0
-2021-07-20,Glenn,California,06021,2993,0,27,0
-2021-07-20,Humboldt,California,06023,4798,23,53,0
-2021-07-20,Imperial,California,06025,28888,11,741,0
+2021-07-20,El Dorado,California,06017,11523,16,118,0
+2021-07-20,Fresno,California,06019,112617,52,1731,0
+2021-07-20,Glenn,California,06021,3043,0,27,0
+2021-07-20,Humboldt,California,06023,4856,5,53,0
+2021-07-20,Imperial,California,06025,31835,11,741,0
 2021-07-20,Inyo,California,06027,1446,2,38,0
 2021-07-20,Kern,California,06029,111894,0,1416,0
-2021-07-20,Kings,California,06031,23285,0,248,0
-2021-07-20,Lake,California,06033,3848,23,64,0
+2021-07-20,Kings,California,06031,24443,18,248,0
+2021-07-20,Lake,California,06033,3862,23,64,0
 2021-07-20,Lassen,California,06035,5858,0,26,0
 2021-07-20,Los Angeles,California,06037,1271567,1796,24600,2
-2021-07-20,Madera,California,06039,16846,8,248,0
-2021-07-20,Marin,California,06041,14369,11,234,0
+2021-07-20,Madera,California,06039,17825,8,248,0
+2021-07-20,Marin,California,06041,14639,11,234,0
 2021-07-20,Mariposa,California,06043,474,1,7,0
 2021-07-20,Mendocino,California,06045,4524,22,50,0
 2021-07-20,Merced,California,06047,32782,0,484,0
 2021-07-20,Modoc,California,06049,573,0,7,0
 2021-07-20,Mono,California,06051,1307,3,5,0
-2021-07-20,Monterey,California,06053,44208,49,518,0
-2021-07-20,Napa,California,06055,10181,6,81,0
-2021-07-20,Nevada,California,06057,5133,9,75,0
+2021-07-20,Monterey,California,06053,45393,14,518,0
+2021-07-20,Napa,California,06055,10209,6,81,0
+2021-07-20,Nevada,California,06057,5336,9,75,0
 2021-07-20,Orange,California,06059,277489,363,5138,0
-2021-07-20,Placer,California,06061,24359,46,304,0
-2021-07-20,Plumas,California,06063,742,0,6,0
-2021-07-20,Riverside,California,06065,302069,0,4647,0
-2021-07-20,Sacramento,California,06067,111883,331,1762,0
-2021-07-20,San Benito,California,06069,6193,2,63,0
-2021-07-20,San Bernardino,California,06071,303166,737,5235,2
-2021-07-20,San Diego,California,06073,287758,1408,3786,0
-2021-07-20,San Francisco,California,06075,38466,96,560,0
-2021-07-20,San Joaquin,California,06077,75500,0,1446,0
-2021-07-20,San Luis Obispo,California,06079,21717,129,264,0
-2021-07-20,San Mateo,California,06081,43563,57,584,0
-2021-07-20,Santa Barbara,California,06083,35052,28,461,0
-2021-07-20,Santa Clara,California,06085,121159,152,2099,0
-2021-07-20,Santa Cruz,California,06087,16425,0,207,0
-2021-07-20,Shasta,California,06089,12749,21,242,0
-2021-07-20,Sierra,California,06091,64,0,0,0
+2021-07-20,Placer,California,06061,26017,46,304,0
+2021-07-20,Plumas,California,06063,746,0,6,0
+2021-07-20,Riverside,California,06065,310808,214,4647,0
+2021-07-20,Sacramento,California,06067,113459,215,1762,0
+2021-07-20,San Benito,California,06069,6313,2,63,0
+2021-07-20,San Bernardino,California,06071,306232,190,5235,2
+2021-07-20,San Diego,California,06073,303998,1892,3786,0
+2021-07-20,San Francisco,California,06075,39896,96,560,0
+2021-07-20,San Joaquin,California,06077,78955,89,1446,0
+2021-07-20,San Luis Obispo,California,06079,22331,4,264,0
+2021-07-20,San Mateo,California,06081,44058,57,584,0
+2021-07-20,Santa Barbara,California,06083,36276,24,461,0
+2021-07-20,Santa Clara,California,06085,121391,116,2099,0
+2021-07-20,Santa Cruz,California,06087,17267,15,207,0
+2021-07-20,Shasta,California,06089,14573,9,242,0
+2021-07-20,Sierra,California,06091,78,0,0,0
 2021-07-20,Siskiyou,California,06093,2501,10,40,0
-2021-07-20,Solano,California,06095,34766,0,261,0
-2021-07-20,Sonoma,California,06097,31783,20,327,0
+2021-07-20,Solano,California,06095,34858,47,261,0
+2021-07-20,Sonoma,California,06097,32094,38,327,0
 2021-07-20,Stanislaus,California,06099,64712,78,1082,0
-2021-07-20,Sutter,California,06101,9926,13,114,0
-2021-07-20,Tehama,California,06103,5152,2,65,0
-2021-07-20,Trinity,California,06105,345,0,3,0
-2021-07-20,Tulare,California,06107,49994,9,855,0
-2021-07-20,Tuolumne,California,06109,4302,2,73,0
-2021-07-20,Ventura,California,06111,82584,0,1041,0
-2021-07-20,Yolo,California,06113,14439,14,213,0
+2021-07-20,Sutter,California,06101,9926,11,114,0
+2021-07-20,Tehama,California,06103,5797,2,65,0
+2021-07-20,Trinity,California,06105,403,0,3,0
+2021-07-20,Tulare,California,06107,59540,9,855,0
+2021-07-20,Tuolumne,California,06109,4342,2,73,0
+2021-07-20,Ventura,California,06111,85698,48,1041,0
+2021-07-20,Yolo,California,06113,14817,14,213,0
 2021-07-20,Yuba,California,06115,6758,28,52,0
-2021-07-21,Alameda,California,06001,93382,388,1272,0
+2021-07-21,Alameda,California,06001,94777,268,1272,0
 2021-07-21,Alpine,California,06003,89,0,0,0
-2021-07-21,Amador,California,06005,3806,5,48,0
-2021-07-21,Butte,California,06007,12916,15,203,1
-2021-07-21,Calaveras,California,06009,2256,0,58,0
+2021-07-21,Amador,California,06005,3841,5,48,0
+2021-07-21,Butte,California,06007,14896,15,203,1
+2021-07-21,Calaveras,California,06009,2265,4,58,0
 2021-07-21,Colusa,California,06011,2322,0,18,0
-2021-07-21,Contra Costa,California,06013,73662,167,825,0
+2021-07-21,Contra Costa,California,06013,74568,208,825,0
 2021-07-21,Del Norte,California,06015,1541,4,8,0
-2021-07-21,El Dorado,California,06017,10727,24,118,0
-2021-07-21,Fresno,California,06019,103438,88,1736,5
-2021-07-21,Glenn,California,06021,2993,0,27,0
-2021-07-21,Humboldt,California,06023,4824,26,53,0
-2021-07-21,Imperial,California,06025,28933,45,741,0
+2021-07-21,El Dorado,California,06017,11547,24,118,0
+2021-07-21,Fresno,California,06019,112705,88,1736,5
+2021-07-21,Glenn,California,06021,3044,1,27,0
+2021-07-21,Humboldt,California,06023,4872,16,53,0
+2021-07-21,Imperial,California,06025,31880,45,741,0
 2021-07-21,Inyo,California,06027,1446,0,38,0
 2021-07-21,Kern,California,06029,112063,169,1416,0
-2021-07-21,Kings,California,06031,23285,0,248,0
-2021-07-21,Lake,California,06033,3871,23,64,0
+2021-07-21,Kings,California,06031,24476,33,248,0
+2021-07-21,Lake,California,06033,3885,23,64,0
 2021-07-21,Lassen,California,06035,5863,5,26,0
 2021-07-21,Los Angeles,California,06037,1274071,2504,24603,3
-2021-07-21,Madera,California,06039,16856,10,248,0
-2021-07-21,Marin,California,06041,14396,27,234,0
+2021-07-21,Madera,California,06039,17835,10,248,0
+2021-07-21,Marin,California,06041,14666,27,234,0
 2021-07-21,Mariposa,California,06043,475,1,7,0
 2021-07-21,Mendocino,California,06045,4533,9,50,0
 2021-07-21,Merced,California,06047,32814,32,484,0
 2021-07-21,Modoc,California,06049,573,0,7,0
 2021-07-21,Mono,California,06051,1307,0,5,0
-2021-07-21,Monterey,California,06053,44243,35,518,0
-2021-07-21,Napa,California,06055,10192,11,81,0
-2021-07-21,Nevada,California,06057,5148,15,75,0
+2021-07-21,Monterey,California,06053,45438,45,518,0
+2021-07-21,Napa,California,06055,10220,11,81,0
+2021-07-21,Nevada,California,06057,5351,15,75,0
 2021-07-21,Orange,California,06059,277845,356,5139,1
-2021-07-21,Placer,California,06061,24483,124,304,0
-2021-07-21,Plumas,California,06063,742,0,6,0
-2021-07-21,Riverside,California,06065,304060,1991,4657,10
-2021-07-21,Sacramento,California,06067,112143,260,1764,2
-2021-07-21,San Benito,California,06069,6196,3,63,0
-2021-07-21,San Bernardino,California,06071,303350,184,5231,-4
-2021-07-21,San Diego,California,06073,288272,514,3786,0
-2021-07-21,San Francisco,California,06075,38539,73,558,-2
-2021-07-21,San Joaquin,California,06077,76034,534,1446,0
-2021-07-21,San Luis Obispo,California,06079,21717,0,264,0
-2021-07-21,San Mateo,California,06081,43670,107,584,0
-2021-07-21,Santa Barbara,California,06083,35116,64,462,1
-2021-07-21,Santa Clara,California,06085,121304,145,2099,0
-2021-07-21,Santa Cruz,California,06087,16425,0,207,0
-2021-07-21,Shasta,California,06089,12766,17,242,0
-2021-07-21,Sierra,California,06091,64,0,0,0
+2021-07-21,Placer,California,06061,26066,49,304,0
+2021-07-21,Plumas,California,06063,752,6,6,0
+2021-07-21,Riverside,California,06065,311190,382,4657,10
+2021-07-21,Sacramento,California,06067,113785,326,1764,2
+2021-07-21,San Benito,California,06069,6316,3,63,0
+2021-07-21,San Bernardino,California,06071,306525,293,5231,-4
+2021-07-21,San Diego,California,06073,304512,514,3786,0
+2021-07-21,San Francisco,California,06075,39969,73,558,-2
+2021-07-21,San Joaquin,California,06077,79067,112,1446,0
+2021-07-21,San Luis Obispo,California,06079,22356,25,264,0
+2021-07-21,San Mateo,California,06081,44165,107,584,0
+2021-07-21,Santa Barbara,California,06083,36307,31,462,1
+2021-07-21,Santa Clara,California,06085,121541,150,2099,0
+2021-07-21,Santa Cruz,California,06087,17279,12,207,0
+2021-07-21,Shasta,California,06089,14584,11,242,0
+2021-07-21,Sierra,California,06091,78,0,0,0
 2021-07-21,Siskiyou,California,06093,2509,8,40,0
-2021-07-21,Solano,California,06095,34890,124,258,-3
-2021-07-21,Sonoma,California,06097,31875,92,327,0
+2021-07-21,Solano,California,06095,34933,75,258,-3
+2021-07-21,Sonoma,California,06097,32144,50,327,0
 2021-07-21,Stanislaus,California,06099,64792,80,1083,1
 2021-07-21,Sutter,California,06101,9951,25,114,0
-2021-07-21,Tehama,California,06103,5153,1,65,0
-2021-07-21,Trinity,California,06105,345,0,3,0
-2021-07-21,Tulare,California,06107,50074,80,854,-1
-2021-07-21,Tuolumne,California,06109,4320,18,73,0
-2021-07-21,Ventura,California,06111,82734,150,1041,0
-2021-07-21,Yolo,California,06113,14495,56,213,0
+2021-07-21,Tehama,California,06103,5798,1,65,0
+2021-07-21,Trinity,California,06105,403,0,3,0
+2021-07-21,Tulare,California,06107,59593,53,854,-1
+2021-07-21,Tuolumne,California,06109,4347,5,73,0
+2021-07-21,Ventura,California,06111,85793,95,1041,0
+2021-07-21,Yolo,California,06113,14873,56,213,0
 2021-07-21,Yuba,California,06115,6789,31,52,0
-2021-07-22,Alameda,California,06001,93656,274,1272,0
+2021-07-22,Alameda,California,06001,95152,375,1272,0
 2021-07-22,Alpine,California,06003,89,0,0,0
-2021-07-22,Amador,California,06005,3812,6,48,0
-2021-07-22,Butte,California,06007,12939,23,203,0
-2021-07-22,Calaveras,California,06009,2257,1,58,0
-2021-07-22,Colusa,California,06011,2322,0,18,0
-2021-07-22,Contra Costa,California,06013,74030,368,828,3
+2021-07-22,Amador,California,06005,3848,7,48,0
+2021-07-22,Butte,California,06007,14981,85,203,0
+2021-07-22,Calaveras,California,06009,2276,11,58,0
+2021-07-22,Colusa,California,06011,2336,14,18,0
+2021-07-22,Contra Costa,California,06013,74824,256,828,3
 2021-07-22,Del Norte,California,06015,1551,10,8,0
-2021-07-22,El Dorado,California,06017,10742,15,118,0
-2021-07-22,Fresno,California,06019,103504,66,1736,0
-2021-07-22,Glenn,California,06021,2998,5,27,0
-2021-07-22,Humboldt,California,06023,4853,29,53,0
-2021-07-22,Imperial,California,06025,28964,31,741,0
+2021-07-22,El Dorado,California,06017,11605,58,118,0
+2021-07-22,Fresno,California,06019,112980,275,1736,0
+2021-07-22,Glenn,California,06021,3047,3,27,0
+2021-07-22,Humboldt,California,06023,4911,39,53,0
+2021-07-22,Imperial,California,06025,31912,32,741,0
 2021-07-22,Inyo,California,06027,1446,0,38,0
 2021-07-22,Kern,California,06029,112063,0,1416,0
-2021-07-22,Kings,California,06031,23366,81,248,0
-2021-07-22,Lake,California,06033,3896,25,64,0
+2021-07-22,Kings,California,06031,24509,33,248,0
+2021-07-22,Lake,California,06033,3909,24,64,0
 2021-07-22,Lassen,California,06035,5866,3,26,0
 2021-07-22,Los Angeles,California,06037,1276818,2747,24609,6
-2021-07-22,Madera,California,06039,16858,2,248,0
-2021-07-22,Marin,California,06041,14427,31,238,4
+2021-07-22,Madera,California,06039,17858,23,248,0
+2021-07-22,Marin,California,06041,14718,52,238,4
 2021-07-22,Mariposa,California,06043,480,5,7,0
 2021-07-22,Mendocino,California,06045,4571,38,50,0
 2021-07-22,Merced,California,06047,32814,0,484,0
 2021-07-22,Modoc,California,06049,573,0,7,0
 2021-07-22,Mono,California,06051,1307,0,5,0
-2021-07-22,Monterey,California,06053,44273,30,524,6
-2021-07-22,Napa,California,06055,10210,18,81,0
-2021-07-22,Nevada,California,06057,5152,4,75,0
+2021-07-22,Monterey,California,06053,45497,59,524,6
+2021-07-22,Napa,California,06055,10256,36,81,0
+2021-07-22,Nevada,California,06057,5359,8,75,0
 2021-07-22,Orange,California,06059,278209,364,5139,0
-2021-07-22,Placer,California,06061,24483,0,304,0
-2021-07-22,Plumas,California,06063,742,0,6,0
-2021-07-22,Riverside,California,06065,304512,452,4657,0
-2021-07-22,Sacramento,California,06067,112500,357,1766,2
-2021-07-22,San Benito,California,06069,6196,0,63,0
-2021-07-22,San Bernardino,California,06071,303673,323,5230,-1
-2021-07-22,San Diego,California,06073,288745,473,3787,1
-2021-07-22,San Francisco,California,06075,38702,163,559,1
-2021-07-22,San Joaquin,California,06077,76034,0,1446,0
-2021-07-22,San Luis Obispo,California,06079,21717,0,264,0
-2021-07-22,San Mateo,California,06081,43755,85,584,0
-2021-07-22,Santa Barbara,California,06083,35189,73,465,3
-2021-07-22,Santa Clara,California,06085,121553,249,2100,1
-2021-07-22,Santa Cruz,California,06087,16452,27,207,0
-2021-07-22,Shasta,California,06089,12786,20,242,0
-2021-07-22,Sierra,California,06091,64,0,0,0
+2021-07-22,Placer,California,06061,26248,182,304,0
+2021-07-22,Plumas,California,06063,752,0,6,0
+2021-07-22,Riverside,California,06065,311745,555,4657,0
+2021-07-22,Sacramento,California,06067,114235,450,1766,2
+2021-07-22,San Benito,California,06069,6317,1,63,0
+2021-07-22,San Bernardino,California,06071,307089,564,5230,-1
+2021-07-22,San Diego,California,06073,304985,473,3787,1
+2021-07-22,San Francisco,California,06075,40211,242,559,1
+2021-07-22,San Joaquin,California,06077,79321,254,1446,0
+2021-07-22,San Luis Obispo,California,06079,22401,45,264,0
+2021-07-22,San Mateo,California,06081,44291,126,584,0
+2021-07-22,Santa Barbara,California,06083,36390,83,465,3
+2021-07-22,Santa Clara,California,06085,121705,164,2100,1
+2021-07-22,Santa Cruz,California,06087,17290,11,207,0
+2021-07-22,Shasta,California,06089,14670,86,242,0
+2021-07-22,Sierra,California,06091,78,0,0,0
 2021-07-22,Siskiyou,California,06093,2527,18,40,0
-2021-07-22,Solano,California,06095,34890,0,258,0
-2021-07-22,Sonoma,California,06097,31905,30,328,1
+2021-07-22,Solano,California,06095,35049,116,258,0
+2021-07-22,Sonoma,California,06097,32182,38,328,1
 2021-07-22,Stanislaus,California,06099,64912,120,1084,1
 2021-07-22,Sutter,California,06101,9965,14,114,0
-2021-07-22,Tehama,California,06103,5161,8,65,0
-2021-07-22,Trinity,California,06105,346,1,3,0
-2021-07-22,Tulare,California,06107,50074,0,854,0
-2021-07-22,Tuolumne,California,06109,4334,14,73,0
-2021-07-22,Ventura,California,06111,82734,0,1041,0
-2021-07-22,Yolo,California,06113,14525,30,213,0
+2021-07-22,Tehama,California,06103,5814,16,65,0
+2021-07-22,Trinity,California,06105,411,8,3,0
+2021-07-22,Tulare,California,06107,59981,388,854,0
+2021-07-22,Tuolumne,California,06109,4349,2,73,0
+2021-07-22,Ventura,California,06111,86073,280,1041,0
+2021-07-22,Yolo,California,06113,14973,100,213,0
 2021-07-22,Yuba,California,06115,6816,27,52,0
-2021-07-23,Alameda,California,06001,93974,318,1272,0
+2021-07-23,Alameda,California,06001,95482,330,1272,0
 2021-07-23,Alpine,California,06003,89,0,0,0
-2021-07-23,Amador,California,06005,3815,3,48,0
-2021-07-23,Butte,California,06007,12982,43,203,0
-2021-07-23,Calaveras,California,06009,2267,10,58,0
-2021-07-23,Colusa,California,06011,2339,17,18,0
-2021-07-23,Contra Costa,California,06013,74369,339,830,2
+2021-07-23,Amador,California,06005,3851,3,48,0
+2021-07-23,Butte,California,06007,15024,43,203,0
+2021-07-23,Calaveras,California,06009,2286,10,58,0
+2021-07-23,Colusa,California,06011,2340,4,18,0
+2021-07-23,Contra Costa,California,06013,75186,362,830,2
 2021-07-23,Del Norte,California,06015,1554,3,8,0
-2021-07-23,El Dorado,California,06017,10774,32,120,2
-2021-07-23,Fresno,California,06019,103637,133,1736,0
-2021-07-23,Glenn,California,06021,2999,1,27,0
-2021-07-23,Humboldt,California,06023,4897,44,53,0
-2021-07-23,Imperial,California,06025,28996,32,741,0
+2021-07-23,El Dorado,California,06017,11636,31,120,2
+2021-07-23,Fresno,California,06019,113113,133,1736,0
+2021-07-23,Glenn,California,06021,3049,2,27,0
+2021-07-23,Humboldt,California,06023,4928,17,53,0
+2021-07-23,Imperial,California,06025,31944,32,741,0
 2021-07-23,Inyo,California,06027,1446,0,38,0
 2021-07-23,Kern,California,06029,112318,255,1417,1
-2021-07-23,Kings,California,06031,23399,33,248,0
-2021-07-23,Lake,California,06033,3963,67,64,0
+2021-07-23,Kings,California,06031,24543,34,248,0
+2021-07-23,Lake,California,06033,3976,67,64,0
 2021-07-23,Lassen,California,06035,5868,2,28,2
 2021-07-23,Los Angeles,California,06037,1279856,3038,24623,14
-2021-07-23,Madera,California,06039,16885,27,249,1
-2021-07-23,Marin,California,06041,14454,27,238,0
+2021-07-23,Madera,California,06039,17885,27,249,1
+2021-07-23,Marin,California,06041,14745,27,238,0
 2021-07-23,Mariposa,California,06043,486,6,7,0
 2021-07-23,Mendocino,California,06045,4571,0,50,0
 2021-07-23,Merced,California,06047,32961,147,484,0
 2021-07-23,Modoc,California,06049,573,0,7,0
 2021-07-23,Mono,California,06051,1311,4,5,0
-2021-07-23,Monterey,California,06053,44296,23,524,0
-2021-07-23,Napa,California,06055,10231,21,81,0
-2021-07-23,Nevada,California,06057,5183,31,75,0
+2021-07-23,Monterey,California,06053,45520,23,524,0
+2021-07-23,Napa,California,06055,10277,21,81,0
+2021-07-23,Nevada,California,06057,5390,31,75,0
 2021-07-23,Orange,California,06059,278720,511,5141,2
-2021-07-23,Placer,California,06061,24530,47,304,0
-2021-07-23,Plumas,California,06063,761,19,6,0
-2021-07-23,Riverside,California,06065,305195,683,4658,1
-2021-07-23,Sacramento,California,06067,112895,395,1770,4
-2021-07-23,San Benito,California,06069,6200,4,63,0
-2021-07-23,San Bernardino,California,06071,304075,402,5236,6
-2021-07-23,San Diego,California,06073,289431,686,3788,1
-2021-07-23,San Francisco,California,06075,38957,255,561,2
-2021-07-23,San Joaquin,California,06077,76034,0,1446,0
-2021-07-23,San Luis Obispo,California,06079,21717,0,264,0
-2021-07-23,San Mateo,California,06081,43880,125,588,4
-2021-07-23,Santa Barbara,California,06083,35254,65,465,0
-2021-07-23,Santa Clara,California,06085,121767,214,2100,0
-2021-07-23,Santa Cruz,California,06087,16452,0,207,0
-2021-07-23,Shasta,California,06089,12804,18,242,0
-2021-07-23,Sierra,California,06091,64,0,0,0
+2021-07-23,Placer,California,06061,26337,89,304,0
+2021-07-23,Plumas,California,06063,761,9,6,0
+2021-07-23,Riverside,California,06065,312238,493,4658,1
+2021-07-23,Sacramento,California,06067,114630,395,1770,4
+2021-07-23,San Benito,California,06069,6321,4,63,0
+2021-07-23,San Bernardino,California,06071,307469,380,5236,6
+2021-07-23,San Diego,California,06073,305671,686,3788,1
+2021-07-23,San Francisco,California,06075,40466,255,561,2
+2021-07-23,San Joaquin,California,06077,79494,173,1446,0
+2021-07-23,San Luis Obispo,California,06079,22438,37,264,0
+2021-07-23,San Mateo,California,06081,44416,125,588,4
+2021-07-23,Santa Barbara,California,06083,36463,73,465,0
+2021-07-23,Santa Clara,California,06085,121959,254,2100,0
+2021-07-23,Santa Cruz,California,06087,17299,9,207,0
+2021-07-23,Shasta,California,06089,14678,8,242,0
+2021-07-23,Sierra,California,06091,78,0,0,0
 2021-07-23,Siskiyou,California,06093,2537,10,40,0
-2021-07-23,Solano,California,06095,35198,308,259,1
-2021-07-23,Sonoma,California,06097,31965,60,328,0
+2021-07-23,Solano,California,06095,35198,149,259,1
+2021-07-23,Sonoma,California,06097,32321,139,328,0
 2021-07-23,Stanislaus,California,06099,65019,107,1085,1
 2021-07-23,Sutter,California,06101,9988,23,115,1
-2021-07-23,Tehama,California,06103,5166,5,65,0
-2021-07-23,Trinity,California,06105,346,0,3,0
-2021-07-23,Tulare,California,06107,50104,30,854,0
-2021-07-23,Tuolumne,California,06109,4344,10,73,0
-2021-07-23,Ventura,California,06111,82975,241,1041,0
-2021-07-23,Yolo,California,06113,14557,32,214,1
+2021-07-23,Tehama,California,06103,5819,5,65,0
+2021-07-23,Trinity,California,06105,411,0,3,0
+2021-07-23,Tulare,California,06107,60019,38,854,0
+2021-07-23,Tuolumne,California,06109,4409,60,73,0
+2021-07-23,Ventura,California,06111,86187,114,1041,0
+2021-07-23,Yolo,California,06113,15005,32,214,1
 2021-07-23,Yuba,California,06115,6843,27,51,-1
-2021-07-24,Alameda,California,06001,94366,392,1272,0
+2021-07-24,Alameda,California,06001,95482,0,1272,0
 2021-07-24,Alpine,California,06003,89,0,0,0
-2021-07-24,Amador,California,06005,3815,0,48,0
-2021-07-24,Butte,California,06007,12982,0,203,0
-2021-07-24,Calaveras,California,06009,2267,0,58,0
-2021-07-24,Colusa,California,06011,2339,0,18,0
-2021-07-24,Contra Costa,California,06013,74666,297,830,0
+2021-07-24,Amador,California,06005,3851,0,48,0
+2021-07-24,Butte,California,06007,15024,0,203,0
+2021-07-24,Calaveras,California,06009,2286,0,58,0
+2021-07-24,Colusa,California,06011,2340,0,18,0
+2021-07-24,Contra Costa,California,06013,75186,0,830,0
 2021-07-24,Del Norte,California,06015,1554,0,8,0
-2021-07-24,El Dorado,California,06017,10774,0,120,0
-2021-07-24,Fresno,California,06019,103637,0,1736,0
-2021-07-24,Glenn,California,06021,2999,0,27,0
-2021-07-24,Humboldt,California,06023,4897,0,53,0
-2021-07-24,Imperial,California,06025,28996,0,741,0
+2021-07-24,El Dorado,California,06017,11636,0,120,0
+2021-07-24,Fresno,California,06019,113113,0,1736,0
+2021-07-24,Glenn,California,06021,3049,0,27,0
+2021-07-24,Humboldt,California,06023,4928,0,53,0
+2021-07-24,Imperial,California,06025,31944,0,741,0
 2021-07-24,Inyo,California,06027,1446,0,38,0
 2021-07-24,Kern,California,06029,112318,0,1417,0
-2021-07-24,Kings,California,06031,23434,35,248,0
-2021-07-24,Lake,California,06033,3963,0,64,0
+2021-07-24,Kings,California,06031,24543,0,248,0
+2021-07-24,Lake,California,06033,3976,0,64,0
 2021-07-24,Lassen,California,06035,5868,0,28,0
 2021-07-24,Los Angeles,California,06037,1282445,2589,24624,1
-2021-07-24,Madera,California,06039,16885,0,249,0
-2021-07-24,Marin,California,06041,14454,0,238,0
+2021-07-24,Madera,California,06039,17885,0,249,0
+2021-07-24,Marin,California,06041,14745,0,238,0
 2021-07-24,Mariposa,California,06043,485,-1,7,0
 2021-07-24,Mendocino,California,06045,4571,0,50,0
 2021-07-24,Merced,California,06047,32961,0,484,0
 2021-07-24,Modoc,California,06049,573,0,7,0
 2021-07-24,Mono,California,06051,1311,0,5,0
-2021-07-24,Monterey,California,06053,44296,0,524,0
-2021-07-24,Napa,California,06055,10231,0,81,0
-2021-07-24,Nevada,California,06057,5183,0,75,0
+2021-07-24,Monterey,California,06053,45520,0,524,0
+2021-07-24,Napa,California,06055,10277,0,81,0
+2021-07-24,Nevada,California,06057,5390,0,75,0
 2021-07-24,Orange,California,06059,278720,0,5141,0
-2021-07-24,Placer,California,06061,24530,0,304,0
+2021-07-24,Placer,California,06061,26337,0,304,0
 2021-07-24,Plumas,California,06063,761,0,6,0
-2021-07-24,Riverside,California,06065,305195,0,4658,0
-2021-07-24,Sacramento,California,06067,112895,0,1770,0
-2021-07-24,San Benito,California,06069,6200,0,63,0
-2021-07-24,San Bernardino,California,06071,304075,0,5236,0
-2021-07-24,San Diego,California,06073,289431,0,3788,0
-2021-07-24,San Francisco,California,06075,38957,0,561,0
-2021-07-24,San Joaquin,California,06077,76034,0,1446,0
-2021-07-24,San Luis Obispo,California,06079,21717,0,264,0
-2021-07-24,San Mateo,California,06081,43880,0,588,0
-2021-07-24,Santa Barbara,California,06083,35254,0,465,0
-2021-07-24,Santa Clara,California,06085,121767,0,2100,0
-2021-07-24,Santa Cruz,California,06087,16452,0,207,0
-2021-07-24,Shasta,California,06089,12804,0,242,0
-2021-07-24,Sierra,California,06091,64,0,0,0
+2021-07-24,Riverside,California,06065,312238,0,4658,0
+2021-07-24,Sacramento,California,06067,114630,0,1770,0
+2021-07-24,San Benito,California,06069,6321,0,63,0
+2021-07-24,San Bernardino,California,06071,307469,0,5236,0
+2021-07-24,San Diego,California,06073,305671,0,3788,0
+2021-07-24,San Francisco,California,06075,40466,0,561,0
+2021-07-24,San Joaquin,California,06077,79494,0,1446,0
+2021-07-24,San Luis Obispo,California,06079,22438,0,264,0
+2021-07-24,San Mateo,California,06081,44416,0,588,0
+2021-07-24,Santa Barbara,California,06083,36463,0,465,0
+2021-07-24,Santa Clara,California,06085,121959,0,2100,0
+2021-07-24,Santa Cruz,California,06087,17299,0,207,0
+2021-07-24,Shasta,California,06089,14678,0,242,0
+2021-07-24,Sierra,California,06091,78,0,0,0
 2021-07-24,Siskiyou,California,06093,2537,0,40,0
 2021-07-24,Solano,California,06095,35198,0,259,0
-2021-07-24,Sonoma,California,06097,32124,159,328,0
+2021-07-24,Sonoma,California,06097,32321,0,328,0
 2021-07-24,Stanislaus,California,06099,65019,0,1085,0
 2021-07-24,Sutter,California,06101,9988,0,115,0
-2021-07-24,Tehama,California,06103,5166,0,65,0
-2021-07-24,Trinity,California,06105,346,0,3,0
-2021-07-24,Tulare,California,06107,50104,0,854,0
-2021-07-24,Tuolumne,California,06109,4344,0,73,0
-2021-07-24,Ventura,California,06111,82975,0,1041,0
-2021-07-24,Yolo,California,06113,14557,0,214,0
+2021-07-24,Tehama,California,06103,5819,0,65,0
+2021-07-24,Trinity,California,06105,411,0,3,0
+2021-07-24,Tulare,California,06107,60019,0,854,0
+2021-07-24,Tuolumne,California,06109,4409,0,73,0
+2021-07-24,Ventura,California,06111,86187,0,1041,0
+2021-07-24,Yolo,California,06113,15005,0,214,0
 2021-07-24,Yuba,California,06115,6843,0,51,0
-2021-07-25,Alameda,California,06001,94757,391,1272,0
+2021-07-25,Alameda,California,06001,95482,0,1272,0
 2021-07-25,Alpine,California,06003,89,0,0,0
-2021-07-25,Amador,California,06005,3815,0,48,0
-2021-07-25,Butte,California,06007,12982,0,203,0
-2021-07-25,Calaveras,California,06009,2267,0,58,0
-2021-07-25,Colusa,California,06011,2339,0,18,0
-2021-07-25,Contra Costa,California,06013,74985,319,830,0
+2021-07-25,Amador,California,06005,3851,0,48,0
+2021-07-25,Butte,California,06007,15024,0,203,0
+2021-07-25,Calaveras,California,06009,2286,0,58,0
+2021-07-25,Colusa,California,06011,2340,0,18,0
+2021-07-25,Contra Costa,California,06013,75186,0,830,0
 2021-07-25,Del Norte,California,06015,1554,0,8,0
-2021-07-25,El Dorado,California,06017,10774,0,120,0
-2021-07-25,Fresno,California,06019,103637,0,1736,0
-2021-07-25,Glenn,California,06021,2999,0,27,0
-2021-07-25,Humboldt,California,06023,4897,0,53,0
-2021-07-25,Imperial,California,06025,28996,0,741,0
+2021-07-25,El Dorado,California,06017,11636,0,120,0
+2021-07-25,Fresno,California,06019,113113,0,1736,0
+2021-07-25,Glenn,California,06021,3049,0,27,0
+2021-07-25,Humboldt,California,06023,4928,0,53,0
+2021-07-25,Imperial,California,06025,31944,0,741,0
 2021-07-25,Inyo,California,06027,1446,0,38,0
 2021-07-25,Kern,California,06029,112318,0,1417,0
-2021-07-25,Kings,California,06031,23458,24,248,0
-2021-07-25,Lake,California,06033,3963,0,64,0
+2021-07-25,Kings,California,06031,24543,0,248,0
+2021-07-25,Lake,California,06033,3976,0,64,0
 2021-07-25,Lassen,California,06035,5868,0,28,0
 2021-07-25,Los Angeles,California,06037,1284529,2084,24628,4
-2021-07-25,Madera,California,06039,16885,0,249,0
-2021-07-25,Marin,California,06041,14454,0,238,0
+2021-07-25,Madera,California,06039,17885,0,249,0
+2021-07-25,Marin,California,06041,14745,0,238,0
 2021-07-25,Mariposa,California,06043,485,0,7,0
 2021-07-25,Mendocino,California,06045,4571,0,50,0
 2021-07-25,Merced,California,06047,32961,0,484,0
 2021-07-25,Modoc,California,06049,573,0,7,0
 2021-07-25,Mono,California,06051,1311,0,5,0
-2021-07-25,Monterey,California,06053,44296,0,524,0
-2021-07-25,Napa,California,06055,10231,0,81,0
-2021-07-25,Nevada,California,06057,5183,0,75,0
+2021-07-25,Monterey,California,06053,45520,0,524,0
+2021-07-25,Napa,California,06055,10277,0,81,0
+2021-07-25,Nevada,California,06057,5390,0,75,0
 2021-07-25,Orange,California,06059,278720,0,5141,0
-2021-07-25,Placer,California,06061,24530,0,304,0
+2021-07-25,Placer,California,06061,26337,0,304,0
 2021-07-25,Plumas,California,06063,761,0,6,0
-2021-07-25,Riverside,California,06065,305195,0,4658,0
-2021-07-25,Sacramento,California,06067,112895,0,1770,0
-2021-07-25,San Benito,California,06069,6200,0,63,0
-2021-07-25,San Bernardino,California,06071,304075,0,5236,0
-2021-07-25,San Diego,California,06073,289431,0,3788,0
-2021-07-25,San Francisco,California,06075,38957,0,561,0
-2021-07-25,San Joaquin,California,06077,76034,0,1446,0
-2021-07-25,San Luis Obispo,California,06079,21717,0,264,0
-2021-07-25,San Mateo,California,06081,43880,0,588,0
-2021-07-25,Santa Barbara,California,06083,35254,0,465,0
-2021-07-25,Santa Clara,California,06085,121767,0,2100,0
-2021-07-25,Santa Cruz,California,06087,16452,0,207,0
-2021-07-25,Shasta,California,06089,12804,0,242,0
-2021-07-25,Sierra,California,06091,64,0,0,0
+2021-07-25,Riverside,California,06065,312238,0,4658,0
+2021-07-25,Sacramento,California,06067,114630,0,1770,0
+2021-07-25,San Benito,California,06069,6321,0,63,0
+2021-07-25,San Bernardino,California,06071,307469,0,5236,0
+2021-07-25,San Diego,California,06073,305671,0,3788,0
+2021-07-25,San Francisco,California,06075,40466,0,561,0
+2021-07-25,San Joaquin,California,06077,79494,0,1446,0
+2021-07-25,San Luis Obispo,California,06079,22438,0,264,0
+2021-07-25,San Mateo,California,06081,44416,0,588,0
+2021-07-25,Santa Barbara,California,06083,36463,0,465,0
+2021-07-25,Santa Clara,California,06085,121959,0,2100,0
+2021-07-25,Santa Cruz,California,06087,17299,0,207,0
+2021-07-25,Shasta,California,06089,14678,0,242,0
+2021-07-25,Sierra,California,06091,78,0,0,0
 2021-07-25,Siskiyou,California,06093,2537,0,40,0
 2021-07-25,Solano,California,06095,35198,0,259,0
-2021-07-25,Sonoma,California,06097,32196,72,329,1
+2021-07-25,Sonoma,California,06097,32321,0,329,1
 2021-07-25,Stanislaus,California,06099,65019,0,1085,0
 2021-07-25,Sutter,California,06101,9988,0,115,0
-2021-07-25,Tehama,California,06103,5166,0,65,0
-2021-07-25,Trinity,California,06105,346,0,3,0
-2021-07-25,Tulare,California,06107,50104,0,854,0
-2021-07-25,Tuolumne,California,06109,4344,0,73,0
-2021-07-25,Ventura,California,06111,82975,0,1041,0
-2021-07-25,Yolo,California,06113,14557,0,214,0
+2021-07-25,Tehama,California,06103,5819,0,65,0
+2021-07-25,Trinity,California,06105,411,0,3,0
+2021-07-25,Tulare,California,06107,60019,0,854,0
+2021-07-25,Tuolumne,California,06109,4409,0,73,0
+2021-07-25,Ventura,California,06111,86187,0,1041,0
+2021-07-25,Yolo,California,06113,15005,0,214,0
 2021-07-25,Yuba,California,06115,6843,0,51,0
-2021-07-26,Alameda,California,06001,94817,60,1272,0
+2021-07-26,Alameda,California,06001,96458,976,1272,0
 2021-07-26,Alpine,California,06003,89,0,0,0
-2021-07-26,Amador,California,06005,3847,32,48,0
-2021-07-26,Butte,California,06007,13074,92,203,0
-2021-07-26,Calaveras,California,06009,2275,8,58,0
-2021-07-26,Colusa,California,06011,2339,0,18,0
-2021-07-26,Contra Costa,California,06013,75212,227,830,0
+2021-07-26,Amador,California,06005,3883,32,48,0
+2021-07-26,Butte,California,06007,15116,92,203,0
+2021-07-26,Calaveras,California,06009,2294,8,58,0
+2021-07-26,Colusa,California,06011,2344,4,18,0
+2021-07-26,Contra Costa,California,06013,76138,952,830,0
 2021-07-26,Del Norte,California,06015,1581,27,8,0
-2021-07-26,El Dorado,California,06017,10878,104,120,0
-2021-07-26,Fresno,California,06019,104019,382,1742,6
-2021-07-26,Glenn,California,06021,2999,0,27,0
-2021-07-26,Humboldt,California,06023,4971,74,53,0
-2021-07-26,Imperial,California,06025,29037,41,742,1
+2021-07-26,El Dorado,California,06017,11741,105,120,0
+2021-07-26,Fresno,California,06019,113495,382,1742,6
+2021-07-26,Glenn,California,06021,3053,4,27,0
+2021-07-26,Humboldt,California,06023,5040,112,53,0
+2021-07-26,Imperial,California,06025,31985,41,742,1
 2021-07-26,Inyo,California,06027,1446,0,38,0
 2021-07-26,Kern,California,06029,112623,305,1419,2
-2021-07-26,Kings,California,06031,23489,31,249,1
-2021-07-26,Lake,California,06033,4109,146,65,1
+2021-07-26,Kings,California,06031,24635,92,249,1
+2021-07-26,Lake,California,06033,4122,146,65,1
 2021-07-26,Lassen,California,06035,5868,0,28,0
 2021-07-26,Los Angeles,California,06037,1286456,1927,24643,15
-2021-07-26,Madera,California,06039,16947,62,249,0
-2021-07-26,Marin,California,06041,14558,104,239,1
+2021-07-26,Madera,California,06039,17947,62,249,0
+2021-07-26,Marin,California,06041,14849,104,239,1
 2021-07-26,Mariposa,California,06043,494,9,7,0
 2021-07-26,Mendocino,California,06045,4571,0,50,0
 2021-07-26,Merced,California,06047,32961,0,484,0
 2021-07-26,Modoc,California,06049,573,0,7,0
 2021-07-26,Mono,California,06051,1311,0,5,0
-2021-07-26,Monterey,California,06053,44356,60,524,0
-2021-07-26,Napa,California,06055,10317,86,82,1
-2021-07-26,Nevada,California,06057,5256,73,75,0
+2021-07-26,Monterey,California,06053,45585,65,524,0
+2021-07-26,Napa,California,06055,10363,86,82,1
+2021-07-26,Nevada,California,06057,5463,73,75,0
 2021-07-26,Orange,California,06059,280149,1429,5142,1
-2021-07-26,Placer,California,06061,24755,225,304,0
-2021-07-26,Plumas,California,06063,761,0,6,0
-2021-07-26,Riverside,California,06065,305589,394,4658,0
-2021-07-26,Sacramento,California,06067,114081,1186,1771,1
-2021-07-26,San Benito,California,06069,6217,17,63,0
-2021-07-26,San Bernardino,California,06071,304521,446,5237,1
-2021-07-26,San Diego,California,06073,290689,1258,3793,5
-2021-07-26,San Francisco,California,06075,39666,709,561,0
-2021-07-26,San Joaquin,California,06077,76034,0,1446,0
-2021-07-26,San Luis Obispo,California,06079,21741,24,264,0
-2021-07-26,San Mateo,California,06081,44189,309,588,0
-2021-07-26,Santa Barbara,California,06083,35335,81,467,2
-2021-07-26,Santa Clara,California,06085,122439,672,2100,0
-2021-07-26,Santa Cruz,California,06087,16532,80,207,0
-2021-07-26,Shasta,California,06089,12845,41,242,0
-2021-07-26,Sierra,California,06091,65,1,0,0
+2021-07-26,Placer,California,06061,26562,225,304,0
+2021-07-26,Plumas,California,06063,766,5,6,0
+2021-07-26,Riverside,California,06065,313507,1269,4658,0
+2021-07-26,Sacramento,California,06067,115803,1173,1771,1
+2021-07-26,San Benito,California,06069,6338,17,63,0
+2021-07-26,San Bernardino,California,06071,308552,1083,5237,1
+2021-07-26,San Diego,California,06073,306929,1258,3793,5
+2021-07-26,San Francisco,California,06075,41175,709,561,0
+2021-07-26,San Joaquin,California,06077,79959,465,1446,0
+2021-07-26,San Luis Obispo,California,06079,22563,125,264,0
+2021-07-26,San Mateo,California,06081,44725,309,588,0
+2021-07-26,Santa Barbara,California,06083,36653,190,467,2
+2021-07-26,Santa Clara,California,06085,122667,708,2100,0
+2021-07-26,Santa Cruz,California,06087,17357,58,207,0
+2021-07-26,Shasta,California,06089,14734,56,242,0
+2021-07-26,Sierra,California,06091,79,1,0,0
 2021-07-26,Siskiyou,California,06093,2538,1,40,0
-2021-07-26,Solano,California,06095,35487,289,259,0
-2021-07-26,Sonoma,California,06097,32202,6,329,0
+2021-07-26,Solano,California,06095,35538,340,259,0
+2021-07-26,Sonoma,California,06097,32595,274,329,0
 2021-07-26,Stanislaus,California,06099,65304,285,1085,0
 2021-07-26,Sutter,California,06101,10054,66,115,0
-2021-07-26,Tehama,California,06103,5181,15,66,1
-2021-07-26,Trinity,California,06105,352,6,3,0
-2021-07-26,Tulare,California,06107,50221,117,854,0
-2021-07-26,Tuolumne,California,06109,4395,51,73,0
-2021-07-26,Ventura,California,06111,83255,280,1041,0
-2021-07-26,Yolo,California,06113,14693,136,215,1
+2021-07-26,Tehama,California,06103,5834,15,66,1
+2021-07-26,Trinity,California,06105,417,6,3,0
+2021-07-26,Tulare,California,06107,60136,117,854,0
+2021-07-26,Tuolumne,California,06109,4460,51,73,0
+2021-07-26,Ventura,California,06111,86486,299,1041,0
+2021-07-26,Yolo,California,06113,15141,136,215,1
 2021-07-26,Yuba,California,06115,6878,35,51,0
-2021-07-27,Alameda,California,06001,95264,447,1274,2
+2021-07-27,Alameda,California,06001,96748,290,1274,2
 2021-07-27,Alpine,California,06003,89,0,0,0
-2021-07-27,Amador,California,06005,3853,6,48,0
-2021-07-27,Butte,California,06007,13082,8,203,0
-2021-07-27,Calaveras,California,06009,2281,6,58,0
-2021-07-27,Colusa,California,06011,2339,0,18,0
-2021-07-27,Contra Costa,California,06013,75580,368,830,0
+2021-07-27,Amador,California,06005,3889,6,48,0
+2021-07-27,Butte,California,06007,15124,8,203,0
+2021-07-27,Calaveras,California,06009,2295,1,58,0
+2021-07-27,Colusa,California,06011,2344,0,18,0
+2021-07-27,Contra Costa,California,06013,76358,220,830,0
 2021-07-27,Del Norte,California,06015,1581,0,8,0
-2021-07-27,El Dorado,California,06017,10899,21,120,0
-2021-07-27,Fresno,California,06019,104143,124,1742,0
-2021-07-27,Glenn,California,06021,3003,4,27,0
-2021-07-27,Humboldt,California,06023,4989,18,53,0
-2021-07-27,Imperial,California,06025,29034,-3,742,0
+2021-07-27,El Dorado,California,06017,11762,21,120,0
+2021-07-27,Fresno,California,06019,113619,124,1742,0
+2021-07-27,Glenn,California,06021,3053,0,27,0
+2021-07-27,Humboldt,California,06023,5054,14,53,0
+2021-07-27,Imperial,California,06025,31982,-3,742,0
 2021-07-27,Inyo,California,06027,1453,7,38,0
 2021-07-27,Kern,California,06029,112798,175,1420,1
-2021-07-27,Kings,California,06031,23525,36,250,1
-2021-07-27,Lake,California,06033,4133,24,65,0
+2021-07-27,Kings,California,06031,24665,30,250,1
+2021-07-27,Lake,California,06033,4146,24,65,0
 2021-07-27,Lassen,California,06035,5869,1,26,-2
 2021-07-27,Los Angeles,California,06037,1288516,2060,24647,4
-2021-07-27,Madera,California,06039,16971,24,249,0
-2021-07-27,Marin,California,06041,14579,21,239,0
+2021-07-27,Madera,California,06039,17971,24,249,0
+2021-07-27,Marin,California,06041,14870,21,239,0
 2021-07-27,Mariposa,California,06043,495,1,7,0
 2021-07-27,Mendocino,California,06045,4628,57,50,0
 2021-07-27,Merced,California,06047,32961,0,484,0
 2021-07-27,Modoc,California,06049,573,0,7,0
 2021-07-27,Mono,California,06051,1314,3,5,0
-2021-07-27,Monterey,California,06053,44396,40,526,2
-2021-07-27,Napa,California,06055,10333,16,82,0
-2021-07-27,Nevada,California,06057,5280,24,75,0
+2021-07-27,Monterey,California,06053,45590,5,526,2
+2021-07-27,Napa,California,06055,10379,16,82,0
+2021-07-27,Nevada,California,06057,5487,24,75,0
 2021-07-27,Orange,California,06059,280654,505,5142,0
-2021-07-27,Placer,California,06061,24955,200,307,3
-2021-07-27,Plumas,California,06063,763,2,6,0
-2021-07-27,Riverside,California,06065,306836,1247,4659,1
-2021-07-27,Sacramento,California,06067,114414,333,1775,4
-2021-07-27,San Benito,California,06069,6222,5,63,0
-2021-07-27,San Bernardino,California,06071,305423,902,5237,0
-2021-07-27,San Diego,California,06073,292751,2062,3793,0
-2021-07-27,San Francisco,California,06075,39803,137,561,0
-2021-07-27,San Joaquin,California,06077,76915,881,1460,14
-2021-07-27,San Luis Obispo,California,06079,21970,229,265,1
-2021-07-27,San Mateo,California,06081,44297,108,588,0
-2021-07-27,Santa Barbara,California,06083,35473,138,467,0
-2021-07-27,Santa Clara,California,06085,122630,191,2100,0
-2021-07-27,Santa Cruz,California,06087,16532,0,207,0
-2021-07-27,Shasta,California,06089,12876,31,242,0
-2021-07-27,Sierra,California,06091,65,0,0,0
+2021-07-27,Placer,California,06061,26649,87,307,3
+2021-07-27,Plumas,California,06063,766,0,6,0
+2021-07-27,Riverside,California,06065,313952,445,4659,1
+2021-07-27,Sacramento,California,06067,116178,375,1775,4
+2021-07-27,San Benito,California,06069,6343,5,63,0
+2021-07-27,San Bernardino,California,06071,308808,256,5237,0
+2021-07-27,San Diego,California,06073,309523,2594,3793,0
+2021-07-27,San Francisco,California,06075,41312,137,561,0
+2021-07-27,San Joaquin,California,06077,80066,107,1460,14
+2021-07-27,San Luis Obispo,California,06079,22574,11,265,1
+2021-07-27,San Mateo,California,06081,44833,108,588,0
+2021-07-27,Santa Barbara,California,06083,36703,50,467,0
+2021-07-27,Santa Clara,California,06085,122845,178,2100,0
+2021-07-27,Santa Cruz,California,06087,17376,19,207,0
+2021-07-27,Shasta,California,06089,14738,4,242,0
+2021-07-27,Sierra,California,06091,79,0,0,0
 2021-07-27,Siskiyou,California,06093,2548,10,40,0
-2021-07-27,Solano,California,06095,35487,0,259,0
-2021-07-27,Sonoma,California,06097,32325,123,329,0
+2021-07-27,Solano,California,06095,35665,127,259,0
+2021-07-27,Sonoma,California,06097,32676,81,329,0
 2021-07-27,Stanislaus,California,06099,65440,136,1085,0
 2021-07-27,Sutter,California,06101,10080,26,115,0
-2021-07-27,Tehama,California,06103,5183,2,66,0
-2021-07-27,Trinity,California,06105,352,0,3,0
-2021-07-27,Tulare,California,06107,50265,44,854,0
-2021-07-27,Tuolumne,California,06109,4425,30,73,0
-2021-07-27,Ventura,California,06111,83255,0,1041,0
-2021-07-27,Yolo,California,06113,14727,34,215,0
+2021-07-27,Tehama,California,06103,5836,2,66,0
+2021-07-27,Trinity,California,06105,417,0,3,0
+2021-07-27,Tulare,California,06107,60180,44,854,0
+2021-07-27,Tuolumne,California,06109,4464,4,73,0
+2021-07-27,Ventura,California,06111,86572,86,1041,0
+2021-07-27,Yolo,California,06113,15175,34,215,0
 2021-07-27,Yuba,California,06115,6916,38,51,0
+2021-07-28,Alameda,California,06001,96994,246,1274,0
+2021-07-28,Alpine,California,06003,89,0,0,0
+2021-07-28,Amador,California,06005,3896,7,48,0
+2021-07-28,Butte,California,06007,15169,45,205,2
+2021-07-28,Calaveras,California,06009,2299,4,58,0
+2021-07-28,Colusa,California,06011,2347,3,18,0
+2021-07-28,Contra Costa,California,06013,76731,373,830,0
+2021-07-28,Del Norte,California,06015,1589,8,8,0
+2021-07-28,El Dorado,California,06017,11804,42,120,0
+2021-07-28,Fresno,California,06019,113764,145,1746,4
+2021-07-28,Glenn,California,06021,3052,-1,27,0
+2021-07-28,Humboldt,California,06023,5073,19,53,0
+2021-07-28,Imperial,California,06025,31996,14,742,0
+2021-07-28,Inyo,California,06027,1453,0,38,0
+2021-07-28,Kern,California,06029,112933,135,1420,0
+2021-07-28,Kings,California,06031,24702,37,250,0
+2021-07-28,Lake,California,06033,4170,24,65,0
+2021-07-28,Lassen,California,06035,5874,5,26,0
+2021-07-28,Los Angeles,California,06037,1289809,1293,24658,11
+2021-07-28,Madera,California,06039,17998,27,249,0
+2021-07-28,Marin,California,06041,14922,52,239,0
+2021-07-28,Mariposa,California,06043,497,2,7,0
+2021-07-28,Mendocino,California,06045,4646,18,50,0
+2021-07-28,Merced,California,06047,32961,0,484,0
+2021-07-28,Modoc,California,06049,573,0,7,0
+2021-07-28,Mono,California,06051,1314,0,5,0
+2021-07-28,Monterey,California,06053,45641,51,526,0
+2021-07-28,Napa,California,06055,10401,22,82,0
+2021-07-28,Nevada,California,06057,5512,25,75,0
+2021-07-28,Orange,California,06059,281228,574,5143,1
+2021-07-28,Placer,California,06061,26723,74,307,0
+2021-07-28,Plumas,California,06063,768,2,6,0
+2021-07-28,Riverside,California,06065,314486,534,4659,0
+2021-07-28,Sacramento,California,06067,116605,427,1775,0
+2021-07-28,San Benito,California,06069,6350,7,63,0
+2021-07-28,San Bernardino,California,06071,309163,355,5236,-1
+2021-07-28,San Diego,California,06073,310243,720,3798,5
+2021-07-28,San Francisco,California,06075,41451,139,561,0
+2021-07-28,San Joaquin,California,06077,80199,133,1460,0
+2021-07-28,San Luis Obispo,California,06079,22625,51,265,0
+2021-07-28,San Mateo,California,06081,44914,81,588,0
+2021-07-28,Santa Barbara,California,06083,36747,44,467,0
+2021-07-28,Santa Clara,California,06085,123021,176,2100,0
+2021-07-28,Santa Cruz,California,06087,17406,30,207,0
+2021-07-28,Shasta,California,06089,14765,27,242,0
+2021-07-28,Sierra,California,06091,79,0,0,0
+2021-07-28,Siskiyou,California,06093,2554,6,40,0
+2021-07-28,Solano,California,06095,35768,103,261,2
+2021-07-28,Sonoma,California,06097,32760,84,329,0
+2021-07-28,Stanislaus,California,06099,65440,0,1085,0
+2021-07-28,Sutter,California,06101,10092,12,115,0
+2021-07-28,Tehama,California,06103,5845,9,66,0
+2021-07-28,Trinity,California,06105,417,0,3,0
+2021-07-28,Tulare,California,06107,60239,59,854,0
+2021-07-28,Tuolumne,California,06109,4475,11,73,0
+2021-07-28,Ventura,California,06111,86689,117,1043,2
+2021-07-28,Yolo,California,06113,15207,32,215,0
+2021-07-28,Yuba,California,06115,6949,33,51,0
