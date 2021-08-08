@@ -1,5 +1,4 @@
 import _ from 'lodash';
-import request from 'request';
 import https from 'https';
 import csv from 'csv';
 import fs from 'fs';
@@ -30,29 +29,11 @@ function parseNytCsv(url: string, onRecord: RecordHandler) {
       onRecord(record);
     });
     countiesParser.on('end', function() {
-      resolve();
+      resolve(null);
     });
     countiesParser.on('error', function(error: Error) {
       reject(error);
     });
-  });
-}
-
-function parseCTJson(url: string): Promise<any[]> {
-  return new Promise((resolve, reject) => {
-    request(
-      {
-        url: url,
-        json: true,
-      },
-      function(error, response, body) {
-        if (!error && response.statusCode === 200) {
-          resolve(body);
-        } else {
-          reject(error);
-        }
-      },
-    );
   });
 }
 
@@ -117,36 +98,17 @@ async function parseNytCounties(): Promise<Record<string, CsvRowObj[]>> {
   return groupedByStateFips;
 }
 
-async function parseCtUs() {
-  return parseCTJson('https://api.covidtracking.com/v1/us/daily.json');
-}
-
-async function parseCtStates() {
-  return parseCTJson('https://api.covidtracking.com/v1/states/daily.json');
-}
-
 async function buildStateFiles() {
   // Parse US data first
-  const [nytUsData, ctUsData] = await Promise.all([parseNytUs(), parseCtUs()]);
+  const nytUsData = await parseNytUs();
   if (nytUsData.length < 10) {
     throw new Error('Found less than 10 rows in NYT US data – bailing out.');
   }
-  if (ctUsData.length < 10) {
-    throw new Error('Found less than 10 rows in Covid Tracker US data – bailing out.');
-  }
-
-  // Add fips: '00' to ctUsData to keep matching code consistent
-  ctUsData.forEach((row: any) => {
-    row.fips = '00';
-  });
 
   // Then parse state-level data
-  const [nytStateData, ctStateData] = await Promise.all([parseNytStates(), parseCtStates()]);
+  const nytStateData = await parseNytStates();
   if (nytStateData.length < 10) {
     throw new Error('Found less than 10 rows in NYT states data – bailing out.');
-  }
-  if (ctStateData.length < 10) {
-    throw new Error('Found less than 10 rows in Covid Tracker states data – bailing out.');
   }
 
   // Remove existing files
@@ -166,25 +128,10 @@ async function buildStateFiles() {
     ...nytUsData.map(({date, cases, deaths}) => ({date, state: 'US', fips: '00', cases, deaths})),
     ...nytStateData,
   ];
-  const ctData = [...ctUsData, ...ctStateData];
 
-  processData(nytData, row => row.state, ctData);
+  processData(nytData, row => row.state);
 
-  const columns = [
-    'date',
-    'state',
-    'fips',
-    'cases',
-    'newCases',
-    'deaths',
-    'newDeaths',
-    'tests',
-    'newTests',
-    'positive',
-    'newPositive',
-    'negative',
-    'newNegative',
-  ];
+  const columns = ['date', 'state', 'fips', 'cases', 'newCases', 'deaths', 'newDeaths'];
 
   // Write "all" file
   await writeCsvFile(nytData, columns, './data/state/all.csv');
@@ -236,38 +183,12 @@ function writeCsvFile(rows: any[], columns: string[], filePath: string) {
       }
       fs.writeFileSync(path.resolve(__dirname, filePath), output);
       console.log(`Wrote ${filePath} (${rows.length} rows)`);
-      resolve();
+      resolve(null);
     });
   });
 }
 
-function processData(data: any[], groupBy: (row: any) => string, testingData?: any[]) {
-  if (testingData) {
-    // Need to group testing data by (1) fips, (2) date
-    const groupedByFips: Record<string, Record<string, CsvRowObj>> = _(testingData)
-      .groupBy(row => row.fips)
-      .mapValues(rows => {
-        return _.keyBy(rows, row => {
-          const ds = String(row.date);
-          return `${ds.substring(0, 4)}-${ds.substring(4, 6)}-${ds.substring(6, 8)}`;
-        });
-      })
-      .value();
-
-    data.forEach(row => {
-      const dataForFips = groupedByFips[row.fips] || ({} as any);
-      const dataOnDate = dataForFips[row.date];
-      if (dataOnDate) {
-        row.positive = coerceNumber(dataOnDate.positive);
-        row.negative = coerceNumber(dataOnDate.negative);
-        row.tests = row.positive + row.negative;
-        row.newPositive = coerceNumber(dataOnDate.positiveIncrease);
-        row.newNegative = coerceNumber(dataOnDate.negativeIncrease);
-        row.newTests = row.newPositive + row.newNegative;
-      }
-    });
-  }
-
+function processData(data: any[], groupBy: (row: any) => string) {
   // Calculate newCases/newDeaths properties
   const grouped = _.groupBy(data, groupBy);
   for (const group in grouped) {
@@ -290,10 +211,6 @@ function processData(data: any[], groupBy: (row: any) => string, testingData?: a
   }
 }
 
-function coerceNumber(value: unknown) {
-  return value == undefined ? null : Number(value);
-}
-
 async function clearDir(directory: string) {
   return new Promise((resolve, reject) => {
     if (!fs.existsSync(directory)) {
@@ -307,7 +224,7 @@ async function clearDir(directory: string) {
       for (const file of files) {
         fs.unlinkSync(path.join(directory, file));
       }
-      resolve();
+      resolve(null);
     });
   });
 }
