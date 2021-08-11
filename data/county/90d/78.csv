@@ -1,7 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2021-05-04,St. Croix,Virgin Islands,78010,1364,1,10,0
-2021-05-04,St. John,Virgin Islands,78020,221,0,1,0
-2021-05-04,St. Thomas,Virgin Islands,78030,1567,13,16,0
 2021-05-05,St. Croix,Virgin Islands,78010,1364,0,10,0
 2021-05-05,St. John,Virgin Islands,78020,221,0,1,0
 2021-05-05,St. Thomas,Virgin Islands,78030,1567,0,16,0
@@ -296,3 +293,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-08-09,St. Croix,Virgin Islands,78010,1884,35,16,0
 2021-08-09,St. John,Virgin Islands,78020,279,2,1,0
 2021-08-09,St. Thomas,Virgin Islands,78030,2797,16,23,0
+2021-08-10,St. Croix,Virgin Islands,78010,1915,31,16,0
+2021-08-10,St. John,Virgin Islands,78020,281,2,1,0
+2021-08-10,St. Thomas,Virgin Islands,78030,2870,73,23,0
+2021-08-10,Unknown,Virgin Islands,,0,0,1,-1
