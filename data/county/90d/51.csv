@@ -1,137 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2021-05-07,Accomack,Virginia,51001,2821,3,41,0
-2021-05-07,Albemarle,Virginia,51003,5752,-1,83,0
-2021-05-07,Alexandria city,Virginia,51510,11726,13,134,0
-2021-05-07,Alleghany,Virginia,51005,1334,9,49,0
-2021-05-07,Amelia,Virginia,51007,888,1,32,1
-2021-05-07,Amherst,Virginia,51009,2917,3,36,0
-2021-05-07,Appomattox,Virginia,51011,1590,2,24,0
-2021-05-07,Arlington,Virginia,51013,15198,27,254,0
-2021-05-07,Augusta,Virginia,51015,5756,8,71,0
-2021-05-07,Bath,Virginia,51017,270,0,10,0
-2021-05-07,Bedford,Virginia,51019,6323,17,99,0
-2021-05-07,Bland,Virginia,51021,673,1,10,0
-2021-05-07,Botetourt,Virginia,51023,2518,0,36,0
-2021-05-07,Bristol city,Virginia,51520,1486,1,33,0
-2021-05-07,Brunswick,Virginia,51025,1309,1,22,1
-2021-05-07,Buchanan,Virginia,51027,1419,0,39,1
-2021-05-07,Buckingham,Virginia,51029,2128,1,30,0
-2021-05-07,Buena Vista city,Virginia,51530,903,0,19,0
-2021-05-07,Campbell,Virginia,51031,4456,7,84,0
-2021-05-07,Caroline,Virginia,51033,2581,7,36,0
-2021-05-07,Carroll,Virginia,51035,2636,6,70,0
-2021-05-07,Charles City,Virginia,51036,501,1,15,0
-2021-05-07,Charlotte,Virginia,51037,851,5,18,0
-2021-05-07,Charlottesville city,Virginia,51540,4002,1,56,0
-2021-05-07,Chesapeake city,Virginia,51550,20795,16,292,0
-2021-05-07,Chesterfield,Virginia,51041,27501,48,428,0
-2021-05-07,Clarke,Virginia,51043,972,1,19,0
-2021-05-07,Colonial Heights city,Virginia,51570,1704,2,61,0
-2021-05-07,Covington city,Virginia,51580,598,-3,13,0
-2021-05-07,Craig,Virginia,51045,309,0,5,0
-2021-05-07,Culpeper,Virginia,51047,4595,10,62,1
-2021-05-07,Cumberland,Virginia,51049,483,1,9,0
-2021-05-07,Danville city,Virginia,51590,4371,1,135,0
-2021-05-07,Dickenson,Virginia,51051,931,4,15,0
-2021-05-07,Dinwiddie,Virginia,51053,2110,5,43,0
-2021-05-07,Emporia city,Virginia,51595,669,0,42,0
-2021-05-07,Essex,Virginia,51057,758,3,9,0
-2021-05-07,Fairfax,Virginia,51059,76317,126,1074,-1
-2021-05-07,Fairfax city,Virginia,51600,554,2,19,0
-2021-05-07,Falls Church city,Virginia,51610,427,1,9,0
-2021-05-07,Fauquier,Virginia,51061,4635,2,65,-1
-2021-05-07,Floyd,Virginia,51063,851,0,21,0
-2021-05-07,Fluvanna,Virginia,51065,1914,1,18,0
-2021-05-07,Franklin,Virginia,51067,4017,2,76,0
-2021-05-07,Franklin city,Virginia,51620,1128,-3,32,0
-2021-05-07,Frederick,Virginia,51069,7905,20,100,0
-2021-05-07,Fredericksburg city,Virginia,51630,2113,2,23,0
-2021-05-07,Galax city,Virginia,51640,1164,2,52,0
-2021-05-07,Giles,Virginia,51071,1270,3,21,0
-2021-05-07,Gloucester,Virginia,51073,2190,5,48,0
-2021-05-07,Goochland,Virginia,51075,1435,0,23,0
-2021-05-07,Grayson,Virginia,51077,1460,6,35,0
-2021-05-07,Greene,Virginia,51079,1253,1,18,0
-2021-05-07,Greensville,Virginia,51081,1572,0,25,0
-2021-05-07,Halifax,Virginia,51083,2797,6,77,0
-2021-05-07,Hampton city,Virginia,51650,10376,30,175,0
-2021-05-07,Hanover,Virginia,51085,8017,9,155,0
-2021-05-07,Harrisonburg city,Virginia,51660,6473,3,95,0
-2021-05-07,Henrico,Virginia,51087,25163,12,607,0
-2021-05-07,Henry,Virginia,51089,4533,2,121,0
-2021-05-07,Highland,Virginia,51091,109,0,1,0
-2021-05-07,Hopewell city,Virginia,51670,2569,1,72,0
-2021-05-07,Isle of Wight,Virginia,51093,3130,0,68,1
-2021-05-07,James City,Virginia,51095,4580,5,72,0
-2021-05-07,King George,Virginia,51099,1675,5,20,0
-2021-05-07,King William,Virginia,51101,1212,8,11,0
-2021-05-07,King and Queen,Virginia,51097,396,2,8,0
-2021-05-07,Lancaster,Virginia,51103,712,0,16,0
-2021-05-07,Lee,Virginia,51105,2418,1,46,0
-2021-05-07,Lexington city,Virginia,51678,1189,4,32,0
-2021-05-07,Loudoun,Virginia,51107,27589,50,275,0
-2021-05-07,Louisa,Virginia,51109,1964,4,32,0
-2021-05-07,Lunenburg,Virginia,51111,762,0,13,0
-2021-05-07,Lynchburg city,Virginia,51680,7685,10,147,1
-2021-05-07,Madison,Virginia,51113,612,0,16,0
-2021-05-07,Manassas Park city,Virginia,51685,1215,1,11,0
-2021-05-07,Manassas city,Virginia,51683,4291,3,47,0
-2021-05-07,Martinsville city,Virginia,51690,1588,1,76,0
-2021-05-07,Mathews,Virginia,51115,597,0,12,0
-2021-05-07,Mecklenburg,Virginia,51117,2291,2,66,0
-2021-05-07,Middlesex,Virginia,51119,572,1,20,0
-2021-05-07,Montgomery,Virginia,51121,9334,8,92,0
-2021-05-07,Nelson,Virginia,51125,890,0,12,0
-2021-05-07,New Kent,Virginia,51127,1487,0,17,0
-2021-05-07,Newport News city,Virginia,51700,13861,13,224,0
-2021-05-07,Norfolk city,Virginia,51710,17521,23,256,1
-2021-05-07,Northampton,Virginia,51131,805,3,36,0
-2021-05-07,Northumberland,Virginia,51133,742,0,20,0
-2021-05-07,Norton city,Virginia,51720,283,1,7,0
-2021-05-07,Nottoway,Virginia,51135,1909,3,48,0
-2021-05-07,Orange,Virginia,51137,2172,7,38,0
-2021-05-07,Page,Virginia,51139,2027,1,57,0
-2021-05-07,Patrick,Virginia,51141,1347,1,43,0
-2021-05-07,Petersburg city,Virginia,51730,3845,11,84,0
-2021-05-07,Pittsylvania,Virginia,51143,5522,10,79,0
-2021-05-07,Poquoson city,Virginia,51735,873,0,16,0
-2021-05-07,Portsmouth city,Virginia,51740,9003,15,191,1
-2021-05-07,Powhatan,Virginia,51145,1901,1,16,0
-2021-05-07,Prince Edward,Virginia,51147,2141,2,34,0
-2021-05-07,Prince George,Virginia,51149,3515,3,28,0
-2021-05-07,Prince William,Virginia,51153,44949,106,486,1
-2021-05-07,Pulaski,Virginia,51155,2626,1,61,0
-2021-05-07,Radford city,Virginia,51750,2129,7,18,0
-2021-05-07,Rappahannock,Virginia,51157,352,0,2,0
-2021-05-07,Richmond,Virginia,51159,1506,5,15,0
-2021-05-07,Richmond city,Virginia,51760,16897,8,258,0
-2021-05-07,Roanoke,Virginia,51161,8198,14,142,0
-2021-05-07,Roanoke city,Virginia,51770,8414,4,192,1
-2021-05-07,Rockbridge,Virginia,51163,1529,7,46,0
-2021-05-07,Rockingham,Virginia,51165,6718,5,105,0
-2021-05-07,Russell,Virginia,51167,2252,1,38,0
-2021-05-07,Salem city,Virginia,51775,2145,0,47,0
-2021-05-07,Scott,Virginia,51169,1819,1,53,0
-2021-05-07,Shenandoah,Virginia,51171,4288,6,131,1
-2021-05-07,Smyth,Virginia,51173,2937,12,91,0
-2021-05-07,Southampton,Virginia,51175,1975,1,56,0
-2021-05-07,Spotsylvania,Virginia,51177,9862,30,117,0
-2021-05-07,Stafford,Virginia,51179,11195,17,78,0
-2021-05-07,Staunton city,Virginia,51790,2513,2,71,0
-2021-05-07,Suffolk city,Virginia,51800,7871,5,187,0
-2021-05-07,Surry,Virginia,51181,423,-1,9,0
-2021-05-07,Sussex,Virginia,51183,1182,-1,21,0
-2021-05-07,Tazewell,Virginia,51185,3613,6,68,1
-2021-05-07,Virginia Beach city,Virginia,51810,35673,36,391,2
-2021-05-07,Warren,Virginia,51187,2927,7,55,0
-2021-05-07,Washington,Virginia,51191,4873,4,107,0
-2021-05-07,Waynesboro city,Virginia,51820,2356,1,38,0
-2021-05-07,Westmoreland,Virginia,51193,1272,1,25,0
-2021-05-07,Williamsburg city,Virginia,51830,763,0,13,1
-2021-05-07,Winchester city,Virginia,51840,2835,0,45,0
-2021-05-07,Wise,Virginia,51195,3155,9,96,0
-2021-05-07,Wythe,Virginia,51197,2633,3,78,0
-2021-05-07,York,Virginia,51199,3720,8,52,0
 2021-05-08,Accomack,Virginia,51001,2823,2,41,0
 2021-05-08,Albemarle,Virginia,51003,5754,2,83,0
 2021-05-08,Alexandria city,Virginia,51510,11735,9,134,0
@@ -13033,3 +12900,136 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-08-12,Wise,Virginia,51195,3492,5,106,0
 2021-08-12,Wythe,Virginia,51197,2996,15,82,0
 2021-08-12,York,Virginia,51199,4091,12,60,0
+2021-08-13,Accomack,Virginia,51001,3047,15,47,0
+2021-08-13,Albemarle,Virginia,51003,6135,14,85,0
+2021-08-13,Alexandria city,Virginia,51510,12390,21,141,0
+2021-08-13,Alleghany,Virginia,51005,1427,0,50,0
+2021-08-13,Amelia,Virginia,51007,1017,6,36,0
+2021-08-13,Amherst,Virginia,51009,3154,13,40,0
+2021-08-13,Appomattox,Virginia,51011,1704,11,26,0
+2021-08-13,Arlington,Virginia,51013,16006,33,258,0
+2021-08-13,Augusta,Virginia,51015,6250,18,81,0
+2021-08-13,Bath,Virginia,51017,278,0,11,0
+2021-08-13,Bedford,Virginia,51019,7126,32,111,0
+2021-08-13,Bland,Virginia,51021,726,3,10,0
+2021-08-13,Botetourt,Virginia,51023,2812,12,37,0
+2021-08-13,Bristol city,Virginia,51520,1691,4,39,1
+2021-08-13,Brunswick,Virginia,51025,1394,2,25,0
+2021-08-13,Buchanan,Virginia,51027,1655,7,47,1
+2021-08-13,Buckingham,Virginia,51029,2204,2,33,1
+2021-08-13,Buena Vista city,Virginia,51530,945,0,22,0
+2021-08-13,Campbell,Virginia,51031,5310,16,105,0
+2021-08-13,Caroline,Virginia,51033,2954,15,42,0
+2021-08-13,Carroll,Virginia,51035,2852,11,80,0
+2021-08-13,Charles City,Virginia,51036,540,1,16,0
+2021-08-13,Charlotte,Virginia,51037,909,2,21,0
+2021-08-13,Charlottesville city,Virginia,51540,4186,7,58,0
+2021-08-13,Chesapeake city,Virginia,51550,22732,108,311,0
+2021-08-13,Chesterfield,Virginia,51041,30177,98,455,0
+2021-08-13,Clarke,Virginia,51043,1023,2,21,0
+2021-08-13,Colonial Heights city,Virginia,51570,1901,11,60,0
+2021-08-13,Covington city,Virginia,51580,628,0,14,0
+2021-08-13,Craig,Virginia,51045,354,-1,6,0
+2021-08-13,Culpeper,Virginia,51047,4943,15,69,0
+2021-08-13,Cumberland,Virginia,51049,546,4,10,0
+2021-08-13,Danville city,Virginia,51590,4724,24,146,0
+2021-08-13,Dickenson,Virginia,51051,1048,1,19,0
+2021-08-13,Dinwiddie,Virginia,51053,2314,6,46,0
+2021-08-13,Emporia city,Virginia,51595,697,2,42,0
+2021-08-13,Essex,Virginia,51057,827,3,11,0
+2021-08-13,Fairfax,Virginia,51059,80012,111,1127,1
+2021-08-13,Fairfax city,Virginia,51600,579,3,19,0
+2021-08-13,Falls Church city,Virginia,51610,441,0,8,0
+2021-08-13,Fauquier,Virginia,51061,5133,21,71,1
+2021-08-13,Floyd,Virginia,51063,958,6,22,0
+2021-08-13,Fluvanna,Virginia,51065,2004,7,21,0
+2021-08-13,Franklin,Virginia,51067,4370,23,83,0
+2021-08-13,Franklin city,Virginia,51620,1195,5,33,0
+2021-08-13,Frederick,Virginia,51069,8614,22,103,0
+2021-08-13,Fredericksburg city,Virginia,51630,2271,8,25,0
+2021-08-13,Galax city,Virginia,51640,1207,0,53,0
+2021-08-13,Giles,Virginia,51071,1393,4,24,0
+2021-08-13,Gloucester,Virginia,51073,2573,11,53,0
+2021-08-13,Goochland,Virginia,51075,1566,2,24,0
+2021-08-13,Grayson,Virginia,51077,1566,4,40,0
+2021-08-13,Greene,Virginia,51079,1431,4,22,0
+2021-08-13,Greensville,Virginia,51081,1610,3,26,0
+2021-08-13,Halifax,Virginia,51083,2974,14,78,0
+2021-08-13,Hampton city,Virginia,51650,11538,68,184,0
+2021-08-13,Hanover,Virginia,51085,8989,31,169,0
+2021-08-13,Harrisonburg city,Virginia,51660,6650,8,95,0
+2021-08-13,Henrico,Virginia,51087,27455,84,643,0
+2021-08-13,Henry,Virginia,51089,4871,25,124,0
+2021-08-13,Highland,Virginia,51091,121,0,1,0
+2021-08-13,Hopewell city,Virginia,51670,2911,17,79,0
+2021-08-13,Isle of Wight,Virginia,51093,3407,17,70,0
+2021-08-13,James City,Virginia,51095,5018,20,73,0
+2021-08-13,King George,Virginia,51099,1811,3,20,0
+2021-08-13,King William,Virginia,51101,1355,5,15,0
+2021-08-13,King and Queen,Virginia,51097,430,1,7,0
+2021-08-13,Lancaster,Virginia,51103,788,10,18,0
+2021-08-13,Lee,Virginia,51105,2529,8,48,0
+2021-08-13,Lexington city,Virginia,51678,1230,4,33,0
+2021-08-13,Loudoun,Virginia,51107,29316,69,283,0
+2021-08-13,Louisa,Virginia,51109,2151,5,35,1
+2021-08-13,Lunenburg,Virginia,51111,826,1,16,0
+2021-08-13,Lynchburg city,Virginia,51680,7885,36,149,0
+2021-08-13,Madison,Virginia,51113,645,-1,16,1
+2021-08-13,Manassas Park city,Virginia,51685,1233,1,11,0
+2021-08-13,Manassas city,Virginia,51683,4401,0,48,0
+2021-08-13,Martinsville city,Virginia,51690,1667,5,79,0
+2021-08-13,Mathews,Virginia,51115,642,3,14,0
+2021-08-13,Mecklenburg,Virginia,51117,2540,3,68,0
+2021-08-13,Middlesex,Virginia,51119,610,4,22,0
+2021-08-13,Montgomery,Virginia,51121,9636,18,81,0
+2021-08-13,Nelson,Virginia,51125,920,0,13,0
+2021-08-13,New Kent,Virginia,51127,1671,5,19,0
+2021-08-13,Newport News city,Virginia,51700,15504,102,244,1
+2021-08-13,Norfolk city,Virginia,51710,19186,119,278,0
+2021-08-13,Northampton,Virginia,51131,830,1,37,0
+2021-08-13,Northumberland,Virginia,51133,810,3,20,0
+2021-08-13,Norton city,Virginia,51720,336,2,7,0
+2021-08-13,Nottoway,Virginia,51135,2036,3,55,2
+2021-08-13,Orange,Virginia,51137,2371,12,40,1
+2021-08-13,Page,Virginia,51139,2256,4,61,0
+2021-08-13,Patrick,Virginia,51141,1483,1,47,0
+2021-08-13,Petersburg city,Virginia,51730,4163,16,92,0
+2021-08-13,Pittsylvania,Virginia,51143,5956,19,86,0
+2021-08-13,Poquoson city,Virginia,51735,952,3,18,0
+2021-08-13,Portsmouth city,Virginia,51740,9741,31,206,0
+2021-08-13,Powhatan,Virginia,51145,2053,8,17,0
+2021-08-13,Prince Edward,Virginia,51147,2239,4,36,0
+2021-08-13,Prince George,Virginia,51149,3910,10,33,0
+2021-08-13,Prince William,Virginia,51153,47471,88,514,0
+2021-08-13,Pulaski,Virginia,51155,2924,7,70,0
+2021-08-13,Radford city,Virginia,51750,2342,0,29,0
+2021-08-13,Rappahannock,Virginia,51157,384,2,2,0
+2021-08-13,Richmond,Virginia,51159,1346,3,12,0
+2021-08-13,Richmond city,Virginia,51760,18287,62,281,0
+2021-08-13,Roanoke,Virginia,51161,9020,14,150,0
+2021-08-13,Roanoke city,Virginia,51770,9191,32,202,1
+2021-08-13,Rockbridge,Virginia,51163,1618,6,48,0
+2021-08-13,Rockingham,Virginia,51165,7157,6,115,1
+2021-08-13,Russell,Virginia,51167,2404,6,40,0
+2021-08-13,Salem city,Virginia,51775,2380,7,50,0
+2021-08-13,Scott,Virginia,51169,2014,12,61,0
+2021-08-13,Shenandoah,Virginia,51171,4511,15,135,0
+2021-08-13,Smyth,Virginia,51173,3124,9,95,0
+2021-08-13,Southampton,Virginia,51175,2027,3,57,0
+2021-08-13,Spotsylvania,Virginia,51177,10904,63,126,0
+2021-08-13,Stafford,Virginia,51179,12281,47,85,0
+2021-08-13,Staunton city,Virginia,51790,2616,10,69,0
+2021-08-13,Suffolk city,Virginia,51800,8584,43,195,1
+2021-08-13,Surry,Virginia,51181,453,2,9,0
+2021-08-13,Sussex,Virginia,51183,1257,5,23,0
+2021-08-13,Tazewell,Virginia,51185,3939,13,77,1
+2021-08-13,Virginia Beach city,Virginia,51810,38946,163,425,1
+2021-08-13,Warren,Virginia,51187,3340,5,64,0
+2021-08-13,Washington,Virginia,51191,5327,23,115,0
+2021-08-13,Waynesboro city,Virginia,51820,2517,2,39,0
+2021-08-13,Westmoreland,Virginia,51193,1354,3,27,0
+2021-08-13,Williamsburg city,Virginia,51830,835,7,14,0
+2021-08-13,Winchester city,Virginia,51840,3054,13,49,0
+2021-08-13,Wise,Virginia,51195,3510,18,106,0
+2021-08-13,Wythe,Virginia,51197,3006,10,82,0
+2021-08-13,York,Virginia,51199,4108,17,60,0
