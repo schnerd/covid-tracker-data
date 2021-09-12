@@ -1,9 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2021-06-05,Hawaii,Hawaii,15001,3005,9,53,0
-2021-06-05,Honolulu,Hawaii,15003,27274,41,389,1
-2021-06-05,Kalawao,Hawaii,15005,1,0,0,0
-2021-06-05,Kauai,Hawaii,15007,325,1,2,0
-2021-06-05,Maui,Hawaii,15009,4676,13,55,0
 2021-06-06,Hawaii,Hawaii,15001,3040,35,53,0
 2021-06-06,Honolulu,Hawaii,15003,27306,32,392,3
 2021-06-06,Kalawao,Hawaii,15005,1,0,0,0
@@ -508,3 +503,9 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-09-10,Kauai,Hawaii,15007,1681,43,4,0
 2021-09-10,Maui,Hawaii,15009,8551,102,78,1
 2021-09-10,Unknown,Hawaii,,0,0,2,1
+2021-09-11,Hawaii,Hawaii,15001,8788,106,65,2
+2021-09-11,Honolulu,Hawaii,15003,49778,606,500,9
+2021-09-11,Kalawao,Hawaii,15005,1,0,0,0
+2021-09-11,Kauai,Hawaii,15007,1713,32,4,0
+2021-09-11,Maui,Hawaii,15009,8636,85,79,1
+2021-09-11,Unknown,Hawaii,,0,0,2,0
