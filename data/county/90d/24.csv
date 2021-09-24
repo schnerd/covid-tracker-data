@@ -1,54 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2021-06-16,Allegany,Maryland,24001,7040,2,212,0
-2021-06-16,Anne Arundel,Maryland,24003,43918,5,658,0
-2021-06-16,Baltimore,Maryland,24005,65885,14,1669,2
-2021-06-16,Baltimore city,Maryland,24510,53068,11,1242,4
-2021-06-16,Calvert,Maryland,24009,4235,0,85,0
-2021-06-16,Caroline,Maryland,24011,2350,1,30,0
-2021-06-16,Carroll,Maryland,24013,9523,5,253,0
-2021-06-16,Cecil,Maryland,24015,6321,1,152,0
-2021-06-16,Charles,Maryland,24017,10940,2,213,0
-2021-06-16,Dorchester,Maryland,24019,2847,0,65,0
-2021-06-16,Frederick,Maryland,24021,19826,2,341,0
-2021-06-16,Garrett,Maryland,24023,2044,2,65,0
-2021-06-16,Harford,Maryland,24025,16626,2,297,0
-2021-06-16,Howard,Maryland,24027,19294,0,254,0
-2021-06-16,Kent,Maryland,24029,1353,0,51,0
-2021-06-16,Montgomery,Maryland,24031,71122,6,1619,2
-2021-06-16,Prince George's,Maryland,24033,85415,13,1589,1
-2021-06-16,Queen Anne's,Maryland,24035,3005,0,51,0
-2021-06-16,Somerset,Maryland,24039,2618,0,40,0
-2021-06-16,St. Mary's,Maryland,24037,6044,5,131,0
-2021-06-16,Talbot,Maryland,24041,2179,2,44,0
-2021-06-16,Unknown,Maryland,,0,0,26,-3
-2021-06-16,Washington,Maryland,24043,14643,3,329,0
-2021-06-16,Wicomico,Maryland,24045,7711,2,173,0
-2021-06-16,Worcester,Maryland,24047,3680,0,106,0
-2021-06-17,Allegany,Maryland,24001,7044,4,212,0
-2021-06-17,Anne Arundel,Maryland,24003,43925,7,658,0
-2021-06-17,Baltimore,Maryland,24005,65894,9,1671,2
-2021-06-17,Baltimore city,Maryland,24510,53073,5,1242,0
-2021-06-17,Calvert,Maryland,24009,4235,0,85,0
-2021-06-17,Caroline,Maryland,24011,2350,0,30,0
-2021-06-17,Carroll,Maryland,24013,9525,2,253,0
-2021-06-17,Cecil,Maryland,24015,6324,3,152,0
-2021-06-17,Charles,Maryland,24017,10942,2,213,0
-2021-06-17,Dorchester,Maryland,24019,2848,1,65,0
-2021-06-17,Frederick,Maryland,24021,19830,4,341,0
-2021-06-17,Garrett,Maryland,24023,2044,0,65,0
-2021-06-17,Harford,Maryland,24025,16632,6,297,0
-2021-06-17,Howard,Maryland,24027,19295,1,254,0
-2021-06-17,Kent,Maryland,24029,1353,0,51,0
-2021-06-17,Montgomery,Maryland,24031,71132,10,1620,1
-2021-06-17,Prince George's,Maryland,24033,85427,12,1591,2
-2021-06-17,Queen Anne's,Maryland,24035,3004,-1,51,0
-2021-06-17,Somerset,Maryland,24039,2618,0,40,0
-2021-06-17,St. Mary's,Maryland,24037,6048,4,132,1
-2021-06-17,Talbot,Maryland,24041,2180,1,44,0
-2021-06-17,Unknown,Maryland,,0,0,23,-3
-2021-06-17,Washington,Maryland,24043,14648,5,329,0
-2021-06-17,Wicomico,Maryland,24045,7711,0,173,0
-2021-06-17,Worcester,Maryland,24047,3684,4,106,0
 2021-06-18,Allegany,Maryland,24001,7045,1,212,0
 2021-06-18,Anne Arundel,Maryland,24003,43932,7,660,2
 2021-06-18,Baltimore,Maryland,24005,65901,7,1671,0
@@ -2449,3 +2399,53 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-09-21,Washington,Maryland,24043,17039,9,358,2
 2021-09-21,Wicomico,Maryland,24045,9790,43,198,1
 2021-09-21,Worcester,Maryland,24047,4528,8,112,1
+2021-09-22,Allegany,Maryland,24001,8636,22,229,1
+2021-09-22,Anne Arundel,Maryland,24003,49580,101,721,4
+2021-09-22,Baltimore,Maryland,24005,72531,151,1755,3
+2021-09-22,Baltimore city,Maryland,24510,58090,102,1301,3
+2021-09-22,Calvert,Maryland,24009,5011,16,93,2
+2021-09-22,Caroline,Maryland,24011,2771,4,39,0
+2021-09-22,Carroll,Maryland,24013,10769,26,274,0
+2021-09-22,Cecil,Maryland,24015,7674,24,164,0
+2021-09-22,Charles,Maryland,24017,13437,35,232,1
+2021-09-22,Dorchester,Maryland,24019,3696,14,72,2
+2021-09-22,Frederick,Maryland,24021,22658,36,360,0
+2021-09-22,Garrett,Maryland,24023,2562,9,69,0
+2021-09-22,Harford,Maryland,24025,18989,44,331,2
+2021-09-22,Howard,Maryland,24027,21551,26,269,0
+2021-09-22,Kent,Maryland,24029,1536,0,52,-1
+2021-09-22,Montgomery,Maryland,24031,78903,97,1670,2
+2021-09-22,Prince George's,Maryland,24033,95489,159,1662,3
+2021-09-22,Queen Anne's,Maryland,24035,3492,17,62,2
+2021-09-22,Somerset,Maryland,24039,3042,7,46,0
+2021-09-22,St. Mary's,Maryland,24037,8114,58,142,0
+2021-09-22,Talbot,Maryland,24041,2507,10,49,0
+2021-09-22,Unknown,Maryland,,0,-1,71,-2
+2021-09-22,Washington,Maryland,24043,17167,128,358,0
+2021-09-22,Wicomico,Maryland,24045,9843,53,199,1
+2021-09-22,Worcester,Maryland,24047,4535,7,112,0
+2021-09-23,Allegany,Maryland,24001,8679,43,230,1
+2021-09-23,Anne Arundel,Maryland,24003,49734,154,724,3
+2021-09-23,Baltimore,Maryland,24005,72677,146,1761,6
+2021-09-23,Baltimore city,Maryland,24510,58235,145,1305,4
+2021-09-23,Calvert,Maryland,24009,5028,17,93,0
+2021-09-23,Caroline,Maryland,24011,2797,26,39,0
+2021-09-23,Carroll,Maryland,24013,10815,46,275,1
+2021-09-23,Cecil,Maryland,24015,7708,34,164,0
+2021-09-23,Charles,Maryland,24017,13473,36,232,0
+2021-09-23,Dorchester,Maryland,24019,3700,4,73,1
+2021-09-23,Frederick,Maryland,24021,22701,43,361,1
+2021-09-23,Garrett,Maryland,24023,2572,10,70,1
+2021-09-23,Harford,Maryland,24025,19054,65,332,1
+2021-09-23,Howard,Maryland,24027,21607,56,269,0
+2021-09-23,Kent,Maryland,24029,1542,6,52,0
+2021-09-23,Montgomery,Maryland,24031,79031,128,1672,2
+2021-09-23,Prince George's,Maryland,24033,95666,177,1666,4
+2021-09-23,Queen Anne's,Maryland,24035,3508,16,63,1
+2021-09-23,Somerset,Maryland,24039,3047,5,46,0
+2021-09-23,St. Mary's,Maryland,24037,8174,60,143,1
+2021-09-23,Talbot,Maryland,24041,2518,11,49,0
+2021-09-23,Unknown,Maryland,,0,0,59,-12
+2021-09-23,Washington,Maryland,24043,17280,113,359,1
+2021-09-23,Wicomico,Maryland,24045,9889,46,199,0
+2021-09-23,Worcester,Maryland,24047,4553,18,112,0
