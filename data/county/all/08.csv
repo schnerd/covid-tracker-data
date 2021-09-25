@@ -34615,66 +34615,130 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-09-22,Weld,Colorado,08123,40948,146,387,0
 2021-09-22,Yuma,Colorado,08125,1056,4,18,0
 2021-09-23,Adams,Colorado,08001,71189,292,834,3
-2021-09-23,Alamosa,Colorado,08003,2054,0,42,0
+2021-09-23,Alamosa,Colorado,08003,2062,8,42,0
 2021-09-23,Arapahoe,Colorado,08005,74344,319,878,1
-2021-09-23,Archuleta,Colorado,08007,1334,0,3,0
-2021-09-23,Baca,Colorado,08009,384,0,5,0
-2021-09-23,Bent,Colorado,08011,1597,0,23,0
+2021-09-23,Archuleta,Colorado,08007,1338,4,3,0
+2021-09-23,Baca,Colorado,08009,385,1,5,0
+2021-09-23,Bent,Colorado,08011,1601,4,23,0
 2021-09-23,Boulder,Colorado,08013,28283,111,269,0
-2021-09-23,Broomfield,Colorado,08014,6046,0,78,0
-2021-09-23,Chaffee,Colorado,08015,2050,0,28,0
+2021-09-23,Broomfield,Colorado,08014,6064,18,78,0
+2021-09-23,Chaffee,Colorado,08015,2054,4,28,0
 2021-09-23,Cheyenne,Colorado,08017,155,0,7,0
-2021-09-23,Clear Creek,Colorado,08019,681,0,4,0
-2021-09-23,Conejos,Colorado,08021,840,0,29,0
-2021-09-23,Costilla,Colorado,08023,322,0,6,0
-2021-09-23,Crowley,Colorado,08025,2274,0,18,0
-2021-09-23,Custer,Colorado,08027,289,0,6,0
-2021-09-23,Delta,Colorado,08029,3396,0,79,0
-2021-09-23,Denver,Colorado,08031,84439,0,896,0
-2021-09-23,Dolores,Colorado,08033,169,0,1,0
+2021-09-23,Clear Creek,Colorado,08019,682,1,4,0
+2021-09-23,Conejos,Colorado,08021,847,7,29,0
+2021-09-23,Costilla,Colorado,08023,324,2,6,0
+2021-09-23,Crowley,Colorado,08025,2278,4,18,0
+2021-09-23,Custer,Colorado,08027,295,6,6,0
+2021-09-23,Delta,Colorado,08029,3402,6,79,0
+2021-09-23,Denver,Colorado,08031,84625,186,899,3
+2021-09-23,Dolores,Colorado,08033,171,2,1,0
 2021-09-23,Douglas,Colorado,08035,37271,161,285,1
-2021-09-23,Eagle,Colorado,08037,7774,0,30,0
-2021-09-23,El Paso,Colorado,08041,89321,0,988,0
-2021-09-23,Elbert,Colorado,08039,2332,0,18,0
-2021-09-23,Fremont,Colorado,08043,7260,0,72,0
-2021-09-23,Garfield,Colorado,08045,7118,0,59,0
-2021-09-23,Gilpin,Colorado,08047,385,0,3,0
-2021-09-23,Grand,Colorado,08049,1907,0,10,0
-2021-09-23,Gunnison,Colorado,08051,1697,0,8,0
-2021-09-23,Hinsdale,Colorado,08053,52,0,0,0
-2021-09-23,Huerfano,Colorado,08055,544,0,17,0
-2021-09-23,Jackson,Colorado,08057,82,0,0,0
-2021-09-23,Jefferson,Colorado,08059,57046,0,860,0
-2021-09-23,Kiowa,Colorado,08061,115,0,3,0
-2021-09-23,Kit Carson,Colorado,08063,826,0,14,0
-2021-09-23,La Plata,Colorado,08067,5103,0,50,0
-2021-09-23,Lake,Colorado,08065,949,0,1,0
-2021-09-23,Larimer,Colorado,08069,34294,0,277,0
-2021-09-23,Las Animas,Colorado,08071,1609,0,20,0
-2021-09-23,Lincoln,Colorado,08073,1192,0,6,0
-2021-09-23,Logan,Colorado,08075,4356,0,72,0
-2021-09-23,Mesa,Colorado,08077,20873,0,290,0
+2021-09-23,Eagle,Colorado,08037,7807,33,30,0
+2021-09-23,El Paso,Colorado,08041,89681,360,991,3
+2021-09-23,Elbert,Colorado,08039,2340,8,18,0
+2021-09-23,Fremont,Colorado,08043,7297,37,72,0
+2021-09-23,Garfield,Colorado,08045,7140,22,59,0
+2021-09-23,Gilpin,Colorado,08047,386,1,3,0
+2021-09-23,Grand,Colorado,08049,1924,17,10,0
+2021-09-23,Gunnison,Colorado,08051,1711,14,8,0
+2021-09-23,Hinsdale,Colorado,08053,53,1,0,0
+2021-09-23,Huerfano,Colorado,08055,547,3,17,0
+2021-09-23,Jackson,Colorado,08057,83,1,0,0
+2021-09-23,Jefferson,Colorado,08059,57195,149,859,-1
+2021-09-23,Kiowa,Colorado,08061,116,1,4,1
+2021-09-23,Kit Carson,Colorado,08063,829,3,14,0
+2021-09-23,La Plata,Colorado,08067,5132,29,50,0
+2021-09-23,Lake,Colorado,08065,950,1,1,0
+2021-09-23,Larimer,Colorado,08069,34429,135,277,0
+2021-09-23,Las Animas,Colorado,08071,1613,4,20,0
+2021-09-23,Lincoln,Colorado,08073,1194,2,6,0
+2021-09-23,Logan,Colorado,08075,4358,2,72,0
+2021-09-23,Mesa,Colorado,08077,20981,108,291,1
 2021-09-23,Mineral,Colorado,08079,109,0,1,0
-2021-09-23,Moffat,Colorado,08081,1599,0,31,0
-2021-09-23,Montezuma,Colorado,08083,2541,0,33,0
-2021-09-23,Montrose,Colorado,08085,4547,0,76,0
-2021-09-23,Morgan,Colorado,08087,3087,0,98,0
-2021-09-23,Otero,Colorado,08089,2297,0,71,0
-2021-09-23,Ouray,Colorado,08091,375,0,5,0
-2021-09-23,Park,Colorado,08093,1139,0,7,0
-2021-09-23,Phillips,Colorado,08095,461,0,14,0
-2021-09-23,Pitkin,Colorado,08097,2958,0,5,0
-2021-09-23,Prowers,Colorado,08099,1450,0,25,0
-2021-09-23,Pueblo,Colorado,08101,22084,0,451,0
-2021-09-23,Rio Blanco,Colorado,08103,827,0,8,0
-2021-09-23,Rio Grande,Colorado,08105,1143,0,21,0
-2021-09-23,Routt,Colorado,08107,3008,0,22,0
-2021-09-23,Saguache,Colorado,08109,543,0,8,0
-2021-09-23,San Juan,Colorado,08111,88,0,1,0
-2021-09-23,San Miguel,Colorado,08113,1102,0,3,0
-2021-09-23,Sedgwick,Colorado,08115,273,0,4,0
-2021-09-23,Summit,Colorado,08117,4474,0,9,0
-2021-09-23,Teller,Colorado,08119,2329,0,23,0
-2021-09-23,Washington,Colorado,08121,516,0,14,0
-2021-09-23,Weld,Colorado,08123,41072,124,387,0
-2021-09-23,Yuma,Colorado,08125,1056,0,18,0
+2021-09-23,Moffat,Colorado,08081,1607,8,31,0
+2021-09-23,Montezuma,Colorado,08083,2552,11,33,0
+2021-09-23,Montrose,Colorado,08085,4577,30,76,0
+2021-09-23,Morgan,Colorado,08087,3091,4,98,0
+2021-09-23,Otero,Colorado,08089,2301,4,71,0
+2021-09-23,Ouray,Colorado,08091,376,1,5,0
+2021-09-23,Park,Colorado,08093,1146,7,7,0
+2021-09-23,Phillips,Colorado,08095,464,3,14,0
+2021-09-23,Pitkin,Colorado,08097,2968,10,5,0
+2021-09-23,Prowers,Colorado,08099,1459,9,25,0
+2021-09-23,Pueblo,Colorado,08101,22181,97,451,0
+2021-09-23,Rio Blanco,Colorado,08103,830,3,8,0
+2021-09-23,Rio Grande,Colorado,08105,1148,5,21,0
+2021-09-23,Routt,Colorado,08107,3020,12,22,0
+2021-09-23,Saguache,Colorado,08109,550,7,8,0
+2021-09-23,San Juan,Colorado,08111,87,-1,1,0
+2021-09-23,San Miguel,Colorado,08113,1103,1,3,0
+2021-09-23,Sedgwick,Colorado,08115,274,1,4,0
+2021-09-23,Summit,Colorado,08117,4482,8,9,0
+2021-09-23,Teller,Colorado,08119,2338,9,23,0
+2021-09-23,Washington,Colorado,08121,520,4,14,0
+2021-09-23,Weld,Colorado,08123,41072,124,390,3
+2021-09-23,Yuma,Colorado,08125,1060,4,18,0
+2021-09-24,Adams,Colorado,08001,71189,0,834,0
+2021-09-24,Alamosa,Colorado,08003,2077,15,42,0
+2021-09-24,Arapahoe,Colorado,08005,74344,0,878,0
+2021-09-24,Archuleta,Colorado,08007,1347,9,3,0
+2021-09-24,Baca,Colorado,08009,387,2,5,0
+2021-09-24,Bent,Colorado,08011,1602,1,23,0
+2021-09-24,Boulder,Colorado,08013,28359,76,269,0
+2021-09-24,Broomfield,Colorado,08014,6076,12,78,0
+2021-09-24,Chaffee,Colorado,08015,2056,2,28,0
+2021-09-24,Cheyenne,Colorado,08017,155,0,7,0
+2021-09-24,Clear Creek,Colorado,08019,686,4,4,0
+2021-09-24,Conejos,Colorado,08021,848,1,29,0
+2021-09-24,Costilla,Colorado,08023,326,2,6,0
+2021-09-24,Crowley,Colorado,08025,2282,4,18,0
+2021-09-24,Custer,Colorado,08027,295,0,6,0
+2021-09-24,Delta,Colorado,08029,3413,11,79,0
+2021-09-24,Denver,Colorado,08031,84843,218,899,0
+2021-09-24,Dolores,Colorado,08033,175,4,1,0
+2021-09-24,Douglas,Colorado,08035,37271,0,285,0
+2021-09-24,Eagle,Colorado,08037,7825,18,31,1
+2021-09-24,El Paso,Colorado,08041,89984,303,991,0
+2021-09-24,Elbert,Colorado,08039,2357,17,19,1
+2021-09-24,Fremont,Colorado,08043,7318,21,72,0
+2021-09-24,Garfield,Colorado,08045,7155,15,59,0
+2021-09-24,Gilpin,Colorado,08047,389,3,3,0
+2021-09-24,Grand,Colorado,08049,1939,15,10,0
+2021-09-24,Gunnison,Colorado,08051,1716,5,8,0
+2021-09-24,Hinsdale,Colorado,08053,53,0,0,0
+2021-09-24,Huerfano,Colorado,08055,548,1,17,0
+2021-09-24,Jackson,Colorado,08057,84,1,0,0
+2021-09-24,Jefferson,Colorado,08059,57362,167,866,7
+2021-09-24,Kiowa,Colorado,08061,119,3,4,0
+2021-09-24,Kit Carson,Colorado,08063,830,1,14,0
+2021-09-24,La Plata,Colorado,08067,5165,33,50,0
+2021-09-24,Lake,Colorado,08065,953,3,1,0
+2021-09-24,Larimer,Colorado,08069,34582,153,277,0
+2021-09-24,Las Animas,Colorado,08071,1618,5,20,0
+2021-09-24,Lincoln,Colorado,08073,1194,0,6,0
+2021-09-24,Logan,Colorado,08075,4366,8,73,1
+2021-09-24,Mesa,Colorado,08077,21057,76,291,0
+2021-09-24,Mineral,Colorado,08079,109,0,1,0
+2021-09-24,Moffat,Colorado,08081,1618,11,32,1
+2021-09-24,Montezuma,Colorado,08083,2567,15,33,0
+2021-09-24,Montrose,Colorado,08085,4579,2,76,0
+2021-09-24,Morgan,Colorado,08087,3097,6,98,0
+2021-09-24,Otero,Colorado,08089,2310,9,72,1
+2021-09-24,Ouray,Colorado,08091,377,1,5,0
+2021-09-24,Park,Colorado,08093,1157,11,7,0
+2021-09-24,Phillips,Colorado,08095,466,2,14,0
+2021-09-24,Pitkin,Colorado,08097,2975,7,5,0
+2021-09-24,Prowers,Colorado,08099,1466,7,25,0
+2021-09-24,Pueblo,Colorado,08101,22255,74,453,2
+2021-09-24,Rio Blanco,Colorado,08103,835,5,8,0
+2021-09-24,Rio Grande,Colorado,08105,1160,12,20,-1
+2021-09-24,Routt,Colorado,08107,3031,11,22,0
+2021-09-24,Saguache,Colorado,08109,554,4,8,0
+2021-09-24,San Juan,Colorado,08111,87,0,1,0
+2021-09-24,San Miguel,Colorado,08113,1110,7,3,0
+2021-09-24,Sedgwick,Colorado,08115,274,0,4,0
+2021-09-24,Summit,Colorado,08117,4487,5,10,1
+2021-09-24,Teller,Colorado,08119,2357,19,23,0
+2021-09-24,Washington,Colorado,08121,520,0,14,0
+2021-09-24,Weld,Colorado,08123,41211,139,390,0
+2021-09-24,Yuma,Colorado,08125,1063,3,18,0
