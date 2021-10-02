@@ -1,43 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2021-06-25,Adams,Washington,53001,2252,5,24,0
-2021-06-25,Asotin,Washington,53003,1498,0,29,0
-2021-06-25,Benton,Washington,53005,17762,32,228,0
-2021-06-25,Chelan,Washington,53007,7109,4,72,0
-2021-06-25,Clallam,Washington,53009,1431,8,13,0
-2021-06-25,Clark,Washington,53011,25872,14,286,0
-2021-06-25,Columbia,Washington,53013,133,2,6,0
-2021-06-25,Cowlitz,Washington,53015,6633,27,91,0
-2021-06-25,Douglas,Washington,53017,3777,6,23,0
-2021-06-25,Ferry,Washington,53019,399,0,8,0
-2021-06-25,Franklin,Washington,53021,12805,10,116,0
-2021-06-25,Garfield,Washington,53023,131,1,5,0
-2021-06-25,Grant,Washington,53025,10734,0,124,0
-2021-06-25,Grays Harbor,Washington,53027,4574,0,75,0
-2021-06-25,Island,Washington,53029,1867,1,29,0
-2021-06-25,Jefferson,Washington,53031,445,1,4,0
-2021-06-25,King,Washington,53033,112293,43,1660,6
-2021-06-25,Kitsap,Washington,53035,8782,21,117,0
-2021-06-25,Kittitas,Washington,53037,3330,5,35,0
-2021-06-25,Klickitat,Washington,53039,884,6,10,0
-2021-06-25,Lewis,Washington,53041,5307,10,75,0
-2021-06-25,Lincoln,Washington,53043,672,0,11,0
-2021-06-25,Mason,Washington,53045,2933,4,34,0
-2021-06-25,Okanogan,Washington,53047,2770,7,43,0
-2021-06-25,Pacific,Washington,53049,1000,1,14,0
-2021-06-25,Pend Oreille,Washington,53051,824,0,9,0
-2021-06-25,Pierce,Washington,53053,56819,61,642,2
-2021-06-25,San Juan,Washington,53055,186,0,0,0
-2021-06-25,Skagit,Washington,53057,6033,11,76,0
-2021-06-25,Skamania,Washington,53059,390,1,1,0
-2021-06-25,Snohomish,Washington,53061,40026,42,600,1
-2021-06-25,Spokane,Washington,53063,47348,41,675,1
-2021-06-25,Stevens,Washington,53065,2381,2,31,1
-2021-06-25,Thurston,Washington,53067,10963,14,111,0
-2021-06-25,Wahkiakum,Washington,53069,156,1,1,0
-2021-06-25,Walla Walla,Washington,53071,5480,0,67,-1
-2021-06-25,Whatcom,Washington,53073,9875,12,103,0
-2021-06-25,Whitman,Washington,53075,4406,0,50,0
-2021-06-25,Yakima,Washington,53077,31700,27,451,0
 2021-06-26,Adams,Washington,53001,2258,6,24,0
 2021-06-26,Asotin,Washington,53003,1500,2,29,0
 2021-06-26,Benton,Washington,53005,17788,26,228,0
@@ -3821,3 +3782,42 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-09-30,Whatcom,Washington,53073,14606,85,134,0
 2021-09-30,Whitman,Washington,53075,5486,24,59,0
 2021-09-30,Yakima,Washington,53077,42351,245,544,8
+2021-10-01,Adams,Washington,53001,3043,20,27,0
+2021-10-01,Asotin,Washington,53003,2539,21,46,0
+2021-10-01,Benton,Washington,53005,29328,136,332,0
+2021-10-01,Chelan,Washington,53007,10325,51,98,1
+2021-10-01,Clallam,Washington,53009,4173,51,48,2
+2021-10-01,Clark,Washington,53011,37651,167,423,1
+2021-10-01,Columbia,Washington,53013,315,0,6,0
+2021-10-01,Cowlitz,Washington,53015,12221,121,192,-1
+2021-10-01,Douglas,Washington,53017,5669,34,33,0
+2021-10-01,Ferry,Washington,53019,631,10,11,0
+2021-10-01,Franklin,Washington,53021,19201,76,163,0
+2021-10-01,Garfield,Washington,53023,207,0,7,0
+2021-10-01,Grant,Washington,53025,15598,0,166,0
+2021-10-01,Grays Harbor,Washington,53027,7667,65,111,2
+2021-10-01,Island,Washington,53029,3476,30,43,0
+2021-10-01,Jefferson,Washington,53031,971,3,14,1
+2021-10-01,King,Washington,53033,152284,636,1897,8
+2021-10-01,Kitsap,Washington,53035,15105,107,199,4
+2021-10-01,Kittitas,Washington,53037,4547,28,48,0
+2021-10-01,Klickitat,Washington,53039,1664,20,15,0
+2021-10-01,Lewis,Washington,53041,9006,53,125,3
+2021-10-01,Lincoln,Washington,53043,1230,10,17,0
+2021-10-01,Mason,Washington,53045,4940,38,57,0
+2021-10-01,Okanogan,Washington,53047,4563,50,61,0
+2021-10-01,Pacific,Washington,53049,1664,3,25,0
+2021-10-01,Pend Oreille,Washington,53051,1338,15,19,0
+2021-10-01,Pierce,Washington,53053,83890,324,805,5
+2021-10-01,San Juan,Washington,53055,293,2,0,0
+2021-10-01,Skagit,Washington,53057,9579,82,99,1
+2021-10-01,Skamania,Washington,53059,661,5,4,0
+2021-10-01,Snohomish,Washington,53061,59337,286,700,2
+2021-10-01,Spokane,Washington,53063,66523,233,916,2
+2021-10-01,Stevens,Washington,53065,4375,39,74,0
+2021-10-01,Thurston,Washington,53067,18221,100,201,4
+2021-10-01,Wahkiakum,Washington,53069,251,1,5,0
+2021-10-01,Walla Walla,Washington,53071,8374,19,92,1
+2021-10-01,Whatcom,Washington,53073,14682,76,138,4
+2021-10-01,Whitman,Washington,53075,5517,31,59,0
+2021-10-01,Yakima,Washington,53077,42501,150,548,4
