@@ -1,60 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2021-08-02,Beaverhead,Montana,30001,937,0,12,0
-2021-08-02,Big Horn,Montana,30003,2610,2,76,0
-2021-08-02,Blaine,Montana,30005,848,0,24,0
-2021-08-02,Broadwater,Montana,30007,531,0,6,0
-2021-08-02,Carbon,Montana,30009,939,1,17,0
-2021-08-02,Carter,Montana,30011,151,0,5,0
-2021-08-02,Cascade,Montana,30013,9803,10,190,0
-2021-08-02,Chouteau,Montana,30015,518,0,7,0
-2021-08-02,Custer,Montana,30017,1214,0,18,0
-2021-08-02,Daniels,Montana,30019,201,1,8,0
-2021-08-02,Dawson,Montana,30021,1121,0,32,0
-2021-08-02,Deer Lodge,Montana,30023,1156,5,16,0
-2021-08-02,Fallon,Montana,30025,305,6,2,0
-2021-08-02,Fergus,Montana,30027,1156,1,31,0
-2021-08-02,Flathead,Montana,30029,13095,58,110,0
-2021-08-02,Gallatin,Montana,30031,15250,17,63,0
-2021-08-02,Garfield,Montana,30033,80,0,2,0
-2021-08-02,Glacier,Montana,30035,1556,0,44,0
-2021-08-02,Golden Valley,Montana,30037,58,0,2,0
-2021-08-02,Granite,Montana,30039,212,3,2,0
-2021-08-02,Hill,Montana,30041,2070,1,46,0
-2021-08-02,Jefferson,Montana,30043,1139,0,8,0
-2021-08-02,Judith Basin,Montana,30045,94,0,1,0
-2021-08-02,Lake,Montana,30047,2194,6,39,1
-2021-08-02,Lewis and Clark,Montana,30049,7197,37,92,0
-2021-08-02,Liberty,Montana,30051,122,0,1,0
-2021-08-02,Lincoln,Montana,30053,1726,11,19,0
-2021-08-02,Madison,Montana,30057,815,4,8,0
-2021-08-02,McCone,Montana,30055,183,0,2,0
-2021-08-02,Meagher,Montana,30059,154,1,7,0
-2021-08-02,Mineral,Montana,30061,339,1,7,2
-2021-08-02,Missoula,Montana,30063,9681,34,101,1
-2021-08-02,Musselshell,Montana,30065,377,0,14,0
-2021-08-02,Park,Montana,30067,1509,9,21,0
-2021-08-02,Petroleum,Montana,30069,12,0,1,0
-2021-08-02,Phillips,Montana,30071,533,0,16,0
-2021-08-02,Pondera,Montana,30073,517,0,3,0
-2021-08-02,Powder River,Montana,30075,160,0,8,0
-2021-08-02,Powell,Montana,30077,948,0,11,0
-2021-08-02,Prairie,Montana,30079,141,0,2,0
-2021-08-02,Ravalli,Montana,30081,3328,2,51,0
-2021-08-02,Richland,Montana,30083,1268,3,18,0
-2021-08-02,Roosevelt,Montana,30085,1679,2,55,0
-2021-08-02,Rosebud,Montana,30087,1241,0,50,0
-2021-08-02,Sanders,Montana,30089,694,3,15,0
-2021-08-02,Sheridan,Montana,30091,425,1,5,0
-2021-08-02,Silver Bow,Montana,30093,4200,14,86,0
-2021-08-02,Stillwater,Montana,30095,766,0,15,0
-2021-08-02,Sweet Grass,Montana,30097,406,0,7,0
-2021-08-02,Teton,Montana,30099,523,0,6,0
-2021-08-02,Toole,Montana,30101,758,1,11,0
-2021-08-02,Treasure,Montana,30103,55,0,1,0
-2021-08-02,Valley,Montana,30105,908,1,18,0
-2021-08-02,Wheatland,Montana,30107,184,1,8,0
-2021-08-02,Wibaux,Montana,30109,123,0,6,0
-2021-08-02,Yellowstone,Montana,30111,18536,30,282,0
 2021-08-03,Beaverhead,Montana,30001,939,2,12,0
 2021-08-03,Big Horn,Montana,30003,2611,1,76,0
 2021-08-03,Blaine,Montana,30005,849,1,24,0
@@ -5487,3 +5431,59 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-11-07,Wheatland,Montana,30107,266,0,13,0
 2021-11-07,Wibaux,Montana,30109,169,0,7,0
 2021-11-07,Yellowstone,Montana,30111,29550,0,410,0
+2021-11-08,Beaverhead,Montana,30001,1498,0,18,0
+2021-11-08,Big Horn,Montana,30003,3091,0,82,0
+2021-11-08,Blaine,Montana,30005,1339,0,27,0
+2021-11-08,Broadwater,Montana,30007,874,3,17,0
+2021-11-08,Carbon,Montana,30009,1408,8,21,0
+2021-11-08,Carter,Montana,30011,181,0,5,0
+2021-11-08,Cascade,Montana,30013,15693,65,246,0
+2021-11-08,Chouteau,Montana,30015,741,3,8,0
+2021-11-08,Custer,Montana,30017,2238,13,37,0
+2021-11-08,Daniels,Montana,30019,291,0,9,0
+2021-11-08,Dawson,Montana,30021,1690,4,47,0
+2021-11-08,Deer Lodge,Montana,30023,1622,4,25,1
+2021-11-08,Fallon,Montana,30025,478,0,6,0
+2021-11-08,Fergus,Montana,30027,1743,5,43,0
+2021-11-08,Flathead,Montana,30029,19936,143,180,0
+2021-11-08,Gallatin,Montana,30031,21210,101,88,0
+2021-11-08,Garfield,Montana,30033,146,0,3,0
+2021-11-08,Glacier,Montana,30035,2268,20,55,0
+2021-11-08,Golden Valley,Montana,30037,110,0,4,0
+2021-11-08,Granite,Montana,30039,401,1,5,0
+2021-11-08,Hill,Montana,30041,3304,15,64,0
+2021-11-08,Jefferson,Montana,30043,1767,5,13,0
+2021-11-08,Judith Basin,Montana,30045,157,2,1,0
+2021-11-08,Lake,Montana,30047,4325,12,68,0
+2021-11-08,Lewis and Clark,Montana,30049,11607,137,118,0
+2021-11-08,Liberty,Montana,30051,261,0,2,0
+2021-11-08,Lincoln,Montana,30053,3400,9,56,0
+2021-11-08,Madison,Montana,30057,1333,13,13,2
+2021-11-08,McCone,Montana,30055,277,1,3,0
+2021-11-08,Meagher,Montana,30059,263,2,8,0
+2021-11-08,Mineral,Montana,30061,718,1,13,0
+2021-11-08,Missoula,Montana,30063,16727,90,165,1
+2021-11-08,Musselshell,Montana,30065,647,1,18,0
+2021-11-08,Park,Montana,30067,2542,37,29,0
+2021-11-08,Petroleum,Montana,30069,19,0,1,0
+2021-11-08,Phillips,Montana,30071,825,0,24,0
+2021-11-08,Pondera,Montana,30073,791,2,6,0
+2021-11-08,Powder River,Montana,30075,280,0,10,0
+2021-11-08,Powell,Montana,30077,1399,7,21,0
+2021-11-08,Prairie,Montana,30079,164,0,2,0
+2021-11-08,Ravalli,Montana,30081,5190,45,67,1
+2021-11-08,Richland,Montana,30083,1816,0,21,0
+2021-11-08,Roosevelt,Montana,30085,2112,31,59,0
+2021-11-08,Rosebud,Montana,30087,1680,3,56,0
+2021-11-08,Sanders,Montana,30089,1445,12,25,0
+2021-11-08,Sheridan,Montana,30091,518,1,8,0
+2021-11-08,Silver Bow,Montana,30093,5945,12,103,0
+2021-11-08,Stillwater,Montana,30095,1189,0,27,0
+2021-11-08,Sweet Grass,Montana,30097,570,2,8,0
+2021-11-08,Teton,Montana,30099,871,2,13,0
+2021-11-08,Toole,Montana,30101,986,0,16,0
+2021-11-08,Treasure,Montana,30103,95,0,1,0
+2021-11-08,Valley,Montana,30105,1298,3,27,0
+2021-11-08,Wheatland,Montana,30107,266,0,13,0
+2021-11-08,Wibaux,Montana,30109,169,0,7,0
+2021-11-08,Yellowstone,Montana,30111,29634,84,412,2
