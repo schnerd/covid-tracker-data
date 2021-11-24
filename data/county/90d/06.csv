@@ -1,62 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2021-08-17,Alameda,California,06001,104448,392,1305,3
-2021-08-17,Alpine,California,06003,91,0,0,0
-2021-08-17,Amador,California,06005,4270,4,50,1
-2021-08-17,Butte,California,06007,16421,20,206,0
-2021-08-17,Calaveras,California,06009,2627,10,58,0
-2021-08-17,Colusa,California,06011,2513,7,18,0
-2021-08-17,Contra Costa,California,06013,83655,289,848,0
-2021-08-17,Del Norte,California,06015,2275,35,14,1
-2021-08-17,El Dorado,California,06017,13095,82,122,0
-2021-08-17,Fresno,California,06019,119301,241,1753,0
-2021-08-17,Glenn,California,06021,3203,1,27,0
-2021-08-17,Humboldt,California,06023,6252,52,59,0
-2021-08-17,Imperial,California,06025,32655,26,745,0
-2021-08-17,Inyo,California,06027,1509,11,39,0
-2021-08-17,Kern,California,06029,118360,335,1436,0
-2021-08-17,Kings,California,06031,26140,81,256,0
-2021-08-17,Lake,California,06033,4911,12,68,0
-2021-08-17,Lassen,California,06035,6080,65,26,0
-2021-08-17,Los Angeles,California,06037,1356392,2907,24935,17
-2021-08-17,Madera,California,06039,18817,42,249,0
-2021-08-17,Marin,California,06041,15800,36,239,0
-2021-08-17,Mariposa,California,06043,673,11,8,1
-2021-08-17,Mendocino,California,06045,5332,65,55,1
-2021-08-17,Merced,California,06047,34558,0,492,0
-2021-08-17,Modoc,California,06049,581,0,7,0
-2021-08-17,Mono,California,06051,1377,14,5,0
-2021-08-17,Monterey,California,06053,46669,28,531,1
-2021-08-17,Napa,California,06055,11000,27,83,0
-2021-08-17,Nevada,California,06057,6752,49,77,0
-2021-08-17,Orange,California,06059,295885,762,5161,0
-2021-08-17,Placer,California,06061,29417,164,312,4
-2021-08-17,Plumas,California,06063,866,1,6,0
-2021-08-17,Riverside,California,06065,330342,641,4686,0
-2021-08-17,Sacramento,California,06067,126983,630,1822,7
-2021-08-17,San Benito,California,06069,6573,6,64,0
-2021-08-17,San Bernardino,California,06071,323362,497,5301,0
-2021-08-17,San Diego,California,06073,332183,1101,3824,0
-2021-08-17,San Francisco,California,06075,46442,150,567,0
-2021-08-17,San Joaquin,California,06077,85307,255,1488,-3
-2021-08-17,San Luis Obispo,California,06079,24323,48,273,2
-2021-08-17,San Mateo,California,06081,47650,127,592,0
-2021-08-17,Santa Barbara,California,06083,38784,82,475,0
-2021-08-17,Santa Clara,California,06085,128903,263,1774,0
-2021-08-17,Santa Cruz,California,06087,18378,51,209,0
-2021-08-17,Shasta,California,06089,15882,27,247,3
-2021-08-17,Sierra,California,06091,96,0,0,0
-2021-08-17,Siskiyou,California,06093,2876,54,40,0
-2021-08-17,Solano,California,06095,38205,116,263,0
-2021-08-17,Sonoma,California,06097,35264,138,338,0
-2021-08-17,Stanislaus,California,06099,69910,365,1109,1
-2021-08-17,Sutter,California,06101,11061,47,130,0
-2021-08-17,Tehama,California,06103,6243,15,66,0
-2021-08-17,Trinity,California,06105,476,0,3,0
-2021-08-17,Tulare,California,06107,62510,116,856,0
-2021-08-17,Tuolumne,California,06109,5192,44,82,4
-2021-08-17,Ventura,California,06111,90691,157,1052,0
-2021-08-17,Yolo,California,06113,16448,49,225,0
-2021-08-17,Yuba,California,06115,7737,153,51,0
 2021-08-18,Alameda,California,06001,104775,327,1309,4
 2021-08-18,Alpine,California,06003,91,0,0,0
 2021-08-18,Amador,California,06005,4301,31,50,0
@@ -5683,3 +5625,61 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2021-11-22,Ventura,California,06111,103564,188,1186,0
 2021-11-22,Yolo,California,06113,21423,70,257,0
 2021-11-22,Yuba,California,06115,11117,48,88,0
+2021-11-23,Alameda,California,06001,124627,123,1491,2
+2021-11-23,Alpine,California,06003,106,0,0,0
+2021-11-23,Amador,California,06005,5736,8,66,0
+2021-11-23,Butte,California,06007,25274,21,305,-1
+2021-11-23,Calaveras,California,06009,4356,7,84,0
+2021-11-23,Colusa,California,06011,3232,3,19,0
+2021-11-23,Contra Costa,California,06013,103208,70,1045,0
+2021-11-23,Del Norte,California,06015,3809,5,42,0
+2021-11-23,El Dorado,California,06017,18145,8,161,0
+2021-11-23,Fresno,California,06019,155803,87,2243,1
+2021-11-23,Glenn,California,06021,4549,1,51,3
+2021-11-23,Humboldt,California,06023,10033,11,117,0
+2021-11-23,Imperial,California,06025,38079,35,765,0
+2021-11-23,Inyo,California,06027,2538,0,44,0
+2021-11-23,Kern,California,06029,156264,274,1769,5
+2021-11-23,Kings,California,06031,35014,24,359,0
+2021-11-23,Lake,California,06033,6991,3,110,0
+2021-11-23,Lassen,California,06035,7912,4,54,0
+2021-11-23,Los Angeles,California,06037,1521901,693,27046,29
+2021-11-23,Madera,California,06039,25997,16,300,0
+2021-11-23,Marin,California,06041,18327,13,248,0
+2021-11-23,Mariposa,California,06043,1565,3,17,0
+2021-11-23,Mendocino,California,06045,8476,13,94,0
+2021-11-23,Merced,California,06047,45164,40,666,4
+2021-11-23,Modoc,California,06049,1017,21,9,0
+2021-11-23,Mono,California,06051,1828,10,5,0
+2021-11-23,Monterey,California,06053,52314,16,631,16
+2021-11-23,Napa,California,06055,13372,5,104,0
+2021-11-23,Nevada,California,06057,9905,19,96,0
+2021-11-23,Orange,California,06059,332770,151,5666,2
+2021-11-23,Placer,California,06061,41836,27,465,0
+2021-11-23,Plumas,California,06063,1910,0,7,0
+2021-11-23,Riverside,California,06065,384645,208,5395,23
+2021-11-23,Sacramento,California,06067,167293,135,2422,7
+2021-11-23,San Benito,California,06069,7751,4,77,0
+2021-11-23,San Bernardino,California,06071,371700,230,5926,14
+2021-11-23,San Diego,California,06073,404269,1385,4317,0
+2021-11-23,San Francisco,California,06075,56565,37,669,0
+2021-11-23,San Joaquin,California,06077,106931,35,1837,0
+2021-11-23,San Luis Obispo,California,06079,31274,15,358,0
+2021-11-23,San Mateo,California,06081,56028,40,627,0
+2021-11-23,Santa Barbara,California,06083,46996,42,546,0
+2021-11-23,Santa Clara,California,06085,151010,154,1920,1
+2021-11-23,Santa Cruz,California,06087,21990,25,222,0
+2021-11-23,Shasta,California,06089,25882,4,440,1
+2021-11-23,Sierra,California,06091,216,0,0,0
+2021-11-23,Siskiyou,California,06093,4857,7,70,1
+2021-11-23,Solano,California,06095,47417,0,356,0
+2021-11-23,Sonoma,California,06097,42888,46,412,0
+2021-11-23,Stanislaus,California,06099,90969,335,1412,6
+2021-11-23,Sutter,California,06101,14492,14,181,0
+2021-11-23,Tehama,California,06103,10224,0,127,0
+2021-11-23,Trinity,California,06105,985,1,17,0
+2021-11-23,Tulare,California,06107,85551,29,1075,0
+2021-11-23,Tuolumne,California,06109,7795,15,141,1
+2021-11-23,Ventura,California,06111,103597,33,1186,0
+2021-11-23,Yolo,California,06113,21441,18,257,0
+2021-11-23,Yuba,California,06115,11135,18,88,0
