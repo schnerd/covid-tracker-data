@@ -1,13 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2021-12-23,Fairfield,Connecticut,09001,128883,1184,2344,0
-2021-12-23,Hartford,Connecticut,09003,115690,653,2663,0
-2021-12-23,Litchfield,Connecticut,09005,21230,148,363,0
-2021-12-23,Middlesex,Connecticut,09007,17846,132,410,0
-2021-12-23,New Haven,Connecticut,09009,124326,1026,2325,0
-2021-12-23,New London,Connecticut,09011,34077,128,520,0
-2021-12-23,Tolland,Connecticut,09013,13790,60,208,0
-2021-12-23,Unknown,Connecticut,,1717,14,2,0
-2021-12-23,Windham,Connecticut,09015,16998,71,242,-1
 2021-12-24,Fairfield,Connecticut,09001,128883,0,2344,0
 2021-12-24,Hartford,Connecticut,09003,115690,0,2663,0
 2021-12-24,Litchfield,Connecticut,09005,21230,0,363,0
@@ -881,3 +872,12 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2022-03-30,Tolland,Connecticut,09013,20419,17,269,0
 2022-03-30,Unknown,Connecticut,,2872,7,10,0
 2022-03-30,Windham,Connecticut,09015,25584,7,300,0
+2022-03-31,Fairfield,Connecticut,09001,202152,415,2693,0
+2022-03-31,Hartford,Connecticut,09003,176654,110,3120,1
+2022-03-31,Litchfield,Connecticut,09005,31625,13,454,0
+2022-03-31,Middlesex,Connecticut,09007,27963,27,479,1
+2022-03-31,New Haven,Connecticut,09009,194892,106,2806,1
+2022-03-31,New London,Connecticut,09011,54580,37,653,2
+2022-03-31,Tolland,Connecticut,09013,20439,20,270,1
+2022-03-31,Unknown,Connecticut,,2868,-4,1,-9
+2022-03-31,Windham,Connecticut,09015,25602,18,300,0
