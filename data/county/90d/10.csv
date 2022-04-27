@@ -1,8 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2022-01-18,Kent,Delaware,10001,43674,130,522,0
-2022-01-18,New Castle,Delaware,10003,132118,773,1177,0
-2022-01-18,Sussex,Delaware,10005,54224,213,725,0
-2022-01-18,Unknown,Delaware,,860,1,0,0
 2022-01-19,Kent,Delaware,10001,43874,200,522,0
 2022-01-19,New Castle,Delaware,10003,132866,748,1186,9
 2022-01-19,Sussex,Delaware,10005,54531,307,732,7
@@ -391,3 +387,7 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2022-04-25,New Castle,Delaware,10003,148107,148,1412,0
 2022-04-25,Sussex,Delaware,10005,61940,60,848,0
 2022-04-25,Unknown,Delaware,,861,3,0,0
+2022-04-26,Kent,Delaware,10001,50752,0,645,0
+2022-04-26,New Castle,Delaware,10003,148107,0,1412,0
+2022-04-26,Sussex,Delaware,10005,61940,0,848,0
+2022-04-26,Unknown,Delaware,,861,0,0,0
