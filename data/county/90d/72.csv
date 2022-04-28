@@ -1,83 +1,4 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
-2022-01-19,Adjuntas,Puerto Rico,72001,1842,39,,0
-2022-01-19,Aguada,Puerto Rico,72003,5378,61,,0
-2022-01-19,Aguadilla,Puerto Rico,72005,6186,94,,0
-2022-01-19,Aguas Buenas,Puerto Rico,72007,3482,32,,0
-2022-01-19,Aibonito,Puerto Rico,72009,3022,60,,0
-2022-01-19,Anasco,Puerto Rico,72011,2976,26,,0
-2022-01-19,Arecibo,Puerto Rico,72013,10756,106,,0
-2022-01-19,Arroyo,Puerto Rico,72015,1528,9,,0
-2022-01-19,Barceloneta,Puerto Rico,72017,2702,18,,0
-2022-01-19,Barranquitas,Puerto Rico,72019,4098,29,,0
-2022-01-19,Bayamon,Puerto Rico,72021,30386,279,,0
-2022-01-19,Cabo Rojo,Puerto Rico,72023,4467,80,,0
-2022-01-19,Caguas,Puerto Rico,72025,19227,110,,0
-2022-01-19,Camuy,Puerto Rico,72027,3951,37,,0
-2022-01-19,Canovanas,Puerto Rico,72029,5783,21,,0
-2022-01-19,Carolina,Puerto Rico,72031,24891,102,,0
-2022-01-19,Catano,Puerto Rico,72033,3730,16,,0
-2022-01-19,Cayey,Puerto Rico,72035,5095,78,,0
-2022-01-19,Ceiba,Puerto Rico,72037,1201,17,,0
-2022-01-19,Ciales,Puerto Rico,72039,2171,22,,0
-2022-01-19,Cidra,Puerto Rico,72041,4856,37,,0
-2022-01-19,Coamo,Puerto Rico,72043,3816,57,,0
-2022-01-19,Comerio,Puerto Rico,72045,2450,46,,0
-2022-01-19,Corozal,Puerto Rico,72047,5449,29,,0
-2022-01-19,Culebra,Puerto Rico,72049,158,2,,0
-2022-01-19,Dorado,Puerto Rico,72051,5968,22,,0
-2022-01-19,Fajardo,Puerto Rico,72053,3985,35,,0
-2022-01-19,Florida,Puerto Rico,72054,2062,19,,0
-2022-01-19,Guanica,Puerto Rico,72055,1218,17,,0
-2022-01-19,Guayama,Puerto Rico,72057,3917,19,,0
-2022-01-19,Guayanilla,Puerto Rico,72059,1627,31,,0
-2022-01-19,Guaynabo,Puerto Rico,72061,13510,111,,0
-2022-01-19,Gurabo,Puerto Rico,72063,6332,39,,0
-2022-01-19,Hatillo,Puerto Rico,72065,4308,37,,0
-2022-01-19,Hormigueros,Puerto Rico,72067,1567,12,,0
-2022-01-19,Humacao,Puerto Rico,72069,6783,45,,0
-2022-01-19,Isabela,Puerto Rico,72071,5553,119,,0
-2022-01-19,Jayuya,Puerto Rico,72073,1768,32,,0
-2022-01-19,Juana Diaz,Puerto Rico,72075,4877,112,,0
-2022-01-19,Juncos,Puerto Rico,72077,5523,32,,0
-2022-01-19,Lajas,Puerto Rico,72079,2056,30,,0
-2022-01-19,Lares,Puerto Rico,72081,3145,19,,0
-2022-01-19,Las Marias,Puerto Rico,72083,912,14,,0
-2022-01-19,Las Piedras,Puerto Rico,72085,4585,29,,0
-2022-01-19,Loiza,Puerto Rico,72087,2809,9,,0
-2022-01-19,Luquillo,Puerto Rico,72089,2191,14,,0
-2022-01-19,Manati,Puerto Rico,72091,5099,41,,0
-2022-01-19,Maricao,Puerto Rico,72093,441,9,,0
-2022-01-19,Maunabo,Puerto Rico,72095,1179,18,,0
-2022-01-19,Mayaguez,Puerto Rico,72097,8459,101,,0
-2022-01-19,Moca,Puerto Rico,72099,5015,57,,0
-2022-01-19,Morovis,Puerto Rico,72101,3886,28,,0
-2022-01-19,Naguabo,Puerto Rico,72103,2825,36,,0
-2022-01-19,Naranjito,Puerto Rico,72105,4519,19,,0
-2022-01-19,Orocovis,Puerto Rico,72107,2383,22,,0
-2022-01-19,Patillas,Puerto Rico,72109,1723,6,,0
-2022-01-19,Penuelas,Puerto Rico,72111,1854,36,,0
-2022-01-19,Ponce,Puerto Rico,72113,14642,145,,0
-2022-01-19,Quebradillas,Puerto Rico,72115,2993,48,,0
-2022-01-19,Rincon,Puerto Rico,72117,1912,45,,0
-2022-01-19,Rio Grande,Puerto Rico,72119,6655,38,,0
-2022-01-19,Sabana Grande,Puerto Rico,72121,1921,54,,0
-2022-01-19,Salinas,Puerto Rico,72123,2962,111,,0
-2022-01-19,San German,Puerto Rico,72125,3025,46,,0
-2022-01-19,San Juan,Puerto Rico,72127,55134,271,,0
-2022-01-19,San Lorenzo,Puerto Rico,72129,4735,75,,0
-2022-01-19,San Sebastian,Puerto Rico,72131,5433,70,,0
-2022-01-19,Santa Isabel,Puerto Rico,72133,2166,44,,0
-2022-01-19,Toa Alta,Puerto Rico,72135,10746,51,,0
-2022-01-19,Toa Baja,Puerto Rico,72137,11433,112,,0
-2022-01-19,Trujillo Alto,Puerto Rico,72139,8755,32,,0
-2022-01-19,Unknown,Puerto Rico,,14849,236,3563,21
-2022-01-19,Utuado,Puerto Rico,72141,2840,35,,0
-2022-01-19,Vega Alta,Puerto Rico,72143,5408,40,,0
-2022-01-19,Vega Baja,Puerto Rico,72145,8995,53,,0
-2022-01-19,Vieques,Puerto Rico,72147,596,16,,0
-2022-01-19,Villalba,Puerto Rico,72149,2648,95,,0
-2022-01-19,Yabucoa,Puerto Rico,72151,3697,44,,0
-2022-01-19,Yauco,Puerto Rico,72153,3611,67,,0
 2022-01-20,Adjuntas,Puerto Rico,72001,1855,13,,0
 2022-01-20,Aguada,Puerto Rico,72003,5427,49,,0
 2022-01-20,Aguadilla,Puerto Rico,72005,6250,64,,0
@@ -7741,3 +7662,82 @@ date,county,state,fips,cases,newCases,deaths,newDeaths
 2022-04-26,Villalba,Puerto Rico,72149,3282,11,,0
 2022-04-26,Yabucoa,Puerto Rico,72151,4665,9,,0
 2022-04-26,Yauco,Puerto Rico,72153,4548,2,,0
+2022-04-27,Adjuntas,Puerto Rico,72001,2394,11,,0
+2022-04-27,Aguada,Puerto Rico,72003,6647,59,,0
+2022-04-27,Aguadilla,Puerto Rico,72005,7593,45,,0
+2022-04-27,Aguas Buenas,Puerto Rico,72007,4172,26,,0
+2022-04-27,Aibonito,Puerto Rico,72009,3847,33,,0
+2022-04-27,Anasco,Puerto Rico,72011,3833,13,,0
+2022-04-27,Arecibo,Puerto Rico,72013,13551,105,,0
+2022-04-27,Arroyo,Puerto Rico,72015,2133,8,,0
+2022-04-27,Barceloneta,Puerto Rico,72017,3536,19,,0
+2022-04-27,Barranquitas,Puerto Rico,72019,4985,18,,0
+2022-04-27,Bayamon,Puerto Rico,72021,35804,134,,0
+2022-04-27,Cabo Rojo,Puerto Rico,72023,5534,53,,0
+2022-04-27,Caguas,Puerto Rico,72025,22652,97,,0
+2022-04-27,Camuy,Puerto Rico,72027,5279,27,,0
+2022-04-27,Canovanas,Puerto Rico,72029,6747,18,,0
+2022-04-27,Carolina,Puerto Rico,72031,29519,119,,0
+2022-04-27,Catano,Puerto Rico,72033,4361,16,,0
+2022-04-27,Cayey,Puerto Rico,72035,6335,38,,0
+2022-04-27,Ceiba,Puerto Rico,72037,1470,8,,0
+2022-04-27,Ciales,Puerto Rico,72039,2746,14,,0
+2022-04-27,Cidra,Puerto Rico,72041,6088,58,,0
+2022-04-27,Coamo,Puerto Rico,72043,5077,59,,0
+2022-04-27,Comerio,Puerto Rico,72045,2976,25,,0
+2022-04-27,Corozal,Puerto Rico,72047,6562,24,,0
+2022-04-27,Culebra,Puerto Rico,72049,188,0,,0
+2022-04-27,Dorado,Puerto Rico,72051,7097,13,,0
+2022-04-27,Fajardo,Puerto Rico,72053,4855,17,,0
+2022-04-27,Florida,Puerto Rico,72054,2610,13,,0
+2022-04-27,Guanica,Puerto Rico,72055,1549,11,,0
+2022-04-27,Guayama,Puerto Rico,72057,5212,25,,0
+2022-04-27,Guayanilla,Puerto Rico,72059,2259,14,,0
+2022-04-27,Guaynabo,Puerto Rico,72061,16520,57,,0
+2022-04-27,Gurabo,Puerto Rico,72063,7679,27,,0
+2022-04-27,Hatillo,Puerto Rico,72065,5524,20,,0
+2022-04-27,Hormigueros,Puerto Rico,72067,2086,19,,0
+2022-04-27,Humacao,Puerto Rico,72069,8161,47,,0
+2022-04-27,Isabela,Puerto Rico,72071,6905,40,,0
+2022-04-27,Jayuya,Puerto Rico,72073,2316,38,,0
+2022-04-27,Juana Diaz,Puerto Rico,72075,6495,84,,0
+2022-04-27,Juncos,Puerto Rico,72077,6531,12,,0
+2022-04-27,Lajas,Puerto Rico,72079,2721,42,,0
+2022-04-27,Lares,Puerto Rico,72081,4123,27,,0
+2022-04-27,Las Marias,Puerto Rico,72083,1136,2,,0
+2022-04-27,Las Piedras,Puerto Rico,72085,5688,23,,0
+2022-04-27,Loiza,Puerto Rico,72087,3492,9,,0
+2022-04-27,Luquillo,Puerto Rico,72089,2619,22,,0
+2022-04-27,Manati,Puerto Rico,72091,6460,39,,0
+2022-04-27,Maricao,Puerto Rico,72093,589,1,,0
+2022-04-27,Maunabo,Puerto Rico,72095,1441,7,,0
+2022-04-27,Mayaguez,Puerto Rico,72097,10273,52,,0
+2022-04-27,Moca,Puerto Rico,72099,6331,37,,0
+2022-04-27,Morovis,Puerto Rico,72101,5094,23,,0
+2022-04-27,Naguabo,Puerto Rico,72103,3532,16,,0
+2022-04-27,Naranjito,Puerto Rico,72105,5293,24,,0
+2022-04-27,Orocovis,Puerto Rico,72107,3059,29,,0
+2022-04-27,Patillas,Puerto Rico,72109,2273,14,,0
+2022-04-27,Penuelas,Puerto Rico,72111,2401,26,,0
+2022-04-27,Ponce,Puerto Rico,72113,19110,100,,0
+2022-04-27,Quebradillas,Puerto Rico,72115,4173,23,,0
+2022-04-27,Rincon,Puerto Rico,72117,2307,10,,0
+2022-04-27,Rio Grande,Puerto Rico,72119,7784,33,,0
+2022-04-27,Sabana Grande,Puerto Rico,72121,2463,45,,0
+2022-04-27,Salinas,Puerto Rico,72123,3785,38,,0
+2022-04-27,San German,Puerto Rico,72125,3901,56,,0
+2022-04-27,San Juan,Puerto Rico,72127,62705,154,,0
+2022-04-27,San Lorenzo,Puerto Rico,72129,5665,30,,0
+2022-04-27,San Sebastian,Puerto Rico,72131,6455,34,,0
+2022-04-27,Santa Isabel,Puerto Rico,72133,2804,58,,0
+2022-04-27,Toa Alta,Puerto Rico,72135,12524,40,,0
+2022-04-27,Toa Baja,Puerto Rico,72137,13497,69,,0
+2022-04-27,Trujillo Alto,Puerto Rico,72139,10490,47,,0
+2022-04-27,Unknown,Puerto Rico,,17769,117,4195,3
+2022-04-27,Utuado,Puerto Rico,72141,3563,16,,0
+2022-04-27,Vega Alta,Puerto Rico,72143,6447,12,,0
+2022-04-27,Vega Baja,Puerto Rico,72145,10812,27,,0
+2022-04-27,Vieques,Puerto Rico,72147,801,10,,0
+2022-04-27,Villalba,Puerto Rico,72149,3346,64,,0
+2022-04-27,Yabucoa,Puerto Rico,72151,4690,25,,0
+2022-04-27,Yauco,Puerto Rico,72153,4597,49,,0
