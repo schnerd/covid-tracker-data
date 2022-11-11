@@ -8,9 +8,9 @@ on:
     # Disable workflow for now
     # branches: [ master ]
     branches: [ never ]
-  schedule:
-    # Run every 20 minutes
-    - cron: '*/20 * * * *'
+  # schedule:
+  #   # Run every 20 minutes
+  #   - cron: '*/20 * * * *'
 
 jobs:
   build:
