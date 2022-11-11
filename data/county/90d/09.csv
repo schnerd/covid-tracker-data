@@ -1,1 +1,883 @@
 date,county,state,fips,cases,newCases,deaths,newDeaths
+2022-02-05,Fairfield,Connecticut,09001,194725,0,2580,0
+2022-02-05,Hartford,Connecticut,09003,170896,0,2919,0
+2022-02-05,Litchfield,Connecticut,09005,30248,0,425,0
+2022-02-05,Middlesex,Connecticut,09007,26255,0,460,0
+2022-02-05,New Haven,Connecticut,09009,185076,0,2640,0
+2022-02-05,New London,Connecticut,09011,51909,0,600,0
+2022-02-05,Tolland,Connecticut,09013,19537,0,254,0
+2022-02-05,Unknown,Connecticut,,2704,0,1,0
+2022-02-05,Windham,Connecticut,09015,24790,0,280,0
+2022-02-06,Fairfield,Connecticut,09001,194725,0,2580,0
+2022-02-06,Hartford,Connecticut,09003,170896,0,2919,0
+2022-02-06,Litchfield,Connecticut,09005,30248,0,425,0
+2022-02-06,Middlesex,Connecticut,09007,26255,0,460,0
+2022-02-06,New Haven,Connecticut,09009,185076,0,2640,0
+2022-02-06,New London,Connecticut,09011,51909,0,600,0
+2022-02-06,Tolland,Connecticut,09013,19537,0,254,0
+2022-02-06,Unknown,Connecticut,,2704,0,1,0
+2022-02-06,Windham,Connecticut,09015,24790,0,280,0
+2022-02-07,Fairfield,Connecticut,09001,195214,489,2581,1
+2022-02-07,Hartford,Connecticut,09003,171352,456,2919,0
+2022-02-07,Litchfield,Connecticut,09005,30349,101,425,0
+2022-02-07,Middlesex,Connecticut,09007,26349,94,461,1
+2022-02-07,New Haven,Connecticut,09009,185705,629,2639,-1
+2022-02-07,New London,Connecticut,09011,52125,216,600,0
+2022-02-07,Tolland,Connecticut,09013,19591,54,254,0
+2022-02-07,Unknown,Connecticut,,2713,9,0,-1
+2022-02-07,Windham,Connecticut,09015,24880,90,280,0
+2022-02-08,Fairfield,Connecticut,09001,195518,304,2581,0
+2022-02-08,Hartford,Connecticut,09003,171694,342,2918,-1
+2022-02-08,Litchfield,Connecticut,09005,30411,62,425,0
+2022-02-08,Middlesex,Connecticut,09007,26408,59,461,0
+2022-02-08,New Haven,Connecticut,09009,186006,301,2639,0
+2022-02-08,New London,Connecticut,09011,52274,149,600,0
+2022-02-08,Tolland,Connecticut,09013,19647,56,254,0
+2022-02-08,Unknown,Connecticut,,2720,7,0,0
+2022-02-08,Windham,Connecticut,09015,24943,63,280,0
+2022-02-09,Fairfield,Connecticut,09001,195800,282,2592,11
+2022-02-09,Hartford,Connecticut,09003,171920,226,2938,20
+2022-02-09,Litchfield,Connecticut,09005,30474,63,426,1
+2022-02-09,Middlesex,Connecticut,09007,26464,56,461,0
+2022-02-09,New Haven,Connecticut,09009,186255,249,2653,14
+2022-02-09,New London,Connecticut,09011,52357,83,605,5
+2022-02-09,Tolland,Connecticut,09013,19690,43,257,3
+2022-02-09,Unknown,Connecticut,,2735,15,1,1
+2022-02-09,Windham,Connecticut,09015,24974,31,281,1
+2022-02-10,Fairfield,Connecticut,09001,196035,235,2593,1
+2022-02-10,Hartford,Connecticut,09003,172170,250,2939,1
+2022-02-10,Litchfield,Connecticut,09005,30525,51,426,0
+2022-02-10,Middlesex,Connecticut,09007,26527,63,461,0
+2022-02-10,New Haven,Connecticut,09009,186504,249,2654,1
+2022-02-10,New London,Connecticut,09011,52453,96,607,2
+2022-02-10,Tolland,Connecticut,09013,19722,32,257,0
+2022-02-10,Unknown,Connecticut,,2733,-2,0,-1
+2022-02-10,Windham,Connecticut,09015,25026,52,282,1
+2022-02-11,Fairfield,Connecticut,09001,196221,186,2603,10
+2022-02-11,Hartford,Connecticut,09003,172440,270,2951,12
+2022-02-11,Litchfield,Connecticut,09005,30562,37,430,4
+2022-02-11,Middlesex,Connecticut,09007,26639,112,462,1
+2022-02-11,New Haven,Connecticut,09009,186894,390,2664,10
+2022-02-11,New London,Connecticut,09011,52549,96,610,3
+2022-02-11,Tolland,Connecticut,09013,19770,48,257,0
+2022-02-11,Unknown,Connecticut,,2739,6,0,0
+2022-02-11,Windham,Connecticut,09015,25070,44,283,1
+2022-02-12,Fairfield,Connecticut,09001,196221,0,2603,0
+2022-02-12,Hartford,Connecticut,09003,172440,0,2951,0
+2022-02-12,Litchfield,Connecticut,09005,30562,0,430,0
+2022-02-12,Middlesex,Connecticut,09007,26639,0,462,0
+2022-02-12,New Haven,Connecticut,09009,186894,0,2664,0
+2022-02-12,New London,Connecticut,09011,52549,0,610,0
+2022-02-12,Tolland,Connecticut,09013,19770,0,257,0
+2022-02-12,Unknown,Connecticut,,2739,0,0,0
+2022-02-12,Windham,Connecticut,09015,25070,0,283,0
+2022-02-13,Fairfield,Connecticut,09001,196221,0,2603,0
+2022-02-13,Hartford,Connecticut,09003,172440,0,2951,0
+2022-02-13,Litchfield,Connecticut,09005,30562,0,430,0
+2022-02-13,Middlesex,Connecticut,09007,26639,0,462,0
+2022-02-13,New Haven,Connecticut,09009,186894,0,2664,0
+2022-02-13,New London,Connecticut,09011,52549,0,610,0
+2022-02-13,Tolland,Connecticut,09013,19770,0,257,0
+2022-02-13,Unknown,Connecticut,,2739,0,0,0
+2022-02-13,Windham,Connecticut,09015,25070,0,283,0
+2022-02-14,Fairfield,Connecticut,09001,196644,423,2603,0
+2022-02-14,Hartford,Connecticut,09003,172735,295,2951,0
+2022-02-14,Litchfield,Connecticut,09005,30623,61,430,0
+2022-02-14,Middlesex,Connecticut,09007,26736,97,462,0
+2022-02-14,New Haven,Connecticut,09009,187271,377,2664,0
+2022-02-14,New London,Connecticut,09011,52670,121,610,0
+2022-02-14,Tolland,Connecticut,09013,19832,62,257,0
+2022-02-14,Unknown,Connecticut,,2750,11,0,0
+2022-02-14,Windham,Connecticut,09015,25147,77,283,0
+2022-02-15,Fairfield,Connecticut,09001,196835,191,2609,6
+2022-02-15,Hartford,Connecticut,09003,172975,240,2972,21
+2022-02-15,Litchfield,Connecticut,09005,30746,123,432,2
+2022-02-15,Middlesex,Connecticut,09007,26765,29,463,1
+2022-02-15,New Haven,Connecticut,09009,187827,556,2688,24
+2022-02-15,New London,Connecticut,09011,52748,78,613,3
+2022-02-15,Tolland,Connecticut,09013,19863,31,258,1
+2022-02-15,Unknown,Connecticut,,2754,4,0,0
+2022-02-15,Windham,Connecticut,09015,25179,32,285,2
+2022-02-16,Fairfield,Connecticut,09001,196996,161,2610,1
+2022-02-16,Hartford,Connecticut,09003,173182,207,2973,1
+2022-02-16,Litchfield,Connecticut,09005,30969,223,432,0
+2022-02-16,Middlesex,Connecticut,09007,26834,69,464,1
+2022-02-16,New Haven,Connecticut,09009,188832,1005,2682,-6
+2022-02-16,New London,Connecticut,09011,52840,92,612,-1
+2022-02-16,Tolland,Connecticut,09013,19901,38,259,1
+2022-02-16,Unknown,Connecticut,,2760,6,0,0
+2022-02-16,Windham,Connecticut,09015,25206,27,286,1
+2022-02-17,Fairfield,Connecticut,09001,197116,120,2610,0
+2022-02-17,Hartford,Connecticut,09003,173338,156,2974,1
+2022-02-17,Litchfield,Connecticut,09005,30988,19,432,0
+2022-02-17,Middlesex,Connecticut,09007,26843,9,464,0
+2022-02-17,New Haven,Connecticut,09009,188938,106,2687,5
+2022-02-17,New London,Connecticut,09011,52955,115,612,0
+2022-02-17,Tolland,Connecticut,09013,19914,13,259,0
+2022-02-17,Unknown,Connecticut,,2759,-1,0,0
+2022-02-17,Windham,Connecticut,09015,25213,7,286,0
+2022-02-18,Fairfield,Connecticut,09001,197325,209,2614,4
+2022-02-18,Hartford,Connecticut,09003,173583,245,2982,8
+2022-02-18,Litchfield,Connecticut,09005,31050,62,434,2
+2022-02-18,Middlesex,Connecticut,09007,27000,157,464,0
+2022-02-18,New Haven,Connecticut,09009,189204,266,2699,12
+2022-02-18,New London,Connecticut,09011,53177,222,618,6
+2022-02-18,Tolland,Connecticut,09013,19967,53,259,0
+2022-02-18,Unknown,Connecticut,,2767,8,0,0
+2022-02-18,Windham,Connecticut,09015,25254,41,287,1
+2022-02-19,Fairfield,Connecticut,09001,197325,0,2614,0
+2022-02-19,Hartford,Connecticut,09003,173583,0,2982,0
+2022-02-19,Litchfield,Connecticut,09005,31050,0,434,0
+2022-02-19,Middlesex,Connecticut,09007,27000,0,464,0
+2022-02-19,New Haven,Connecticut,09009,189204,0,2699,0
+2022-02-19,New London,Connecticut,09011,53177,0,618,0
+2022-02-19,Tolland,Connecticut,09013,19967,0,259,0
+2022-02-19,Unknown,Connecticut,,2767,0,0,0
+2022-02-19,Windham,Connecticut,09015,25254,0,287,0
+2022-02-20,Fairfield,Connecticut,09001,197325,0,2614,0
+2022-02-20,Hartford,Connecticut,09003,173583,0,2982,0
+2022-02-20,Litchfield,Connecticut,09005,31050,0,434,0
+2022-02-20,Middlesex,Connecticut,09007,27000,0,464,0
+2022-02-20,New Haven,Connecticut,09009,189204,0,2699,0
+2022-02-20,New London,Connecticut,09011,53177,0,618,0
+2022-02-20,Tolland,Connecticut,09013,19967,0,259,0
+2022-02-20,Unknown,Connecticut,,2767,0,0,0
+2022-02-20,Windham,Connecticut,09015,25254,0,287,0
+2022-02-21,Fairfield,Connecticut,09001,197585,260,2621,7
+2022-02-21,Hartford,Connecticut,09003,173886,303,2984,2
+2022-02-21,Litchfield,Connecticut,09005,31115,65,434,0
+2022-02-21,Middlesex,Connecticut,09007,27167,167,464,0
+2022-02-21,New Haven,Connecticut,09009,189500,296,2706,7
+2022-02-21,New London,Connecticut,09011,53279,102,619,1
+2022-02-21,Tolland,Connecticut,09013,20019,52,259,0
+2022-02-21,Unknown,Connecticut,,2778,11,0,0
+2022-02-21,Windham,Connecticut,09015,25289,35,287,0
+2022-02-22,Fairfield,Connecticut,09001,197661,76,2621,0
+2022-02-22,Hartford,Connecticut,09003,173957,71,2984,0
+2022-02-22,Litchfield,Connecticut,09005,31136,21,434,0
+2022-02-22,Middlesex,Connecticut,09007,27175,8,464,0
+2022-02-22,New Haven,Connecticut,09009,189592,92,2706,0
+2022-02-22,New London,Connecticut,09011,53322,43,619,0
+2022-02-22,Tolland,Connecticut,09013,20036,17,259,0
+2022-02-22,Unknown,Connecticut,,2775,-3,0,0
+2022-02-22,Windham,Connecticut,09015,25302,13,287,0
+2022-02-23,Fairfield,Connecticut,09001,197774,113,2634,13
+2022-02-23,Hartford,Connecticut,09003,174096,139,3000,16
+2022-02-23,Litchfield,Connecticut,09005,31169,33,441,7
+2022-02-23,Middlesex,Connecticut,09007,27243,68,466,2
+2022-02-23,New Haven,Connecticut,09009,189689,97,2724,18
+2022-02-23,New London,Connecticut,09011,53366,44,623,4
+2022-02-23,Tolland,Connecticut,09013,20060,24,259,0
+2022-02-23,Unknown,Connecticut,,2780,5,1,1
+2022-02-23,Windham,Connecticut,09015,25319,17,290,3
+2022-02-24,Fairfield,Connecticut,09001,197830,56,2635,1
+2022-02-24,Hartford,Connecticut,09003,174333,237,3003,3
+2022-02-24,Litchfield,Connecticut,09005,31184,15,441,0
+2022-02-24,Middlesex,Connecticut,09007,27283,40,465,-1
+2022-02-24,New Haven,Connecticut,09009,189743,54,2725,1
+2022-02-24,New London,Connecticut,09011,53386,20,624,1
+2022-02-24,Tolland,Connecticut,09013,20082,22,259,0
+2022-02-24,Unknown,Connecticut,,2784,4,1,0
+2022-02-24,Windham,Connecticut,09015,25329,10,290,0
+2022-02-25,Fairfield,Connecticut,09001,197958,128,2637,2
+2022-02-25,Hartford,Connecticut,09003,174424,91,3012,9
+2022-02-25,Litchfield,Connecticut,09005,31207,23,443,2
+2022-02-25,Middlesex,Connecticut,09007,27303,20,467,2
+2022-02-25,New Haven,Connecticut,09009,189814,71,2729,4
+2022-02-25,New London,Connecticut,09011,53426,40,624,0
+2022-02-25,Tolland,Connecticut,09013,20103,21,260,1
+2022-02-25,Unknown,Connecticut,,2793,9,3,2
+2022-02-25,Windham,Connecticut,09015,25349,20,290,0
+2022-02-26,Fairfield,Connecticut,09001,197958,0,2637,0
+2022-02-26,Hartford,Connecticut,09003,174424,0,3012,0
+2022-02-26,Litchfield,Connecticut,09005,31207,0,443,0
+2022-02-26,Middlesex,Connecticut,09007,27303,0,467,0
+2022-02-26,New Haven,Connecticut,09009,189814,0,2729,0
+2022-02-26,New London,Connecticut,09011,53426,0,624,0
+2022-02-26,Tolland,Connecticut,09013,20103,0,260,0
+2022-02-26,Unknown,Connecticut,,2793,0,3,0
+2022-02-26,Windham,Connecticut,09015,25349,0,290,0
+2022-02-27,Fairfield,Connecticut,09001,197958,0,2637,0
+2022-02-27,Hartford,Connecticut,09003,174424,0,3012,0
+2022-02-27,Litchfield,Connecticut,09005,31207,0,443,0
+2022-02-27,Middlesex,Connecticut,09007,27303,0,467,0
+2022-02-27,New Haven,Connecticut,09009,189814,0,2729,0
+2022-02-27,New London,Connecticut,09011,53426,0,624,0
+2022-02-27,Tolland,Connecticut,09013,20103,0,260,0
+2022-02-27,Unknown,Connecticut,,2793,0,3,0
+2022-02-27,Windham,Connecticut,09015,25349,0,290,0
+2022-02-28,Fairfield,Connecticut,09001,198201,243,2637,0
+2022-02-28,Hartford,Connecticut,09003,174606,182,3014,2
+2022-02-28,Litchfield,Connecticut,09005,31238,31,443,0
+2022-02-28,Middlesex,Connecticut,09007,27363,60,467,0
+2022-02-28,New Haven,Connecticut,09009,190110,296,2731,2
+2022-02-28,New London,Connecticut,09011,53571,145,625,1
+2022-02-28,Tolland,Connecticut,09013,20127,24,260,0
+2022-02-28,Unknown,Connecticut,,2796,3,3,0
+2022-02-28,Windham,Connecticut,09015,25377,28,290,0
+2022-03-01,Fairfield,Connecticut,09001,198268,67,2638,1
+2022-03-01,Hartford,Connecticut,09003,174649,43,3015,1
+2022-03-01,Litchfield,Connecticut,09005,31243,5,443,0
+2022-03-01,Middlesex,Connecticut,09007,27371,8,467,0
+2022-03-01,New Haven,Connecticut,09009,190141,31,2730,-1
+2022-03-01,New London,Connecticut,09011,53576,5,625,0
+2022-03-01,Tolland,Connecticut,09013,20131,4,260,0
+2022-03-01,Unknown,Connecticut,,2797,1,3,0
+2022-03-01,Windham,Connecticut,09015,25383,6,290,0
+2022-03-02,Fairfield,Connecticut,09001,198301,33,2644,6
+2022-03-02,Hartford,Connecticut,09003,174732,83,3027,12
+2022-03-02,Litchfield,Connecticut,09005,31267,24,448,5
+2022-03-02,Middlesex,Connecticut,09007,27395,24,469,2
+2022-03-02,New Haven,Connecticut,09009,190172,31,2740,10
+2022-03-02,New London,Connecticut,09011,53618,42,626,1
+2022-03-02,Tolland,Connecticut,09013,20144,13,263,3
+2022-03-02,Unknown,Connecticut,,2796,-1,3,0
+2022-03-02,Windham,Connecticut,09015,25387,4,292,2
+2022-03-03,Fairfield,Connecticut,09001,198498,197,2644,0
+2022-03-03,Hartford,Connecticut,09003,174775,43,3029,2
+2022-03-03,Litchfield,Connecticut,09005,31275,8,448,0
+2022-03-03,Middlesex,Connecticut,09007,27426,31,469,0
+2022-03-03,New Haven,Connecticut,09009,190408,236,2740,0
+2022-03-03,New London,Connecticut,09011,53682,64,626,0
+2022-03-03,Tolland,Connecticut,09013,20145,1,263,0
+2022-03-03,Unknown,Connecticut,,2799,3,4,1
+2022-03-03,Windham,Connecticut,09015,25393,6,292,0
+2022-03-04,Fairfield,Connecticut,09001,198583,85,2649,5
+2022-03-04,Hartford,Connecticut,09003,174865,90,3036,7
+2022-03-04,Litchfield,Connecticut,09005,31284,9,448,0
+2022-03-04,Middlesex,Connecticut,09007,27460,34,472,3
+2022-03-04,New Haven,Connecticut,09009,190557,149,2748,8
+2022-03-04,New London,Connecticut,09011,53711,29,630,4
+2022-03-04,Tolland,Connecticut,09013,20158,13,263,0
+2022-03-04,Unknown,Connecticut,,2808,9,5,1
+2022-03-04,Windham,Connecticut,09015,25407,14,292,0
+2022-03-05,Fairfield,Connecticut,09001,198583,0,2649,0
+2022-03-05,Hartford,Connecticut,09003,174865,0,3036,0
+2022-03-05,Litchfield,Connecticut,09005,31284,0,448,0
+2022-03-05,Middlesex,Connecticut,09007,27460,0,472,0
+2022-03-05,New Haven,Connecticut,09009,190557,0,2748,0
+2022-03-05,New London,Connecticut,09011,53711,0,630,0
+2022-03-05,Tolland,Connecticut,09013,20158,0,263,0
+2022-03-05,Unknown,Connecticut,,2808,0,5,0
+2022-03-05,Windham,Connecticut,09015,25407,0,292,0
+2022-03-06,Fairfield,Connecticut,09001,198583,0,2649,0
+2022-03-06,Hartford,Connecticut,09003,174865,0,3036,0
+2022-03-06,Litchfield,Connecticut,09005,31284,0,448,0
+2022-03-06,Middlesex,Connecticut,09007,27460,0,472,0
+2022-03-06,New Haven,Connecticut,09009,190557,0,2748,0
+2022-03-06,New London,Connecticut,09011,53711,0,630,0
+2022-03-06,Tolland,Connecticut,09013,20158,0,263,0
+2022-03-06,Unknown,Connecticut,,2808,0,5,0
+2022-03-06,Windham,Connecticut,09015,25407,0,292,0
+2022-03-07,Fairfield,Connecticut,09001,199323,740,2645,-4
+2022-03-07,Hartford,Connecticut,09003,175033,168,3042,6
+2022-03-07,Litchfield,Connecticut,09005,31306,22,448,0
+2022-03-07,Middlesex,Connecticut,09007,27515,55,471,-1
+2022-03-07,New Haven,Connecticut,09009,192053,1496,2747,-1
+2022-03-07,New London,Connecticut,09011,53884,173,629,-1
+2022-03-07,Tolland,Connecticut,09013,20175,17,263,0
+2022-03-07,Unknown,Connecticut,,2823,15,5,0
+2022-03-07,Windham,Connecticut,09015,25430,23,292,0
+2022-03-08,Fairfield,Connecticut,09001,199642,319,2653,8
+2022-03-08,Hartford,Connecticut,09003,175119,86,3060,18
+2022-03-08,Litchfield,Connecticut,09005,31313,7,450,2
+2022-03-08,Middlesex,Connecticut,09007,27528,13,475,4
+2022-03-08,New Haven,Connecticut,09009,192702,649,2755,8
+2022-03-08,New London,Connecticut,09011,53972,88,634,5
+2022-03-08,Tolland,Connecticut,09013,20189,14,264,1
+2022-03-08,Unknown,Connecticut,,2825,2,6,1
+2022-03-08,Windham,Connecticut,09015,25443,13,294,2
+2022-03-09,Fairfield,Connecticut,09001,199692,50,2662,9
+2022-03-09,Hartford,Connecticut,09003,175186,67,3062,2
+2022-03-09,Litchfield,Connecticut,09005,31324,11,450,0
+2022-03-09,Middlesex,Connecticut,09007,27582,54,476,1
+2022-03-09,New Haven,Connecticut,09009,192804,102,2761,6
+2022-03-09,New London,Connecticut,09011,54008,36,634,0
+2022-03-09,Tolland,Connecticut,09013,20196,7,264,0
+2022-03-09,Unknown,Connecticut,,2828,3,6,0
+2022-03-09,Windham,Connecticut,09015,25443,0,294,0
+2022-03-10,Fairfield,Connecticut,09001,199775,83,2663,1
+2022-03-10,Hartford,Connecticut,09003,175229,43,3062,0
+2022-03-10,Litchfield,Connecticut,09005,31333,9,450,0
+2022-03-10,Middlesex,Connecticut,09007,27610,28,476,0
+2022-03-10,New Haven,Connecticut,09009,192884,80,2765,4
+2022-03-10,New London,Connecticut,09011,54034,26,634,0
+2022-03-10,Tolland,Connecticut,09013,20203,7,264,0
+2022-03-10,Unknown,Connecticut,,2830,2,7,1
+2022-03-10,Windham,Connecticut,09015,25456,13,294,0
+2022-03-11,Fairfield,Connecticut,09001,199851,76,2668,5
+2022-03-11,Hartford,Connecticut,09003,175283,54,3080,18
+2022-03-11,Litchfield,Connecticut,09005,31336,3,452,2
+2022-03-11,Middlesex,Connecticut,09007,27652,42,476,0
+2022-03-11,New Haven,Connecticut,09009,193017,133,2768,3
+2022-03-11,New London,Connecticut,09011,54060,26,636,2
+2022-03-11,Tolland,Connecticut,09013,20209,6,266,2
+2022-03-11,Unknown,Connecticut,,2831,1,7,0
+2022-03-11,Windham,Connecticut,09015,25458,2,295,1
+2022-03-12,Fairfield,Connecticut,09001,199851,0,2668,0
+2022-03-12,Hartford,Connecticut,09003,175283,0,3080,0
+2022-03-12,Litchfield,Connecticut,09005,31336,0,452,0
+2022-03-12,Middlesex,Connecticut,09007,27652,0,476,0
+2022-03-12,New Haven,Connecticut,09009,193017,0,2768,0
+2022-03-12,New London,Connecticut,09011,54060,0,636,0
+2022-03-12,Tolland,Connecticut,09013,20209,0,266,0
+2022-03-12,Unknown,Connecticut,,2831,0,7,0
+2022-03-12,Windham,Connecticut,09015,25458,0,295,0
+2022-03-13,Fairfield,Connecticut,09001,199851,0,2668,0
+2022-03-13,Hartford,Connecticut,09003,175283,0,3080,0
+2022-03-13,Litchfield,Connecticut,09005,31336,0,452,0
+2022-03-13,Middlesex,Connecticut,09007,27652,0,476,0
+2022-03-13,New Haven,Connecticut,09009,193017,0,2768,0
+2022-03-13,New London,Connecticut,09011,54060,0,636,0
+2022-03-13,Tolland,Connecticut,09013,20209,0,266,0
+2022-03-13,Unknown,Connecticut,,2831,0,7,0
+2022-03-13,Windham,Connecticut,09015,25458,0,295,0
+2022-03-14,Fairfield,Connecticut,09001,200091,240,2668,0
+2022-03-14,Hartford,Connecticut,09003,175398,115,3085,5
+2022-03-14,Litchfield,Connecticut,09005,31394,58,452,0
+2022-03-14,Middlesex,Connecticut,09007,27695,43,476,0
+2022-03-14,New Haven,Connecticut,09009,193275,258,2769,1
+2022-03-14,New London,Connecticut,09011,54115,55,637,1
+2022-03-14,Tolland,Connecticut,09013,20227,18,266,0
+2022-03-14,Unknown,Connecticut,,2835,4,7,0
+2022-03-14,Windham,Connecticut,09015,25476,18,295,0
+2022-03-15,Fairfield,Connecticut,09001,200186,95,2673,5
+2022-03-15,Hartford,Connecticut,09003,175451,53,3092,7
+2022-03-15,Litchfield,Connecticut,09005,31408,14,452,0
+2022-03-15,Middlesex,Connecticut,09007,27703,8,476,0
+2022-03-15,New Haven,Connecticut,09009,193351,76,2772,3
+2022-03-15,New London,Connecticut,09011,54151,36,640,3
+2022-03-15,Tolland,Connecticut,09013,20244,17,266,0
+2022-03-15,Unknown,Connecticut,,2838,3,8,1
+2022-03-15,Windham,Connecticut,09015,25479,3,296,1
+2022-03-16,Fairfield,Connecticut,09001,200265,79,2673,0
+2022-03-16,Hartford,Connecticut,09003,175512,61,3092,0
+2022-03-16,Litchfield,Connecticut,09005,31433,25,453,1
+2022-03-16,Middlesex,Connecticut,09007,27713,10,476,0
+2022-03-16,New Haven,Connecticut,09009,193445,94,2773,1
+2022-03-16,New London,Connecticut,09011,54184,33,640,0
+2022-03-16,Tolland,Connecticut,09013,20250,6,266,0
+2022-03-16,Unknown,Connecticut,,2842,4,8,0
+2022-03-16,Windham,Connecticut,09015,25484,5,296,0
+2022-03-17,Fairfield,Connecticut,09001,200403,138,2673,0
+2022-03-17,Hartford,Connecticut,09003,175571,59,3092,0
+2022-03-17,Litchfield,Connecticut,09005,31436,3,453,0
+2022-03-17,Middlesex,Connecticut,09007,27732,19,476,0
+2022-03-17,New Haven,Connecticut,09009,193580,135,2773,0
+2022-03-17,New London,Connecticut,09011,54208,24,640,0
+2022-03-17,Tolland,Connecticut,09013,20270,20,266,0
+2022-03-17,Unknown,Connecticut,,2840,-2,8,0
+2022-03-17,Windham,Connecticut,09015,25492,8,296,0
+2022-03-18,Fairfield,Connecticut,09001,200481,78,2684,11
+2022-03-18,Hartford,Connecticut,09003,175645,74,3104,12
+2022-03-18,Litchfield,Connecticut,09005,31446,10,452,-1
+2022-03-18,Middlesex,Connecticut,09007,27744,12,478,2
+2022-03-18,New Haven,Connecticut,09009,193688,108,2780,7
+2022-03-18,New London,Connecticut,09011,54240,32,646,6
+2022-03-18,Tolland,Connecticut,09013,20284,14,268,2
+2022-03-18,Unknown,Connecticut,,2844,4,9,1
+2022-03-18,Windham,Connecticut,09015,25496,4,296,0
+2022-03-19,Fairfield,Connecticut,09001,200481,0,2684,0
+2022-03-19,Hartford,Connecticut,09003,175645,0,3104,0
+2022-03-19,Litchfield,Connecticut,09005,31446,0,452,0
+2022-03-19,Middlesex,Connecticut,09007,27744,0,478,0
+2022-03-19,New Haven,Connecticut,09009,193688,0,2780,0
+2022-03-19,New London,Connecticut,09011,54240,0,646,0
+2022-03-19,Tolland,Connecticut,09013,20284,0,268,0
+2022-03-19,Unknown,Connecticut,,2844,0,9,0
+2022-03-19,Windham,Connecticut,09015,25496,0,296,0
+2022-03-20,Fairfield,Connecticut,09001,200481,0,2684,0
+2022-03-20,Hartford,Connecticut,09003,175645,0,3104,0
+2022-03-20,Litchfield,Connecticut,09005,31446,0,452,0
+2022-03-20,Middlesex,Connecticut,09007,27744,0,478,0
+2022-03-20,New Haven,Connecticut,09009,193688,0,2780,0
+2022-03-20,New London,Connecticut,09011,54240,0,646,0
+2022-03-20,Tolland,Connecticut,09013,20284,0,268,0
+2022-03-20,Unknown,Connecticut,,2844,0,9,0
+2022-03-20,Windham,Connecticut,09015,25496,0,296,0
+2022-03-21,Fairfield,Connecticut,09001,200642,161,2684,0
+2022-03-21,Hartford,Connecticut,09003,175753,108,3106,2
+2022-03-21,Litchfield,Connecticut,09005,31467,21,452,0
+2022-03-21,Middlesex,Connecticut,09007,27765,21,478,0
+2022-03-21,New Haven,Connecticut,09009,193901,213,2783,3
+2022-03-21,New London,Connecticut,09011,54284,44,647,1
+2022-03-21,Tolland,Connecticut,09013,20294,10,268,0
+2022-03-21,Unknown,Connecticut,,2854,10,9,0
+2022-03-21,Windham,Connecticut,09015,25511,15,296,0
+2022-03-22,Fairfield,Connecticut,09001,200786,144,2686,2
+2022-03-22,Hartford,Connecticut,09003,175846,93,3114,8
+2022-03-22,Litchfield,Connecticut,09005,31484,17,453,1
+2022-03-22,Middlesex,Connecticut,09007,27790,25,478,0
+2022-03-22,New Haven,Connecticut,09009,194017,116,2789,6
+2022-03-22,New London,Connecticut,09011,54327,43,647,0
+2022-03-22,Tolland,Connecticut,09013,20310,16,268,0
+2022-03-22,Unknown,Connecticut,,2852,-2,10,1
+2022-03-22,Windham,Connecticut,09015,25520,9,297,1
+2022-03-23,Fairfield,Connecticut,09001,200891,105,2686,0
+2022-03-23,Hartford,Connecticut,09003,175942,96,3113,-1
+2022-03-23,Litchfield,Connecticut,09005,31498,14,453,0
+2022-03-23,Middlesex,Connecticut,09007,27813,23,478,0
+2022-03-23,New Haven,Connecticut,09009,194103,86,2788,-1
+2022-03-23,New London,Connecticut,09011,54361,34,647,0
+2022-03-23,Tolland,Connecticut,09013,20323,13,268,0
+2022-03-23,Unknown,Connecticut,,2862,10,10,0
+2022-03-23,Windham,Connecticut,09015,25535,15,297,0
+2022-03-24,Fairfield,Connecticut,09001,201048,157,2687,1
+2022-03-24,Hartford,Connecticut,09003,176022,80,3115,2
+2022-03-24,Litchfield,Connecticut,09005,31509,11,453,0
+2022-03-24,Middlesex,Connecticut,09007,27835,22,478,0
+2022-03-24,New Haven,Connecticut,09009,194231,128,2789,1
+2022-03-24,New London,Connecticut,09011,54384,23,647,0
+2022-03-24,Tolland,Connecticut,09013,20334,11,268,0
+2022-03-24,Unknown,Connecticut,,2861,-1,10,0
+2022-03-24,Windham,Connecticut,09015,25543,8,297,0
+2022-03-25,Fairfield,Connecticut,09001,201183,135,2691,4
+2022-03-25,Hartford,Connecticut,09003,176101,79,3115,0
+2022-03-25,Litchfield,Connecticut,09005,31521,12,454,1
+2022-03-25,Middlesex,Connecticut,09007,27873,38,478,0
+2022-03-25,New Haven,Connecticut,09009,194335,104,2796,7
+2022-03-25,New London,Connecticut,09011,54414,30,648,1
+2022-03-25,Tolland,Connecticut,09013,20353,19,269,1
+2022-03-25,Unknown,Connecticut,,2864,3,10,0
+2022-03-25,Windham,Connecticut,09015,25552,9,298,1
+2022-03-26,Fairfield,Connecticut,09001,201183,0,2691,0
+2022-03-26,Hartford,Connecticut,09003,176101,0,3115,0
+2022-03-26,Litchfield,Connecticut,09005,31521,0,454,0
+2022-03-26,Middlesex,Connecticut,09007,27873,0,478,0
+2022-03-26,New Haven,Connecticut,09009,194335,0,2796,0
+2022-03-26,New London,Connecticut,09011,54414,0,648,0
+2022-03-26,Tolland,Connecticut,09013,20353,0,269,0
+2022-03-26,Unknown,Connecticut,,2864,0,10,0
+2022-03-26,Windham,Connecticut,09015,25552,0,298,0
+2022-03-27,Fairfield,Connecticut,09001,201183,0,2691,0
+2022-03-27,Hartford,Connecticut,09003,176101,0,3115,0
+2022-03-27,Litchfield,Connecticut,09005,31521,0,454,0
+2022-03-27,Middlesex,Connecticut,09007,27873,0,478,0
+2022-03-27,New Haven,Connecticut,09009,194335,0,2796,0
+2022-03-27,New London,Connecticut,09011,54414,0,648,0
+2022-03-27,Tolland,Connecticut,09013,20353,0,269,0
+2022-03-27,Unknown,Connecticut,,2864,0,10,0
+2022-03-27,Windham,Connecticut,09015,25552,0,298,0
+2022-03-28,Fairfield,Connecticut,09001,201502,319,2691,0
+2022-03-28,Hartford,Connecticut,09003,176343,242,3115,0
+2022-03-28,Litchfield,Connecticut,09005,31579,58,454,0
+2022-03-28,Middlesex,Connecticut,09007,27911,38,478,0
+2022-03-28,New Haven,Connecticut,09009,194567,232,2796,0
+2022-03-28,New London,Connecticut,09011,54484,70,648,0
+2022-03-28,Tolland,Connecticut,09013,20389,36,269,0
+2022-03-28,Unknown,Connecticut,,2863,-1,10,0
+2022-03-28,Windham,Connecticut,09015,25572,20,298,0
+2022-03-29,Fairfield,Connecticut,09001,201596,94,2693,2
+2022-03-29,Hartford,Connecticut,09003,176439,96,3119,4
+2022-03-29,Litchfield,Connecticut,09005,31589,10,454,0
+2022-03-29,Middlesex,Connecticut,09007,27922,11,478,0
+2022-03-29,New Haven,Connecticut,09009,194680,113,2805,9
+2022-03-29,New London,Connecticut,09011,54505,21,651,3
+2022-03-29,Tolland,Connecticut,09013,20402,13,269,0
+2022-03-29,Unknown,Connecticut,,2865,2,10,0
+2022-03-29,Windham,Connecticut,09015,25577,5,300,2
+2022-03-30,Fairfield,Connecticut,09001,201737,141,2693,0
+2022-03-30,Hartford,Connecticut,09003,176544,105,3119,0
+2022-03-30,Litchfield,Connecticut,09005,31612,23,454,0
+2022-03-30,Middlesex,Connecticut,09007,27936,14,478,0
+2022-03-30,New Haven,Connecticut,09009,194786,106,2805,0
+2022-03-30,New London,Connecticut,09011,54543,38,651,0
+2022-03-30,Tolland,Connecticut,09013,20419,17,269,0
+2022-03-30,Unknown,Connecticut,,2872,7,10,0
+2022-03-30,Windham,Connecticut,09015,25584,7,300,0
+2022-03-31,Fairfield,Connecticut,09001,202152,415,2693,0
+2022-03-31,Hartford,Connecticut,09003,176654,110,3120,1
+2022-03-31,Litchfield,Connecticut,09005,31625,13,454,0
+2022-03-31,Middlesex,Connecticut,09007,27963,27,479,1
+2022-03-31,New Haven,Connecticut,09009,194892,106,2806,1
+2022-03-31,New London,Connecticut,09011,54580,37,653,2
+2022-03-31,Tolland,Connecticut,09013,20439,20,270,1
+2022-03-31,Unknown,Connecticut,,2868,-4,1,-9
+2022-03-31,Windham,Connecticut,09015,25602,18,300,0
+2022-04-01,Fairfield,Connecticut,09001,202314,162,2693,0
+2022-04-01,Hartford,Connecticut,09003,176740,86,3120,0
+2022-04-01,Litchfield,Connecticut,09005,31641,16,454,0
+2022-04-01,Middlesex,Connecticut,09007,27998,35,479,0
+2022-04-01,New Haven,Connecticut,09009,195022,130,2808,2
+2022-04-01,New London,Connecticut,09011,54607,27,653,0
+2022-04-01,Tolland,Connecticut,09013,20463,24,270,0
+2022-04-01,Unknown,Connecticut,,2872,4,1,0
+2022-04-01,Windham,Connecticut,09015,25619,17,301,1
+2022-04-02,Fairfield,Connecticut,09001,202314,0,2693,0
+2022-04-02,Hartford,Connecticut,09003,176740,0,3120,0
+2022-04-02,Litchfield,Connecticut,09005,31641,0,454,0
+2022-04-02,Middlesex,Connecticut,09007,27998,0,479,0
+2022-04-02,New Haven,Connecticut,09009,195022,0,2808,0
+2022-04-02,New London,Connecticut,09011,54607,0,653,0
+2022-04-02,Tolland,Connecticut,09013,20463,0,270,0
+2022-04-02,Unknown,Connecticut,,2872,0,1,0
+2022-04-02,Windham,Connecticut,09015,25619,0,301,0
+2022-04-03,Fairfield,Connecticut,09001,202314,0,2693,0
+2022-04-03,Hartford,Connecticut,09003,176740,0,3120,0
+2022-04-03,Litchfield,Connecticut,09005,31641,0,454,0
+2022-04-03,Middlesex,Connecticut,09007,27998,0,479,0
+2022-04-03,New Haven,Connecticut,09009,195022,0,2808,0
+2022-04-03,New London,Connecticut,09011,54607,0,653,0
+2022-04-03,Tolland,Connecticut,09013,20463,0,270,0
+2022-04-03,Unknown,Connecticut,,2872,0,1,0
+2022-04-03,Windham,Connecticut,09015,25619,0,301,0
+2022-04-04,Fairfield,Connecticut,09001,202689,375,2693,0
+2022-04-04,Hartford,Connecticut,09003,177023,283,3120,0
+2022-04-04,Litchfield,Connecticut,09005,31731,90,454,0
+2022-04-04,Middlesex,Connecticut,09007,28047,49,479,0
+2022-04-04,New Haven,Connecticut,09009,195319,297,2808,0
+2022-04-04,New London,Connecticut,09011,54700,93,653,0
+2022-04-04,Tolland,Connecticut,09013,20507,44,270,0
+2022-04-04,Unknown,Connecticut,,2874,2,1,0
+2022-04-04,Windham,Connecticut,09015,25654,35,301,0
+2022-04-05,Fairfield,Connecticut,09001,202854,165,2699,6
+2022-04-05,Hartford,Connecticut,09003,177113,90,3124,4
+2022-04-05,Litchfield,Connecticut,09005,31739,8,455,1
+2022-04-05,Middlesex,Connecticut,09007,28056,9,479,0
+2022-04-05,New Haven,Connecticut,09009,195425,106,2809,1
+2022-04-05,New London,Connecticut,09011,54725,25,655,2
+2022-04-05,Tolland,Connecticut,09013,20524,17,270,0
+2022-04-05,Unknown,Connecticut,,2876,2,1,0
+2022-04-05,Windham,Connecticut,09015,25664,10,301,0
+2022-04-06,Fairfield,Connecticut,09001,203001,147,2699,0
+2022-04-06,Hartford,Connecticut,09003,177226,113,3124,0
+2022-04-06,Litchfield,Connecticut,09005,31758,19,455,0
+2022-04-06,Middlesex,Connecticut,09007,28084,28,479,0
+2022-04-06,New Haven,Connecticut,09009,195533,108,2811,2
+2022-04-06,New London,Connecticut,09011,54758,33,656,1
+2022-04-06,Tolland,Connecticut,09013,20535,11,269,-1
+2022-04-06,Unknown,Connecticut,,2885,9,1,0
+2022-04-06,Windham,Connecticut,09015,25674,10,301,0
+2022-04-07,Fairfield,Connecticut,09001,203279,278,2699,0
+2022-04-07,Hartford,Connecticut,09003,177379,153,3124,0
+2022-04-07,Litchfield,Connecticut,09005,31771,13,455,0
+2022-04-07,Middlesex,Connecticut,09007,28112,28,479,0
+2022-04-07,New Haven,Connecticut,09009,195744,211,2811,0
+2022-04-07,New London,Connecticut,09011,54875,117,656,0
+2022-04-07,Tolland,Connecticut,09013,20562,27,269,0
+2022-04-07,Unknown,Connecticut,,2790,-95,1,0
+2022-04-07,Windham,Connecticut,09015,25691,17,301,0
+2022-04-08,Fairfield,Connecticut,09001,203593,314,2701,2
+2022-04-08,Hartford,Connecticut,09003,177566,187,3127,3
+2022-04-08,Litchfield,Connecticut,09005,31806,35,455,0
+2022-04-08,Middlesex,Connecticut,09007,28151,39,479,0
+2022-04-08,New Haven,Connecticut,09009,195898,154,2811,0
+2022-04-08,New London,Connecticut,09011,54968,93,657,1
+2022-04-08,Tolland,Connecticut,09013,20608,46,269,0
+2022-04-08,Unknown,Connecticut,,2597,-193,1,0
+2022-04-08,Windham,Connecticut,09015,25707,16,301,0
+2022-04-09,Fairfield,Connecticut,09001,203593,0,2701,0
+2022-04-09,Hartford,Connecticut,09003,177566,0,3127,0
+2022-04-09,Litchfield,Connecticut,09005,31806,0,455,0
+2022-04-09,Middlesex,Connecticut,09007,28151,0,479,0
+2022-04-09,New Haven,Connecticut,09009,195898,0,2811,0
+2022-04-09,New London,Connecticut,09011,54968,0,657,0
+2022-04-09,Tolland,Connecticut,09013,20608,0,269,0
+2022-04-09,Unknown,Connecticut,,2597,0,1,0
+2022-04-09,Windham,Connecticut,09015,25707,0,301,0
+2022-04-10,Fairfield,Connecticut,09001,203593,0,2701,0
+2022-04-10,Hartford,Connecticut,09003,177566,0,3127,0
+2022-04-10,Litchfield,Connecticut,09005,31806,0,455,0
+2022-04-10,Middlesex,Connecticut,09007,28151,0,479,0
+2022-04-10,New Haven,Connecticut,09009,195898,0,2811,0
+2022-04-10,New London,Connecticut,09011,54968,0,657,0
+2022-04-10,Tolland,Connecticut,09013,20608,0,269,0
+2022-04-10,Unknown,Connecticut,,2597,0,1,0
+2022-04-10,Windham,Connecticut,09015,25707,0,301,0
+2022-04-11,Fairfield,Connecticut,09001,204191,598,2701,0
+2022-04-11,Hartford,Connecticut,09003,177958,392,3127,0
+2022-04-11,Litchfield,Connecticut,09005,31891,85,455,0
+2022-04-11,Middlesex,Connecticut,09007,28223,72,479,0
+2022-04-11,New Haven,Connecticut,09009,196334,436,2811,0
+2022-04-11,New London,Connecticut,09011,55101,133,657,0
+2022-04-11,Tolland,Connecticut,09013,20665,57,270,1
+2022-04-11,Unknown,Connecticut,,2614,17,1,0
+2022-04-11,Windham,Connecticut,09015,25753,46,301,0
+2022-04-12,Fairfield,Connecticut,09001,204516,325,2703,2
+2022-04-12,Hartford,Connecticut,09003,178144,186,3127,0
+2022-04-12,Litchfield,Connecticut,09005,31929,38,456,1
+2022-04-12,Middlesex,Connecticut,09007,28250,27,479,0
+2022-04-12,New Haven,Connecticut,09009,196585,251,2812,1
+2022-04-12,New London,Connecticut,09011,55232,131,657,0
+2022-04-12,Tolland,Connecticut,09013,20699,34,272,2
+2022-04-12,Unknown,Connecticut,,2235,-379,1,0
+2022-04-12,Windham,Connecticut,09015,25771,18,301,0
+2022-04-13,Fairfield,Connecticut,09001,204732,216,2704,1
+2022-04-13,Hartford,Connecticut,09003,178274,130,3127,0
+2022-04-13,Litchfield,Connecticut,09005,31962,33,456,0
+2022-04-13,Middlesex,Connecticut,09007,28289,39,479,0
+2022-04-13,New Haven,Connecticut,09009,196791,206,2812,0
+2022-04-13,New London,Connecticut,09011,55300,68,657,0
+2022-04-13,Tolland,Connecticut,09013,20716,17,272,0
+2022-04-13,Unknown,Connecticut,,2211,-24,1,0
+2022-04-13,Windham,Connecticut,09015,25777,6,301,0
+2022-04-14,Fairfield,Connecticut,09001,204868,136,2704,0
+2022-04-14,Hartford,Connecticut,09003,178327,53,3127,0
+2022-04-14,Litchfield,Connecticut,09005,31978,16,456,0
+2022-04-14,Middlesex,Connecticut,09007,28300,11,479,0
+2022-04-14,New Haven,Connecticut,09009,196954,163,2812,0
+2022-04-14,New London,Connecticut,09011,55324,24,657,0
+2022-04-14,Tolland,Connecticut,09013,20720,4,272,0
+2022-04-14,Unknown,Connecticut,,2204,-7,1,0
+2022-04-14,Windham,Connecticut,09015,25784,7,301,0
+2022-04-15,Fairfield,Connecticut,09001,205283,415,2706,2
+2022-04-15,Hartford,Connecticut,09003,178587,260,3127,0
+2022-04-15,Litchfield,Connecticut,09005,32023,45,456,0
+2022-04-15,Middlesex,Connecticut,09007,28354,54,479,0
+2022-04-15,New Haven,Connecticut,09009,197193,239,2814,2
+2022-04-15,New London,Connecticut,09011,55412,88,657,0
+2022-04-15,Tolland,Connecticut,09013,20777,57,272,0
+2022-04-15,Unknown,Connecticut,,2210,6,1,0
+2022-04-15,Windham,Connecticut,09015,25813,29,301,0
+2022-04-16,Fairfield,Connecticut,09001,205283,0,2706,0
+2022-04-16,Hartford,Connecticut,09003,178587,0,3127,0
+2022-04-16,Litchfield,Connecticut,09005,32023,0,456,0
+2022-04-16,Middlesex,Connecticut,09007,28354,0,479,0
+2022-04-16,New Haven,Connecticut,09009,197193,0,2814,0
+2022-04-16,New London,Connecticut,09011,55412,0,657,0
+2022-04-16,Tolland,Connecticut,09013,20777,0,272,0
+2022-04-16,Unknown,Connecticut,,2210,0,1,0
+2022-04-16,Windham,Connecticut,09015,25813,0,301,0
+2022-04-17,Fairfield,Connecticut,09001,205283,0,2706,0
+2022-04-17,Hartford,Connecticut,09003,178587,0,3127,0
+2022-04-17,Litchfield,Connecticut,09005,32023,0,456,0
+2022-04-17,Middlesex,Connecticut,09007,28354,0,479,0
+2022-04-17,New Haven,Connecticut,09009,197193,0,2814,0
+2022-04-17,New London,Connecticut,09011,55412,0,657,0
+2022-04-17,Tolland,Connecticut,09013,20777,0,272,0
+2022-04-17,Unknown,Connecticut,,2210,0,1,0
+2022-04-17,Windham,Connecticut,09015,25813,0,301,0
+2022-04-18,Fairfield,Connecticut,09001,205991,708,2706,0
+2022-04-18,Hartford,Connecticut,09003,178931,344,3127,0
+2022-04-18,Litchfield,Connecticut,09005,32105,82,456,0
+2022-04-18,Middlesex,Connecticut,09007,28446,92,479,0
+2022-04-18,New Haven,Connecticut,09009,197674,481,2814,0
+2022-04-18,New London,Connecticut,09011,55558,146,657,0
+2022-04-18,Tolland,Connecticut,09013,20831,54,272,0
+2022-04-18,Unknown,Connecticut,,2218,8,1,0
+2022-04-18,Windham,Connecticut,09015,25858,45,301,0
+2022-04-19,Fairfield,Connecticut,09001,206262,271,2707,1
+2022-04-19,Hartford,Connecticut,09003,179399,468,3126,-1
+2022-04-19,Litchfield,Connecticut,09005,32172,67,456,0
+2022-04-19,Middlesex,Connecticut,09007,28480,34,479,0
+2022-04-19,New Haven,Connecticut,09009,197871,197,2814,0
+2022-04-19,New London,Connecticut,09011,55618,60,657,0
+2022-04-19,Tolland,Connecticut,09013,20878,47,272,0
+2022-04-19,Unknown,Connecticut,,2223,5,1,0
+2022-04-19,Windham,Connecticut,09015,25870,12,301,0
+2022-04-20,Fairfield,Connecticut,09001,206516,254,2711,4
+2022-04-20,Hartford,Connecticut,09003,179651,252,3130,4
+2022-04-20,Litchfield,Connecticut,09005,32219,47,456,0
+2022-04-20,Middlesex,Connecticut,09007,28502,22,480,1
+2022-04-20,New Haven,Connecticut,09009,198147,276,2817,3
+2022-04-20,New London,Connecticut,09011,55721,103,657,0
+2022-04-20,Tolland,Connecticut,09013,20911,33,272,0
+2022-04-20,Unknown,Connecticut,,2231,8,1,0
+2022-04-20,Windham,Connecticut,09015,25885,15,301,0
+2022-04-21,Fairfield,Connecticut,09001,206776,260,2711,0
+2022-04-21,Hartford,Connecticut,09003,179841,190,3130,0
+2022-04-21,Litchfield,Connecticut,09005,32254,35,456,0
+2022-04-21,Middlesex,Connecticut,09007,28544,42,480,0
+2022-04-21,New Haven,Connecticut,09009,198377,230,2817,0
+2022-04-21,New London,Connecticut,09011,55796,75,657,0
+2022-04-21,Tolland,Connecticut,09013,20932,21,272,0
+2022-04-21,Unknown,Connecticut,,2237,6,1,0
+2022-04-21,Windham,Connecticut,09015,25903,18,302,1
+2022-04-22,Fairfield,Connecticut,09001,207102,326,2714,3
+2022-04-22,Hartford,Connecticut,09003,180164,323,3131,1
+2022-04-22,Litchfield,Connecticut,09005,32317,63,457,1
+2022-04-22,Middlesex,Connecticut,09007,28587,43,480,0
+2022-04-22,New Haven,Connecticut,09009,198601,224,2818,1
+2022-04-22,New London,Connecticut,09011,55880,84,657,0
+2022-04-22,Tolland,Connecticut,09013,20979,47,274,2
+2022-04-22,Unknown,Connecticut,,2246,9,1,0
+2022-04-22,Windham,Connecticut,09015,25934,31,302,0
+2022-04-23,Fairfield,Connecticut,09001,207102,0,2714,0
+2022-04-23,Hartford,Connecticut,09003,180164,0,3131,0
+2022-04-23,Litchfield,Connecticut,09005,32317,0,457,0
+2022-04-23,Middlesex,Connecticut,09007,28587,0,480,0
+2022-04-23,New Haven,Connecticut,09009,198601,0,2818,0
+2022-04-23,New London,Connecticut,09011,55880,0,657,0
+2022-04-23,Tolland,Connecticut,09013,20979,0,274,0
+2022-04-23,Unknown,Connecticut,,2246,0,1,0
+2022-04-23,Windham,Connecticut,09015,25934,0,302,0
+2022-04-24,Fairfield,Connecticut,09001,207102,0,2714,0
+2022-04-24,Hartford,Connecticut,09003,180164,0,3131,0
+2022-04-24,Litchfield,Connecticut,09005,32317,0,457,0
+2022-04-24,Middlesex,Connecticut,09007,28587,0,480,0
+2022-04-24,New Haven,Connecticut,09009,198601,0,2818,0
+2022-04-24,New London,Connecticut,09011,55880,0,657,0
+2022-04-24,Tolland,Connecticut,09013,20979,0,274,0
+2022-04-24,Unknown,Connecticut,,2246,0,1,0
+2022-04-24,Windham,Connecticut,09015,25934,0,302,0
+2022-04-25,Fairfield,Connecticut,09001,207639,537,2714,0
+2022-04-25,Hartford,Connecticut,09003,180627,463,3131,0
+2022-04-25,Litchfield,Connecticut,09005,32425,108,457,0
+2022-04-25,Middlesex,Connecticut,09007,28703,116,480,0
+2022-04-25,New Haven,Connecticut,09009,199084,483,2818,0
+2022-04-25,New London,Connecticut,09011,56071,191,657,0
+2022-04-25,Tolland,Connecticut,09013,21051,72,274,0
+2022-04-25,Unknown,Connecticut,,2260,14,1,0
+2022-04-25,Windham,Connecticut,09015,25976,42,302,0
+2022-04-26,Fairfield,Connecticut,09001,207943,304,2716,2
+2022-04-26,Hartford,Connecticut,09003,180913,286,3130,-1
+2022-04-26,Litchfield,Connecticut,09005,32454,29,457,0
+2022-04-26,Middlesex,Connecticut,09007,28737,34,480,0
+2022-04-26,New Haven,Connecticut,09009,199354,270,2820,2
+2022-04-26,New London,Connecticut,09011,56161,90,658,1
+2022-04-26,Tolland,Connecticut,09013,21087,36,274,0
+2022-04-26,Unknown,Connecticut,,2266,6,1,0
+2022-04-26,Windham,Connecticut,09015,26009,33,302,0
+2022-04-27,Fairfield,Connecticut,09001,208202,259,2716,0
+2022-04-27,Hartford,Connecticut,09003,181188,275,3130,0
+2022-04-27,Litchfield,Connecticut,09005,32485,31,457,0
+2022-04-27,Middlesex,Connecticut,09007,28790,53,480,0
+2022-04-27,New Haven,Connecticut,09009,199602,248,2820,0
+2022-04-27,New London,Connecticut,09011,56268,107,658,0
+2022-04-27,Tolland,Connecticut,09013,21127,40,274,0
+2022-04-27,Unknown,Connecticut,,2270,4,1,0
+2022-04-27,Windham,Connecticut,09015,26039,30,302,0
+2022-04-28,Fairfield,Connecticut,09001,208537,335,2717,1
+2022-04-28,Hartford,Connecticut,09003,181457,269,3131,1
+2022-04-28,Litchfield,Connecticut,09005,32550,65,457,0
+2022-04-28,Middlesex,Connecticut,09007,28846,56,480,0
+2022-04-28,New Haven,Connecticut,09009,199932,330,2820,0
+2022-04-28,New London,Connecticut,09011,56391,123,658,0
+2022-04-28,Tolland,Connecticut,09013,21167,40,274,0
+2022-04-28,Unknown,Connecticut,,2275,5,1,0
+2022-04-28,Windham,Connecticut,09015,26072,33,302,0
+2022-04-29,Fairfield,Connecticut,09001,208790,253,2717,0
+2022-04-29,Hartford,Connecticut,09003,181772,315,3135,4
+2022-04-29,Litchfield,Connecticut,09005,32588,38,458,1
+2022-04-29,Middlesex,Connecticut,09007,28889,43,480,0
+2022-04-29,New Haven,Connecticut,09009,200168,236,2823,3
+2022-04-29,New London,Connecticut,09011,56500,109,658,0
+2022-04-29,Tolland,Connecticut,09013,21198,31,274,0
+2022-04-29,Unknown,Connecticut,,2277,2,2,1
+2022-04-29,Windham,Connecticut,09015,26099,27,303,1
+2022-04-30,Fairfield,Connecticut,09001,208790,0,2717,0
+2022-04-30,Hartford,Connecticut,09003,181772,0,3135,0
+2022-04-30,Litchfield,Connecticut,09005,32588,0,458,0
+2022-04-30,Middlesex,Connecticut,09007,28889,0,480,0
+2022-04-30,New Haven,Connecticut,09009,200168,0,2823,0
+2022-04-30,New London,Connecticut,09011,56500,0,658,0
+2022-04-30,Tolland,Connecticut,09013,21198,0,274,0
+2022-04-30,Unknown,Connecticut,,2277,0,2,0
+2022-04-30,Windham,Connecticut,09015,26099,0,303,0
+2022-05-01,Fairfield,Connecticut,09001,208790,0,2717,0
+2022-05-01,Hartford,Connecticut,09003,181772,0,3135,0
+2022-05-01,Litchfield,Connecticut,09005,32588,0,458,0
+2022-05-01,Middlesex,Connecticut,09007,28889,0,480,0
+2022-05-01,New Haven,Connecticut,09009,200168,0,2823,0
+2022-05-01,New London,Connecticut,09011,56500,0,658,0
+2022-05-01,Tolland,Connecticut,09013,21198,0,274,0
+2022-05-01,Unknown,Connecticut,,2277,0,2,0
+2022-05-01,Windham,Connecticut,09015,26099,0,303,0
+2022-05-02,Fairfield,Connecticut,09001,209399,609,2718,1
+2022-05-02,Hartford,Connecticut,09003,182160,388,3135,0
+2022-05-02,Litchfield,Connecticut,09005,32649,61,458,0
+2022-05-02,Middlesex,Connecticut,09007,28996,107,480,0
+2022-05-02,New Haven,Connecticut,09009,200763,595,2823,0
+2022-05-02,New London,Connecticut,09011,56707,207,658,0
+2022-05-02,Tolland,Connecticut,09013,21248,50,274,0
+2022-05-02,Unknown,Connecticut,,2291,14,2,0
+2022-05-02,Windham,Connecticut,09015,26157,58,303,0
+2022-05-03,Fairfield,Connecticut,09001,209878,479,2720,2
+2022-05-03,Hartford,Connecticut,09003,182657,497,3135,0
+2022-05-03,Litchfield,Connecticut,09005,32744,95,458,0
+2022-05-03,Middlesex,Connecticut,09007,29057,61,480,0
+2022-05-03,New Haven,Connecticut,09009,201134,371,2824,1
+2022-05-03,New London,Connecticut,09011,56816,109,659,1
+2022-05-03,Tolland,Connecticut,09013,21321,73,274,0
+2022-05-03,Unknown,Connecticut,,2295,4,1,-1
+2022-05-03,Windham,Connecticut,09015,26195,38,304,1
+2022-05-04,Fairfield,Connecticut,09001,210120,242,2721,1
+2022-05-04,Hartford,Connecticut,09003,182983,326,3135,0
+2022-05-04,Litchfield,Connecticut,09005,32799,55,459,1
+2022-05-04,Middlesex,Connecticut,09007,29117,60,480,0
+2022-05-04,New Haven,Connecticut,09009,201354,220,2825,1
+2022-05-04,New London,Connecticut,09011,56880,64,659,0
+2022-05-04,Tolland,Connecticut,09013,21361,40,274,0
+2022-05-04,Unknown,Connecticut,,2301,6,1,0
+2022-05-04,Windham,Connecticut,09015,26234,39,304,0
+2022-05-05,Fairfield,Connecticut,09001,210521,401,2721,0
+2022-05-05,Hartford,Connecticut,09003,183216,233,3135,0
+2022-05-05,Litchfield,Connecticut,09005,32854,55,459,0
+2022-05-05,Middlesex,Connecticut,09007,29204,87,480,0
+2022-05-05,New Haven,Connecticut,09009,201806,452,2825,0
+2022-05-05,New London,Connecticut,09011,56984,104,659,0
+2022-05-05,Tolland,Connecticut,09013,21405,44,274,0
+2022-05-05,Unknown,Connecticut,,2310,9,1,0
+2022-05-05,Windham,Connecticut,09015,26269,35,304,0
+2022-05-06,Fairfield,Connecticut,09001,210830,309,2723,2
+2022-05-06,Hartford,Connecticut,09003,183694,478,3142,7
+2022-05-06,Litchfield,Connecticut,09005,32899,45,460,1
+2022-05-06,Middlesex,Connecticut,09007,29326,122,480,0
+2022-05-06,New Haven,Connecticut,09009,202240,434,2830,5
+2022-05-06,New London,Connecticut,09011,57081,97,660,1
+2022-05-06,Tolland,Connecticut,09013,21484,79,274,0
+2022-05-06,Unknown,Connecticut,,2320,10,1,0
+2022-05-06,Windham,Connecticut,09015,26298,29,304,0
+2022-05-07,Fairfield,Connecticut,09001,210830,0,2723,0
+2022-05-07,Hartford,Connecticut,09003,183694,0,3142,0
+2022-05-07,Litchfield,Connecticut,09005,32899,0,460,0
+2022-05-07,Middlesex,Connecticut,09007,29326,0,480,0
+2022-05-07,New Haven,Connecticut,09009,202240,0,2830,0
+2022-05-07,New London,Connecticut,09011,57081,0,660,0
+2022-05-07,Tolland,Connecticut,09013,21484,0,274,0
+2022-05-07,Unknown,Connecticut,,2320,0,1,0
+2022-05-07,Windham,Connecticut,09015,26298,0,304,0
+2022-05-08,Fairfield,Connecticut,09001,210830,0,2723,0
+2022-05-08,Hartford,Connecticut,09003,183694,0,3142,0
+2022-05-08,Litchfield,Connecticut,09005,32899,0,460,0
+2022-05-08,Middlesex,Connecticut,09007,29326,0,480,0
+2022-05-08,New Haven,Connecticut,09009,202240,0,2830,0
+2022-05-08,New London,Connecticut,09011,57081,0,660,0
+2022-05-08,Tolland,Connecticut,09013,21484,0,274,0
+2022-05-08,Unknown,Connecticut,,2320,0,1,0
+2022-05-08,Windham,Connecticut,09015,26298,0,304,0
+2022-05-09,Fairfield,Connecticut,09001,212056,1226,2723,0
+2022-05-09,Hartford,Connecticut,09003,184906,1212,3142,0
+2022-05-09,Litchfield,Connecticut,09005,33071,172,461,1
+2022-05-09,Middlesex,Connecticut,09007,29536,210,480,0
+2022-05-09,New Haven,Connecticut,09009,203366,1126,2830,0
+2022-05-09,New London,Connecticut,09011,57454,373,660,0
+2022-05-09,Tolland,Connecticut,09013,21625,141,274,0
+2022-05-09,Unknown,Connecticut,,2338,18,1,0
+2022-05-09,Windham,Connecticut,09015,26410,112,304,0
+2022-05-10,Fairfield,Connecticut,09001,212518,462,2725,2
+2022-05-10,Hartford,Connecticut,09003,185485,579,3144,2
+2022-05-10,Litchfield,Connecticut,09005,33166,95,462,1
+2022-05-10,Middlesex,Connecticut,09007,29644,108,481,1
+2022-05-10,New Haven,Connecticut,09009,203793,427,2831,1
+2022-05-10,New London,Connecticut,09011,57604,150,660,0
+2022-05-10,Tolland,Connecticut,09013,21691,66,274,0
+2022-05-10,Unknown,Connecticut,,2347,9,1,0
+2022-05-10,Windham,Connecticut,09015,26461,51,305,1
+2022-05-11,Fairfield,Connecticut,09001,213009,491,2725,0
+2022-05-11,Hartford,Connecticut,09003,186141,656,3144,0
+2022-05-11,Litchfield,Connecticut,09005,33257,91,462,0
+2022-05-11,Middlesex,Connecticut,09007,29817,173,481,0
+2022-05-11,New Haven,Connecticut,09009,204406,613,2831,0
+2022-05-11,New London,Connecticut,09011,57803,199,660,0
+2022-05-11,Tolland,Connecticut,09013,21774,83,274,0
+2022-05-11,Unknown,Connecticut,,2368,21,1,0
+2022-05-11,Windham,Connecticut,09015,26526,65,305,0
+2022-05-12,Fairfield,Connecticut,09001,213432,423,2725,0
+2022-05-12,Hartford,Connecticut,09003,186693,552,3144,0
+2022-05-12,Litchfield,Connecticut,09005,33325,68,462,0
+2022-05-12,Middlesex,Connecticut,09007,29910,93,481,0
+2022-05-12,New Haven,Connecticut,09009,204937,531,2831,0
+2022-05-12,New London,Connecticut,09011,57958,155,660,0
+2022-05-12,Tolland,Connecticut,09013,21840,66,274,0
+2022-05-12,Unknown,Connecticut,,2375,7,1,0
+2022-05-12,Windham,Connecticut,09015,26594,68,305,0
+2022-05-13,Fairfield,Connecticut,09001,214106,674,2733,8
+2022-05-13,Hartford,Connecticut,09003,187284,591,3157,13
+2022-05-13,Litchfield,Connecticut,09005,33423,98,461,-1
+2022-05-13,Middlesex,Connecticut,09007,30049,139,481,0
+2022-05-13,New Haven,Connecticut,09009,205522,585,2839,8
+2022-05-13,New London,Connecticut,09011,58138,180,662,2
+2022-05-13,Tolland,Connecticut,09013,21898,58,275,1
+2022-05-13,Unknown,Connecticut,,2397,22,1,0
+2022-05-13,Windham,Connecticut,09015,26643,49,305,0
